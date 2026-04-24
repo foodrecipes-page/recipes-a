@@ -1,0 +1,83 @@
+{
+  "title": "Almond Star Steamie",
+  "description": "A kid-friendly Moroccan dish featuring almond essence, steam, and sugar-free-friendly, with a smoky and juicy flavor profile.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond essence",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "8 oz"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 1/2 tsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "saffron strands",
+      "amount": "6-8"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "Mix almond essence, all-purpose flour, and granulated sugar in a large mixing bowl.",
+    "Gradually add unsalted butter, stirring until the mixture reaches a crumbly texture.",
+    "Incorporate baking powder and cinnamon into the dough. Mix well.",
+    "Fold in saffron strands carefully to give it a distinctive Moroccan flavor.",
+    "Transfer the dough onto a greased baking sheet and pat it evenly with your hands or use a rolling pin to create an approximately 1/4-inch thick layer.",
+    "Bake for about 20-30 minutes until golden brown.",
+    "Let it cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "almond_star",
+    "sugar_free"
+  ],
+  "nutrition": {
+    "calories": 487,
+    "protein": 12,
+    "carbs": 59,
+    "fat": 15
+  },
+  "slug": "almond-star-steamie",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/almond-star-steamie",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T22:48:15Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "juicy",
+    "mood": "kid-friendly",
+    "technique": "steam",
+    "primaryIngredient": "almond essence",
+    "diet": "sugar-free",
+    "region": null
+  }
+}

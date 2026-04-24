@@ -1,9 +1,14 @@
-{
-  "version": 1,
-  "shard": "a",
-  "description": "Recipe cache shard for foodrecipes.page. Contains recipes whose slug starts with 'the letter 'a''.",
-  "cdn": "https://cdn.jsdelivr.net/gh/foodrecipes-page/recipes-a@main/",
-  "license": "CC-BY-NC-SA-4.0",
-  "generatedAt": null,
-  "count": 0
-}
+[
+  {
+    "slug": "almond-star-steamie",
+    "title": "Almond Star Steamie",
+    "tags": [
+      "moroccan",
+      "almond_star",
+      "sugar_free"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "a"
+  }
+]
