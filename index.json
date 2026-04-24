@@ -10,5 +10,18 @@
     "cuisine": "Moroccan",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "almond-tandus",
+    "title": "Almond Tandus",
+    "tags": [
+      "almond",
+      "tandus",
+      "syrian",
+      "gluten-free"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]

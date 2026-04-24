@@ -1,0 +1,77 @@
+{
+  "title": "Almond Tandus",
+  "description": "A savory, crumbly Syrian dish featuring ground almonds in a gluten-free-friendly one-pot recipe cooked in the tandoor.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ground almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped garlic cloves",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "a small handful"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your tandoor to around 275°F (to ensure it's hot enough for baking).",
+    "Mix ground almonds, chopped garlic, salt, and a pinch of paprika in a mixing bowl.",
+    "Drizzle olive oil over the mixture and stir until evenly coated. Add pomegranate molasses and cumin seeds, stirring well to combine.",
+    "Transfer almond mix into the tandoor and let it bake for about 20 minutes or until golden brown on top.",
+    "Remove from heat and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "tandus",
+    "syrian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 6,
+    "carbs": 15,
+    "fat": 7
+  },
+  "slug": "almond-tandus",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/almond-tandus",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:00:13Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "tandoor",
+    "primaryIngredient": "ground almonds",
+    "diet": "gluten-free",
+    "region": null
+  }
+}
