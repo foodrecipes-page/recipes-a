@@ -1,5 +1,18 @@
 [
   {
+    "slug": "adventurous-protein-pot",
+    "title": "Adventurous Protein Pot",
+    "tags": [
+      "adventurous",
+      "moroccan",
+      "lamb",
+      "protein"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 55,
+    "shard": "a"
+  },
+  {
     "slug": "almond-star-steamie",
     "title": "Almond Star Steamie",
     "tags": [

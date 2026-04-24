@@ -1,0 +1,97 @@
+{
+  "title": "Adventurous Protein Pot",
+  "description": "A fresh, tender Moroccan dish featuring lamb shanks for a high-protein-friendly meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shanks",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "4"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Cut lamb shanks into bite-sized pieces and season with salt.",
+    "In a large pot, sauté onions and garlic in olive oil until translucent.",
+    "Add cumin seeds, coriander seeds, and paprika. Cook for about 30 seconds.",
+    "Deglaze the pan with lemon juice and tomato paste. Stir well to combine.",
+    "Place lamb shanks in the pot along with pomegranate molasses. Bring to a simmer over medium heat.",
+    "Simmer gently for 15 minutes, then transfer the pot to an oven-proof dish (baking sheet).",
+    "Roast in the preheated oven for about 20-30 minutes until lamb is tender and golden brown on top.",
+    "Serve hot as a main course with couscous or a side salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "moroccan",
+    "lamb",
+    "protein"
+  ],
+  "nutrition": {
+    "calories": 1237,
+    "protein": 98,
+    "carbs": 54,
+    "fat": 69
+  },
+  "slug": "adventurous-protein-pot",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-protein-pot",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:32:45Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "poach",
+    "primaryIngredient": "lamb shanks",
+    "diet": "high-protein",
+    "region": null
+  }
+}
