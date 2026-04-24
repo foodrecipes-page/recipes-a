@@ -1,0 +1,80 @@
+{
+  "title": "Almondzanzibar",
+  "description": "A light and sour Canadian dish featuring almonds as the main ingredient, designed to be a hangover-cure option in the form of a stir-fry.",
+  "cuisine": "Canadian",
+  "diet": [
+    "plant-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "minced"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add minced garlic and red pepper flakes, sauté for about 30 seconds until fragrant.",
+    "Stir in almonds and cook for an additional minute, stirring occasionally.",
+    "Pour in soy sauce, tomato paste, and lime juice. Stir well to combine all ingredients.",
+    "Reduce heat to low, cover the pan, and simmer gently for about 5 minutes or until flavors meld together and sauce thickens slightly.",
+    "Serve immediately as a side dish or over rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almondzanzibar",
+    "plant-based",
+    "hangovercure",
+    "sourdish",
+    "lightdishes"
+  ],
+  "nutrition": {
+    "calories": 257,
+    "protein": 9.3,
+    "carbs": 14.8,
+    "fat": 10.1
+  },
+  "slug": "almondzanzibar",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/almondzanzibar",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-24T23:06:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "hangover-cure",
+    "technique": "stir-fry",
+    "primaryIngredient": "almonds",
+    "diet": "plant-based",
+    "region": null
+  }
+}
