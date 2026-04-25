@@ -1,0 +1,86 @@
+{
+  "title": "Adventurous Tomato Knead",
+  "description": "A garlicky, velvety Malaysian dish featuring tomato and knead with a dash of friendly spices.",
+  "cuisine": "Malaysian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": "2 medium",
+      "notes": "ripe and fresh"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced finely"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or canola"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "sugar",
+      "amount": "a pinch"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "handful",
+      "notes": "for garnish"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional for extra umami"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add minced garlic and finely chopped onion, cook until fragrant and translucent.",
+    "Add diced tomato and stir well to combine with the garlic and onion mixture.",
+    "Simmer until most of the liquid from tomatoes evaporates.",
+    "Adjust seasoning with salt and sugar to taste. Optionally add fish sauce for extra flavor.",
+    "Stir in fresh cilantro leaves just before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tomato",
+    "garlic",
+    "onion",
+    "fish sauce"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 5,
+    "carbs": 23,
+    "fat": 6
+  },
+  "slug": "adventurous-tomato-knead",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-tomato-knead",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:46:29Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "knead",
+    "primaryIngredient": "tomato",
+    "diet": "dash",
+    "region": null
+  }
+}

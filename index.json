@@ -56,6 +56,19 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-tomato-knead",
+    "title": "Adventurous Tomato Knead",
+    "tags": [
+      "tomato",
+      "garlic",
+      "onion",
+      "fish sauce"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "air-fried-creamy-date-night-argentinian-dish",
     "title": "Air-Fried Creamy Date Night Argentinian Dish",
     "tags": [
