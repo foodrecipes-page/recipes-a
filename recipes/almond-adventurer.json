@@ -1,0 +1,81 @@
+{
+  "title": "Almond Adventurer",
+  "description": "A nutty, silky, adventurous Spanish dish featuring almond extract and poaching techniques, perfect for raw-friendly dishes.",
+  "cuisine": "Spanish",
+  "diet": [
+    "paleo",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "4 cups"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "raw honey",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pistachios",
+      "amount": "1/2 cup, finely chopped"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Blend almonds in a blender until finely ground.",
+    "In a large pot, heat coconut milk to simmering temperature (around 180°F).",
+    "Add almond extract and vanilla extract to the hot coconut milk. Stir well.",
+    "Slowly pour the blended almonds into the hot liquid while stirring constantly.",
+    "Simmer for about 5 minutes or until thickened slightly.",
+    "Stir in raw honey, cinnamon powder, chopped pistachios, and raisins. Mix well.",
+    "Let it cool to room temperature before serving.",
+    "Serve chilled with fresh mint leaves for garnish."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "almond-extract",
+    "raw-friendly",
+    "nutty",
+    "spanish"
+  ],
+  "nutrition": {
+    "calories": 369,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "almond-adventurer",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/almond-adventurer",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:19:10Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "silky",
+    "mood": "adventurous",
+    "technique": "poach",
+    "primaryIngredient": "almond extract",
+    "diet": "raw",
+    "region": null
+  }
+}

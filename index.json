@@ -267,6 +267,19 @@
     "shard": "a"
   },
   {
+    "slug": "almond-adventurer",
+    "title": "Almond Adventurer",
+    "tags": [
+      "almond-extract",
+      "raw-friendly",
+      "nutty",
+      "spanish"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "almond-bhuna-delight",
     "title": "Almond Bhuna Delight",
     "tags": [
