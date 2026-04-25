@@ -356,6 +356,19 @@
     "shard": "a"
   },
   {
+    "slug": "apple-ferment-crunch",
+    "title": "Apple Ferment Crunch",
+    "tags": [
+      "apple-ferment-crunch",
+      "moroccan-dish",
+      "fermented-apple",
+      "crispy-buttery"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "apple-kimchi-stew",
     "title": "Apple Kimchi Stew with Sous-Vide Braeburn Apples",
     "tags": [

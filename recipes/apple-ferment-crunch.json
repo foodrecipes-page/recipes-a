@@ -1,0 +1,85 @@
+{
+  "title": "Apple Ferment Crunch",
+  "description": "A buttery, crispy brunch dish featuring apple juice and a fermented component in a dairy-free-friendly Moroccan-inspired recipe.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "apples",
+      "amount": "2 medium",
+      "notes": "use firm apples like Granny Smith or Honeycrisp"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1/4 cup",
+      "notes": "organic and unfiltered for best flavor"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tablespoons",
+      "notes": "gluten-free option available"
+    },
+    {
+      "name": "almond flour or almond meal",
+      "amount": "2 tablespoons",
+      "notes": "ensure it is gluten-free if necessary"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "for a non-dairy alternative, use coconut oil"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "can be swapped for almond flour in the final mix if needed"
+    },
+    {
+      "name": "pinch of salt",
+      "notes": "for taste adjustment"
+    }
+  ],
+  "instructions": [
+    "Peel and core the apples. Chop them into chunks about an inch square.",
+    "In a large bowl, combine apple cider vinegar with chopped apples, maple syrup, and coconut oil.",
+    "Mix well to ensure all apple pieces are evenly coated.",
+    "Add salt and stir until fully incorporated.",
+    "Transfer mixture onto a baking sheet lined with parchment paper. Flatten the mixture into a thin layer using your hands or a spatula.",
+    "Preheat oven to 200°C (392°F). Bake for about 15-20 minutes, or until edges begin to turn golden brown and it becomes crisp.",
+    "Let it cool slightly before slicing into small pieces. Serve as a topping on yogurt bowls or use in breakfast sandwiches."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "apple-ferment-crunch",
+    "moroccan-dish",
+    "fermented-apple",
+    "crispy-buttery"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "apple-ferment-crunch",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/apple-ferment-crunch",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:44:25Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crispy",
+    "mood": "brunch-mood",
+    "technique": "ferment",
+    "primaryIngredient": "apple juice",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
