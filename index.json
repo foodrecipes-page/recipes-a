@@ -159,6 +159,19 @@
     "shard": "a"
   },
   {
+    "slug": "appleton-monsoon",
+    "title": "Appleton Monsoon",
+    "tags": [
+      "appleton-rum",
+      "monsoon",
+      "light",
+      "smoky"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "apricot-miel-verde",
     "title": "Apricot Miel Verde",
     "tags": [

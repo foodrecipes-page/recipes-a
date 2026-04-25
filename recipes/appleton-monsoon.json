@@ -1,0 +1,84 @@
+{
+  "title": "Appleton Monsoon",
+  "description": "A light and smoky monsoon Filipino dish featuring Appletown Rum, reduced for a low-sodium-friendly recipe.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Appleton Rum",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Red Chili Pepper",
+      "amount": "2 to 3, finely chopped"
+    },
+    {
+      "name": "Leaves of Thai Basil",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fish Sauce (optional for umami)",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a saucepan, heat the Appleton Rum over medium heat.",
+    "Add the tomato sauce, garlic, onion, red chili pepper, and fish sauce if using. Stir until well combined.",
+    "Reduce the mixture for about 5 minutes or until it thickens slightly.",
+    "Stir in the chopped Thai basil leaves and lemon juice. Cook for another minute.",
+    "Season with salt to taste and serve over steamed rice.",
+    "For a spicy kick, you can add extra red chili pepper."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appleton-rum",
+    "monsoon",
+    "light",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 9
+  },
+  "slug": "appleton-monsoon",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/appleton-monsoon",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:12:24Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "reduce",
+    "primaryIngredient": "appleton rum",
+    "diet": "low-sodium",
+    "region": null
+  }
+}
