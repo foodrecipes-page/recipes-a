@@ -1,0 +1,73 @@
+{
+  "title": "Avocado Grilled Cilantro Slaw",
+  "description": "This citrusy, fluffy Avocado Grilled Cilantro Slaw is a kid-friendly, vegan dish inspired by traditional Jamaican flavors.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "avocados",
+      "amount": "2 medium"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1 cup fresh, chopped"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Prepare avocados by pitting and slicing them into chunks.",
+    "Mix all ingredients except cilantro in a large bowl for the dressing.",
+    "Heat a grill pan to medium-high heat (400°F - 425°F).",
+    "Once hot, lightly season each avocado chunk with chili powder and salt, then place on the hot grill for 1-2 minutes per side or until charred and softened.",
+    "Remove from the grill and let cool slightly before assembling into a salad with remaining dressing and chopped cilantro.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "avocado-grilled-slaw",
+    "kid-friendly-jamaican-dish",
+    "citrusy-fluffy"
+  ],
+  "nutrition": {
+    "calories": 203,
+    "protein": 5.9,
+    "carbs": 18.7,
+    "fat": 13.4
+  },
+  "slug": "avocado-grilled-cilantro-slaw",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/avocado-grilled-cilantro-slaw",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T03:09:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "kid-friendly",
+    "technique": "grill",
+    "primaryIngredient": "avocado",
+    "diet": "vegan",
+    "region": null
+  }
+}

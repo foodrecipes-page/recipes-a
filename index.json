@@ -140,5 +140,17 @@
     "cuisine": "Mexican",
     "totalTimeMin": 40,
     "shard": "a"
+  },
+  {
+    "slug": "avocado-grilled-cilantro-slaw",
+    "title": "Avocado Grilled Cilantro Slaw",
+    "tags": [
+      "avocado-grilled-slaw",
+      "kid-friendly-jamaican-dish",
+      "citrusy-fluffy"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
+    "shard": "a"
   }
 ]
