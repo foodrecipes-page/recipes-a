@@ -1,0 +1,80 @@
+{
+  "title": "Air-Fried Starch Delight",
+  "description": "A tangy, fluffy monsoon Ukrainian dish featuring starch that is air-fried and halal-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": "White Basmati Rice"
+    },
+    {
+      "name": "Tomato Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Any commercial halal-friendly tomato sauce can be used."
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "To taste, adjust as needed."
+    },
+    {
+      "name": "Vegetable Oil for Air-Frying",
+      "amount": "Olive oil or canola oil, 2 tablespoons"
+    },
+    {
+      "name": "Fresh Herbs (Optional)",
+      "amount": "A few sprigs of parsley and dill",
+      "notes": "For garnish if desired."
+    }
+  ],
+  "instructions": [
+    "Rinse the rice under cold water until the water runs clear. Measure out 1 cup and transfer it to a medium-sized pot.",
+    "Add enough water or chicken stock (for halal) to cover the rice by about an inch, adjust seasoning with salt as needed.",
+    "Bring to a boil over medium-high heat, then reduce the heat to low, cover the pot, and simmer until all liquid is absorbed and the rice is tender, approximately 15 minutes. Remove from heat and set aside to cool slightly.",
+    "In a mixing bowl, combine the cooled rice with tomato sauce, garlic powder, and salt. Mix well so that each grain of rice absorbs the flavors.",
+    "Heat vegetable oil in an air fryer basket according to manufacturer’s instructions (typically 350°F/175°C), ensuring it is hot but not smoking.",
+    "Divide the prepared rice mixture into small portions. Carefully transfer portions into the preheated air fryer basket, making sure they do not touch each other.",
+    "Air-fry in batches until golden brown and crispy on all sides, approximately 8-10 minutes per batch. Flip halfway through cooking for even browning.",
+    "Once done, remove from the air fryer basket and allow to cool slightly before serving with fresh herbs if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 30,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "halal-friendly",
+    "monsoon",
+    "tangy",
+    "fluffy",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 7,
+    "carbs": 34,
+    "fat": 8
+  },
+  "slug": "air-fried-starch-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-starch-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:40:42Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "air-fry",
+    "primaryIngredient": "starch",
+    "diet": "halal",
+    "region": null
+  }
+}
