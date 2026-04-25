@@ -163,6 +163,19 @@
     "shard": "a"
   },
   {
+    "slug": "allspice-delight-casserole",
+    "title": "Allspice Delight Casserole",
+    "tags": [
+      "allspice-delight",
+      "rich-flaky",
+      "nostalgic-american-dish",
+      "vegetarian-friendly"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "allspice-festive-flare",
     "title": "Allspice Festive Flare",
     "tags": [
