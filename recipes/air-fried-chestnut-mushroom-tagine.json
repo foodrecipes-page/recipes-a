@@ -1,0 +1,94 @@
+{
+  "title": "Air-Fried Chestnut Mushroom Tagine",
+  "description": "A buttery and crisp vegetarian-friendly Tunisian dish featuring chestnuts and mushrooms, perfect for meal prep.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "250g"
+    },
+    {
+      "name": "button mushrooms",
+      "amount": "150g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thyme",
+      "amount": "a few sprigs"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "1-2"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "butter",
+      "amount": "50g"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "for coating"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 200°C (392°F).",
+    "Chop chestnuts and mushrooms into small pieces.",
+    "Finely chop onion, garlic, and herbs. Season with salt and pepper.",
+    "Heat olive oil in a pan over medium heat, add onions, sauté until translucent. Add minced garlic and cook for another minute.",
+    "Stir in the chopped chestnuts and mushrooms, season with thyme and bay leaves. Cook for 5 minutes.",
+    "Transfer to an air fryer basket coated with bread crumbs. Drizzle with butter and bake at 200°C (392°F) for about 10-15 minutes until crispy on the outside.",
+    "Serve hot as a side dish or as part of a meal prep."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "tunisian",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 12,
+    "carbs": 58,
+    "fat": 9
+  },
+  "slug": "air-fried-chestnut-mushroom-tagine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-chestnut-mushroom-tagine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:37:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crisp",
+    "mood": "meal-prep",
+    "technique": "air-fry",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "vegetarian",
+    "region": null
+  }
+}
