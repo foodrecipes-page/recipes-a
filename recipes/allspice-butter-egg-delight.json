@@ -1,0 +1,76 @@
+{
+  "title": "Allspice Butter Egg Delight",
+  "description": "A buttery, creamy dish with a touch of ground allspice and hints of warmth for kids to enjoy, egg-free-friendly.",
+  "cuisine": "Uruguayan",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "100g",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "allspice ground",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "milk or almond milk",
+      "amount": "300ml",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "50g",
+      "notes": "powdered or granulated, depending on preference"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "In a mixing bowl, combine butter and vanilla extract. Mix until smooth.",
+    "Gradually add allspice ground to the mixture and mix well.",
+    "Slowly pour in milk or almond milk while continuously stirring with a wooden spoon to avoid splattering.",
+    "Stir in maple syrup and sugar. Continue mixing until all ingredients are well combined and there are no lumps left.",
+    "Transfer the mixture into a shallow baking dish or mug.",
+    "Bake for 10-12 minutes or until set. Let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "egg-free",
+    "allspice",
+    "buttery",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 307,
+    "protein": 11,
+    "carbs": 29,
+    "fat": 18
+  },
+  "slug": "allspice-butter-egg-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/allspice-butter-egg-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:01:36Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "deglaze",
+    "primaryIngredient": "ground allspice",
+    "diet": "egg-free",
+    "region": null
+  }
+}

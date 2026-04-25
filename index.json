@@ -70,6 +70,19 @@
     "shard": "a"
   },
   {
+    "slug": "allspice-butter-egg-delight",
+    "title": "Allspice Butter Egg Delight",
+    "tags": [
+      "egg-free",
+      "allspice",
+      "buttery",
+      "creamy"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
     "slug": "allspice-festive-flare",
     "title": "Allspice Festive Flare",
     "tags": [
