@@ -1,0 +1,85 @@
+{
+  "title": "Adzika Milk Rich Adventure",
+  "description": "A low-carb-friendly umami and adventurous Ethiopian dish featuring milk reduction for a unique twist on traditional cuisine.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Adzika (or another fermented plant-based beverage)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "2 cups",
+      "notes": "reduced by simmering to reduce the volume and concentrate flavors"
+    },
+    {
+      "name": "Kosher salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4 pieces",
+      "notes": "minced for flavoring"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "6-8 Roma tomatoes, finely diced"
+    }
+  ],
+  "instructions": [
+    "Combine adzika and coconut milk in a saucepan. Simmer gently for about 30 minutes until the liquid has reduced by half.",
+    "In another pan, heat olive oil over medium heat. Add chopped garlic and onions; sauté until golden brown.",
+    "Add finely diced tomatoes to the onion mixture. Cook for an additional 5-7 minutes or until they soften.",
+    "Gradually pour in the reduced adzika coconut milk while stirring continuously to avoid scalding.",
+    "Season with kosher salt and black pepper to taste. Serve warm as a main course or side dish.",
+    "Optional: garnish with fresh herbs like cilantro or parsley for extra flavor."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adzika",
+    "coconut-milk",
+    "low-carb-friendly",
+    "enthusiast"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 9
+  },
+  "slug": "adzika-milk-rich-adventure",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adzika-milk-rich-adventure",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:30:50Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "milk",
+    "diet": "low-carb",
+    "region": null
+  }
+}
