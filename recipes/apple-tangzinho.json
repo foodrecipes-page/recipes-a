@@ -1,0 +1,67 @@
+{
+  "title": "Apple Tangzinho",
+  "description": "A crunchy and tangy apple dessert inspired by the Portuguese dish, perfect for a monsoon season treat with no added sugar.",
+  "cuisine": "Portuguese-Inspired Dessert",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Almond Flour",
+      "amount": "1/4 cup (optional)"
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Ground Almonds",
+      "amount": "2 tablespoons (optional)"
+    }
+  ],
+  "instructions": [
+    "Wash and core the apples, then cut them into thin slices.",
+    "In a mixing bowl, combine apple slices with ground almonds if using, flour, and apple cider vinegar. Mix well until all slices are coated evenly.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper or silicon mat. Place in a preheated oven at 200°C for about 15 minutes or until golden brown on both sides.",
+    "Remove from oven and let it cool slightly before serving. You can serve them warm, as is, or drizzle with a little honey."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "apple-tangzinho",
+    "portuguese-dessert",
+    "monsoon-apple-dessert"
+  ],
+  "nutrition": {
+    "calories": 75,
+    "protein": 1.2,
+    "carbs": 16.3,
+    "fat": 0.8
+  },
+  "slug": "apple-tangzinho",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/apple-tangzinho",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T06:43:03Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "crunchy",
+    "mood": "monsoon",
+    "technique": "knead",
+    "primaryIngredient": "apples",
+    "diet": "sugar-free",
+    "region": null
+  }
+}

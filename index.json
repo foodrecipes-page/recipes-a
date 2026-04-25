@@ -159,6 +159,18 @@
     "shard": "a"
   },
   {
+    "slug": "apple-tangzinho",
+    "title": "Apple Tangzinho",
+    "tags": [
+      "apple-tangzinho",
+      "portuguese-dessert",
+      "monsoon-apple-dessert"
+    ],
+    "cuisine": "Portuguese-Inspired Dessert",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "appleton-monsoon",
     "title": "Appleton Monsoon",
     "tags": [
