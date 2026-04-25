@@ -123,6 +123,19 @@
     "shard": "a"
   },
   {
+    "slug": "almond-bliss-sweet-treat",
+    "title": "Almond Bliss Sweet Treat",
+    "tags": [
+      "snack",
+      "dessert",
+      "quick-fix",
+      "norwegian"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "almond-bruschetta-verity",
     "title": "Almond Bruschetta Verity",
     "tags": [

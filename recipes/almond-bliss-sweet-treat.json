@@ -1,0 +1,83 @@
+{
+  "title": "Almond Bliss Sweet Treat",
+  "description": "A quick and easy sweet treat featuring flaked almonds, perfect for a snack or dessert, suitable for those following a sugar-free diet.",
+  "cuisine": "norwegian",
+  "diet": [
+    "sugar-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsweetened almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "maple syrup (or another sugar-free sweetener of choice)",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "6 tablespoons (melted)"
+    },
+    {
+      "name": "almond extract",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "freshly grated nutmeg",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large bowl, mix together the almond flour, maple syrup, vanilla extract, baking powder, and salt.",
+    "Add in the melted butter and almond extract. Stir until well combined.",
+    "Fold in freshly grated nutmeg for an extra touch of flavor.",
+    "Pour the mixture into a greased 8-inch square pan.",
+    "Bake for about 20-25 minutes or until golden brown on top and a toothpick inserted comes out clean.",
+    "Allow it to cool slightly before slicing."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "dessert",
+    "quick-fix",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 6
+  },
+  "slug": "almond-bliss-sweet-treat",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/almond-bliss-sweet-treat",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:47:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "bake",
+    "primaryIngredient": "flaked almonds",
+    "diet": "sugar-free",
+    "region": null
+  }
+}
