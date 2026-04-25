@@ -1,0 +1,88 @@
+{
+  "title": "Almond Bliss Sickness Soup",
+  "description": "A buttery, crunchy Thai-inspired dish for sick days featuring flaked almonds, cooked with a blend of plant-based ingredients and served as a comforting soup.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond Flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Nutritional Yeast",
+      "amount": "3 tablespoons",
+      "notes": "for a cheesy flavor"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Dashi Paste (or vegetable broth powder)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Flaked Almonds",
+      "amount": "2 tablespoons",
+      "notes": "crushed finely for crunchiness"
+    },
+    {
+      "name": "Vegetable Oil or Coconut Oil",
+      "amount": "3 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a large mixing bowl, combine almond flour, nutritional yeast, garlic powder, dashi paste, salt, and pepper. Mix well.",
+    "Gradually add water while stirring constantly until the mixture forms a thick paste-like consistency. Add flaked almonds and oil or coconut oil. Stir to ensure all ingredients are evenly distributed.",
+    "Transfer the mixture into a lightly greased pressure cooker (or a non-stick pot for slow cooking). Cook on high pressure for 10 minutes for a manual pressure cooker, or follow your appliance's instructions for a smart pressure cooker.",
+    "Let the pressure release naturally for about 5 minutes before opening. Stir gently to ensure everything is evenly heated and then serve hot with extra flaked almonds on top as garnish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-flour",
+    "nutritional-yeast",
+    "dashi-paste",
+    "pressure-cooking"
+  ],
+  "nutrition": {
+    "calories": 187,
+    "protein": 5.6,
+    "carbs": 29.3,
+    "fat": 4.4
+  },
+  "slug": "almond-bliss-sickness-soup",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/almond-bliss-sickness-soup",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:44:48Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crunchy",
+    "mood": "sick-day",
+    "technique": "pressure-cook",
+    "primaryIngredient": "flaked almonds",
+    "diet": "plant-based",
+    "region": null
+  }
+}

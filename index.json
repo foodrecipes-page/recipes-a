@@ -345,6 +345,19 @@
     "shard": "a"
   },
   {
+    "slug": "almond-bliss-sickness-soup",
+    "title": "Almond Bliss Sickness Soup",
+    "tags": [
+      "almond-flour",
+      "nutritional-yeast",
+      "dashi-paste",
+      "pressure-cooking"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "almond-bliss-sweet-treat",
     "title": "Almond Bliss Sweet Treat",
     "tags": [
