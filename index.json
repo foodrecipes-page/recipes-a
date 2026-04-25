@@ -57,6 +57,19 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-pepper-salad",
+    "title": "Adventurous Pepper Salad",
+    "tags": [
+      "adventurous-pepper-salad",
+      "vinaigrette-dressing",
+      "caramelized-peppers",
+      "fluffy"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-protein-pot",
     "title": "Adventurous Protein Pot",
     "tags": [

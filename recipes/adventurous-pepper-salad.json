@@ -1,0 +1,86 @@
+{
+  "title": "Adventurous Pepper Salad",
+  "description": "A spicy and fluffy Syrian dish featuring a vegan-friendly vinaigrette dressing, with caramelized peppers adding a delightful twist.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "salad",
+  "ingredients": [
+    {
+      "name": "Red bell pepper",
+      "amount": "2 pcs",
+      "notes": "Trimmed and seeded"
+    },
+    {
+      "name": "Green bell pepper",
+      "amount": "1 pc",
+      "notes": "Trimmed and seeded"
+    },
+    {
+      "name": "Paprika powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Toast the red bell peppers in a skillet over medium heat until charred, then place in a sealed container to steam for about 10 minutes.",
+    "In a blender or food processor, combine olive oil, apple cider vinegar, Dijon mustard, and water. Blend until smooth.",
+    "Add salt and pepper to taste into the dressing mixture.",
+    "Slice the toasted peppers thinly and mix them with the vinaigrette dressing.",
+    "Caramelize the green bell peppers by roasting them under a broiler or in a skillet until they are lightly browned, then set aside.",
+    "Assemble the salad by layering the caramelized green peppers over the sliced red peppers.",
+    "Garnish with paprika powder to enhance the flavor and presentation.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "adventurous-pepper-salad",
+    "vinaigrette-dressing",
+    "caramelized-peppers",
+    "fluffy"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 4,
+    "carbs": 31,
+    "fat": 11
+  },
+  "slug": "adventurous-pepper-salad",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-pepper-salad",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:17:41Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "fluffy",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "vinaigrette dressing",
+    "diet": "vegan",
+    "region": null
+  }
+}
