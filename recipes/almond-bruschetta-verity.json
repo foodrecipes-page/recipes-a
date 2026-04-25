@@ -1,0 +1,71 @@
+{
+  "title": "Almond Bruschetta Verity",
+  "description": "A peppery, tender Ukrainian brunch dish featuring almond paste and marinated bread slices with a light egg-free-friendly dressing.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond Paste",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Marinade (Olive Oil, Lemon Juice, Dill, Garlic)",
+      "amount": "Enough to cover the almond paste and marinate for at least 30 minutes"
+    },
+    {
+      "name": "Rye Bread Slices",
+      "amount": "8 slices"
+    },
+    {
+      "name": "Salt",
+      "amount": "A pinch"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "To taste"
+    }
+  ],
+  "instructions": [
+    "Mix almond paste with marinade and let it sit for at least 30 minutes to infuse flavors.",
+    "Preheat oven to 180°C (350°F).",
+    "Slice the rye bread into 6-8 slices of your desired thickness. Brush each slice lightly with olive oil and sprinkle a pinch of salt and pepper on both sides.",
+    "Spread a spoonful of almond paste mixture onto the center of each toasted bread slice, spreading it evenly using a spatula or knife.",
+    "Place the assembled bruschetta on a baking sheet lined with parchment paper. Bake for 5-7 minutes until the top is lightly golden and warm through.",
+    "Serve hot immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "bruschetta",
+    "verity",
+    "peppery"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "almond-bruschetta-verity",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/almond-bruschetta-verity",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T00:27:38Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "almond paste",
+    "diet": "egg-free",
+    "region": null
+  }
+}
