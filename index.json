@@ -76,5 +76,17 @@
     "cuisine": "Canadian",
     "totalTimeMin": 30,
     "shard": "a"
+  },
+  {
+    "slug": "anchovy-toast-delight",
+    "title": "Anchovy Toast Delight",
+    "tags": [
+      "anchovy",
+      "tofu",
+      "avocado"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 5,
+    "shard": "a"
   }
 ]

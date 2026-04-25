@@ -1,0 +1,69 @@
+{
+  "title": "Anchovy Toast Delight",
+  "description": "A tangy and gooey meal prep dish featuring dairy-free-friendly anchovy fillets on toasted bread.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Toast",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Anchovy Fillet",
+      "amount": "1 per slice"
+    },
+    {
+      "name": "Dijon Mustard",
+      "amount": "A few dots per slice"
+    },
+    {
+      "name": "Avocado Mash",
+      "amount": "A small mashed avocado spread on toast"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "Lightly sprinkled on top of toast"
+    }
+  ],
+  "instructions": [
+    "Toast the bread slices to your desired crispness.",
+    "In a shallow dish, mix together Dijon Mustard and Avocado Mash until well combined.",
+    "Place each slice of toasted bread in the mustard-mashed avocado mixture. Ensure it's evenly coated.",
+    "Top each sandwich with an anchovy fillet.",
+    "Sprinkle sesame seeds over the top of each sandwich to add a crunchy texture.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "anchovy",
+    "tofu",
+    "avocado"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 7,
+    "carbs": 13,
+    "fat": 6
+  },
+  "slug": "anchovy-toast-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/anchovy-toast-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T01:41:23Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "gooey",
+    "mood": "meal-prep",
+    "technique": "toast",
+    "primaryIngredient": "anchovy fillet",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
