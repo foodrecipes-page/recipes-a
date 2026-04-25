@@ -1,0 +1,90 @@
+{
+  "title": "Almond Misto",
+  "description": "A citrusy, silky Croatian dish featuring almond flour and dumplings, perfect for a monsoon season.",
+  "cuisine": "Croatian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Baking Powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "3 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "Egg Whites",
+      "amount": "4 large"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Citrus Zest (lemon and orange)",
+      "notes": "Juice from 2 lemons and 3 oranges"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Mix almond flour, all-purpose flour, baking powder, sesame seeds, salt, and citrus zest in a large bowl.",
+    "In another bowl, whisk together egg whites until stiff peaks form. Add yogurt and milk gradually while mixing continuously until smooth.",
+    "Gradually fold the wet ingredients into dry ingredients by thirds to avoid overmixing.",
+    "Divide dough into 12 balls. Roll each ball between your palms or between sheets of parchment paper to flatten into 4-inch circles.",
+    "Gently press a cherry or small piece of fruit (optional) in center of each flattened circle for decoration.",
+    "Place almond mists on ungreased baking sheet and bake for 15-20 minutes or until golden brown. Allow to cool before serving.",
+    "Serving suggestion: Enjoy Almond Misto with a drizzle of honey or a sprinkle of powdered sugar."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "dumpling",
+    "citrusy",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 9.6,
+    "carbs": 58.2,
+    "fat": 10
+  },
+  "slug": "almond-misto",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/almond-misto",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T16:17:50Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "almond flour",
+    "diet": "dash",
+    "region": null
+  }
+}

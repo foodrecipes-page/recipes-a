@@ -333,6 +333,19 @@
     "shard": "a"
   },
   {
+    "slug": "almond-misto",
+    "title": "Almond Misto",
+    "tags": [
+      "almond",
+      "dumpling",
+      "citrusy",
+      "croatian"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "almond-star-steamie",
     "title": "Almond Star Steamie",
     "tags": [
