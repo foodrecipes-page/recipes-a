@@ -1,0 +1,94 @@
+{
+  "title": "Adventurer's Spicy Flank Steak",
+  "description": "A peppery, crispy Japanese dish featuring beef flank steak with a dash of adventure and Korean dumplings for an added texture and flavor.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Flank Steak",
+      "amount": "200g",
+      "notes": "Grass-fed, preferably aged"
+    },
+    {
+      "name": "Korean Dumplings",
+      "amount": "8-10",
+      "notes": "Kosher or vegetarian"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fish Sauce (optional)",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Kosher Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Season the beef with kosher salt and let it rest for at least 10 minutes.",
+    "Heat a large skillet over medium-high heat. Add vegetable oil, then sear the flank steak on all sides until browned, about 3-4 minutes per side.",
+    "Remove from heat and let it rest for another few minutes before slicing thinly against the grain. Set aside.",
+    "In the same pan, add more oil if needed. Stir-fry garlic until fragrant, then add red pepper flakes, soy sauce, mirin, and fish sauce (if using) to taste. Simmer gently for about 1 minute.",
+    "Fold in Korean dumplings and braise for a couple of minutes or until heated through.",
+    "Add sliced flank steak to the pan with dumplings and toss everything together. Top with sesame seeds before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurer",
+    "japanese",
+    "beef-flank-steak",
+    "korean-dumplings",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 528,
+    "protein": 39,
+    "carbs": 16,
+    "fat": 28
+  },
+  "slug": "adventurer-s-spicy-flank-steak",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurer-s-spicy-flank-steak",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:33:27Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "dum",
+    "primaryIngredient": "beef flank steak",
+    "diet": "kosher",
+    "region": null
+  }
+}
