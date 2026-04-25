@@ -150,6 +150,18 @@
     "shard": "a"
   },
   {
+    "slug": "air-fried-beef-gravy-wrap",
+    "title": "Air-Fried Beef Gravy Wrap",
+    "tags": [
+      "air-fried-beef-gravy-wrap",
+      "australian-dish",
+      "salty-silky-comforting"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "air-fried-chestnut-mushroom-tagine",
     "title": "Air-Fried Chestnut Mushroom Tagine",
     "tags": [

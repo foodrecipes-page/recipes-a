@@ -1,0 +1,90 @@
+{
+  "title": "Air-Fried Beef Gravy Wrap",
+  "description": "A salty, silky, comforting Australian dish featuring beef gravy served in a low-calorie-friendly air-fry wrap.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-calorie",
+    "sodium-controlled"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef mince",
+      "amount": "200g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low-sodium beef gravy mix",
+      "amount": "2 packets"
+    },
+    {
+      "name": "air fryer baking sheet",
+      "amount": null
+    },
+    {
+      "name": "wrap for serving (e.g., tortilla)",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "In a shallow bowl, combine the flour, salt, black pepper, ground cumin, and ground coriander.",
+    "Add the beef mince to the bowl with the spices. Mix well until all ingredients are evenly distributed.",
+    "Heat vegetable oil in an air fryer basket over medium-high heat for about 2 minutes or until hot.",
+    "Place the seasoned beef mixture into the hot air fryer basket and cook for about 10-15 minutes, flipping occasionally to ensure even cooking.",
+    "While the beef is cooking, warm your wrap according to its package instructions. Once warmed, spoon a generous portion of beef gravy over one half of the wrapped beef mixture.",
+    "Fold the other half of the wrap over the beef mixture for serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried-beef-gravy-wrap",
+    "australian-dish",
+    "salty-silky-comforting"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 9,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "air-fried-beef-gravy-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-beef-gravy-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T20:05:29Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "beef gravy",
+    "diet": "low-calorie",
+    "region": null
+  }
+}
