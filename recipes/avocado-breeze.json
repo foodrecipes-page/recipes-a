@@ -1,0 +1,84 @@
+{
+  "title": "Avocado Breeze",
+  "description": "A tangy and silky Indian-inspired dish featuring avocado as the main ingredient, perfect for a solo dinner or light meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": "preferably ripe"
+    },
+    {
+      "name": "ginger",
+      "amount": "a small piece",
+      "notes": "about the size of your closed fist"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "a few pinches",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "a pinch",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Blend the avocado with lime juice, minced garlic, and a pinch of cumin in a blender or food processor until smooth.",
+    "In a small saucepan, heat sesame oil over medium-low heat. Add chopped ginger and sauté for about 30 seconds to wilt slightly.",
+    "Gradually pour in the blended avocado mixture into the pan while stirring constantly to prevent lumps.",
+    "Stir in turmeric powder until well combined. Reduce heat to low and let simmer for another minute or two, allowing flavors to meld together.",
+    "Once done, remove from heat and serve warm over a bed of quinoa or steamed vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "ginger",
+    "lauric-alkaline",
+    "dairy-free"
+  ],
+  "nutrition": {
+    "calories": 100,
+    "protein": 3,
+    "carbs": 7,
+    "fat": 8
+  },
+  "slug": "avocado-breeze",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/avocado-breeze",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T19:47:24Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "solo-dinner",
+    "technique": "braise",
+    "primaryIngredient": "avocado",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
