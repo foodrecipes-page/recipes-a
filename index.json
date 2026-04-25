@@ -52,6 +52,18 @@
     "shard": "a"
   },
   {
+    "slug": "almond-date-delight",
+    "title": "Almond Date Delight",
+    "tags": [
+      "almond-date",
+      "egg-free",
+      "middle-eastern"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "almond-star-steamie",
     "title": "Almond Star Steamie",
     "tags": [

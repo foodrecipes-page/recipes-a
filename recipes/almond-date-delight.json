@@ -1,0 +1,56 @@
+{
+  "title": "Almond Date Delight",
+  "description": "An earthy and velvety date-night middle-eastern dish featuring almonds, simmered gently for a perfect egg-free-friendly accompaniment to any meal.",
+  "cuisine": "Middle Eastern",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dates",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water or almond milk",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Place almonds in a pot and add dates, water or almond milk.",
+    "Simmer gently over low heat for about 30 minutes until thickened.",
+    "Stir occasionally to prevent sticking. Adjust seasoning as desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "almond-date",
+    "egg-free",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 279,
+    "protein": 8,
+    "carbs": 37,
+    "fat": 12
+  },
+  "slug": "almond-date-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/almond-date-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:15:08Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "velvety",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "almonds",
+    "diet": "egg-free",
+    "region": null
+  }
+}
