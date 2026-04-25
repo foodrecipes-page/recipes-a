@@ -1,0 +1,83 @@
+{
+  "title": "Adventurous Crispy Pork Ribs",
+  "description": "A rich and adventurous Peruvian dish featuring vegan-friendly pork back ribs, seasoned with a unique tadka spice mix for an extra kick of flavor.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Back Ribs",
+      "amount": "2 pounds",
+      "notes": "Bone-in"
+    },
+    {
+      "name": "Garlic Paste",
+      "amount": "1 tablespoon",
+      "notes": "For seasoning ribs"
+    },
+    {
+      "name": "Vegan Tadka Spice Mix",
+      "amount": "1 teaspoon",
+      "notes": "Contains spices like cumin, coriander, and turmeric for a unique flavor profile"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing ribs"
+    },
+    {
+      "name": "Fresh Lime Leaves",
+      "amount": "3 leaves",
+      "notes": "For added freshness and aroma"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "1/4 cup",
+      "notes": "To glaze the ribs for a rich, creamy coating"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 250°F (120°C).",
+    "Season the pork back ribs generously with the vegan tadka spice mix and garlic paste.",
+    "Brush both sides of the ribs with olive oil.",
+    "Wrap the lime leaves around each rib to infuse them with their aromatic essence.",
+    "Place the seasoned ribs on a baking sheet lined with parchment paper, making sure they do not touch.",
+    "Bake in the preheated oven for 2 hours. Every 30 minutes, baste the ribs with coconut milk to glaze and add richness.",
+    "Remove from the oven when the ribs are tender and golden brown on the outside.",
+    "Let the ribs rest for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 300,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "pork ribs",
+    "tadka",
+    "peruvian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 21,
+    "carbs": 48,
+    "fat": 35
+  },
+  "slug": "adventurous-crispy-pork-ribs",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-crispy-pork-ribs",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T07:53:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "tadka",
+    "primaryIngredient": "pork back ribs",
+    "diet": "vegan",
+    "region": null
+  }
+}
