@@ -1,0 +1,83 @@
+{
+  "title": "Adventurous Mushroom Medley",
+  "description": "This light and adventurous Algerian dish features a medley of mushrooms in a tangy pickle sauce, perfect for adding to your meal rotation as a low-fat-friendly option.",
+  "cuisine": "Algerian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Button Mushrooms",
+      "amount": "1 cup thinly sliced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic Clove",
+      "amount": "1 minced finely"
+    },
+    {
+      "name": "Pickle Relish",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1 small thinly sliced"
+    },
+    {
+      "name": "Thyme Sprigs",
+      "amount": "2 fresh sprigs"
+    },
+    {
+      "name": "Olive Leaves",
+      "amount": "6 leaves"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add sliced mushrooms and garlic, sauté for about 5 minutes until tender.",
+    "Stir in pickle relish, red onion, thyme sprigs, and olive leaves.",
+    "Pour in water, bring to a boil, then reduce heat and simmer for another 10 minutes.",
+    "Season with salt and pepper according to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "adventurous",
+    "algerian",
+    "mushroom",
+    "pickle",
+    "light",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 6
+  },
+  "slug": "adventurous-mushroom-medley",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-mushroom-medley",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T05:37:12Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "pickle",
+    "primaryIngredient": "mushrooms",
+    "diet": "low-fat",
+    "region": null
+  }
+}
