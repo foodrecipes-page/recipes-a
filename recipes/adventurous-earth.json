@@ -1,0 +1,83 @@
+{
+  "title": "Adventurous Earth",
+  "description": "An adventurous Canadian dish featuring ancho chilies in a light and earthy sauce for a low-fat-friendly meal.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ancho chilies",
+      "amount": "3-4 pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2-3, minced"
+    },
+    {
+      "name": "Tomato sauce",
+      "amount": "½ cup, low-sodium"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "¼ cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Saute onions and garlic in olive oil until translucent.",
+    "Add ancho chilies and cook for another minute, stirring frequently to prevent burning.",
+    "Pour in tomato sauce and vegetable broth. Bring to a simmer.",
+    "Simmer for about 10 minutes or until slightly thickened.",
+    "Stir in lemon juice and season with salt and pepper to taste.",
+    "Serve over cooked rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "adventurous-earth",
+    "light-canadian-dish",
+    "ancho-chili",
+    "low-fat-friendly"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "adventurous-earth",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-earth",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:43:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "saute",
+    "primaryIngredient": "ancho chillies",
+    "diet": "low-fat",
+    "region": null
+  }
+}

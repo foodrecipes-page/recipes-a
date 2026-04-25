@@ -42,6 +42,19 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-earth",
+    "title": "Adventurous Earth",
+    "tags": [
+      "adventurous-earth",
+      "light-canadian-dish",
+      "ancho-chili",
+      "low-fat-friendly"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-mushroom-medley",
     "title": "Adventurous Mushroom Medley",
     "tags": [
