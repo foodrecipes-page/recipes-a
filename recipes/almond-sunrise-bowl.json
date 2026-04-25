@@ -1,0 +1,78 @@
+{
+  "title": "Almond Sunrise Bowl",
+  "description": "A tangy, fluffy meal-prep bowl featuring almond flour and dairy-free-friendly components, perfect for a healthy start to your day.",
+  "cuisine": "jamaican",
+  "diet": [
+    "dairy-free",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "banana slices",
+      "amount": "6"
+    },
+    {
+      "name": "berries (strawberries, blueberries)",
+      "amount": "3 tbsp per person"
+    },
+    {
+      "name": "almond slivers or almonds",
+      "amount": "handful"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a mixing bowl, combine almond flour, lime juice, and vanilla extract. Mix until smooth.",
+    "Pour coconut milk over the mixture and stir well until fully combined.",
+    "Transfer the mixture into an oven-safe dish or ramekin bowl and top with banana slices, berries (if using), and almond slivers on top.",
+    "Bake for about 10-15 minutes or until golden brown and set. Avoid broiling as it can burn quickly at this temperature.",
+    "Serve immediately while warm."
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 15,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond-flour",
+    "lime-sunday",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "almond-sunrise-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/almond-sunrise-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T15:00:48Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "fluffy",
+    "mood": "meal-prep",
+    "technique": "broil",
+    "primaryIngredient": "almond flour",
+    "diet": "dairy-free",
+    "region": null
+  }
+}
