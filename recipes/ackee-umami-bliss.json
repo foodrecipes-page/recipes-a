@@ -1,0 +1,81 @@
+{
+  "title": "Ackee Umami Bliss",
+  "description": "A light and flavorful meal-prep Chinese dish featuring ackee in a dairy-free umami sauce, perfect for breakfast.",
+  "cuisine": "Chinese",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fresh Grilled Ackee",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Umami Seasoning Blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce (plant-based)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Oyster Sauce (plant-based) or Tamari",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable Stock or Water",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fresh Ginger, peeled and minced",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your grill to medium-high heat. Cook the fresh grilled ackee until it’s crispy and slightly charred.",
+    "In a small saucepan, combine umami seasoning blend, soy sauce (plant-based), garlic, chili flakes, oyster sauce (or tamari), vegetable stock or water, and fresh ginger. Bring to a simmer and stir well.",
+    "Pour the sauce over the grilled ackee in the pan until it is fully coated. Let sit for 5-10 minutes while you prepare any additional components.",
+    "Garnish with a touch of sesame seeds if desired before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ackee",
+    "umami",
+    "grilled",
+    "meal-prep",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 9
+  },
+  "slug": "ackee-umami-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ackee-umami-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:55:28Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "grill",
+    "primaryIngredient": "ackee",
+    "diet": "dairy-free",
+    "region": null
+  }
+}

@@ -1,5 +1,19 @@
 [
   {
+    "slug": "ackee-umami-bliss",
+    "title": "Ackee Umami Bliss",
+    "tags": [
+      "ackee",
+      "umami",
+      "grilled",
+      "meal-prep",
+      "chinese"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-protein-pot",
     "title": "Adventurous Protein Pot",
     "tags": [
