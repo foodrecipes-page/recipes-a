@@ -1,0 +1,70 @@
+{
+  "title": "Air-Fried Crispy Turkish Barramundi Stir-fry",
+  "description": "A salty and chewy post-workout dish featuring barramundi, air-fried for a low-calorie-friendly meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "low-calorie-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Barramundi fillets",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "6-8 cloves"
+    },
+    {
+      "name": "Chopped onions",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Red bell pepper slices",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 375°F (190°C).",
+    "Prepare fillets by seasoning with salt and pepper.",
+    "Heat oil in a skillet over medium heat. Add garlic, onions, and bell peppers; cook until vegetables are softened.",
+    "Place barramundi on the grill rack of the air fryer basket, skin side up. Cook for 5-7 minutes per side or until golden brown and cooked through.",
+    "Remove from air fryer and serve hot with your choice of sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "air-fried",
+    "barramundi",
+    "stir-fry",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 25,
+    "carbs": 9,
+    "fat": 7
+  },
+  "slug": "air-fried-crispy-turkish-barramundi-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-crispy-turkish-barramundi-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T23:30:16Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "barramundi",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Barramundi",
+    "descriptor": "Air-Fried",
+    "dishForm": "Stir-fry"
+  }
+}
