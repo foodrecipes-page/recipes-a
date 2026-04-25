@@ -1,0 +1,86 @@
+{
+  "title": "Air-Fried Sweet Fettuccine",
+  "description": "A sweet and crumbly Peruvian dish featuring fettuccine that’s perfect for a weeknight dinner with low-fat-friendly air-fry options.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fettuccini pasta",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsweetened applesauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "unsweetened shredded coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsweetened cocoa powder",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pumpkin puree",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "In a large bowl, mix the fettuccini pasta with unsweetened applesauce, coconut milk, shredded coconut, ginger paste, vanilla extract, cinnamon powder, and cocoa powder.",
+    "Fold in the pumpkin puree until well combined.",
+    "Divide the mixture into small portions and shape them into balls or logs for easier frying.",
+    "Place each portion on a wire rack lined with parchment paper and air fry for about 12-15 minutes or until golden brown.",
+    "Once done, serve warm as a side dish or main course."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "sweet",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 8,
+    "carbs": 46,
+    "fat": 15
+  },
+  "slug": "air-fried-sweet-fettuccine",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-sweet-fettuccine",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:11:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crumbly",
+    "mood": "weeknight",
+    "technique": "air-fry",
+    "primaryIngredient": "fettuccine",
+    "diet": "low-fat",
+    "region": null
+  }
+}
