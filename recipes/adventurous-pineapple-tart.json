@@ -1,0 +1,71 @@
+{
+  "title": "Adventurous Pineapple Tart",
+  "description": "A savory and adventurous twist on a classic dessert featuring blanched pineapple, whole30-friendly and suitable for the Whole30 diet.",
+  "cuisine": "British",
+  "diet": [
+    "whole30",
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "1 can (400g) full-fat coconut cream",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp arrowroot starch",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 cup mixed nuts (almonds, cashews, pecans)",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "10 fresh pineapple slices",
+      "amount": "",
+      "notes": "Blanched and cooled"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (175°C).",
+    "In a saucepan, mix the coconut cream with arrowroot starch until smooth. Cook over medium heat, stirring continuously for about 2 minutes or until thickened.",
+    "Fold in the mixed nuts and pineapple slices into the coconut mixture, mixing well to ensure all pieces are evenly coated.",
+    "Pour the mixture into a silicone mold lined with parchment paper, tapping out any air bubbles.",
+    "Bake for 30-45 minutes until set. Let it cool down before unmolding onto a serving plate.",
+    "Serve chilled as a whole30-friendly dessert."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "pineapple",
+    "coconut",
+    "nuts",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 197,
+    "protein": 5.9,
+    "carbs": 24.8,
+    "fat": 10
+  },
+  "slug": "adventurous-pineapple-tart",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-pineapple-tart",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:21:16Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "blanch",
+    "primaryIngredient": "pineapple",
+    "diet": "whole30",
+    "region": null
+  }
+}

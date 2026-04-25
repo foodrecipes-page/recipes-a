@@ -70,6 +70,19 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-pineapple-tart",
+    "title": "Adventurous Pineapple Tart",
+    "tags": [
+      "pineapple",
+      "coconut",
+      "nuts",
+      "whole30"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-protein-pot",
     "title": "Adventurous Protein Pot",
     "tags": [
