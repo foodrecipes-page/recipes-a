@@ -1,0 +1,56 @@
+{
+  "title": "Air-Popped Herb Velvet",
+  "description": "A quick-fix Moroccan dish featuring shortening for a herbal and velvety texture, perfect for paleo-friendly meals.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "shortening",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "herbs (e.g. parsley, cilantro)",
+      "amount": "1 tbsp each"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 350°F.",
+    "Mix shortening with herbs in a bowl until combined well.",
+    "Place mixture into an air fry basket and bake for 12-15 minutes or until golden brown.",
+    "Serve immediately as a snack."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 12,
+  "totalTimeMin": 17,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "air-popped",
+    "herb-velvet",
+    "moroccan-dish",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 3,
+    "fat": 7
+  },
+  "slug": "air-popped-herb-velvet",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-popped-herb-velvet",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T13:17:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "velvety",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "shortening",
+    "diet": "paleo",
+    "region": null
+  }
+}
