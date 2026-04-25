@@ -1,0 +1,101 @@
+{
+  "title": "Adventurous Tadka Noodles",
+  "description": "An umami-rich Korean dish featuring egg noodles cooked with a blend of aromatic spices and the adventurous tadka technique, whole30-friendly and suitable for those looking for an exciting twist on traditional noodle dishes.",
+  "cuisine": "Korean",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup egg noodles",
+      "amount": "cup",
+      "notes": "Soak in boiling water for about 5 minutes or until al dente."
+    },
+    {
+      "name": "2 tablespoons vegetable oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "piece"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1/4 cup ground beef or chicken (optional)",
+      "amount": "cup",
+      "notes": "For a protein boost and extra umami."
+    },
+    {
+      "name": "2 tablespoons soy sauce",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "1 tablespoon fish sauce",
+      "amount": "tablespoon"
+    },
+    {
+      "name": "1 teaspoon salt",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "3 tablespoons sesame oil",
+      "amount": "tablespoons"
+    },
+    {
+      "name": "Fresh coriander leaves, chopped (optional)",
+      "amount": "",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Tadka spices mix (to taste): 2 teaspoons mustard seeds, 1 teaspoon cumin seeds, 1/4 teaspoon turmeric powder",
+      "amount": "",
+      "notes": "Mix all these ingredients in a small bowl and keep warm for tadka technique."
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a pan over medium heat.",
+    "Add onion and garlic to the pan. Sauté until the onion is translucent, about 5 minutes.",
+    "If using protein (ground beef or chicken), add it now and cook for another minute until lightly browned.",
+    "Mix in soy sauce and fish sauce. Stir well to combine all ingredients.",
+    "Increase heat to high, toss in tadka spices mix and the remaining sesame oil. Toss everything together quickly to avoid burning.",
+    "Add soaked egg noodles directly from boiling water into the pan with the tadka sauce. Toss well until the noodles are evenly coated and heated through.",
+    "Serve hot, garnished with fresh coriander leaves if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "tadka",
+    "korean",
+    "umami",
+    "whole30",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 428,
+    "protein": 19,
+    "carbs": 54,
+    "fat": 16
+  },
+  "slug": "adventurous-tadka-noodles",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-tadka-noodles",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T12:22:40Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "flaky",
+    "mood": "adventurous",
+    "technique": "tadka",
+    "primaryIngredient": "egg noodles",
+    "diet": "whole30",
+    "region": null
+  }
+}

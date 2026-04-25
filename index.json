@@ -96,6 +96,21 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-tadka-noodles",
+    "title": "Adventurous Tadka Noodles",
+    "tags": [
+      "adventurous",
+      "tadka",
+      "korean",
+      "umami",
+      "whole30",
+      "noodles"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-tomato-knead",
     "title": "Adventurous Tomato Knead",
     "tags": [
