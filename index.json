@@ -253,6 +253,18 @@
     "shard": "a"
   },
   {
+    "slug": "apple-kimchi-stew",
+    "title": "Apple Kimchi Stew with Sous-Vide Braeburn Apples",
+    "tags": [
+      "apple-kimchi-stew",
+      "sous-vide-apples",
+      "hangover-cure"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 90,
+    "shard": "a"
+  },
+  {
     "slug": "apple-tangzinho",
     "title": "Apple Tangzinho",
     "tags": [

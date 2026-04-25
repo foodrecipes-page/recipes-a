@@ -1,0 +1,107 @@
+{
+  "title": "Apple Kimchi Stew with Sous-Vide Braeburn Apples",
+  "description": "This Japanese-inspired stew combines the smoky flavor of sous-vide braeburn apples with a spicy kick from traditional Korean kimchi, making it perfect for hangover cures and comforting winter meals.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 (400g) bag of Green Onions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 (300g) bags of Kimchi",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "16 (8cm) sous-vide braeburn apples, seeds removed",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "4 chicken thighs",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 tbsp soy sauce",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tbsp rice vinegar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tsp sugar",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup sesame oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 tsp crushed red pepper flakes",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Salt and freshly ground black pepper to taste",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your sous-vide machine to 60°C.",
+    "Soak the braeburn apples in water for about an hour, then submerge them in hot salted water (about 180°F) and cook for 4 hours. Remove from heat and let cool slightly before peeling.",
+    "In a large pot or Dutch oven, combine minced garlic with soy sauce, rice vinegar, sugar, lemon juice, sesame oil, and red pepper flakes. Stir well until the mixture is smooth and heated through. Add salt and pepper to taste.",
+    "Heat 2 tablespoons of cooking oil in the same pot over medium-high heat. Once hot, add chicken thighs and cook for about 7-10 minutes or until golden brown on all sides. Remove from pan.",
+    "In the same pot, sauté green onions until they are soft and translucent, approximately 3-5 minutes. Add braeburn apples and kimchi into the pot, mixing well with the sauce mixture.",
+    "Return the chicken to the pot, re-covering and bring back to a simmer. Let cook for about 10-12 minutes or until the stew has thickened slightly and the chicken is cooked through. Serve hot over rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 60,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apple-kimchi-stew",
+    "sous-vide-apples",
+    "hangover-cure"
+  ],
+  "nutrition": {
+    "calories": 562,
+    "protein": 37,
+    "carbs": 48,
+    "fat": 19
+  },
+  "slug": "apple-kimchi-stew",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/apple-kimchi-stew",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:33:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "gooey",
+    "mood": "hangover-cure",
+    "technique": "sous-vide",
+    "primaryIngredient": "braeburn apples",
+    "diet": "egg-free",
+    "region": null
+  }
+}
