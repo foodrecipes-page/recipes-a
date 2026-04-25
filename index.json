@@ -26,6 +26,19 @@
     "shard": "a"
   },
   {
+    "slug": "allspice-festive-flare",
+    "title": "Allspice Festive Flare",
+    "tags": [
+      "allspice-festive-flare",
+      "floral-gooey-dessert",
+      "vegetarian-friendly",
+      "french-dish"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "almond-bruschetta-verity",
     "title": "Almond Bruschetta Verity",
     "tags": [
