@@ -1,0 +1,91 @@
+{
+  "title": "Air-Fried Pinto Bean Show-Stopper",
+  "description": "This earthy and flaky pinto bean dish is a low-carb-friendly treat that is perfect for a show-off German dinner. It's crispy on the outside and tender on the inside.",
+  "cuisine": "German",
+  "diet": [
+    "low-carb",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 cup pinto beans, drained and rinsed",
+      "amount": "",
+      "notes": "Use less if you prefer a thinner sauce."
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "",
+      "notes": "Can be substituted with another low-carb oil like avocado or macadamia nut oil."
+    },
+    {
+      "name": "1 small onion, finely chopped",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 can (14.5 oz) diced tomatoes",
+      "amount": "",
+      "notes": "Drained."
+    },
+    {
+      "name": "2 tablespoons tomato paste",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/2 teaspoon salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "In a large skillet, heat the olive oil over medium heat. Add onions and garlic, cooking until soft and translucent.",
+    "Add pinto beans, diced tomatoes, tomato paste, salt, and black pepper to the skillet. Stir well to combine all ingredients.",
+    "Transfer the mixture into an air fryer-safe container or a large bowl for even distribution of oil.",
+    "Drizzle 2 tablespoons of olive oil evenly over the bean mixture in the air fryer-safe container/bowl before placing it on a baking sheet lined with parchment paper.",
+    "Air-fry at 375°F (190°C) for about 20 minutes, or until golden brown and crispy. Check periodically to ensure even browning.",
+    "Remove from heat and let cool slightly before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pinto beans",
+    "air fried",
+    "german cuisine"
+  ],
+  "nutrition": {
+    "calories": 216,
+    "protein": 9,
+    "carbs": 27,
+    "fat": 8
+  },
+  "slug": "air-fried-pinto-bean-show-stopper",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-pinto-bean-show-stopper",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:11:42Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "flaky",
+    "mood": "show-off",
+    "technique": "air-fry",
+    "primaryIngredient": "pinto beans",
+    "diet": "low-carb",
+    "region": null
+  }
+}
