@@ -1,0 +1,76 @@
+{
+  "title": "Air-Fried Earthy Argentinian Bliss",
+  "description": "This quick-fix dish combines earthy flavors with a creamy texture, perfect for vegetarians and those on the go.",
+  "cuisine": "Argentinean",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "1, minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1, diced"
+    },
+    {
+      "name": "Potato Cubes",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Bouquet Garni",
+      "amount": "-"
+    },
+    {
+      "name": "Chopped Fresh Herbs (Thyme, Rosemary)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Whey Cheese Sauce Mix",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 350°F.",
+    "In a skillet, heat olive oil over medium heat. Add minced garlic and diced onion; sauté for about 2 minutes until fragrant.",
+    "Add potato cubes, bouquet garni, chopped fresh herbs, and cheese sauce mix. Stir well to combine.",
+    "Transfer mixture to air fryer basket. Air fry at 350°F for 10-12 minutes or until heated through.",
+    "Remove from heat and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "argentinean",
+    "airy-fried",
+    "creamy",
+    "earthy",
+    "jain-friendly"
+  ],
+  "nutrition": {
+    "calories": 260,
+    "protein": 13,
+    "carbs": 19,
+    "fat": 7
+  },
+  "slug": "air-fried-earthy-argentinian-bliss",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-earthy-argentinian-bliss",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T08:22:13Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "quick-fix",
+    "technique": "air-fry",
+    "primaryIngredient": "bouquet garni",
+    "diet": "jain",
+    "region": null
+  }
+}
