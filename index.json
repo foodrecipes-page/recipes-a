@@ -498,6 +498,20 @@
     "shard": "a"
   },
   {
+    "slug": "asparaguas-grilled-verde",
+    "title": "Asparaguas Grilled Verde",
+    "tags": [
+      "asparagus",
+      "grilled",
+      "brazilian",
+      "hangover",
+      "pescatarian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "avocado-grilled-cilantro-slaw",
     "title": "Avocado Grilled Cilantro Slaw",
     "tags": [
