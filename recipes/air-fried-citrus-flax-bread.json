@@ -1,0 +1,77 @@
+{
+  "title": "Air-Fried Citrus Flax Bread",
+  "description": "A light and citrusy Ethiopian-inspired dish featuring bread flour, lightly air-fried for a low-fat-friendly option.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "2 cups bread flour",
+      "amount": "",
+      "notes": "Starter is recommended."
+    },
+    {
+      "name": "1/4 cup flax seeds",
+      "amount": "",
+      "notes": "Ground and mixed with water to form a dough."
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juiced",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1 orange",
+      "amount": "juiced",
+      "notes": ""
+    },
+    {
+      "name": "Pinch salt",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl, combine bread flour and flax seeds.",
+    "Add the juiced lemon and orange into the mixture.",
+    "Mix in the pinch of salt until the dough is formed.",
+    "Transfer the dough onto a lightly floured surface to knead for about 3-5 minutes.",
+    "Place the dough seam side down in a greased pan, cover with plastic wrap, and let it rest for about 10 minutes.",
+    "Heat air fryer to 200°C (400°F).",
+    "Bake the bread in the preheated air fryer for 15-20 minutes or until golden brown and crispy.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "citrus-flax",
+    "low-fat"
+  ],
+  "nutrition": {
+    "calories": 35,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 0.5
+  },
+  "slug": "air-fried-citrus-flax-bread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-citrus-flax-bread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T17:43:14Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "light",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "bread flour",
+    "diet": "low-fat",
+    "region": null
+  }
+}
