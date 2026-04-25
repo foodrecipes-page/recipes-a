@@ -1,0 +1,75 @@
+{
+  "title": "Avocado Berber",
+  "description": "A sweet and chewy Moroccan-inspired dish featuring avocado, a mild curry flavor, and packed with energy and nutrients.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "sweet",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garam masala powder",
+      "amount": "¼ tsp"
+    },
+    {
+      "name": "low-sodium chicken broth",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "sweetener of choice (optional)",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Blend avocado in a blender until smooth.",
+    "Add garam masala powder and lime juice to the blended avocado.",
+    "Stir in low-sodium chicken broth, adding more if needed for desired consistency.",
+    "Mix minced garlic into the mixture until well combined.",
+    "If using sweetener of choice, add it now to taste.",
+    "Serve immediately as a dessert or energy bar."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "moroccan",
+    "sweet",
+    "energizing"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 1,
+    "carbs": 13,
+    "fat": 6
+  },
+  "slug": "avocado-berber",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/avocado-berber",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T18:12:20Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "temper",
+    "primaryIngredient": "avocado",
+    "diet": "low-sodium",
+    "region": null
+  }
+}

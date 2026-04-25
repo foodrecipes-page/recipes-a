@@ -549,6 +549,19 @@
     "shard": "a"
   },
   {
+    "slug": "avocado-berber",
+    "title": "Avocado Berber",
+    "tags": [
+      "avocado",
+      "moroccan",
+      "sweet",
+      "energizing"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
     "slug": "avocado-grilled-cilantro-slaw",
     "title": "Avocado Grilled Cilantro Slaw",
     "tags": [
