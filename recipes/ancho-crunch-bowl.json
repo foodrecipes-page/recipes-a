@@ -1,0 +1,78 @@
+{
+  "title": "Ancho Crunch Bowl",
+  "description": "A smoky and chewy low-carb-friendly Korean dish featuring ancho chillies in a bowl.",
+  "cuisine": "Korean",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "1 cup quinoa",
+      "amount": "cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "1/2 cup almond flour",
+      "amount": "cup"
+    },
+    {
+      "name": "1/4 cup ancho chillies, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "1/4 tsp ground cinnamon",
+      "amount": "tsp"
+    },
+    {
+      "name": "1/4 tsp sea salt",
+      "amount": "tsp"
+    },
+    {
+      "name": "1 tbsp coconut oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 lemon, juiced and zested",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "In a medium bowl, mix quinoa with almond flour, ancho chillies, cinnamon, salt, and lemon zest. Add coconut oil and mix well.",
+    "Transfer the mixture into a lined baking sheet and spread evenly.",
+    "Bake for 20-25 minutes or until golden brown and crispy.",
+    "Remove from oven and let it cool before serving in bowls."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ancho-chilli",
+    "quinoa",
+    "low-carb",
+    "korean"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 7,
+    "carbs": 9,
+    "fat": 10
+  },
+  "slug": "ancho-crunch-bowl",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/ancho-crunch-bowl",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T09:37:26Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "chewy",
+    "mood": "cozy",
+    "technique": "whisk",
+    "primaryIngredient": "ancho chillies",
+    "diet": "low-carb",
+    "region": null
+  }
+}

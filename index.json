@@ -255,6 +255,19 @@
     "shard": "a"
   },
   {
+    "slug": "ancho-crunch-bowl",
+    "title": "Ancho Crunch Bowl",
+    "tags": [
+      "ancho-chilli",
+      "quinoa",
+      "low-carb",
+      "korean"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "anchovy-toast-delight",
     "title": "Anchovy Toast Delight",
     "tags": [
