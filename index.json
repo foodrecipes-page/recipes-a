@@ -317,6 +317,20 @@
     "shard": "a"
   },
   {
+    "slug": "almond-affliction",
+    "title": "Almond Affliction",
+    "tags": [
+      "sour",
+      "gooey",
+      "almond butter",
+      "kenyan",
+      "whole30"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
     "slug": "almond-bhuna-delight",
     "title": "Almond Bhuna Delight",
     "tags": [
