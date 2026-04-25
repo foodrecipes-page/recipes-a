@@ -1,0 +1,90 @@
+{
+  "title": "Almond Bhuna Pesto",
+  "description": "A fresh, velvety Italian dish featuring almond butter, spiced with bhuna (a popular Indian curry spice mix) and halal-friendly.",
+  "cuisine": "Italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Almond Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Green Peppers, sliced",
+      "amount": "1 small"
+    },
+    {
+      "name": "Bhuna Spice Mix (Indian Curry), ground",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coconut Milk",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Halal Chicken or Fish Stock",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and Pepper to taste",
+      "amount": ""
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "10-15 leaves"
+    },
+    {
+      "name": "Olive Oil, for drizzling",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "In a pan, heat 2 tablespoons of olive oil over medium heat.",
+    "Add the diced onion and green peppers to the pan. Sauté until they soften.",
+    "Stir in almond butter and all-purpose flour into the vegetables for about 1 minute or until well combined.",
+    "Gradually add the ground Bhuna Spice Mix, coconut milk, halal chicken stock, salt, and pepper while stirring continuously.",
+    "Simmer on low heat for approximately 5 minutes. Stir occasionally to avoid burning.",
+    "Stir in fresh basil leaves, remove from heat, and let cool slightly before serving.",
+    "Drizzle with additional olive oil for a luxurious finish if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond-butter",
+    "bhuna-spice",
+    "halal-friendly",
+    "italian-dish",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "almond-bhuna-pesto",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/almond-bhuna-pesto",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T10:51:58Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "velvety",
+    "mood": "cozy",
+    "technique": "bhuna",
+    "primaryIngredient": "almond butter",
+    "diet": "halal",
+    "region": null
+  }
+}

@@ -203,6 +203,20 @@
     "shard": "a"
   },
   {
+    "slug": "almond-bhuna-pesto",
+    "title": "Almond Bhuna Pesto",
+    "tags": [
+      "almond-butter",
+      "bhuna-spice",
+      "halal-friendly",
+      "italian-dish",
+      "velvety"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "almond-bliss-sweet-treat",
     "title": "Almond Bliss Sweet Treat",
     "tags": [
