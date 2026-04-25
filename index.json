@@ -113,5 +113,18 @@
     "cuisine": "Norwegian",
     "totalTimeMin": 5,
     "shard": "a"
+  },
+  {
+    "slug": "apricot-miel-verde",
+    "title": "Apricot Miel Verde",
+    "tags": [
+      "apricot",
+      "miel-verde",
+      "vegetarian",
+      "one-pot-dish"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 40,
+    "shard": "a"
   }
 ]

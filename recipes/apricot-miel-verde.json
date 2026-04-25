@@ -1,0 +1,94 @@
+{
+  "title": "Apricot Miel Verde",
+  "description": "A floral and creamy one-pot Mexican dish featuring dried apricots in a savory sauce made with vegetables and spices.",
+  "cuisine": "Mexican",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dried apricots",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "celery stalks",
+      "amount": "2 large, thinly sliced"
+    },
+    {
+      "name": "1 small, diced (any color)"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3, minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 lime, juiced"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh cilantro leaves",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Place dried apricots in a pot and cover with water. Bring to a boil, reduce heat, and simmer until softened, about 30 minutes.",
+    "In the same pot, sauté onion, celery, and bell pepper until softened, about 5 minutes.",
+    "Add garlic, coconut milk, vegetable broth, lime juice, coriander seeds, cumin seeds, and salt. Stir well to combine.",
+    "Return apricots to the pot along with any liquid. Simmer for another 10-15 minutes or until mixture thickens slightly.",
+    "Garnish with fresh cilantro leaves before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "apricot",
+    "miel-verde",
+    "vegetarian",
+    "one-pot-dish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 48,
+    "fat": 16
+  },
+  "slug": "apricot-miel-verde",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/apricot-miel-verde",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T02:44:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "grill",
+    "primaryIngredient": "dried apricots",
+    "diet": "egg-free",
+    "region": null
+  }
+}
