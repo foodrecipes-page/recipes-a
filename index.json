@@ -150,6 +150,18 @@
     "shard": "a"
   },
   {
+    "slug": "air-fried-yellow-onion-delight",
+    "title": "Air-Fried Yellow Onion Delight",
+    "tags": [
+      "air-fried",
+      "yellow-onion-delight",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "allspice-butter-egg-delight",
     "title": "Allspice Butter Egg Delight",
     "tags": [

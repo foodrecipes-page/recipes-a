@@ -1,0 +1,59 @@
+{
+  "title": "Air-Fried Yellow Onion Delight",
+  "description": "A light and juicy Slovakian dish featuring fermented yellow onions, perfect for a low-carb snack or meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "yellow onion",
+      "amount": "4 medium"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Slice the yellow onions thinly and sprinkle with salt.",
+    "Heat 2 tablespoons of cooking oil in a skillet over medium-high heat. Add the sliced onions and cook until they are soft and slightly caramelized, about 5-7 minutes.",
+    "Transfer the cooked onions to a serving dish and lightly drizzle with 1/2 teaspoon of salt while warm for extra flavor.",
+    "Air fry at 360°F (180°C) for 20-25 minutes until crispy. Toss occasionally during frying."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "yellow-onion-delight",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 180,
+    "protein": 3,
+    "carbs": 6,
+    "fat": 7
+  },
+  "slug": "air-fried-yellow-onion-delight",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-yellow-onion-delight",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-25T11:14:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "juicy",
+    "mood": "light",
+    "technique": "air-fry",
+    "primaryIngredient": "yellow onion",
+    "diet": "low-carb",
+    "region": null
+  }
+}
