@@ -1,0 +1,72 @@
+{
+  "title": "Air Fried Crunchy Canadian Potato Wraps",
+  "description": "Spicy and crunchy Canadian dish featuring dill pickles, made air-fry with a touch of sweetness for a cozy meal that's also diabetic-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Dill Pickles",
+      "amount": "16 slices (about 1 cup)"
+    },
+    {
+      "name": "Sweetener (e.g. Stevia)",
+      "amount": "a few drops (optional)"
+    },
+    {
+      "name": "Spices and Seasonings (e.g. Paprika, Garlic Powder, Cumin, Salt, Pepper)",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash the potatoes thoroughly.",
+    "Peel and slice the potatoes into rounds about 1/4 inch thick.",
+    "Slice the dill pickles thinly for layering on top of potato slices.",
+    "Mix together a few drops of sweetener (if using) with spices to taste, then brush evenly over both sides of sliced potatoes.",
+    "Place the seasoned potato slices and dill pickle slices in a single layer inside an air fryer basket. Ensure they are spread out for even cooking.",
+    "Air-fry at 375°F for about 10 minutes until golden brown and crispy on one side, then flip over and air-fry for another 5-8 minutes or until desired crispiness is achieved.",
+    "Serve warm as a snack or meal accompaniment."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "canadian",
+    "crunchy",
+    "spicy",
+    "diabetic-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 6
+  },
+  "slug": "air-fried-crunchy-canadian-potato-wraps",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-crunchy-canadian-potato-wraps",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T10:59:29Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "crunchy",
+    "mood": "cozy",
+    "technique": "air-fry",
+    "primaryIngredient": "dill pickles",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Potato",
+    "descriptor": "Crunchy Air Fried",
+    "dishForm": "Wraps"
+  }
+}
