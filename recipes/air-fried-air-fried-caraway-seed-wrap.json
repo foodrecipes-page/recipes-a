@@ -1,0 +1,81 @@
+{
+  "title": "Air-Fried Caraway Seed Wrap",
+  "description": "A light and crispy snack that combines the subtle yet assertive flavor of caraway seeds with a touch of sweetness for a romantic twist.",
+  "cuisine": "British",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Whole Caraway Seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Minced Garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "Pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "In a small bowl, mix together olive oil, honey, minced garlic, caraway seeds, flour, paprika, and salt until well combined. The mixture should resemble sand.",
+    "Place the mixture in an even layer inside your air fryer basket and spread it out evenly.",
+    "Air fry for 8-10 minutes or until golden brown and crispy. Keep a close eye as caraway seeds can burn easily.",
+    "Let cool slightly before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "british",
+    "low-carb",
+    "caraway-seed"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 4,
+    "fat": 2
+  },
+  "slug": "air-fried-air-fried-caraway-seed-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-air-fried-caraway-seed-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T03:08:33Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "crunchy",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "caraway seed",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "caraway seed",
+    "descriptor": "Air-Fried",
+    "dishForm": "Wrap"
+  }
+}
