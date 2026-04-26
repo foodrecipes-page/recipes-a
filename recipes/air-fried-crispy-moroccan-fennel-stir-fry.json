@@ -1,0 +1,86 @@
+{
+  "title": "Air-Fried Crispy Moroccan Fennel Stir-fry",
+  "description": "A tangy and silky Moroccan-inspired dish featuring fennel that is both crowd-pleasing and suitable for those with dietary restrictions.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fennel bulb",
+      "amount": "1 large"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3-4"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cayenne pepper (optional)",
+      "amount": "a pinch"
+    }
+  ],
+  "instructions": [
+    "Trim the fennel bulb and cut into thin slices. Peel and chop the onion.",
+    "In a skillet, heat olive oil over medium-high heat. Add onions and sauté until translucent, about 3 minutes.",
+    "Add garlic cloves and cook for an additional minute or until fragrant.",
+    "Stir in tomato paste and spices (paprika, cumin seeds, and optionally cayenne pepper). Cook for another 1-2 minutes.",
+    "Gently fold in fennel slices. Cook uncovered on medium-high heat for about 5-7 minutes or until the fennel is lightly browned and crisp.",
+    "Serve immediately as a snack or side dish."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "moroccan",
+    "crispy",
+    "fodmap-friendly",
+    "air-fried"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 38,
+    "fat": 9
+  },
+  "slug": "air-fried-crispy-moroccan-fennel-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-crispy-moroccan-fennel-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T22:34:20Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "fennel",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Fennel",
+    "descriptor": "Air-Fried",
+    "dishForm": "Stir-fry"
+  }
+}
