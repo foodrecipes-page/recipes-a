@@ -1,0 +1,86 @@
+{
+  "title": "Air-Fried Nutty Mediterranean Cashews Stir-fry",
+  "description": "This nutty, tender mediterranean dish features flat rice noodles and is perfect for a cozy snack that's both halal-friendly and gluten-free.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": "Roasted"
+    },
+    {
+      "name": "Flat Rice Noodles",
+      "amount": "1 cup",
+      "notes": "Cooked and drained"
+    },
+    {
+      "name": "Olives",
+      "amount": "1/2 cup",
+      "notes": "Kalamata or black olives, pitted and chopped"
+    },
+    {
+      "name": "Parsley",
+      "amount": "2 tablespoons",
+      "notes": "Chopped fresh"
+    },
+    {
+      "name": "Garlic Cloves",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "In a large bowl, mix together cashews and flat rice noodles.",
+    "Add olives, chopped parsley, and minced garlic to the mixture.",
+    "Drizzle olive oil over the ingredients and stir well to coat.",
+    "Transfer the mixture into your air fryer basket.",
+    "Air fry for 8-10 minutes or until golden brown and crispy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "nutty",
+    "tender",
+    "cozy",
+    "mediterranean",
+    "air-fried",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 265,
+    "protein": 13,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "air-fried-nutty-mediterranean-cashews-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-nutty-mediterranean-cashews-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-26T16:31:23Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "tender",
+    "mood": "cozy",
+    "technique": "air-fry",
+    "primaryIngredient": "flat rice noodles",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Cashews",
+    "descriptor": "Air-Fried",
+    "dishForm": "Stir-fry"
+  }
+}
