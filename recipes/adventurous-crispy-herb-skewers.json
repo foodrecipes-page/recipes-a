@@ -1,0 +1,109 @@
+{
+  "title": "Adventurous Crispy Herb Skewers",
+  "description": "These adventurous pescatarian-friendly skewers are infused with honey and spices for a crispy and aromatic twist, perfect as an appetizer or light meal.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "appetizer",
+  "ingredients": [
+    {
+      "name": "1 pound mixed vegetables (zucchini, bell peppers, onions), thinly sliced",
+      "amount": "",
+      "notes": "Choose firm vegetables to hold together on skewers."
+    },
+    {
+      "name": "25 shrimp tails, peeled and deveined",
+      "amount": "",
+      "notes": "Ensure they are raw but fully cooked for safety."
+    },
+    {
+      "name": "1/4 cup chopped fresh parsley",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1/4 cup chopped fresh dill",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "2 tablespoons lemon juice",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 tablespoon honey",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Juice of 1/2 lemon",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon ground cumin",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "1 teaspoon paprika",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Pinch of salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare a skewer by threading the vegetables and shrimp onto it.",
+    "In a mixing bowl, combine lemon juice, minced garlic, honey, lemon juice, cumin, paprika, salt, and pepper. Stir until well combined.",
+    "Marinate the prepared skewers for at least 15 minutes.",
+    "Heat a grill or grill pan over medium-high heat. Grill the skewers for about 6-8 minutes per side, basting with marinade during the last few minutes of cooking to ensure it adheres to the skewers.",
+    "Let rest before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "herbaceous",
+    "crispy",
+    "egyptian",
+    "honey"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 16,
+    "carbs": 23,
+    "fat": 4
+  },
+  "slug": "adventurous-crispy-herb-skewers",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-crispy-herb-skewers",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T07:50:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "roast",
+    "primaryIngredient": "honey",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Herb",
+    "descriptor": "Adventurous Crispy",
+    "dishForm": "Skewers"
+  }
+}

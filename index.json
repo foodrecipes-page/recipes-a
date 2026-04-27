@@ -28,6 +28,20 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-crispy-herb-skewers",
+    "title": "Adventurous Crispy Herb Skewers",
+    "tags": [
+      "adventurous",
+      "herbaceous",
+      "crispy",
+      "egyptian",
+      "honey"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-crispy-pork-ribs",
     "title": "Adventurous Crispy Pork Ribs",
     "tags": [
