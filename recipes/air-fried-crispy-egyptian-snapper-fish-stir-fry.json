@@ -1,0 +1,94 @@
+{
+  "title": "Air-Fried Crispy Egyptian Snapper Fish Stir-fry",
+  "description": "A dense and fermented brunch-mood Egyptian dish featuring snapper fish, air-fried to a crispy texture and keto-friendly.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "brunch",
+  "ingredients": [
+    {
+      "name": "1 lb snapper fish fillets",
+      "amount": "1 piece",
+      "notes": "ensure they are fresh"
+    },
+    {
+      "name": "2 tbsp olive oil",
+      "amount": "",
+      "notes": "for air-frying"
+    },
+    {
+      "name": "1 tsp ground cumin",
+      "amount": "",
+      "notes": "to flavor the fish"
+    },
+    {
+      "name": "1 tsp garlic powder",
+      "amount": "",
+      "notes": "for extra flavor"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "",
+      "notes": "adds depth of flavor"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": "",
+      "notes": "to season the fish"
+    },
+    {
+      "name": "1 lemon, juiced",
+      "amount": "",
+      "notes": "optional for serving"
+    },
+    {
+      "name": "Fresh parsley or cilantro (for garnish)",
+      "amount": "",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C). Rinse the snapper fish fillets under cold water and pat them dry with paper towels.",
+    "Season both sides of the fish evenly with salt, pepper, cumin, garlic powder, smoked paprika. Let sit for about 10 minutes for flavors to develop.",
+    "Place the seasoned fish on a wire rack set in the basket of your air fryer. Drizzle it lightly with olive oil and sprinkle lemon juice over the top.",
+    "Air-fry the fish for about 8-10 minutes, or until golden brown and crispy. Flip halfway through cooking to ensure even browning.",
+    "Remove from the air fryer and let sit for a minute before serving. Garnish with fresh parsley or cilantro if desired.",
+    "Serve immediately as a snack or light meal, optionally paired with lemon wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "stir-fry",
+    "snapper fish",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 18,
+    "carbs": 1,
+    "fat": 9
+  },
+  "slug": "air-fried-crispy-egyptian-snapper-fish-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-crispy-egyptian-snapper-fish-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T19:33:07Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "dense",
+    "mood": "brunch-mood",
+    "technique": "air-fry",
+    "primaryIngredient": "snapper fish",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "snapper fish",
+    "descriptor": "Air-Fried",
+    "dishForm": "Stir-fry"
+  }
+}
