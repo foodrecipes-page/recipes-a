@@ -1,0 +1,86 @@
+{
+  "title": "Adventurous Garlic Vietnamese Stir-fry",
+  "description": "A garlicky and tender Vietnamese dish featuring seasoned rice vinegar that is both adventurous in flavor and gluten-free-friendly.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice Vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Garlic",
+      "amount": "6 cloves"
+    },
+    {
+      "name": "Green Onions",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Tamarind Paste",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "6 pieces, sliced"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok over medium-high heat.",
+    "Add sliced chicken and cook until golden brown, about 4 minutes on each side.",
+    "Remove the chicken from the wok and set aside.",
+    "In the same pan, add garlic, green onions, fish sauce, tamarind paste, and cornstarch mixed with water to create a slurry. Stir well to combine.",
+    "Pour in rice vinegar and bring it to a boil until the mixture thickens slightly, about 2 minutes.",
+    "Return the chicken to the pan and stir until coated evenly with the sauce.",
+    "Serve hot as an adventurous and flavorful side dish or main course."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous-vietnamese-dish",
+    "garlicky-tender-dish",
+    "seasoned-rice-vinegar"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 46,
+    "carbs": 18,
+    "fat": 9
+  },
+  "slug": "adventurous-garlic-vietnamese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-garlic-vietnamese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T00:54:03Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "fry",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Garlic",
+    "descriptor": "Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}

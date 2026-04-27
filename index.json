@@ -55,6 +55,18 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-garlic-vietnamese-stir-fry",
+    "title": "Adventurous Garlic Vietnamese Stir-fry",
+    "tags": [
+      "adventurous-vietnamese-dish",
+      "garlicky-tender-dish",
+      "seasoned-rice-vinegar"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-mushroom-medley",
     "title": "Adventurous Mushroom Medley",
     "tags": [
