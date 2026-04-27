@@ -1,0 +1,89 @@
+{
+  "title": "Air-Fried Syrian Pork Stir-fry",
+  "description": "A rich and dense dish perfect for a lazy Sunday, featuring tender pork marinated in aromatic spices that are halal-friendly.",
+  "cuisine": "Syrian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork loin",
+      "amount": "200g",
+      "notes": "Skinless and boneless for easier air-frying"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "A few pinches"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "A few grains"
+    },
+    {
+      "name": "Allspice berries",
+      "amount": "3-4",
+      "notes": "For a more authentic flavor profile"
+    },
+    {
+      "name": "Red bell peppers",
+      "amount": "1 medium",
+      "notes": "Chopped for color and texture contrast"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 large",
+      "notes": "Sliced thinly for crispiness after air-frying"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3-4",
+      "notes": "Pressed to release flavors, finely minced"
+    }
+  ],
+  "instructions": [
+    "Mix olive oil with salt and pepper. Rub it on the pork evenly.",
+    "Tie allspice berries in a small piece of cheesecloth or a coffee filter for easier removal.",
+    "Combine marinated pork, red bell peppers, onions, garlic, and allspice berries in an air fryer basket. Place inside your air fryer",
+    "Air-fry at 200°C (392°F) for 15 minutes. Check doneness by pressing the meat; it should be firm but no longer pink.",
+    "Remove pork from air fryer and let rest for about 5 minutes before slicing thinly across the grain. Slice peppers as well, if needed for presentation.",
+    "Serve hot with a side of tahini sauce or za'atar for added flavor and texture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pork",
+    "stir-fry",
+    "air-fried",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 386,
+    "protein": 31,
+    "carbs": 20,
+    "fat": 14
+  },
+  "slug": "air-fried-syrian-pork-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-syrian-pork-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T13:23:53Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "dense",
+    "mood": "lazy-sunday",
+    "technique": "air-fry",
+    "primaryIngredient": "pork",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "pork",
+    "descriptor": "Air-Fried",
+    "dishForm": "Stir-fry"
+  }
+}

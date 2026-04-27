@@ -374,6 +374,19 @@
     "shard": "a"
   },
   {
+    "slug": "air-fried-syrian-pork-stir-fry",
+    "title": "Air-Fried Syrian Pork Stir-fry",
+    "tags": [
+      "pork",
+      "stir-fry",
+      "air-fried",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
     "slug": "air-fried-yellow-onion-delight",
     "title": "Air-Fried Yellow Onion Delight",
     "tags": [
