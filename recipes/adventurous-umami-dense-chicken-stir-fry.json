@@ -1,0 +1,87 @@
+{
+  "title": "Adventurous Umami Dense Chicken Stir-fry",
+  "description": "An adventurous Filipino dish featuring dense chicken with umami flavors, perfect for a quick dinner or snack.",
+  "cuisine": "Philippine",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "1 lb boneless, skinless chicken breasts",
+      "amount": "4 slices"
+    },
+    {
+      "name": "2 tbsp low-sodium soy sauce",
+      "notes": "use for umami flavor"
+    },
+    {
+      "name": "1 tbsp low-sodium oyster sauce",
+      "notes": "for a salty depth of taste"
+    },
+    {
+      "name": "1 small onion, chopped",
+      "amount": "medium sized"
+    },
+    {
+      "name": "2 cloves garlic, minced",
+      "amount": "4-6 cloves if larger"
+    },
+    {
+      "name": "1 cup low-sodium chicken broth",
+      "amount": "low sodium or use water as a substitute"
+    },
+    {
+      "name": "1 bell pepper, any color, sliced",
+      "notes": "for added crunch and flavor"
+    },
+    {
+      "name": "1 cup baby spinach",
+      "notes": "to complete the dish with freshness"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 450°F (230°C). Pat dry chicken slices.",
+    "Mix together soy sauce, oyster sauce, and a pinch of salt in a small bowl. Brush evenly over chicken.",
+    "Arrange chicken on a baking sheet lined with parchment paper. Bake for about 18-20 minutes until golden brown and cooked through.",
+    "While the chicken is baking, sauté chopped onion and minced garlic in a non-stick skillet over medium heat for 3-4 minutes or until softened.",
+    "Add sliced bell peppers to the skillet with onions and garlic. Cook for another minute, then stir in low-sodium broth, salt, and pepper to taste.",
+    "Stir in baby spinach and cook until just wilted, about a minute. Adjust seasoning if needed.",
+    "Combine cooked chicken pieces with the vegetable mixture. Serve immediately while warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "adventurous",
+    "dense",
+    "umami",
+    "chicken",
+    "stir-fry",
+    "low-sodium-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 31,
+    "carbs": 9,
+    "fat": 6
+  },
+  "slug": "adventurous-umami-dense-chicken-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-umami-dense-chicken-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T03:55:06Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "broil",
+    "primaryIngredient": "chicken",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Umami Dense Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}

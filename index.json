@@ -149,6 +149,21 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-umami-dense-chicken-stir-fry",
+    "title": "Adventurous Umami Dense Chicken Stir-fry",
+    "tags": [
+      "adventurous",
+      "dense",
+      "umami",
+      "chicken",
+      "stir-fry",
+      "low-sodium-friendly"
+    ],
+    "cuisine": "Philippine",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "adzika-milk-rich-adventure",
     "title": "Adzika Milk Rich Adventure",
     "tags": [
