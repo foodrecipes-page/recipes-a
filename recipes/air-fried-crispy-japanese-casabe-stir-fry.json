@@ -1,0 +1,90 @@
+{
+  "title": "Air-Fried Crispy Japanese Casabe Stir-Fry",
+  "description": "A light and sweet Japanese casabe stir-fry that's perfect for a solo dinner or as an appetizer.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Casabe",
+      "amount": "1 piece"
+    },
+    {
+      "name": "Vegetable oil for air-frying",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tablespoon, finely chopped"
+    },
+    {
+      "name": "Red pepper flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Mirin",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Gochujang (optional)",
+      "amount": "1-2 teaspoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Slice the casabe into thin pieces.",
+    "In a small bowl, whisk together soy sauce, mirin, gochujang, and minced garlic. Set aside.",
+    "Heat vegetable oil in a large skillet over medium heat.",
+    "Add sliced casabe to the skillet and cook for 2-3 minutes on each side until lightly browned.",
+    "Remove from pan and set aside.",
+    "In the same skillet, add red pepper flakes and ginger. Stir-fry for about 1 minute or until fragrant.",
+    "Pour in the soy sauce mixture and bring to a simmer.",
+    "Add cooked casabe back into the skillet and toss gently to combine with sauce.",
+    "Serve hot as an appetizer or light dinner dish.",
+    "prepTimeMin: 20, ",
+    "cookTimeMin: 15, ",
+    "totalTimeMin: 35, ",
+    "servings: 4, "
+  ],
+  "difficulty": "easy",
+  "tags": [
+    "air-fried-crispy",
+    "sweet-japanese-dish",
+    "casabe-stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 8,
+    "fat": 5
+  },
+  "slug": "air-fried-crispy-japanese-casabe-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-crispy-japanese-casabe-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T01:25:15Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "air-fry",
+    "primaryIngredient": "casabe",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "casabe",
+    "descriptor": "Air-Fried",
+    "dishForm": "Stir-Fry"
+  }
+}

@@ -224,6 +224,18 @@
     "shard": "a"
   },
   {
+    "slug": "air-fried-crispy-japanese-casabe-stir-fry",
+    "title": "Air-Fried Crispy Japanese Casabe Stir-Fry",
+    "tags": [
+      "air-fried-crispy",
+      "sweet-japanese-dish",
+      "casabe-stir-fry"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": null,
+    "shard": "a"
+  },
+  {
     "slug": "air-fried-crispy-moroccan-fennel-stir-fry",
     "title": "Air-Fried Crispy Moroccan Fennel Stir-fry",
     "tags": [
