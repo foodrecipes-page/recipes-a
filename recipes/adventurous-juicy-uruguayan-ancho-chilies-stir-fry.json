@@ -1,0 +1,81 @@
+{
+  "title": "Adventurous Juicy Uruguayan Ancho Chilies Stir-fry",
+  "description": "A savory and adventurous dish featuring juicy uruguayan ancho chilies in a paleo-friendly, savory sauce that is perfect for a quick lunch or dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "2 tbsp coconut oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 lb pork belly, cut into bite-sized pieces",
+      "amount": "lb"
+    },
+    {
+      "name": "8 large uruguayan ancho chilies, stemmed and seeded",
+      "amount": "pieces"
+    },
+    {
+      "name": "3 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "1 medium onion, chopped",
+      "amount": "medium"
+    },
+    {
+      "name": "1 red bell pepper, sliced (optional)",
+      "amount": "medium"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add pork belly and cook until browned on all sides.",
+    "Remove pork from the pan and set aside.",
+    "In the same pan, add garlic and onion. Sauté for about 2 minutes.",
+    "Add ancho chilies to the pan. Stir-fry for another minute or two until fragrant.",
+    "Return pork belly to the pan along with any accumulated juices. Add sliced red bell pepper if using.",
+    "Pour in enough water to cover the ingredients by a few inches, then add salt and pepper to taste.",
+    "Simmer gently covered for about 10 minutes until the meat is tender.",
+    "Serve hot as a main dish or side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "paleo-friendly",
+    "adventurous",
+    "juicy"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 28,
+    "carbs": 37,
+    "fat": 29
+  },
+  "slug": "adventurous-juicy-uruguayan-ancho-chilies-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-juicy-uruguayan-ancho-chilies-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T23:14:55Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "temper",
+    "primaryIngredient": "ancho chillies",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Ancho Chilies",
+    "descriptor": "Adventurous Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
