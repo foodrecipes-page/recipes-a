@@ -1,0 +1,86 @@
+{
+  "title": "Adventurous Juicy Norwegian Haricot Beans Stir-fry",
+  "description": "A savory and adventurous Nordic dish featuring air-fried haricot beans with a mediterranean twist.",
+  "cuisine": "Nordic",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "1 cup frozen haricot beans",
+      "amount": "cup"
+    },
+    {
+      "name": "2 tablespoons olive oil",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 onion, diced",
+      "amount": "medium"
+    },
+    {
+      "name": "4 cloves garlic, minced",
+      "amount": "cloves"
+    },
+    {
+      "name": "Juice of 1 lemon",
+      "amount": "juice of 1 lemon"
+    },
+    {
+      "name": "2 tablespoons balsamic vinegar",
+      "amount": "tbsp"
+    },
+    {
+      "name": "1 teaspoon smoked paprika",
+      "amount": "teaspoon"
+    },
+    {
+      "name": "Salt and pepper to taste",
+      "amount": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the diced onion and minced garlic, cooking until softened, about 5 minutes.",
+    "Stir in the haricot beans and lemon juice. Cover and simmer for 10-15 minutes or until tender.",
+    "Drizzle balsamic vinegar evenly over the top and stir to combine.",
+    "Season with smoked paprika, salt, and pepper to taste.",
+    "Serve hot as a side dish."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "norwegian",
+    "adventurous",
+    "stir-fry",
+    "air-fried",
+    "juicy",
+    "mediterranean-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 9,
+    "carbs": 38,
+    "fat": 12
+  },
+  "slug": "adventurous-juicy-norwegian-haricot-beans-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-juicy-norwegian-haricot-beans-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T16:36:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "haricot beans",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Haricot Beans",
+    "descriptor": "Adventurous Juicy",
+    "dishForm": "Stir-fry"
+  }
+}
