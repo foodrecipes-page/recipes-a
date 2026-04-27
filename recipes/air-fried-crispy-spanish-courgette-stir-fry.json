@@ -1,0 +1,77 @@
+{
+  "title": "Air-Fried Crispy Spanish Courgette Stir-Fry",
+  "description": "A sweet and crispy crowd-pleaser Spanish dish featuring air-fried courgettes that are perfect for a light lunch or dinner.",
+  "cuisine": "Spanish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Red Pepper Flakes",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sea Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Freshly Ground Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Cut the courgettes into thin, julienne strips. Season them with sea salt and pepper.",
+    "Heat olive oil in an air fryer basket at a high temperature of 375°F (190°C) for about 2 minutes until hot.",
+    "Add the courgette strips to the hot air fryer basket and cook for about 4-6 minutes or until crispy, turning once halfway through cooking time.",
+    "In another pan, sauté garlic in a little bit of olive oil until fragrant. Add the red pepper flakes and toss with the courgettes.",
+    "Mix together in a bowl to combine, garnish with more black pepper if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crispy",
+    "sweet",
+    "crowd-pleaser",
+    "spanish",
+    "courgette",
+    "air-fried"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 8,
+    "fat": 7
+  },
+  "slug": "air-fried-crispy-spanish-courgette-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-crispy-spanish-courgette-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-27T18:16:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "crowd-pleaser",
+    "technique": "air-fry",
+    "primaryIngredient": "courgettes",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Courgette",
+    "descriptor": "Air-Fried",
+    "dishForm": "Stir-Fry"
+  }
+}
