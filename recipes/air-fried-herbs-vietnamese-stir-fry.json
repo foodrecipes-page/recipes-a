@@ -1,0 +1,93 @@
+{
+  "title": "Air-Fried Herbs Vietnamese Stir-fry",
+  "description": "This romantic and dense herbal dish features sweet chilli sauce for a unique twist on traditional Vietnamese stir-fries, offering a delightful low-calorie option.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Mixed Herbs (e.g., Thai basil, mint)",
+      "amount": "1 handful"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "6 medium"
+    },
+    {
+      "name": "Crispy Shallots",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Sweet Chili Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt and Pepper",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Wash and pat dry the mixed herbs, cherry tomatoes, and shallots.",
+    "Slice the shallots thinly and chop the mixed herbs roughly.",
+    "Heat a non-stick air fryer to 180°C (350°F).",
+    "Drizzle olive oil over the sliced shallots in the air fryer basket. Season with salt and pepper, then arrange them evenly on the tray.",
+    "Fry the shallots for about 6 minutes or until crispy. Remove from heat and set aside.",
+    "In a small bowl, mix together sweet chili sauce, rice vinegar, and sesame seeds to create the dipping sauce.",
+    "Wipe out any excess oil from the air fryer basket. Arrange cherry tomatoes on top of the fried shallots in the basket.",
+    "Drizzle the remaining sweet chili mixture evenly over the tomato slices. Season with salt and pepper as desired.",
+    "Place the tray in the preheated air fryer and cook for about 5 minutes or until the tomatoes are slightly softened.",
+    "Gently toss the mixed herbs into the fried shallots, ensuring they adhere to them well.",
+    "Serve immediately by topping each dish of shallot and tomato with a few of the mixed herb garnish. Serve alongside the dipping sauce for extra flavor."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "herbaceous",
+    "sweet-chilli-sauce",
+    "vegan-friendly",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "air-fried-herbs-vietnamese-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-herbs-vietnamese-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T11:24:48Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "romantic",
+    "technique": "air-fry",
+    "primaryIngredient": "sweet chilli sauce",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "Herbs",
+    "descriptor": "Air-Fried",
+    "dishForm": "Stir-fry"
+  }
+}
