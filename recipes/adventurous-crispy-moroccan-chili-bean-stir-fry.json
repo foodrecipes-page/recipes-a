@@ -1,0 +1,88 @@
+{
+  "title": "Adventurous Crispy Moroccan Chili Bean Stir-fry",
+  "description": "An earthy and crispy Moroccan dish featuring chilli bean paste, deglazed with a low-sodium-friendly twist for an adventurous flavor profile.",
+  "cuisine": "Moroccan",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chili Bean Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Onions, finely chopped",
+      "amount": "1 large"
+    },
+    {
+      "name": "Crispy Potatoes (or other root vegetables), cut into cubes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Low-sodium Chicken Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Corn Starch or Corn Flour, for thickening the broth",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Water, to thin out the sauce if needed",
+      "amount": "as required"
+    },
+    {
+      "name": "Red Peppers, finely chopped (optional)",
+      "amount": "1 small"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet or wok over medium-high heat and add olive oil.",
+    "Add onions and garlic to the skillet, sauté until golden brown and fragrant.",
+    "Stir in chili bean paste and cook for about 2 minutes until fragrant.",
+    "If using red peppers, add them now and stir well.",
+    "Gradually pour in low-sodium chicken broth while continuously stirring to deglaze the pan, scraping up any tasty bits from the bottom.",
+    "Reduce heat to medium and mix in corn starch or flour. Stir until fully incorporated and sauce starts thickening slightly.",
+    "Add chopped crispy potatoes, reduce heat to low-medium, cover partially with a lid, and let simmer for about 15-20 minutes, stirring occasionally to prevent burning.",
+    "If the sauce is too thin after this point, adjust seasoning and add water as needed. Taste test and adjust seasonings if necessary.",
+    "Garnish with fresh herbs like cilantro or parsley before serving.",
+    "Serve hot over steamed rice or over grilled bread for a delightful Moroccan-themed meal."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "adventurous",
+    "spicy",
+    "low-sodium"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 7
+  },
+  "slug": "adventurous-crispy-moroccan-chili-bean-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-crispy-moroccan-chili-bean-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T19:07:37Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "deglaze",
+    "primaryIngredient": "chilli bean paste",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "Chili Bean Paste",
+    "descriptor": "Adventurous Crispy",
+    "dishForm": "Stir-fry"
+  }
+}
