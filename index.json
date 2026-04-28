@@ -28,6 +28,21 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-canadian-chocolate-crumble",
+    "title": "Adventurous Canadian Chocolate Crumble",
+    "tags": [
+      "chocolate",
+      "crumble",
+      "sour",
+      "adventurous",
+      "canadian",
+      "egg-free"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-crispy-herb-skewers",
     "title": "Adventurous Crispy Herb Skewers",
     "tags": [

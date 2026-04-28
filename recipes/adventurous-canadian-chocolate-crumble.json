@@ -1,0 +1,87 @@
+{
+  "title": "Adventurous Canadian Chocolate Crumble",
+  "description": "A sour and chewy adventurous Canadian chocolate crumble dish featuring cocoa, deglazed with a touch of savory umami flavor from Worcestershire sauce.",
+  "cuisine": "Canadian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "8 oz dark chocolate",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 tbsp all-purpose flour",
+      "notes": "optional, for thickening the cocoa mixture"
+    },
+    {
+      "name": "1/4 cup Worcestershire sauce",
+      "notes": "adds a savory umami flavor to complement the sweetness of the dark chocolate and cocoa powder"
+    },
+    {
+      "name": "6 oz fresh raspberries",
+      "amount": "chopped"
+    },
+    {
+      "name": "2 tbsp cornstarch",
+      "notes": "for thickening the syrup-like mixture used in the crumble topping"
+    },
+    {
+      "name": "1/4 cup water",
+      "amount": "mixed with cornstarch to form a syrup-like consistency"
+    },
+    {
+      "name": "2 tbsp honey or maple syrup",
+      "notes": "sweetens the crumble and balances the savory Worcestershire sauce"
+    },
+    {
+      "name": "3 large eggs (or 6 egg whites for vegan version)",
+      "notes": "optional, for use in traditional chocolate crumbles but omitted to make it egg-free-friendly"
+    }
+  ],
+  "instructions": [
+    "Combine chopped dark chocolate with a little bit of hot water until fully melted and smooth. Let cool slightly.",
+    "In a small bowl, whisk together the cornstarch, honey/maple syrup, and water until no lumps remain.",
+    "Pour the cooled chocolate mixture into a saucepan with the Worcestershire sauce and stir well to combine evenly. Simmer for about 1 minute or until thickened, then remove from heat. Stir in the chopped raspberries and mix well.",
+    "For the crumble topping: Mix cornstarch with water to create a thin syrup-like consistency (if using eggs, add them now). Add this syrup mixture to the chocolate mixture and stir gently until it coats the raspberries evenly. If desired, sprinkle some additional cocoa powder over the top before baking.",
+    "Preheat oven to 350°F (175°C). In a medium bowl, combine all crumble ingredients: ground dark chocolate, flour, cornstarch syrup mixture. Mix until just combined—avoiding overmixing as this can make the crumble tough.",
+    "Transfer the crumble mixture onto a greased baking dish or pie plate and smooth out into an even layer. Sprinkle with additional cocoa powder if desired.",
+    "Bake in preheated oven for 15-20 minutes, or until golden brown and crisp on top. Cool slightly before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chocolate",
+    "crumble",
+    "sour",
+    "adventurous",
+    "canadian",
+    "egg-free"
+  ],
+  "nutrition": {
+    "calories": 275,
+    "protein": 6,
+    "carbs": 38,
+    "fat": 14
+  },
+  "slug": "adventurous-canadian-chocolate-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-canadian-chocolate-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T22:24:08Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "deglaze",
+    "primaryIngredient": "cocoa",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "Chocolate",
+    "descriptor": "Adventurous",
+    "dishForm": "Crumble"
+  }
+}
