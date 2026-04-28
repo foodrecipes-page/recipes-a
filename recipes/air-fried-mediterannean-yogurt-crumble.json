@@ -1,0 +1,73 @@
+{
+  "title": "Air-Fried Mediterannean Yogurt Crumble",
+  "description": "A sour and creamy mediterranean dish featuring stale bread crumbled with yogurt for a midnight-craving treat that's sugar-free-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Stale Bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Fresh Herbs (e.g., oregano, parsley)",
+      "amount": "pinch each"
+    },
+    {
+      "name": "Optional: Lemon Juice or Vinaigrette for Topping",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 350°F (175°C).",
+    "Toast stale bread until lightly golden, then crumble into small pieces.",
+    "Stir in fresh herbs and a little lemon juice or vinaigrette if desired.",
+    "Fold the yogurt mixture gently over the crumbs using a fork or your hands to mix well without breaking up too much of the bread pieces.",
+    "Transfer the mixture evenly onto an air fryer tray lined with parchment paper for non-stick cooking.",
+    "Air-fry for about 8-10 minutes, shaking halfway through until golden and crispy. Watch closely as it can easily burn.",
+    "Remove from heat and let cool slightly before serving. Enjoy its sour and creamy mediterranean flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "air-fried",
+    "sour-mediterranean",
+    "creamy",
+    "midnight-craving",
+    "bread-crumbs",
+    "sugar-free-friendly"
+  ],
+  "nutrition": {
+    "calories": 130,
+    "protein": 2,
+    "carbs": 6,
+    "fat": 4
+  },
+  "slug": "air-fried-mediterannean-yogurt-crumble",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-mediterannean-yogurt-crumble",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-28T21:01:52Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "air-fry",
+    "primaryIngredient": "stale bread",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Mediterannean",
+    "mainIngredient": "Yogurt",
+    "descriptor": "Air-Fried",
+    "dishForm": "Crumble"
+  }
+}
