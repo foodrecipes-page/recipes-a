@@ -1,0 +1,98 @@
+{
+  "title": "Adventurous Peppery Gooey Dark Brown Sugar Stir-fry",
+  "description": "A low-sodium-friendly Ukrainian dish featuring dark soft brown sugar in an adventurous peppery and gooey sauce for a flavorful evening meal.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "6-8"
+    },
+    {
+      "name": "red bell pepper slices",
+      "amount": "2 cups"
+    },
+    {
+      "name": "green onion, sliced",
+      "amount": "2-3"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dark soft brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "low-sodium soy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1-2 teaspoons"
+    },
+    {
+      "name": "chili garlic sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat. Add chicken and cook until golden brown, about 5 minutes per side.",
+    "Add sliced red bell peppers to the pan with garlic, cooking for an additional 2-3 minutes or until slightly softened.",
+    "Remove chicken from the pan and set aside. Reduce the remaining liquid in the pan by half, adding dark soft brown sugar, soy sauce, water, chili flakes, and chili garlic sauce. Bring to a simmer and cook for about 5 minutes.",
+    "Add lime juice, red pepper flakes, green onions, and sesame seeds to the sauce mixture and stir well to combine. Return chicken to the pan and gently toss until heated through, adding more liquid if needed to achieve desired consistency.",
+    "Serve hot with steamed vegetables or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "adventurous",
+    "peppery",
+    "gooey",
+    "dark-brown-sugar",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 381,
+    "protein": 27,
+    "carbs": 45,
+    "fat": 16
+  },
+  "slug": "adventurous-peppery-gooey-dark-brown-sugar-stir-fry",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-peppery-gooey-dark-brown-sugar-stir-fry",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-04-29T12:48:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "gooey",
+    "mood": "adventurous",
+    "technique": "reduce",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "Dark Brown Sugar",
+    "descriptor": "Peppery Gooey Adventurous",
+    "dishForm": "Stir-fry"
+  }
+}

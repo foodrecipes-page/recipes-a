@@ -165,6 +165,20 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-peppery-gooey-dark-brown-sugar-stir-fry",
+    "title": "Adventurous Peppery Gooey Dark Brown Sugar Stir-fry",
+    "tags": [
+      "adventurous",
+      "peppery",
+      "gooey",
+      "dark-brown-sugar",
+      "stir-fry"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-pineapple-tart",
     "title": "Adventurous Pineapple Tart",
     "tags": [
