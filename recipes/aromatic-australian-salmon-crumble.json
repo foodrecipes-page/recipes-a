@@ -1,0 +1,113 @@
+{
+  "title": "Aromatic Australian Salmon Crumble",
+  "description": "A nutty, crumbly salmon dish with tamarind glaze that doubles as a hangover cure.",
+  "cuisine": "Australian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Salmon fillets",
+      "amount": "800g",
+      "notes": "skin removed"
+    },
+    {
+      "name": "Tamarind paste",
+      "amount": "1 tbsp",
+      "notes": "unsweetened"
+    },
+    {
+      "name": "Ground almonds",
+      "amount": "50g",
+      "notes": "to taste"
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "20g",
+      "notes": "sifted"
+    },
+    {
+      "name": "Panko breadcrumbs",
+      "amount": "30g",
+      "notes": "lightly toasted"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "20ml",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 10ml oil in a large skillet over medium heat and sear salmon fillets for 3-4 minutes per side until golden, then set aside.",
+    "In the same skillet, add remaining oil, garlic, and a pinch of salt; sauté for 30 seconds until fragrant.",
+    "Stir in tamarind paste, lemon juice, and a splash of water, simmering for 2 minutes to create a tangy glaze.",
+    "While the glaze reduces, combine ground almonds, coconut flour, toasted panko, and pepper in a bowl, seasoning with salt to taste.",
+    "Return salmon to the skillet, spooning some glaze over each fillet, and cover; cook for 2 more minutes to reheat.",
+    "Sprinkle the crumb mixture evenly over the salmon, pressing lightly to adhere.",
+    "Transfer the skillet to a preheated oven at 180°C and bake for 8 minutes, or until the crumble is golden and the salmon flakes easily.",
+    "Garnish with chopped dill before serving hot with a side of steamed greens."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "crumble",
+    "hangover-cure",
+    "nutty",
+    "pescatarian-friendly",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 28,
+    "fat": 18
+  },
+  "slug": "aromatic-australian-salmon-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-australian-salmon-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:02:12Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "hangover-cure",
+    "technique": "temper",
+    "primaryIngredient": "tamarind paste",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "Salmon",
+    "descriptor": "Aromatic",
+    "dishForm": "Crumble"
+  }
+}
