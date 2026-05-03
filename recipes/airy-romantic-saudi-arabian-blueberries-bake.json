@@ -1,0 +1,100 @@
+{
+  "title": "Airy Romantic Saudi-Arabian Blueberries Bake",
+  "description": "A light and airy dessert featuring blueberries, rosewater, and cardamom, inspired by the traditional Saudi-Arabian cuisine.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "ayurvedic",
+    "tamasic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Blueberries",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1 cup",
+      "notes": "finely ground"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rice flour",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Rosewater",
+      "amount": "2 tablespoons",
+      "notes": "high-quality"
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "4 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a medium bowl, whisk together almond flour, coconut sugar, rice flour, salt, and ground cardamom.",
+    "Add the melted butter and rosewater to the dry ingredients and mix until well combined.",
+    "Gently fold in the blueberries.",
+    "Pour the batter into a greased 8-inch round baking dish.",
+    "Bake for 35 minutes or until golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "blueberries",
+    "cardamom",
+    "dessert",
+    "one-pan",
+    "rosewater",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 230,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "airy-romantic-saudi-arabian-blueberries-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-romantic-saudi-arabian-blueberries-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:41:22Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "bake",
+    "primaryIngredient": "blueberries",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "blueberries",
+    "descriptor": "airy romantic",
+    "dishForm": "Bake"
+  }
+}

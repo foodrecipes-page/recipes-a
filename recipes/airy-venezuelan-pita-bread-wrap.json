@@ -1,0 +1,101 @@
+{
+  "title": "Airy Venezuelan Pita Bread Wrap",
+  "description": "A comforting Venezuelan dish featuring pita bread, lamination-puff, and Ayurvedic-sattvic-friendly ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pita bread",
+      "amount": "4-6 pieces"
+    },
+    {
+      "name": "Avocado",
+      "amount": "2 ripe avocados",
+      "notes": "Mashed"
+    },
+    {
+      "name": "Queso fresco",
+      "amount": "8 oz crumbled"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Laminate the pita bread by brushing with olive oil and sprinkling with minced garlic.",
+    "Bake the pita bread in the oven for 10 minutes or until crispy.",
+    "Mash the avocado in a bowl and mix with chimichurri sauce, lime juice, salt, and black pepper.",
+    "Spread the avocado-chimichurri mixture on the baked pita bread.",
+    "Top the pita bread with crumbled queso fresco, mixed greens, and chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "lunch",
+    "one-pan",
+    "south-american",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "airy-venezuelan-pita-bread-wrap",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-venezuelan-pita-bread-wrap",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:41:41Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "springy",
+    "mood": "comforting",
+    "technique": "lamination-puff",
+    "primaryIngredient": "pita bread",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "pita bread",
+    "descriptor": "airy",
+    "dishForm": "Wrap"
+  }
+}
