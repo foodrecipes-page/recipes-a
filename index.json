@@ -893,6 +893,17 @@
     "shard": "a"
   },
   {
+    "slug": "amber-korean-scallion-stir-fry",
+    "title": "Amber Korean Scallion Stir‑fry",
+    "tags": [
+      "korean",
+      "dinner"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "ambrosial-british-mincemeat-tart",
     "title": "Ambrosial British Mincemeat Tart",
     "tags": [

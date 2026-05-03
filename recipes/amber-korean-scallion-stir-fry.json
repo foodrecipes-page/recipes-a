@@ -1,0 +1,94 @@
+{
+  "title": "Amber Korean Scallion Stir‑fry",
+  "description": "A sweet and chewy Korean bokkeum with tender pork and scallions in a caramelized amber glaze that is paleo‑friendly and bursting with umami.",
+  "cuisine": "Korean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "200g",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "4 stalks",
+      "notes": "cut into 1‑inch pieces"
+    },
+    {
+      "name": "coconut aminos",
+      "amount": "1 tablespoon",
+      "notes": "for sauce"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "for sweetness"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a wok over medium‑high heat until shimmering.",
+    "Add sliced pork loin and cook until browned and cooked through, about 3 minutes. Remove pork from wok and set aside.",
+    "Add ginger, garlic, and red pepper flakes to the wok and stir until fragrant, about 30 seconds."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "korean",
+    "dinner"
+  ],
+  "slug": "amber-korean-scallion-stir-fry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/amber-korean-scallion-stir-fry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:25:24Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "chewy",
+    "mood": "light",
+    "technique": "braise",
+    "primaryIngredient": "scallions",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Scallion",
+    "descriptor": "Amber",
+    "dishForm": "Stir-fry"
+  }
+}
