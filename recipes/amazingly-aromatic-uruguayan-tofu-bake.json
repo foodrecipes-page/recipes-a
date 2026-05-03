@@ -1,0 +1,106 @@
+{
+  "title": "Amazingly Aromatic Uruguayan Tofu Bake",
+  "description": "A tangy and silky plant-based dish featuring dark soy sauce, this Uruguayan-inspired bake is perfect for a monsoon evening. It combines the richness of tofu with the depth of dark soy sauce and the comfort of a warm bake.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cubed"
+    },
+    {
+      "name": "dark soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the dark soy sauce, olive oil, garlic, smoked paprika, salt, and black pepper.",
+    "Add the cubed tofu to the bowl and toss to coat with the soy sauce mixture.",
+    "In a separate bowl, mix together the chopped onion and red bell pepper.",
+    "In a baking dish, create a layer of the onion and bell pepper mixture.",
+    "Add a layer of the tofu on top of the onion and bell pepper mixture.",
+    "Drizzle the tomato paste over the tofu.",
+    "Repeat the layers one more time, ending with a layer of the onion and bell pepper mixture on top.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "monsoon-friendly",
+    "one-pan",
+    "plant-based",
+    "uruguayan-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "amazingly-aromatic-uruguayan-tofu-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-aromatic-uruguayan-tofu-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T22:39:38Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "silky",
+    "mood": "monsoon",
+    "technique": "bake",
+    "primaryIngredient": "dark soy sauce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tofu",
+    "descriptor": "amazingly aromatic",
+    "dishForm": "Bake"
+  }
+}
