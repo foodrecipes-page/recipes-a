@@ -1,0 +1,104 @@
+{
+  "title": "Aromatic Dense Japanese Blackeye Peas Soup",
+  "description": "A floral, dense and nostalgic Japanese soup featuring blackeye peas, kombu, and shiitake, perfectly suited for a halal-friendly meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "blackeye peas",
+      "amount": "200g"
+    },
+    {
+      "name": "kombu",
+      "amount": "15g"
+    },
+    {
+      "name": "dried shiitake",
+      "amount": "5g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece, minced"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "tamari soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1.5 L"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks, sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the blackeye peas and soak them in water for at least 4 hours or overnight.",
+    "In a pot, combine water, kombu, shiitake, and bring to a gentle boil; simmer for 15 minutes, then remove the kombu.",
+    "Add the soaked peas, diced onion, minced garlic, and minced ginger to the pot; simmer for 45 minutes until the peas are tender.",
+    "Stir in tamari soy sauce, mirin, and sesame oil; season with salt if desired, and simmer for an additional 5 minutes.",
+    "Remove the pot from heat and let the soup rest for 2 minutes to allow flavors to meld.",
+    "Serve the soup hot, garnishing with sliced scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dense",
+    "floral",
+    "halal-friendly",
+    "japanese-soup",
+    "nostalgic"
+  ],
+  "nutrition": {
+    "calories": 900,
+    "protein": 55,
+    "carbs": 131,
+    "fat": 21
+  },
+  "slug": "aromatic-dense-japanese-blackeye-peas-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-dense-japanese-blackeye-peas-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:03:10Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "blackeye pea",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Blackeye Peas",
+    "descriptor": "Aromatic Dense",
+    "dishForm": "Soup"
+  }
+}
