@@ -1,0 +1,102 @@
+{
+  "title": "Aromatic Canadian Cheese Gratin",
+  "description": "A buttery, fluffy, indulgent Canadian dish with a hint of heat from chilli powder, finished under a broiler for a golden crust.",
+  "cuisine": "Canadian",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1.5 cups"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "0.5 cup"
+    },
+    {
+      "name": "hot chilli powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp, chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F and set the broiler to high.",
+    "Melt 2 tbsp butter in a medium skillet over medium heat until foamy.",
+    "Add diced onion and cook until translucent, about 5 minutes.",
+    "Stir in minced garlic, 1 tsp hot chilli powder, and smoked paprika; cook for 1 minute.",
+    "Pour in 1 cup heavy cream, bring to a gentle simmer, and let reduce slightly for 4 minutes.",
+    "Remove from heat and stir in 1.5 cups grated cheddar, 0.5 cup parmesan, 0.5 tsp salt, and 0.25 tsp pepper until melted.",
+    "Transfer mixture to a lightly greased 8-inch square baking dish; top with remaining cheese if desired.",
+    "Broil for 3-4 minutes until golden brown and bubbling, then remove from oven and let rest 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "broil",
+    "cheesy",
+    "comfort-food",
+    "kitchen-favorite",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 20,
+    "carbs": 4,
+    "fat": 48
+  },
+  "slug": "aromatic-canadian-cheese-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-canadian-cheese-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:11:03Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "broil",
+    "primaryIngredient": "hot chilli powder",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "cheese",
+    "descriptor": "Aromatic",
+    "dishForm": "Gratin"
+  }
+}
