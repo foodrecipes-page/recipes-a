@@ -1094,6 +1094,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-irish-potato-curry",
+    "title": "Aromatic Irish Potato Curry",
+    "tags": [
+      "curry",
+      "egg-free",
+      "irish-curry",
+      "light",
+      "meal-prep",
+      "whipping-cream"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-moroccan-fava-beans-bissara",
     "title": "Aromatic Moroccan Fava Beans Bissara",
     "tags": [

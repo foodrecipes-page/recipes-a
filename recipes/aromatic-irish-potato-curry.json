@@ -1,0 +1,109 @@
+{
+  "title": "Aromatic Irish Potato Curry",
+  "description": "A light, sour Irish potato curry made with a bhuna base and whipping cream, perfect for meal-prep.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 medium russet potatoes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large onion"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Canned diced tomatoes",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Curry powder",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Whipping cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Seasoning",
+      "amount": "1 teaspoon salt and 1/2 teaspoon black pepper"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium heat until shimmering.",
+    "Add the diced onion, minced garlic, and minced ginger, sautéing until the onion turns translucent.",
+    "Stir in the curry powder, turmeric, and cumin, cooking for 1–2 minutes until fragrant.",
+    "Add the tomato paste and cook, stirring, until it darkens slightly and releases a rich aroma.",
+    "Pour in the canned diced tomatoes with their juice, stirring to combine, then bring the mixture to a gentle simmer.",
+    "Add the diced potatoes, cover the skillet, and let the curry simmer for about 15 minutes, or until the potatoes are tender.",
+    "Once the potatoes are cooked, stir in the whipping cream, allowing it to thicken the sauce slightly.",
+    "Season the curry with salt and pepper, tasting and adjusting as desired.",
+    "Remove the skillet from the heat and let the curry rest for 5 minutes before serving or storing.",
+    "Portion the curry into meal‑prep containers and refrigerate; reheat gently in a saucepan or microwave before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "curry",
+    "egg-free",
+    "irish-curry",
+    "light",
+    "meal-prep",
+    "whipping-cream"
+  ],
+  "nutrition": {
+    "calories": 378,
+    "protein": 6,
+    "carbs": 44,
+    "fat": 18
+  },
+  "slug": "aromatic-irish-potato-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-irish-potato-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:36:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "light",
+    "mood": "meal-prep",
+    "technique": "bhuna",
+    "primaryIngredient": "whipping cream",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Potato",
+    "descriptor": "Aromatic",
+    "dishForm": "Curry"
+  }
+}
