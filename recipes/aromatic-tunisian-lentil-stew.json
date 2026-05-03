@@ -1,0 +1,108 @@
+{
+  "title": "Aromatic Tunisian Lentil Stew",
+  "description": "A citrusy, minty one-pot lentil stew with a hint of spice, perfect for a quick vegan lunch.",
+  "cuisine": "tunisian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried green lentils",
+      "amount": "200g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "400g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "600ml"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "20g chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "½ tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse lentils under cold water until water runs clear.",
+    "In a large pot, heat olive oil over medium heat and sauté onion until translucent.",
+    "Add garlic and cook for 30 seconds until fragrant.",
+    "Stir in cumin and paprika, cooking for another minute.",
+    "Add canned tomatoes with juice, lentils, and vegetable broth; bring to a boil.",
+    "Reduce heat, cover, and simmer for 25 minutes or until lentils are tender.",
+    "Stir in lemon juice and chopped mint, seasoning with salt and pepper to taste.",
+    "Simmer uncovered for 5 minutes to meld flavors.",
+    "Taste and adjust seasoning if needed.",
+    "Serve hot, optionally garnished with extra mint leaves."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrus",
+    "lentil",
+    "one-pot",
+    "spicy",
+    "tunisian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "aromatic-tunisian-lentil-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-tunisian-lentil-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:45:06Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crumbly",
+    "mood": "one-pot",
+    "technique": "boil",
+    "primaryIngredient": "mint",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lentils",
+    "descriptor": "Aromatic",
+    "dishForm": "Stew"
+  }
+}
