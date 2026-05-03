@@ -1,0 +1,121 @@
+{
+  "title": "Aromatic Vietnamese Chwinamul Pho",
+  "description": "Savor the flavors of Vietnam with this aromatic and savory Pho dish featuring the unique chwinamul vegetable, a low-glycemic-friendly twist on the classic recipe.",
+  "cuisine": "vietnamese",
+  "diet": [
+    "gluten-free",
+    "low-carb",
+    "healthy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Broth",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought, low-sodium"
+    },
+    {
+      "name": "Chwinamul Vegetables",
+      "amount": "1 bunch",
+      "notes": "Trimmed and sliced into thin strips"
+    },
+    {
+      "name": "Tempering Chocolate",
+      "amount": "2 oz",
+      "notes": "Cocoa nibs or shaved dark chocolate"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced thin"
+    },
+    {
+      "name": "Cinnamon Sticks",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Star Anise",
+      "amount": "2 pods",
+      "notes": "Whole"
+    },
+    {
+      "name": "Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Bean Sprouts",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced Thin Beef",
+      "amount": "1 pound",
+      "notes": "Rare, thinly sliced"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine beef broth, sliced ginger, cinnamon sticks, and star anise in a large stockpot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Strain the broth through a fine-mesh sieve into a clean pot, discarding the solids.",
+    "Add the sliced chwinamul, Thai basil, and bean sprouts to the broth.",
+    "Cook for an additional 2-3 minutes, or until the vegetables are slightly tender.",
+    "Add the sliced beef to the pot and cook for 1-2 minutes, or until cooked to desired doneness.",
+    "Stir in the tempering chocolate, fish sauce, and soy sauce.",
+    "Season with honey to taste.",
+    "Serve the Pho hot, garnished with additional Thai basil and bean sprouts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "low-glycemic",
+    "one-pot",
+    "savory",
+    "springy",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "aromatic-vietnamese-chwinamul-pho",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-vietnamese-chwinamul-pho",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:19:17Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "chwinamul",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "chwinamul",
+    "descriptor": "Aromatic",
+    "dishForm": "Pho"
+  }
+}

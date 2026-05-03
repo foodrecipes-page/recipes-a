@@ -1114,6 +1114,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-vietnamese-chwinamul-pho",
+    "title": "Aromatic Vietnamese Chwinamul Pho",
+    "tags": [
+      "date-night",
+      "low-glycemic",
+      "one-pot",
+      "savory",
+      "springy",
+      "vietnamese-cuisine"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "asparaguas-grilled-verde",
     "title": "Asparaguas Grilled Verde",
     "tags": [
