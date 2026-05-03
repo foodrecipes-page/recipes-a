@@ -1,0 +1,106 @@
+{
+  "title": "Airy Aerated Thai Chicken Tom Kha Soup",
+  "description": "A one-pot Thai soup featuring yellow masarepa and shio-cure chicken, cooked to perfection with an airy aerated touch.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "pescetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "yellow masarepa",
+      "amount": "2 cups"
+    },
+    {
+      "name": "shio-cure chicken",
+      "amount": "1 pound",
+      "notes": "sliced into bite-sized pieces"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lemongrass",
+      "amount": "2 stalks",
+      "notes": " bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "2 inches",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium-high heat.",
+    "Add the sliced chicken and cook until browned, about 5 minutes.",
+    "Add the lemongrass, galangal, and chili peppers, and cook for 1 minute.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 10 minutes.",
+    "Stir in the coconut milk, fish sauce, and lemon juice.",
+    "Add the sliced kaffir lime leaves and cook for an additional 2 minutes.",
+    "Season with salt to taste.",
+    "Stir in the yellow masarepa and cook for 2-3 minutes, or until it has absorbed most of the liquid.",
+    "Serve the soup hot, garnished with additional kaffir lime leaves and lemongrass if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "one-pot",
+    "soup",
+    "spicy",
+    "thai",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "airy-aerated-thai-chicken-tom-kha-soup",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-aerated-thai-chicken-tom-kha-soup",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:18:08Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "shio-cure",
+    "primaryIngredient": "yellow masarepa",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Airy Aerated",
+    "dishForm": "Tom Kha Soup"
+  }
+}
