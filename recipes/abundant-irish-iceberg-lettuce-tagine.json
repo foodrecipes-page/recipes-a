@@ -1,0 +1,109 @@
+{
+  "title": "Abundant Irish Iceberg Lettuce Tagine",
+  "description": "A hearty, lazy-sunday Irish tagine that balances flavor with diabetic-friendly ingredients while keeping carbs low.",
+  "cuisine": "Irish",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Iceberg lettuce",
+      "amount": "1 head",
+      "notes": "cut into wedges"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "300 g",
+      "notes": "diced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "200 g",
+      "notes": "drained"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Low-sodium chicken broth",
+      "amount": "200 ml"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy pot over medium heat.",
+    "Add sliced onion and minced garlic, sauté until translucent.",
+    "Stir in diced chicken and cook until lightly browned.",
+    "Add carrot slices, chickpeas, tomato paste, cumin, smoked paprika, salt, and pepper; stir to coat.",
+    "Pour in chicken broth, bring to a gentle simmer, cover, and cook for 20 minutes until vegetables are tender.",
+    "Meanwhile, cut the iceberg lettuce head into wedges or large leaves.",
+    "Gently fold the lettuce into the tagine, cover, and cook for an additional 5 minutes until just wilted.",
+    "Serve hot, optionally garnish with fresh parsley or mint."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "irish",
+    "lazy-sunday",
+    "low-carb",
+    "tagine",
+    "weekend"
+  ],
+  "nutrition": {
+    "calories": 1050,
+    "protein": 90,
+    "carbs": 60,
+    "fat": 36
+  },
+  "slug": "abundant-irish-iceberg-lettuce-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/abundant-irish-iceberg-lettuce-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T23:31:17Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "shaggy",
+    "mood": "lazy-sunday",
+    "technique": "tagine-cook",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Iceberg Lettuce",
+    "descriptor": "Abundant",
+    "dishForm": "Tagine"
+  }
+}
