@@ -1023,6 +1023,22 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-spicy-japanese-peas-ramen",
+    "title": "Aromatic Spicy Japanese Peas Ramen",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "high-protein",
+      "meal-prep",
+      "meatless",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-tunisian-lentil-stew",
     "title": "Aromatic Tunisian Lentil Stew",
     "tags": [

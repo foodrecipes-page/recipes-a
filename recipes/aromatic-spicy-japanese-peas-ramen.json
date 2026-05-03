@@ -1,0 +1,104 @@
+{
+  "title": "Aromatic Spicy Japanese Peas Ramen",
+  "description": "A pescatarian-friendly, spicy, and chewy Japanese dish featuring split peas, perfect for meal prep.",
+  "cuisine": "japanese",
+  "diet": [
+    "pescatarian-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "split peas",
+      "amount": "250g"
+    },
+    {
+      "name": "chicken or vegetable broth",
+      "amount": "4c"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1tsp"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "green chili peppers",
+      "amount": "2"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1tbsp"
+    },
+    {
+      "name": "noodles (ramen or soba)",
+      "amount": "200g"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the broth, soy sauce, sugar, grated ginger, and garlic, and bring to a boil over medium-high heat.",
+    "Reduce heat to low and simmer for 10 minutes, or until the liquid has reduced slightly and the flavors have melded together.",
+    "While the broth is simmering, cook the noodles according to the package instructions and set aside.",
+    "In a large saucepan, heat the sesame oil over medium-high heat and sauté the split peas for 2-3 minutes, or until they are lightly browned.",
+    "Add the green chili peppers to the saucepan and cook for an additional 2 minutes, or until they are tender.",
+    "Add the cooked noodles to the saucepan and stir to combine with the split peas and chili peppers.",
+    "Pour the simmered broth over the noodles and split peas, and stir to combine.",
+    "Garnish with toasted sesame seeds, scallions, and additional chili peppers if desired.",
+    "Serve hot, with a side of your favorite toppings, such as sliced green onions, grated ginger, or sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "high-protein",
+    "meal-prep",
+    "meatless",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "aromatic-spicy-japanese-peas-ramen",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-spicy-japanese-peas-ramen",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-03T23:04:43Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "meal-prep",
+    "technique": "temper",
+    "primaryIngredient": "split peas",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "peas",
+    "descriptor": "Aromatic Spicy",
+    "dishForm": "Ramen"
+  }
+}
