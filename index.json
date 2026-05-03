@@ -847,6 +847,20 @@
     "shard": "a"
   },
   {
+    "slug": "ambrosial-british-mincemeat-tart",
+    "title": "Ambrosial British Mincemeat Tart",
+    "tags": [
+      "british",
+      "dessert",
+      "kosher-friendly",
+      "sous-vide",
+      "tart"
+    ],
+    "cuisine": "British",
+    "totalTimeMin": 100,
+    "shard": "a"
+  },
+  {
     "slug": "ancho-crunch-bowl",
     "title": "Ancho Crunch Bowl",
     "tags": [

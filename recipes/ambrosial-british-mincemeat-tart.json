@@ -1,0 +1,97 @@
+{
+  "title": "Ambrosial British Mincemeat Tart",
+  "description": "A sweet, tender tart featuring a rich mincemeat filling cooked sous-vide for perfect texture, topped with glossy butter and baked to golden perfection.",
+  "cuisine": "British",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "unsalted butter, cold",
+      "amount": "50 g"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "cold water",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "mincemeat",
+      "amount": "300 g"
+    },
+    {
+      "name": "brandy",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground nutmeg",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "melted butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C.",
+    "Combine flour, cold butter, 5 g salt and 5 g baking powder; pulse in mixer until coarse crumbs.",
+    "Add egg and cold water; mix until dough forms; roll onto floured surface; cut into circles to fit tart shells.",
+    "Line shallow tart pans with pastry; prick bottom with fork.",
+    "Mix mincemeat with brandy, cinnamon, nutmeg, vanilla and melted butter; seal mixture in a vacuum bag.",
+    "Cook vacuum-sealed mincemeat sous-vide at 60°C for 45 minutes; then chill in refrigerator for 30 minutes.",
+    "Spoon chilled mincemeat into pastry shells; spoon melted butter over top.",
+    "Bake for 25 minutes until pastry golden; let cool 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 70,
+  "totalTimeMin": 100,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dessert",
+    "kosher-friendly",
+    "sous-vide",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 6,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "ambrosial-british-mincemeat-tart",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ambrosial-british-mincemeat-tart",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:49:44Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "tender",
+    "mood": "monsoon",
+    "technique": "sous-vide",
+    "primaryIngredient": "mincemeat",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "mincemeat",
+    "descriptor": "Ambrosial",
+    "dishForm": "Tart"
+  }
+}
