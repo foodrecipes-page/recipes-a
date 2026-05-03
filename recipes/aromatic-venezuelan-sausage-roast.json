@@ -1,0 +1,119 @@
+{
+  "title": "Aromatic Venezuelan Sausage Roast",
+  "description": "Fermented Venezuelan pork sausage slow roasted with cumin, oregano, and a sweet tamarind glaze, a kid-friendly and diabetic-friendly dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb",
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fermented Venezuelan pork sausage",
+      "amount": "454 g",
+      "notes": ""
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "yellow bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "quartered"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh oregano leaves",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tsp",
+      "notes": "diluted with 2 tbsp water"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 F (190 C).",
+    "In a bowl, whisk tamarind paste with 2 tbsp water, honey, and olive oil until smooth.",
+    "Pat sausage dry and place in a baking dish, drizzle with half of the tamarind glaze.",
+    "Arrange sliced peppers, onion, and tomato around sausage; sprinkle with cumin, paprika, and oregano.",
+    "Pour vegetable broth into dish, cover with foil.",
+    "Roast for 45 minutes, then remove foil, brush remaining glaze over sausage, and continue roasting for another 15 minutes until caramelized.",
+    "Let the roast rest 10 minutes before slicing.",
+    "Serve slices with a side of sautéed greens or quinoa to keep the meal balanced."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "kid-friendly",
+    "low-carb",
+    "one-pan",
+    "slow-cook",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 203,
+    "protein": 14,
+    "carbs": 4,
+    "fat": 8
+  },
+  "slug": "aromatic-venezuelan-sausage-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-venezuelan-sausage-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:40:50Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "chewy",
+    "mood": "kid-friendly",
+    "technique": "roast",
+    "primaryIngredient": "sausage",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "sausage",
+    "descriptor": "Aromatic",
+    "dishForm": "Roast"
+  }
+}

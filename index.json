@@ -908,6 +908,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-venezuelan-sausage-roast",
+    "title": "Aromatic Venezuelan Sausage Roast",
+    "tags": [
+      "diabetic-friendly",
+      "kid-friendly",
+      "low-carb",
+      "one-pan",
+      "slow-cook",
+      "venezuelan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 70,
+    "shard": "a"
+  },
+  {
     "slug": "asparaguas-grilled-verde",
     "title": "Asparaguas Grilled Verde",
     "tags": [
