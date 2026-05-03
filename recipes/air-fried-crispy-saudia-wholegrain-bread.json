@@ -1,0 +1,68 @@
+{
+  "title": "Air-Fried Crispy Saudia Wholegrain Bread",
+  "description": "A rich, tender, and adventurous dish featuring wholegrain bread that is perfect for a quick breakfast or snack.",
+  "cuisine": "Saudia (Middle Eastern)",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wholegrain Bread",
+      "amount": "2 slices",
+      "notes": "Ensure the bread is halal and unsliced for easier air-frying."
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "a few drops",
+      "notes": "For a slight crispy texture"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat your air fryer to 375°F (190°C).",
+    "Slice the wholegrain bread into thin rounds.",
+    "Lightly brush each slice with olive oil and sprinkle lightly with salt on both sides.",
+    "Place the bread slices in the preheated air fryer basket, making sure not to overcrowd them.",
+    "Air fry for 2-3 minutes per side or until golden brown and crispy.",
+    "Remove from the air fryer and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 6,
+  "totalTimeMin": 11,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "saudia",
+    "wholegrain-bread",
+    "air-fried",
+    "halal-friendly"
+  ],
+  "nutrition": {
+    "calories": 85,
+    "protein": 3.1,
+    "carbs": 9.6,
+    "fat": 4
+  },
+  "slug": "air-fried-crispy-saudia-wholegrain-bread",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-crispy-saudia-wholegrain-bread",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T09:04:53Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "tender",
+    "mood": "adventurous",
+    "technique": "air-fry",
+    "primaryIngredient": "wholegrain bread",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Saudia",
+    "mainIngredient": "Wholegrain Bread",
+    "descriptor": "Air-Fried",
+    "dishForm": "Flatbread"
+  }
+}
