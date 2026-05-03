@@ -40,7 +40,7 @@
     "Mix in the pinch of salt until the dough is formed.",
     "Transfer the dough onto a lightly floured surface to knead for about 3-5 minutes.",
     "Place the dough seam side down in a greased pan, cover with plastic wrap, and let it rest for about 10 minutes.",
-    "Heat air fryer to 200°C (400°F).",
+    "Heat air fryer to 200\u00b0C (400\u00b0F).",
     "Bake the bread in the preheated air fryer for 15-20 minutes or until golden brown and crispy.",
     "Allow to cool before serving."
   ],
@@ -58,7 +58,7 @@
     "calories": 35,
     "protein": 2,
     "carbs": 6,
-    "fat": 0.5
+    "fat": 0
   },
   "slug": "air-fried-citrus-flax-bread",
   "source": "ollama-qwen2.5:3b",

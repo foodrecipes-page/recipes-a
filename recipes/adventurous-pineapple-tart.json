@@ -30,7 +30,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "In a saucepan, mix the coconut cream with arrowroot starch until smooth. Cook over medium heat, stirring continuously for about 2 minutes or until thickened.",
     "Fold in the mixed nuts and pineapple slices into the coconut mixture, mixing well to ensure all pieces are evenly coated.",
     "Pour the mixture into a silicone mold lined with parchment paper, tapping out any air bubbles.",
@@ -50,8 +50,8 @@
   ],
   "nutrition": {
     "calories": 197,
-    "protein": 5.9,
-    "carbs": 24.8,
+    "protein": 6,
+    "carbs": 25,
     "fat": 10
   },
   "slug": "adventurous-pineapple-tart",

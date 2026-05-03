@@ -39,7 +39,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 250°F (120°C).",
+    "Preheat your oven to 250\u00b0F (120\u00b0C).",
     "Season the pork back ribs generously with the vegan tadka spice mix and garlic paste.",
     "Brush both sides of the ribs with olive oil.",
     "Wrap the lime leaves around each rib to infuse them with their aromatic essence.",
@@ -55,7 +55,7 @@
   "difficulty": "medium",
   "tags": [
     "adventurous",
-    "pork ribs",
+    "pork-ribs",
     "tadka",
     "peruvian",
     "vegan"

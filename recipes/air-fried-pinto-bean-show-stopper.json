@@ -50,12 +50,12 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 375°F (190°C).",
+    "Preheat your air fryer to 375\u00b0F (190\u00b0C).",
     "In a large skillet, heat the olive oil over medium heat. Add onions and garlic, cooking until soft and translucent.",
     "Add pinto beans, diced tomatoes, tomato paste, salt, and black pepper to the skillet. Stir well to combine all ingredients.",
     "Transfer the mixture into an air fryer-safe container or a large bowl for even distribution of oil.",
     "Drizzle 2 tablespoons of olive oil evenly over the bean mixture in the air fryer-safe container/bowl before placing it on a baking sheet lined with parchment paper.",
-    "Air-fry at 375°F (190°C) for about 20 minutes, or until golden brown and crispy. Check periodically to ensure even browning.",
+    "Air-fry at 375\u00b0F (190\u00b0C) for about 20 minutes, or until golden brown and crispy. Check periodically to ensure even browning.",
     "Remove from heat and let cool slightly before serving."
   ],
   "prepTimeMin": 15,
@@ -64,9 +64,9 @@
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "pinto beans",
-    "air fried",
-    "german cuisine"
+    "pinto-beans",
+    "air-fried",
+    "german-cuisine"
   ],
   "nutrition": {
     "calories": 216,

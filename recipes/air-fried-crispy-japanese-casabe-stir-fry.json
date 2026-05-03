@@ -42,7 +42,7 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 375°F (190°C).",
+    "Preheat your air fryer to 375\u00b0F (190\u00b0C).",
     "Slice the casabe into thin pieces.",
     "In a small bowl, whisk together soy sauce, mirin, gochujang, and minced garlic. Set aside.",
     "Heat vegetable oil in a large skillet over medium heat.",
@@ -86,5 +86,9 @@
     "mainIngredient": "casabe",
     "descriptor": "Air-Fried",
     "dishForm": "Stir-Fry"
-  }
+  },
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4
 }

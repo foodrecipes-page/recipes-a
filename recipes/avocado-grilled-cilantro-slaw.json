@@ -5,7 +5,7 @@
   "diet": [
     "vegan"
   ],
-  "meal": "salad",
+  "meal": "lunch",
   "ingredients": [
     {
       "name": "avocados",
@@ -35,7 +35,7 @@
   "instructions": [
     "Prepare avocados by pitting and slicing them into chunks.",
     "Mix all ingredients except cilantro in a large bowl for the dressing.",
-    "Heat a grill pan to medium-high heat (400°F - 425°F).",
+    "Heat a grill pan to medium-high heat (400\u00b0F - 425\u00b0F).",
     "Once hot, lightly season each avocado chunk with chili powder and salt, then place on the hot grill for 1-2 minutes per side or until charred and softened.",
     "Remove from the grill and let cool slightly before assembling into a salad with remaining dressing and chopped cilantro.",
     "Serve immediately."
@@ -52,9 +52,9 @@
   ],
   "nutrition": {
     "calories": 203,
-    "protein": 5.9,
-    "carbs": 18.7,
-    "fat": 13.4
+    "protein": 6,
+    "carbs": 19,
+    "fat": 13
   },
   "slug": "avocado-grilled-cilantro-slaw",
   "source": "ollama-qwen2.5:3b",

@@ -5,7 +5,7 @@
   "diet": [
     "keto"
   ],
-  "meal": "brunch",
+  "meal": "breakfast",
   "ingredients": [
     {
       "name": "1 lb snapper fish fillets",
@@ -49,7 +49,7 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 375°F (190°C). Rinse the snapper fish fillets under cold water and pat them dry with paper towels.",
+    "Preheat your air fryer to 375\u00b0F (190\u00b0C). Rinse the snapper fish fillets under cold water and pat them dry with paper towels.",
     "Season both sides of the fish evenly with salt, pepper, cumin, garlic powder, smoked paprika. Let sit for about 10 minutes for flavors to develop.",
     "Place the seasoned fish on a wire rack set in the basket of your air fryer. Drizzle it lightly with olive oil and sprinkle lemon juice over the top.",
     "Air-fry the fish for about 8-10 minutes, or until golden brown and crispy. Flip halfway through cooking to ensure even browning.",
@@ -64,7 +64,7 @@
   "tags": [
     "air-fried",
     "stir-fry",
-    "snapper fish",
+    "snapper-fish",
     "keto-friendly"
   ],
   "nutrition": {

@@ -23,7 +23,7 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 375°F (190°C).",
+    "Preheat your air fryer to 375\u00b0F (190\u00b0C).",
     "Slice the wholegrain bread into thin rounds.",
     "Lightly brush each slice with olive oil and sprinkle lightly with salt on both sides.",
     "Place the bread slices in the preheated air fryer basket, making sure not to overcrowd them.",
@@ -43,8 +43,8 @@
   ],
   "nutrition": {
     "calories": 85,
-    "protein": 3.1,
-    "carbs": 9.6,
+    "protein": 3,
+    "carbs": 10,
     "fat": 4
   },
   "slug": "air-fried-crispy-saudia-wholegrain-bread",

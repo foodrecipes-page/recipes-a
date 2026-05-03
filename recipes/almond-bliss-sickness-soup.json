@@ -48,7 +48,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 350°F (175°C).",
+    "Preheat your oven to 350\u00b0F (175\u00b0C).",
     "In a large mixing bowl, combine almond flour, nutritional yeast, garlic powder, dashi paste, salt, and pepper. Mix well.",
     "Gradually add water while stirring constantly until the mixture forms a thick paste-like consistency. Add flaked almonds and oil or coconut oil. Stir to ensure all ingredients are evenly distributed.",
     "Transfer the mixture into a lightly greased pressure cooker (or a non-stick pot for slow cooking). Cook on high pressure for 10 minutes for a manual pressure cooker, or follow your appliance's instructions for a smart pressure cooker.",
@@ -67,9 +67,9 @@
   ],
   "nutrition": {
     "calories": 187,
-    "protein": 5.6,
-    "carbs": 29.3,
-    "fat": 4.4
+    "protein": 6,
+    "carbs": 29,
+    "fat": 4
   },
   "slug": "almond-bliss-sickness-soup",
   "source": "ollama-qwen2.5:3b",

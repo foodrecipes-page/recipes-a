@@ -47,7 +47,7 @@
     }
   ],
   "instructions": [
-    "Preheat oven to 180°C (350°F).",
+    "Preheat oven to 180\u00b0C (350\u00b0F).",
     "Mix almond flour, all-purpose flour, baking powder, sesame seeds, salt, and citrus zest in a large bowl.",
     "In another bowl, whisk together egg whites until stiff peaks form. Add yogurt and milk gradually while mixing continuously until smooth.",
     "Gradually fold the wet ingredients into dry ingredients by thirds to avoid overmixing.",
@@ -69,8 +69,8 @@
   ],
   "nutrition": {
     "calories": 432,
-    "protein": 9.6,
-    "carbs": 58.2,
+    "protein": 10,
+    "carbs": 58,
     "fat": 10
   },
   "slug": "almond-misto",

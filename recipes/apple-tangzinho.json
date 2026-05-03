@@ -31,7 +31,7 @@
   "instructions": [
     "Wash and core the apples, then cut them into thin slices.",
     "In a mixing bowl, combine apple slices with ground almonds if using, flour, and apple cider vinegar. Mix well until all slices are coated evenly.",
-    "Transfer the mixture onto a baking sheet lined with parchment paper or silicon mat. Place in a preheated oven at 200°C for about 15 minutes or until golden brown on both sides.",
+    "Transfer the mixture onto a baking sheet lined with parchment paper or silicon mat. Place in a preheated oven at 200\u00b0C for about 15 minutes or until golden brown on both sides.",
     "Remove from oven and let it cool slightly before serving. You can serve them warm, as is, or drizzle with a little honey."
   ],
   "prepTimeMin": 15,
@@ -46,9 +46,9 @@
   ],
   "nutrition": {
     "calories": 75,
-    "protein": 1.2,
-    "carbs": 16.3,
-    "fat": 0.8
+    "protein": 1,
+    "carbs": 16,
+    "fat": 1
   },
   "slug": "apple-tangzinho",
   "source": "ollama-qwen2.5:3b",

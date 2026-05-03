@@ -3,7 +3,7 @@
   "description": "A floral, creamy Brazilian dish featuring grilled asparagus that's both hangover-cure-friendly and pescatarian.",
   "cuisine": "Brazilian",
   "diet": null,
-  "meal": "appetizer",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "asparagus",
@@ -34,8 +34,8 @@
     "Wash and trim the asparagus spears.",
     "In a bowl, combine olive oil, minced garlic, lime juice, salt, and white pepper. Mix well to create a marinade.",
     "Place the asparagus in the marinade, ensuring all spears are coated evenly. Marinate for at least 30 minutes or up to several hours.",
-    "Preheat your grill to medium-high heat (about 400°F/205°C).",
-    "Grill the asparagus for about 6-8 minutes on each side, until tender and slightly charred. The internal temperature should reach at least 135°F (57°C) when tested with an instant-read thermometer.",
+    "Preheat your grill to medium-high heat (about 400\u00b0F/205\u00b0C).",
+    "Grill the asparagus for about 6-8 minutes on each side, until tender and slightly charred. The internal temperature should reach at least 135\u00b0F (57\u00b0C) when tested with an instant-read thermometer.",
     "Serve hot or at room temperature."
   ],
   "prepTimeMin": 20,

@@ -51,7 +51,7 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 375°F.",
+    "Preheat your air fryer to 375\u00b0F.",
     "Mix together gluten-free flour, Greek yogurt, cream cheese, heavy cream, garlic powder, cumin, salt, and pepper in a large bowl. Stir until smooth.",
     "Whisk in the milk, egg replacers, and basil into the mixture until fully combined and there are no clumps of flour left.",
     "Place dollops of the batter on the tray lined with parchment paper, making sure to leave enough space between them for air circulation when frying.",
@@ -71,9 +71,9 @@
   ],
   "nutrition": {
     "calories": 1098,
-    "protein": 25.76,
-    "carbs": 45.36,
-    "fat": 36.69
+    "protein": 26,
+    "carbs": 45,
+    "fat": 37
   },
   "slug": "air-fried-creamy-date-night-argentinian-dish",
   "source": "ollama-qwen2.5:3b",
