@@ -1,0 +1,72 @@
+{
+  "title": "Air-Fried Air-Pan Avocado Wrap",
+  "description": "A creamy and bitter Portuguese dish featuring lemons and avocado in a plant-based wrap, perfect for post-workout fueling.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "1 medium"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dijon mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tahini sauce (optional)",
+      "amount": "1-2 tablespoons"
+    },
+    {
+      "name": "bread wrap or tortilla",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Dice the avocado into small pieces.",
+    "Mix lemon juice, dijon mustard, and chia seeds in a bowl. Add more lemon juice if needed for creaminess.",
+    "Add tahini sauce (if using) to make it richer, or adjust with more lemon juice for a lighter taste.",
+    "Divide the mixture evenly into two halves of the bread wrap/tortilla.",
+    "prepTimeMin: 5",
+    "cookTimeMin: 5",
+    "totalTimeMin: 10",
+    "servings: 2",
+    "difficulty: "
+  ],
+  "tags": [
+    "plant-based",
+    "post-workout",
+    "portuguese",
+    "avocado",
+    "creamy"
+  ],
+  "slug": "air-fried-air-pan-avocado-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-air-pan-avocado-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T18:36:37Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "air-fry",
+    "primaryIngredient": "lemons",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "avocado",
+    "descriptor": "Air-Fried",
+    "dishForm": "Wrap"
+  }
+}
