@@ -1,0 +1,90 @@
+{
+  "title": "Almondy Crispy Syrian King Prawns Grill",
+  "description": "Crispy king prawns coated in almond flour, broiled to golden perfection and served with a squeeze of lemon for a low-calorie, nutty Syrian delight.",
+  "cuisine": "Syrian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "king prawns",
+      "amount": "500g",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "almond flour",
+      "amount": "80g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and line a baking sheet with parchment paper.",
+    "Pat the prawns dry with a paper towel and season with salt and pepper.",
+    "In a shallow dish, combine almond flour, minced garlic, and a pinch of salt.",
+    "Dredge each prawn in the almond mixture until fully coated.",
+    "Place coated prawns on the prepared baking sheet and drizzle with olive oil.",
+    "Broil the prawns on high for 8-10 minutes, flipping halfway through until the coating is crisp and the prawns turn pink.",
+    "Remove from oven, squeeze fresh lemon juice over the prawns, and garnish with chopped parsley if desired.",
+    "Serve immediately as a light dinner or snack."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "broil",
+    "gluten-free",
+    "high-protein",
+    "low-calorie",
+    "quick-meal",
+    "seafood",
+    "syrian-dish"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 9
+  },
+  "slug": "almondy-crispy-syrian-king-prawns-grill",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/almondy-crispy-syrian-king-prawns-grill",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:43:05Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crispy",
+    "mood": "midnight-craving",
+    "technique": "broil",
+    "primaryIngredient": "king prawns",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "king prawns",
+    "descriptor": "Almondy Crispy",
+    "dishForm": "Grill"
+  }
+}
