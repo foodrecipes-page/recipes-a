@@ -949,6 +949,36 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-crunchy-peruvian-pumpkin-seeds-dumplings",
+    "title": "Aromatic Crunchy Peruvian Pumpkin Seeds Dumplings",
+    "tags": [
+      "crunchy",
+      "hangover-cure",
+      "peruvian",
+      "quick-healthy",
+      "seed-dumplings"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-egyptian-chicken-roast",
+    "title": "Aromatic Egyptian Chicken Roast",
+    "tags": [
+      "citrus",
+      "comfort-food",
+      "egyptian",
+      "low-sodium",
+      "one-pan",
+      "roast",
+      "rum-infused"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 70,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-tunisian-lentil-stew",
     "title": "Aromatic Tunisian Lentil Stew",
     "tags": [

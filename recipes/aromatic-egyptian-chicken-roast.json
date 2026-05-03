@@ -1,0 +1,103 @@
+{
+  "title": "Aromatic Egyptian Chicken Roast",
+  "description": "A citrusy, rum-infused roast chicken with a gooey glaze, low-sodium and deeply comforting.",
+  "cuisine": "Egyptian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "4 large",
+      "notes": "skin on, bone in"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "White rum",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh orange juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Pat chicken dry with paper towels.",
+    "In a small bowl whisk olive oil, rum, orange juice, lemon juice, honey, garlic, paprika, cumin, salt, and pepper.",
+    "Rub the mixture all over the chicken, ensuring the skin is coated.",
+    "Place the chicken on a baking sheet lined with parchment paper and roast for 45 minutes.",
+    "Baste the chicken with pan juices every 15 minutes to build a glossy glaze.",
+    "After 45 minutes lower the heat to 350°F (175°C) and continue roasting for an additional 15 minutes until internal temp reaches 165°F (74°C).",
+    "Let the chicken rest for 10 minutes, then serve drizzled with remaining glaze."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "comfort-food",
+    "egyptian",
+    "low-sodium",
+    "one-pan",
+    "roast",
+    "rum-infused"
+  ],
+  "nutrition": {
+    "calories": 1300,
+    "protein": 80,
+    "carbs": 10,
+    "fat": 70
+  },
+  "slug": "aromatic-egyptian-chicken-roast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-egyptian-chicken-roast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-03T22:51:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "roast",
+    "primaryIngredient": "rum",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Chicken",
+    "descriptor": "Aromatic",
+    "dishForm": "Roast"
+  }
+}
