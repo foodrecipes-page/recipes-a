@@ -431,6 +431,21 @@
     "shard": "a"
   },
   {
+    "slug": "air-fried-herbs-irish-pasta",
+    "title": "Air-Fried Herbs Irish Pasta",
+    "tags": [
+      "air-fried",
+      "herbal",
+      "creamy",
+      "comforting",
+      "irish",
+      "raw-friendly"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "air-fried-herbs-vietnamese-stir-fry",
     "title": "Air-Fried Herbs Vietnamese Stir-fry",
     "tags": [

@@ -1,0 +1,88 @@
+{
+  "title": "Air-Fried Herbs Irish Pasta",
+  "description": "A creamy and comforting herbal dish featuring red pepper in an air-frying method that's raw-friendly and perfect for a light dinner.",
+  "cuisine": "Irish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Penne Pasta",
+      "amount": "200g"
+    },
+    {
+      "name": "Red Pepper, diced",
+      "amount": "100g"
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "a pinch"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "150ml"
+    },
+    {
+      "name": "Chives, finely chopped",
+      "amount": ""
+    },
+    {
+      "name": "Garlic Clove, minced",
+      "amount": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "a few drops"
+    }
+  ],
+  "instructions": [
+    "Preheat air fryer to 160°C.",
+    "Cook pasta according to package instructions until al dente. Drain and set aside.",
+    "In a frying pan, add olive oil, cumin seeds, turmeric powder, and garlic. Sauté for about 30 seconds until fragrant.",
+    "Add diced red pepper to the pan. Stir occasionally for about 5 minutes or until peppers are soft but not mushy.",
+    "Stir in cooked pasta with some cooking water if necessary. Mix well with the spicy red pepper mixture.",
+    "In a bowl, mix Greek yogurt with chopped chives and drizzle with extra olive oil as desired.",
+    "Transfer the pasta to the air fryer basket. Cook for about 10 minutes or until golden brown on all sides.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "air-fried",
+    "herbal",
+    "creamy",
+    "comforting",
+    "irish",
+    "raw-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 37,
+    "fat": 9
+  },
+  "slug": "air-fried-herbs-irish-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/air-fried-herbs-irish-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-03T10:23:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "air-fry",
+    "primaryIngredient": "red pepper",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "Herbs",
+    "descriptor": "Air-Fried",
+    "dishForm": "Pasta"
+  }
+}
