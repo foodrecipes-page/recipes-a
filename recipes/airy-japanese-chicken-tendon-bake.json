@@ -1,0 +1,106 @@
+{
+  "title": "Airy Japanese Chicken Tendon Bake",
+  "description": "A fluffy, low‑carb one‑pot Japanese dish that uses shortcrust pastry and scallop shells to create a tender chicken tendon bake. The pastry encases the tendons and seals in a savory glaze for a crisp, airy crust.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken tendons",
+      "amount": "300 g"
+    },
+    {
+      "name": "shortcrust pastry",
+      "amount": "200 g"
+    },
+    {
+      "name": "scallop shells",
+      "amount": "8 medium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "mirin",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dashi stock",
+      "amount": "50 ml"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp grated"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "green onion",
+      "amount": "2 stalks sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "pinch"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 190°C and line a baking sheet with parchment.",
+    "Gently rinse chicken tendons and pat dry; trim any excess fat or stringy parts.",
+    "Mix soy sauce, mirin, dashi, minced garlic, grated ginger, sesame seeds, and a pinch of salt to create the glaze.",
+    "Brush each scallop shell with a thin layer of olive oil and lay a sheet of shortcrust pastry over the shell, pressing the edges to seal the shell.",
+    "Spread the glaze evenly over the pastry, then arrange a small cluster of chicken tendons on top.",
+    "Fold the pastry up around the tendons, sealing the edges with a fork to keep the shell intact during baking.",
+    "Bake for 25 minutes until the pastry is golden and crisp and the tendons are cooked through.",
+    "Once baked, remove from oven, sprinkle sliced green onions over the top, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bake",
+    "japanese",
+    "low-carb",
+    "one-pot",
+    "scallop-shell",
+    "shortcrust"
+  ],
+  "nutrition": {
+    "calories": 1000,
+    "protein": 44,
+    "carbs": 53,
+    "fat": 36
+  },
+  "slug": "airy-japanese-chicken-tendon-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-japanese-chicken-tendon-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:41:12Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "fluffy",
+    "mood": "one-pot",
+    "technique": "bake",
+    "primaryIngredient": "shortcrust pastry",
+    "diet": "low-carb",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Chicken",
+    "descriptor": "Airy",
+    "dishForm": "Tendon Bake"
+  }
+}
