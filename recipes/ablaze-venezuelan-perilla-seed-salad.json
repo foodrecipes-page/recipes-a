@@ -1,0 +1,101 @@
+{
+  "title": "Ablaze Venezuelan Perilla Seed Salad",
+  "description": "A charred, shattering salad perfect for date nights, featuring perilla seed deulkkae simmered with smoky spices and fresh lime for a low-carb twist.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fresh perilla seeds (deulkkae)",
+      "amount": "2 cups",
+      "notes": "charred"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced thin"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "avocado",
+      "amount": "1/2",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat a non-stick skillet over medium-high heat.",
+    "Add the olive oil and let it swirl around the pan.",
+    "Spread the fresh perilla seeds across the skillet and let them char until they crackle, about 2 minutes.",
+    "Remove the seeds and set them aside to cool slightly.",
+    "In the same skillet, add the sliced bell pepper and sauté until just tender, about 3 minutes.",
+    "Stir in the smoked paprika, cumin, and sea salt, cooking for 30 seconds until fragrant.",
+    "Return the perilla seeds to the skillet and toss to coat with the spices.",
+    "Squeeze the lime juice over the mixture and stir to combine.",
+    "Transfer the salad to a serving bowl, top with diced avocado and chopped cilantro, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "charred",
+    "date-night",
+    "fresh",
+    "low-carb",
+    "quick",
+    "salad",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 380,
+    "protein": 12,
+    "carbs": 8,
+    "fat": 28
+  },
+  "slug": "ablaze-venezuelan-perilla-seed-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ablaze-venezuelan-perilla-seed-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:16:19Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "simmer",
+    "primaryIngredient": "perilla-seed-deulkkae",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "perilla seed",
+    "descriptor": "Ablaze",
+    "dishForm": "Salad"
+  }
+}
