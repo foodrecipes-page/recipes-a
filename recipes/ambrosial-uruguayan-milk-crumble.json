@@ -1,0 +1,106 @@
+{
+  "title": "Ambrosial Uruguayan Milk Crumble",
+  "description": "A festive, crumbly Uruguayan dessert that blends whole milk, sweet condensed milk, and buttery biscuits into a caramelized crumble, served from a traditional kazan cauldron.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "dairy-free-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "whole milk",
+      "amount": "2 cups",
+      "notes": "use dairy-free milk if desired"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 cup",
+      "notes": "can use coconut condensed milk"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed biscuits",
+      "amount": "1 cup",
+      "notes": "butter biscuits or graham crackers"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "dairy-free butter also works"
+    },
+    {
+      "name": "toasted coconut flakes",
+      "amount": "2 tbsp",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "lime zest",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan cauldron over medium heat and melt the butter until foamy.",
+    "Add sugar, sweetened condensed milk, whole milk, vanilla, cinnamon, and salt; stir until the sugar is dissolved.",
+    "Bring the mixture to a gentle simmer, letting it thicken for 5 minutes while stirring occasionally.",
+    "Remove the cauldron from heat and fold in the crushed biscuits, ensuring an even coverage.",
+    "Return the mixture to the cauldron and reduce heat to low, cooking for 10 minutes until bubbly.",
+    "Increase heat to medium-high and stir vigorously for 2 minutes, creating a caramelized crumb top.",
+    "Transfer the mixture to a serving dish, pressing lightly to form a compact layer.",
+    "Let it cool for 15 minutes, then sprinkle toasted coconut flakes and lime zest before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "child-friendly",
+    "crumble",
+    "dairy-free-friendly",
+    "festive",
+    "kazan-cauldron",
+    "sweet",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 6,
+    "carbs": 84,
+    "fat": 31
+  },
+  "slug": "ambrosial-uruguayan-milk-crumble",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ambrosial-uruguayan-milk-crumble",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:23:20Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "saute",
+    "primaryIngredient": "whole milk",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "milk",
+    "descriptor": "Ambrosial",
+    "dishForm": "Crumble"
+  }
+}

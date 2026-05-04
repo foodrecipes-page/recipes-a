@@ -1485,6 +1485,22 @@
     "shard": "a"
   },
   {
+    "slug": "ambrosial-uruguayan-milk-crumble",
+    "title": "Ambrosial Uruguayan Milk Crumble",
+    "tags": [
+      "child-friendly",
+      "crumble",
+      "dairy-free-friendly",
+      "festive",
+      "kazan-cauldron",
+      "sweet",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "ancho-crunch-bowl",
     "title": "Ancho Crunch Bowl",
     "tags": [
