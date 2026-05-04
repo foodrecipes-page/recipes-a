@@ -1,0 +1,92 @@
+{
+  "title": "Amazingly Aromatic British Prune Scones",
+  "description": "These British prune scones are a delicious and aromatic brunch dish featuring prunes and a cheese pull, made with a yeast-based dough and halal-friendly ingredients. The scones are perfect for a weekend brunch or breakfast gathering.",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "prunes",
+      "amount": "1 cup",
+      "notes": "pitted and chopped"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "milk",
+      "amount": "3/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Add the chopped prunes, grated cheese, eggs, and milk to the dry ingredients and mix until a dough forms.",
+    "Knead the dough on a floured surface for 5 minutes until it becomes smooth and elastic.",
+    "Roll the dough into a circle that is about 1 inch thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out the scones.",
+    "Place the scones on a baking sheet lined with parchment paper.",
+    "Bake the scones in the preheated oven for 15-20 minutes, or until they are golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-ideas",
+    "british-brunch",
+    "cheese-pull",
+    "halal-friendly",
+    "prune-scones",
+    "yeast-dough"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "amazingly-aromatic-british-prune-scones",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-aromatic-british-prune-scones",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:19:41Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "spherify",
+    "primaryIngredient": "prunes",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "prunes",
+    "descriptor": "Amazingly aromatic",
+    "dishForm": "Scones"
+  }
+}
