@@ -1,0 +1,106 @@
+{
+  "title": "Aromatic Ukrainian Grape Leaves Stew",
+  "description": "A hearty, earthy one-pot Ukrainian stew featuring grape leaves, a fragrant soffritto base, and a nut-free-friendly twist, wrapped in ti-leaf-wrap vessels for a rustic finish.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shredded grape leaves",
+      "amount": "4 cups",
+      "notes": "fresh for best flavor"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "celery stalk",
+      "amount": "1, diced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dill",
+      "amount": "2 tablespoons, chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat and sauté diced onion until translucent.",
+    "Add minced garlic, diced carrot, and celery, cooking until vegetables soften.",
+    "Stir in tomato paste and cook for 1 minute to bloom flavors.",
+    "Pour in white wine to deglaze, letting it reduce by half.",
+    "Add shredded grape leaves, vegetable broth, paprika, dill, and salt, stirring to combine.",
+    "Bring the mixture to a gentle boil, then reduce heat, cover, and simmer for 30 minutes, stirring occasionally.",
+    "Remove the pot from heat and let the stew cool slightly; spoon portions into fresh grape leaves to form wraps.",
+    "Fold leaves into tight wraps, place seam side down, and steam in a steamer basket for 10 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "nut-free",
+    "one-pot",
+    "slow-cook",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 460,
+    "protein": 10,
+    "carbs": 44,
+    "fat": 14
+  },
+  "slug": "aromatic-ukrainian-grape-leaves-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-ukrainian-grape-leaves-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:37:25Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "crisp",
+    "mood": "one-pot",
+    "technique": "soffritto-base",
+    "primaryIngredient": "grape leaves",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "grape leaves",
+    "descriptor": "Aromatic",
+    "dishForm": "Stew"
+  }
+}
