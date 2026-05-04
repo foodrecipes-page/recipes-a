@@ -1,0 +1,101 @@
+{
+  "title": "Aerated Winey Korean Hazelnut Jjigae",
+  "description": "A winey, aerated, satvik-friendly Korean dish featuring shelled hazelnuts, perfect for a date night, this jjigae is a unique and delicious twist on traditional Korean cuisine. It is baked to perfection and offers a rich and savory flavor profile.",
+  "cuisine": "Korean",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hazelnuts",
+      "amount": "1 cup",
+      "notes": "shelled"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Bake the hazelnuts in a preheated oven at 350 degrees for 10 minutes, or until fragrant and lightly browned.",
+    "Grind the hazelnuts into a fine powder using a spice grinder or food processor.",
+    "Heat the oil in a large skillet over medium heat and saute the garlic and ginger until fragrant.",
+    "Add the chili flakes and cook for 1 minute, stirring constantly.",
+    "Add the soy sauce, wine, and hazelnut powder, and stir to combine.",
+    "Add the tofu and cook until lightly browned on all sides.",
+    "Add the green onions and sesame seeds, and stir to combine.",
+    "Transfer the mixture to a baking dish and bake at 375 degrees for 20 minutes, or until hot and bubbly.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked",
+    "date-night",
+    "korean-cuisine",
+    "nutty",
+    "vegetarian",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "aerated-winey-korean-hazelnut-jjigae",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-winey-korean-hazelnut-jjigae",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:07:30Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "bake",
+    "primaryIngredient": "shelled hazelnuts",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "hazelnuts",
+    "descriptor": "Aerated Winey",
+    "dishForm": "Jjigae"
+  }
+}
