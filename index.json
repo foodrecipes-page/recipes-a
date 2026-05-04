@@ -1484,6 +1484,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-asian-comte-rice-bowl",
+    "title": "Aromatic Asian Comte Rice Bowl",
+    "tags": [
+      "comte-cheese",
+      "malaysian-cuisine",
+      "quick-fix",
+      "satvik-friendly",
+      "stone-bowl-recipe",
+      "vegetarian-meal"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-australian-salmon-crumble",
     "title": "Aromatic Australian Salmon Crumble",
     "tags": [
