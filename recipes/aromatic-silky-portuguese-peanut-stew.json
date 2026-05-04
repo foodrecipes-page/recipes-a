@@ -1,0 +1,100 @@
+{
+  "title": "Aromatic Silky Portuguese Peanut Stew",
+  "description": "A peppery and silky Portuguese dish featuring roasted peanuts, this stew is a perfect hangover cure, and its ayurvedic sattvic friendly ingredients make it a great option for a healthy meal. It is cooked in a salt block vessel to add a unique flavor.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "peanuts",
+      "amount": "1 cup",
+      "notes": "roasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the salt block vessel over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Add the roasted peanuts and cook for 2 minutes.",
+    "Add the tomato paste, cumin, and cayenne pepper and cook for 1 minute.",
+    "Add the coconut milk and vegetable broth and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with some crusty bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "hangover-cure",
+    "peanut-based",
+    "portuguese-cuisine",
+    "salt-block-cooking",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "aromatic-silky-portuguese-peanut-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-silky-portuguese-peanut-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:01:15Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "roasted peanut",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "peanuts",
+    "descriptor": "aromatic silky",
+    "dishForm": "Stew"
+  }
+}
