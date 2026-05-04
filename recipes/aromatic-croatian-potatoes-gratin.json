@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Croatian Potatoes Gratin",
+  "description": "A nutty, cheese‑pull gratin that highlights baby new potatoes with a blend of Croatian herbs and anti‑inflammatory ingredients. It broils to a golden crisp and warms the soul.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "baby new potatoes",
+      "amount": "1 kg"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "fresh rosemary, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "walnuts, toasted and chopped",
+      "amount": "1/2 cup",
+      "notes": "toasted in oven at 350F for 10 minutes until fragrant"
+    },
+    {
+      "name": "grated aged Croatian cheese",
+      "amount": "150 g"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "200 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200C and line a baking dish with parchment paper.",
+    "Wash baby new potatoes and cut them in half if large.",
+    "Toss potatoes with olive oil, minced garlic, chopped rosemary, chopped parsley, salt and pepper in a bowl.",
+    "Spread the potato mixture in the prepared dish and roast for 25 minutes until golden brown.",
+    "While potatoes roast, combine toasted walnuts, grated cheese and heavy cream in a small bowl.",
+    "After roasting, remove the dish and evenly spread the walnut‑cheese mixture over the potatoes.",
+    "Broil the gratin for 5 minutes until the top is bubbly and golden.",
+    "Let cool for 5 minutes, then serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "broil",
+    "cheese-pull",
+    "one-pan",
+    "potato-gratin",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 426,
+    "protein": 12,
+    "carbs": 31,
+    "fat": 27
+  },
+  "slug": "aromatic-croatian-potatoes-gratin",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-croatian-potatoes-gratin",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:40:06Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "cheese-pull",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "baby new potatoes",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Aromatic",
+    "dishForm": "Gratin"
+  }
+}
