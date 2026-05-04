@@ -1,0 +1,98 @@
+{
+  "title": "Aromatic Jamaican Chestnut Mushroom Skewers",
+  "description": "Floral and fluffy, these festive Jamaican skewers feature chestnut mushrooms and a char-grill yang flavor, all on a hot stone plate, vegan-friendly.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnut mushrooms",
+      "amount": "1 pound",
+      "notes": "fresh, sliced into 1-inch pieces"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded, chopped"
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": "fresh"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a blender or food processor, puree scotch bonnet peppers, thyme, allspice, garlic, lime juice, and a pinch of salt and pepper.",
+    "In a large bowl, whisk together the pepper puree and olive oil to make the marinade.",
+    "Add the sliced mushrooms to the marinade and toss to coat, letting them marinate for at least 30 minutes.",
+    "Thread the marinated mushrooms onto skewers, leaving a small space between each piece.",
+    "Brush the grill with oil to prevent sticking, then grill the skewers for 10-12 minutes, turning occasionally.",
+    "Once the mushrooms are tender and slightly charred, remove them from the grill and season with salt and pepper to taste.",
+    "Serve the skewers on a hot stone plate, garnished with additional thyme if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "hot-stone-plate",
+    "jamaican-inspired",
+    "mushroom-based",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "aromatic-jamaican-chestnut-mushroom-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-jamaican-chestnut-mushroom-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:08:37Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "fluffy",
+    "mood": "festive",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "chestnut mushroom",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chestnut mushroom",
+    "descriptor": "aromatic char grilled",
+    "dishForm": "Skewers"
+  }
+}
