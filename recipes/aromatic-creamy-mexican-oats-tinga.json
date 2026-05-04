@@ -1,0 +1,110 @@
+{
+  "title": "Aromatic Creamy Mexican Oats Tinga",
+  "description": "Earthy, creamy oats cooked with tomatoes, peppers, and Mexican spices, perfect for a post‑workout boost.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian",
+    "dairy-free",
+    "sattvic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ground oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "diced bell pepper",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "diced onion",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "dried cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the comal over medium heat until hot.",
+    "Add olive oil and swirl to coat the surface.",
+    "Add diced onion and sauté until translucent.",
+    "Add minced garlic and cook for 30 seconds.",
+    "Stir in cumin and smoked paprika, cooking for 1 minute.",
+    "Add diced bell pepper and tomatoes, cooking until softened, about 5 minutes.",
+    "Pour in coconut milk and bring to a gentle simmer.",
+    "Stir in ground oats, reduce heat, and simmer until oats absorb liquid, about 10 minutes.",
+    "Season with salt and pepper, stir in lime juice.",
+    "Serve hot, dish ready for a nourishing post‑workout meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "mexican",
+    "one-pot",
+    "post-workout",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 178,
+    "protein": 5,
+    "carbs": 23,
+    "fat": 8
+  },
+  "slug": "aromatic-creamy-mexican-oats-tinga",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-creamy-mexican-oats-tinga",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:10:29Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "creamy",
+    "mood": "post-workout",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "ground oats",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "Oats",
+    "descriptor": "Aromatic Creamy",
+    "dishForm": "Tinga"
+  }
+}
