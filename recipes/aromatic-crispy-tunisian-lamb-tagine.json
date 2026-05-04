@@ -1,0 +1,108 @@
+{
+  "title": "Aromatic Crispy Tunisian Lamb Tagine",
+  "description": "A traditional Tunisian dish featuring crispy lamb, sweet currants, and a rich glaze, served in a terracotta dish. This recipe is a perfect hangover cure and a great example of Mediterranean cuisine.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "currants",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, paprika, cumin, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the marinade.",
+    "Heat a large skillet over medium high heat and brown the lamb pieces on all sides.",
+    "Transfer the lamb to a terracotta dish and add the chopped onion.",
+    "Bake the lamb and onion in the preheated oven for 30 minutes.",
+    "In a small bowl, whisk together honey and lemon juice to make the glaze.",
+    "After 30 minutes, brush the glaze over the lamb and onion.",
+    "Add the currants to the terracotta dish and continue baking for an additional 20 minutes.",
+    "Remove the dish from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "lamb-recipes",
+    "mediterranean",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "slug": "aromatic-crispy-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-crispy-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:50:15Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "glaze",
+    "primaryIngredient": "currants",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Aromatic Crispy",
+    "dishForm": "Tagine"
+  }
+}
