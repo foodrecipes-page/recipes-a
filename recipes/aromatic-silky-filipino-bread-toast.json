@@ -1,0 +1,102 @@
+{
+  "title": "Aromatic Silky Filipino Bread Toast",
+  "description": "A resinous, silky toast glazed with honey, lemon, and spices, served on a banana leaf for a fragrant snack.",
+  "cuisine": "Filipino",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pandesal bread slices",
+      "amount": "8 slices",
+      "notes": "freshly baked"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "softened"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": "for glaze"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground clove",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "powdered sugar",
+      "amount": "1 tbsp",
+      "notes": "optional for dusting"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "6 leaves",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Arrange the banana leaf on a flat surface and lightly oil it with a little melted butter to prevent sticking.",
+    "Brush each pandesal slice with softened butter and sprinkle a light dusting of ground cinnamon and clove.",
+    "Place the buttered bread slices onto the preheated skillet over medium heat and toast until golden brown on both sides, about 2 minutes per side.",
+    "In a small bowl, whisk together honey, lemon juice, vanilla extract, and a splash of melted butter to create a fragrant glaze.",
+    "Brush the glaze generously over the toasted bread slices, allowing the syrup to seep into the crumbs.",
+    "Transfer the glazed toast onto the oiled banana leaf, arranging it in a single layer.",
+    "Sprinkle toasted sesame seeds and chopped mint over the toast, then dust lightly with powdered sugar.",
+    "Fold the edges of the banana leaf over the toast to create a loose pouch, and serve immediately while warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "bananaleaf",
+    "comfort",
+    "easy",
+    "flavorful",
+    "mediterranean",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 860,
+    "protein": 14,
+    "carbs": 130,
+    "fat": 47
+  },
+  "slug": "aromatic-silky-filipino-bread-toast",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-silky-filipino-bread-toast",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:36:50Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "glaze",
+    "primaryIngredient": "toast",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "bread",
+    "descriptor": "Aromatic Silky",
+    "dishForm": "Toast"
+  }
+}
