@@ -2507,6 +2507,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-syrian-beetroot-soup",
+    "title": "Aromatic Syrian Beetroot Soup",
+    "tags": [
+      "energizing",
+      "gluten-free",
+      "high-protein",
+      "roasted-beetroot",
+      "syrian",
+      "vegan"
+    ],
+    "cuisine": "syrian",
+    "totalTimeMin": 75,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-syrian-cannellini-beans-stew",
     "title": "Aromatic Syrian Cannellini Beans Stew",
     "tags": [

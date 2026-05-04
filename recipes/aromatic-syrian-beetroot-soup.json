@@ -1,0 +1,110 @@
+{
+  "title": "Aromatic Syrian Beetroot Soup",
+  "description": "A jammy, glassy beetroot soup seasoned with cumin, coriander, and tahini, perfect for a high-protein energizing lunch.",
+  "cuisine": "syrian",
+  "diet": [
+    "gluten-free",
+    "high-protein"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beetroot, peeled and quartered",
+      "amount": "500g",
+      "notes": "fresh organic if possible"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Tahini",
+      "amount": "2 tbsp",
+      "notes": "smooth, low-salt"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sumac (optional)",
+      "amount": "1/2 tsp",
+      "notes": "for tartness"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and line a baking sheet with parchment.",
+    "Roast the quartered beetroot, drizzled with olive oil, for 45 minutes until tender and slightly caramelized.",
+    "Meanwhile, sauté diced onion and garlic in a saucepan over medium heat until fragrant.",
+    "Add the roasted beetroot to the saucepan and pour in the vegetable broth, bringing to a gentle simmer for 10 minutes.",
+    "Remove from heat and blend the soup until silky smooth using an immersion blender or regular blender.",
+    "Stir in tahini, lemon juice, cumin, coriander, sumac, salt, and pepper until fully incorporated.",
+    "Taste and adjust seasoning, adding more salt or pepper if desired.",
+    "Ladle the soup into bowls, garnish with a swirl of tahini and a sprinkle of sumac if extra zing is desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 60,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "gluten-free",
+    "high-protein",
+    "roasted-beetroot",
+    "syrian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 133,
+    "protein": 3,
+    "carbs": 15,
+    "fat": 8
+  },
+  "slug": "aromatic-syrian-beetroot-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-syrian-beetroot-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:40:09Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "boil",
+    "primaryIngredient": "beetroot",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "beetroot",
+    "descriptor": "Aromatic",
+    "dishForm": "Soup"
+  }
+}
