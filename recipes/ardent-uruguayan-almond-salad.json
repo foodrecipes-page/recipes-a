@@ -1,0 +1,91 @@
+{
+  "title": "Ardent Uruguayan Almond Salad",
+  "description": "A nutty, aerated salad infused with garlic and smoky binchotan charcoal, perfect for a romantic keto dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "almonds, blanched",
+      "amount": "200 g"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "binchotan charcoal powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "arugula, fresh",
+      "amount": "150 g"
+    },
+    {
+      "name": "red onion, thinly sliced",
+      "amount": "50 g"
+    },
+    {
+      "name": "olive oil, extra virgin",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "for finishing"
+    }
+  ],
+  "instructions": [
+    "Toast the almonds in a dry skillet over medium heat until lightly browned, about 3 minutes, then let them cool.",
+    "Whisk together olive oil, lemon juice, minced garlic, binchotan charcoal powder, smoked paprika, salt and pepper until emulsified.",
+    "Add the cooled almonds, arugula, thinly sliced red onion and the toasted almonds to the dressing, tossing gently to coat.",
+    "Sprinkle a pinch of smoked paprika over the salad and give a final gentle toss.",
+    "Let the salad rest for 1 minute to allow flavors to meld.",
+    "Drizzle a splash of extra virgin olive oil over each plate before serving.",
+    "Divide the salad into two equal portions and serve immediately.",
+    "Enjoy the nutty, aerated, romantic taste of the Ardent Uruguayan Almond Salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "high-protein",
+    "keto-friendly",
+    "quick",
+    "romantic",
+    "salad",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 692,
+    "protein": 26,
+    "carbs": 10,
+    "fat": 57
+  },
+  "slug": "ardent-uruguayan-almond-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ardent-uruguayan-almond-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:44:18Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "garlic",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "almonds",
+    "descriptor": "Ardent",
+    "dishForm": "Salad"
+  }
+}
