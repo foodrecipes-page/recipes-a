@@ -1348,6 +1348,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-savory-korean-chwinamul-stew",
+    "title": "Aromatic Savory Korean Chwinamul Stew",
+    "tags": [
+      "bain-marie",
+      "grassy-juicy",
+      "korean-stew",
+      "lazy-sunday",
+      "mediterranean-friendly",
+      "vegetarian-stew"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-smoky-polish-beef-bake",
     "title": "Aromatic Smoky Polish Beef Bake",
     "tags": [
