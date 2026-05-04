@@ -1,0 +1,119 @@
+{
+  "title": "Aromatic Egyptian Navy Beans Tagine",
+  "description": "A spicy, light Egyptian tagine that brings navy beans to life with warm spices and a touch of citrus.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "low-fat",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "dried white navy beans",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "800ml"
+    },
+    {
+      "name": "onion, sliced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "3"
+    },
+    {
+      "name": "carrot, sliced",
+      "amount": "1 large"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "0.25 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "low‑sodium vegetable broth",
+      "amount": "250ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse the navy beans and soak them in 800ml water for 8 hours or overnight.",
+    "Drain the beans and add them to a large pot with fresh water, bring to a boil, then simmer for 45 minutes until tender.",
+    "Heat a tablespoon of olive oil in the pot and sauté the sliced onion, minced garlic, and carrot until the onion is translucent.",
+    "Stir in tomato paste, cumin, coriander, cinnamon, paprika, and a bay leaf, cooking for 2 minutes to toast the spices.",
+    "Add the cooked beans and vegetable broth, bring the mixture to a boil, then reduce heat to low and let it simmer for 20 minutes, stirring occasionally.",
+    "Turn off the heat and stir in lemon juice and chopped cilantro, season with salt to taste.",
+    "Serve the tagine hot, optionally garnished with additional cilantro.",
+    "Enjoy this aromatic, low‑fat Egyptian staple as a satisfying lunch."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "egyptian",
+    "lunch"
+  ],
+  "slug": "aromatic-egyptian-navy-beans-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-egyptian-navy-beans-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:23:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "bain-marie",
+    "primaryIngredient": "dried white navy beans",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "navy beans",
+    "descriptor": "Aromatic",
+    "dishForm": "Tagine"
+  }
+}

@@ -1317,6 +1317,17 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-egyptian-navy-beans-tagine",
+    "title": "Aromatic Egyptian Navy Beans Tagine",
+    "tags": [
+      "egyptian",
+      "lunch"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-fruity-algerian-lamb-tagine",
     "title": "aromatic-fruity-algerian-lamb-tagine",
     "tags": [
