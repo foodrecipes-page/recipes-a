@@ -1149,6 +1149,20 @@
     "shard": "a"
   },
   {
+    "slug": "amazingly-juicy-italian-daikon-pinsa",
+    "title": "Amazingly Juicy Italian Daikon Pinsa",
+    "tags": [
+      "indulgent",
+      "italian-food",
+      "special-occasion",
+      "unique-ingredients",
+      "vegetarian"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-sweet-ukrainian-tomato-kebabs",
     "title": "Amazingly Sweet Ukrainian Tomato Kebabs",
     "tags": [

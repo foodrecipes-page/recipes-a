@@ -1,0 +1,104 @@
+{
+  "title": "Amazingly Juicy Italian Daikon Pinsa",
+  "description": "A grassy and indulgent Italian dish featuring daikon, with a unique spherified twist, perfect for a special occasion.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "daikon radish",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "pinsa crust mix",
+      "amount": "1 package"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a large bowl, whisk together the water and sodium alginate.",
+    "Add the sliced daikon to the bowl and let it sit for 30 minutes to allow the daikon to absorb the alginate mixture.",
+    "Using a spoon, drop small balls of the daikon mixture into a bath of cold water to spherify.",
+    "Remove the spherified daikon from the water and set it aside on a paper towel-lined plate.",
+    "Roll out the pinsa crust mix to a thickness of 1/4 inch and place it on a baking sheet.",
+    "Drizzle the olive oil over the crust and sprinkle with italian seasoning and salt.",
+    "Arrange the halved cherry tomatoes and chopped fresh basil over the crust.",
+    "Top the crust with the shredded mozzarella cheese and spherified daikon.",
+    "Bake the pinsa in the preheated oven for 20 minutes, or until the crust is golden brown and the cheese is melted."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 20,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "indulgent",
+    "italian-food",
+    "special-occasion",
+    "unique-ingredients",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "amazingly-juicy-italian-daikon-pinsa",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-juicy-italian-daikon-pinsa",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:24:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "juicy",
+    "mood": "indulgent",
+    "technique": "spherify",
+    "primaryIngredient": "daikon",
+    "diet": "egg-free",
+    "region": "sardinian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "daikon",
+    "descriptor": "Amazingly Juicy",
+    "dishForm": "Pinsa"
+  }
+}
