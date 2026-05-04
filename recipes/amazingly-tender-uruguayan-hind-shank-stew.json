@@ -1,0 +1,100 @@
+{
+  "title": "Uruguayan Hind Shank Stew",
+  "description": "A hearty and tender stew made with hind shank, featuring a shio-cure and whole30-friendly ingredients, perfect for a comforting meal prep dish.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hind shank",
+      "amount": "2 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 cup",
+      "notes": "for shio-cure"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together the sea salt and black pepper to create the shio-cure.",
+    "Rub the shio-cure all over the hind shank pieces, making sure to coat them evenly.",
+    "Heat a large dutch oven over medium-high heat and sear the hind shank pieces until browned on all sides.",
+    "Remove the browned hind shank from the pot and set it aside.",
+    "Add the minced garlic to the pot and cook until fragrant.",
+    "Add the chopped onion to the pot and cook until it is translucent.",
+    "Add the chopped carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the beef broth to the pot and bring to a boil.",
+    "Return the browned hind shank to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and cook for 2 1/2 hours."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "meal-prep",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "amazingly-tender-uruguayan-hind-shank-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-tender-uruguayan-hind-shank-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:20:02Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "pillowy",
+    "mood": "meal-prep",
+    "technique": "shio-cure",
+    "primaryIngredient": "hind shank",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "hind shank",
+    "descriptor": "Amazingly tender",
+    "dishForm": "Stew"
+  }
+}
