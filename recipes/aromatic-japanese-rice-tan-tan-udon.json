@@ -1,0 +1,118 @@
+{
+  "title": "Aromatic Japanese Rice Tan Tan Udon",
+  "description": "A comforting Kyushu noodle dish that blends fragrant cloves, fried ground rice, and a savory broth into a crunchy, herbal udon bowl, perfect for a halal-friendly meal.",
+  "cuisine": "Japanese",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dry udon noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "fried ground rice (khao khua)",
+      "amount": "50g",
+      "notes": "pre-fried and ground for texture"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "1 cup",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "halal-certified"
+    },
+    {
+      "name": "mirin",
+      "amount": "1 tbsp",
+      "notes": "halal-friendly"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "for aroma"
+    },
+    {
+      "name": "ground cloves",
+      "amount": "1/2 tsp",
+      "notes": "adds warmth"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 tbsp",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1/2 cup",
+      "notes": "for crunch"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Bring dashi broth, water, soy sauce, mirin, and sesame oil to a gentle simmer in a medium pot.",
+    "Add ground cloves, grated ginger, and sliced shiitake mushrooms and simmer for 3 minutes to infuse the flavors.",
+    "Stir in fried ground rice and shredded cabbage, cooking until the cabbage is tender, about 4 minutes.",
+    "Meanwhile, heat a separate pan and lightly toast the dry udon noodles in a dry skillet until golden and fragrant, then break them into smaller pieces.",
+    "Add the toasted udon noodles to the simmering broth, letting them cook for 4 minutes until al dente.",
+    "Taste the broth and adjust seasoning with extra soy sauce if needed.",
+    "Remove the pot from heat, ladle the noodles and broth into bowls, and garnish with chopped scallions and toasted sesame seeds.",
+    "Serve hot, optionally adding a boiled egg on the side for extra protein."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comforting",
+    "halal-friendly",
+    "herbal",
+    "kyushu",
+    "one-pot",
+    "rice-udon"
+  ],
+  "nutrition": {
+    "calories": 660,
+    "protein": 20,
+    "carbs": 120,
+    "fat": 12
+  },
+  "slug": "aromatic-japanese-rice-tan-tan-udon",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-japanese-rice-tan-tan-udon",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:58:51Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "cloves",
+    "diet": "halal",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Rice",
+    "descriptor": "Aromatic",
+    "dishForm": "Tan Tan Udon"
+  }
+}
