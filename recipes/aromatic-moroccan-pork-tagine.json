@@ -1,0 +1,115 @@
+{
+  "title": "Aromatic Moroccan Pork Tagine",
+  "description": "A tangy, shaggy pork tagine infused with Moroccan spices, wrapped in corn husks for a unique smoky finish.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "satvik-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork knuckle",
+      "amount": "500 g",
+      "notes": "cubed"
+    },
+    {
+      "name": "Pork katsuramuki cut",
+      "amount": "300 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "4",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "2 cm",
+      "notes": "grated"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "Potato",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "400 ml",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for browning"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": "cumin, coriander, paprika, cinnamon, turmeric"
+    },
+    {
+      "name": "Corn husks",
+      "amount": "8 large",
+      "notes": "soaked in hot water until pliable"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a heavy pot over medium heat.",
+    "Add onions, garlic, and ginger; sauté until fragrant, about 3 minutes.",
+    "Toss in pork knuckle and pork katsuramuki slices, browning them on all sides, about 8 minutes.",
+    "Stir in carrot and potato pieces and cook for 2 minutes.",
+    "Sprinkle the Moroccan spice blend over the meat and vegetables, stirring to coat evenly.",
+    "Pour in the chicken broth, bring the mixture to a gentle boil, then reduce heat to low.",
+    "Cover the pot and let it simmer for 90 minutes, or until the pork is tender.",
+    "Blanch soaked corn husks in hot water until pliable, then wrap the pot tightly with them.",
+    "Transfer the wrapped pot to a preheated oven at 160°C (320°F) for an additional 30 minutes.",
+    "Remove the pot, unwrap the husks, and serve the aromatic pork tagine hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "corn-husk-wrap",
+    "moroccan",
+    "pork",
+    "spicy",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 17
+  },
+  "slug": "aromatic-moroccan-pork-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-moroccan-pork-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:24:56Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "shaggy",
+    "mood": "hangover-cure",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "pork knuckle",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "pork",
+    "descriptor": "Aromatic",
+    "dishForm": "Tagine"
+  }
+}

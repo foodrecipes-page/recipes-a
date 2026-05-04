@@ -1433,6 +1433,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-moroccan-pork-tagine",
+    "title": "Aromatic Moroccan Pork Tagine",
+    "tags": [
+      "comfort-food",
+      "corn-husk-wrap",
+      "moroccan",
+      "pork",
+      "spicy",
+      "tagine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 135,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-peruvian-lamb-seco-de-cordero",
     "title": "Aromatic Peruvian Lamb Seco De Cordero",
     "tags": [
