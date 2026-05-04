@@ -1640,6 +1640,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-light-korean-chicken-wrap",
+    "title": "Aromatic Light Korean Chicken Wrap",
+    "tags": [
+      "diabetic-friendly",
+      "fermented-foods",
+      "grilled-chicken",
+      "korean-cuisine",
+      "low-carb",
+      "post-workout"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-molcajete-algerian-savoy-cabbage-stew",
     "title": "Aromatic Molcajete Algerian Savoy Cabbage Stew",
     "tags": [

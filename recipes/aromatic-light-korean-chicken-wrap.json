@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Light Korean Chicken Wrap",
+  "description": "A diabetic-friendly Korean dish featuring fermented shoyu-koji and ssam-wrap, perfect for a post-workout meal",
+  "cuisine": "Korean",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "shoyu-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssam-wrap",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "gochujang",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together shoyu-koji, gochujang, soy sauce, and brown sugar to make the marinade.",
+    "Add the chicken breast strips to the marinade and mix well to coat.",
+    "Let the chicken marinate for at least 30 minutes in the refrigerator.",
+    "Preheat a grill or grill pan to medium-high heat and cook the chicken for 5-6 minutes per side, or until cooked through.",
+    "While the chicken is cooking, prepare the ssam-wrap leaves by rinsing them with cold water and patting them dry with paper towels.",
+    "Once the chicken is cooked, let it rest for a few minutes before slicing it into thin strips.",
+    "Assemble the wraps by placing a few slices of chicken onto a ssam-wrap leaf, followed by a sprinkle of toasted sesame seeds, chopped green onions, and a drizzle of the remaining marinade.",
+    "Serve immediately and enjoy.",
+    "Garnish with additional green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "fermented-foods",
+    "grilled-chicken",
+    "korean-cuisine",
+    "low-carb",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "aromatic-light-korean-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-light-korean-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:17:03Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "shoyu-koji",
+    "diet": "diabetic-friendly",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic Light",
+    "dishForm": "Wrap"
+  }
+}
