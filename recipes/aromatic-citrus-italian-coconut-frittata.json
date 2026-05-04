@@ -1,0 +1,109 @@
+{
+  "title": "Aromatic Citrus Italian Coconut Frittata",
+  "description": "A bright, energizing frittata featuring citrus zest, creamy coconut, and shredded coconut for a chewy texture, perfect for a sunny breakfast.",
+  "cuisine": "Italian",
+  "diet": [
+    "ayurvedic",
+    "tamasic-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": ""
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "orange zest",
+      "amount": "1 orange",
+      "notes": "zest only"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 lemon",
+      "notes": "juice only"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Whisk the eggs in a bowl until fully blended.",
+    "Add the coconut cream, shredded coconut, orange zest, lemon juice, salt, and pepper to the eggs and mix well.",
+    "Heat the olive oil in a 10-inch nonstick skillet over medium heat.",
+    "Pour the egg mixture into the skillet and cook for 2 minutes until the edges set.",
+    "Sprinkle the grated parmesan and chopped basil over the top.",
+    "Cover the skillet and reduce heat to low, cooking for another 6 minutes until the frittata is fully set.",
+    "Remove from heat and let it rest for 1 minute before slicing.",
+    "Serve warm, optionally garnished with extra basil or a drizzle of olive oil."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "citrus",
+    "coconut",
+    "frittata",
+    "italian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 1160,
+    "protein": 44,
+    "carbs": 21,
+    "fat": 100
+  },
+  "slug": "aromatic-citrus-italian-coconut-frittata",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-citrus-italian-coconut-frittata",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:09:15Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "shredded coconut",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "coconut",
+    "descriptor": "Aromatic Citrus",
+    "dishForm": "Frittata"
+  }
+}

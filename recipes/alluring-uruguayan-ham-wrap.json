@@ -1,0 +1,115 @@
+{
+  "title": "Alluring Uruguayan Ham Wrap",
+  "description": "Sweet and cheese‑pull Uruguayan wrap featuring kosher serrano ham, honey, and mozzarella for a romantic bite.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "kosher-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kosher serrano ham",
+      "amount": "120g",
+      "notes": "4 slices"
+    },
+    {
+      "name": "whole wheat tortillas",
+      "amount": "240g",
+      "notes": "4 tortillas"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "120g",
+      "notes": "shredded"
+    },
+    {
+      "name": "honey",
+      "amount": "30g",
+      "notes": "2 tbsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "14g",
+      "notes": "1 tbsp"
+    },
+    {
+      "name": "fresh basil leaves",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "sautéed red onions",
+      "amount": "80g",
+      "notes": "1/2 cup"
+    },
+    {
+      "name": "roasted almonds",
+      "amount": "16g",
+      "notes": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "15g",
+      "notes": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Warm tortillas in a dry skillet for 30 seconds each side until pliable.",
+    "Spread a thin layer of honey over each tortilla, then sprinkle smoked paprika.",
+    "Lay two slices of kosher serrano ham on each tortilla, followed by a generous sprinkle of mozzarella.",
+    "Add sautéed red onions and chopped roasted almonds on top of the cheese.",
+    "Drizzle lemon juice over the filling and season with salt and pepper.",
+    "Fold the sides of the tortilla over the filling and roll tightly into a wrap.",
+    "Place the wrapped tortillas seam side down in a preheated skillet and cook for 2-3 minutes per side until the cheese melts and the tortilla crisps.",
+    "Slice each wrap in half diagonally and garnish with fresh basil before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese-pull",
+    "kitchen-quick",
+    "quick",
+    "romantic",
+    "sweet-and-savory",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 1880,
+    "protein": 107,
+    "carbs": 158,
+    "fat": 66
+  },
+  "slug": "alluring-uruguayan-ham-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/alluring-uruguayan-ham-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:09:04Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "cheese-pull",
+    "mood": "romantic",
+    "technique": "fold",
+    "primaryIngredient": "serrano ham",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Ham",
+    "descriptor": "Alluring",
+    "dishForm": "Wrap"
+  }
+}

@@ -961,6 +961,21 @@
     "shard": "a"
   },
   {
+    "slug": "alluring-uruguayan-ham-wrap",
+    "title": "Alluring Uruguayan Ham Wrap",
+    "tags": [
+      "cheese-pull",
+      "kitchen-quick",
+      "quick",
+      "romantic",
+      "sweet-and-savory",
+      "wrap"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
     "slug": "almond-adventurer",
     "title": "Almond Adventurer",
     "tags": [
@@ -1583,6 +1598,21 @@
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-citrus-italian-coconut-frittata",
+    "title": "Aromatic Citrus Italian Coconut Frittata",
+    "tags": [
+      "breakfast",
+      "citrus",
+      "coconut",
+      "frittata",
+      "italian",
+      "quick"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
