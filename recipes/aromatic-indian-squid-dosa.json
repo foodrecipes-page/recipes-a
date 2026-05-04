@@ -1,0 +1,107 @@
+{
+  "title": "Aromatic Indian Squid Dosa",
+  "description": "A winey, juicy pescatarian dosa filled with tender squid, aromatic spices, and a splash of white wine for depth.",
+  "cuisine": "Indian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "dosa batter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "squid",
+      "amount": "200 g"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic ginger",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "green chili",
+      "amount": "1"
+    },
+    {
+      "name": "coriander",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "yogurt",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat a nonstick skillet over medium heat and lightly oil it with 1 tbsp.",
+    "Pour a thin ladleful of dosa batter onto the skillet and swirl to create an even, thin circle; cook until the edges lift and the underside is golden brown, about 2 minutes.",
+    "Flip the dosa gently and cook for another 30 seconds, then remove and set aside on a plate.",
+    "In the same skillet, add the remaining 1 tbsp oil and heat until shimmering.",
+    "Add the finely minced garlic‑ginger mixture and sauté until fragrant, about 30 seconds.",
+    "Toss in the sliced onion and cook until translucent, about 2 minutes.",
+    "Stir in the diced tomato and sliced green chili; cook until the tomato softens, about 3 minutes.",
+    "Add the squid strips and cook until they turn opaque, about 4 minutes, then deglaze the pan with 1/4 cup white wine, scraping up any browned bits.",
+    "Reduce the wine slightly, then stir in the yogurt, salt, and black pepper, cooking for 1 minute until the sauce thickens.",
+    "Spoon the filling onto the cooked dosa, fold it over, and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "deglaze",
+    "dosa",
+    "pescatarian",
+    "quick",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 32,
+    "carbs": 45,
+    "fat": 20
+  },
+  "slug": "aromatic-indian-squid-dosa",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-indian-squid-dosa",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:30:22Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "juicy",
+    "mood": "weeknight",
+    "technique": "deglaze",
+    "primaryIngredient": "squid",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "squid",
+    "descriptor": "Aromatic",
+    "dishForm": "Dosa"
+  }
+}
