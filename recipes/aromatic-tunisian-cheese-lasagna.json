@@ -1,0 +1,118 @@
+{
+  "title": "Aromatic Tunisian Cheese Lasagna",
+  "description": "A garlicky, cheese-pulled lasagna with a Tunisian spice blend and dashi extract for a subtle umami finish.",
+  "cuisine": "tunisian",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna sheets",
+      "amount": "200 g"
+    },
+    {
+      "name": "mozzarella cheese, shredded",
+      "amount": "250 g"
+    },
+    {
+      "name": "kefalotyri cheese, grated",
+      "amount": "200 g"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "500 g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic cloves, minced",
+      "amount": "2"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "harissa paste",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna sheets in salted water until al dente, then drain and set aside.",
+    "Heat the olive oil in a skillet over medium heat and add the minced garlic, cooking until fragrant.",
+    "Stir in the crushed tomatoes, cumin, coriander, paprika, harissa paste, dashi extract, salt, pepper, and water, then simmer for 15 minutes.",
+    "Remove the sauce from heat and fold in the mozzarella, kefalotyri, and chopped parsley.",
+    "Grease a 9x13 inch baking dish with a little oil.",
+    "Layer the cooked lasagna sheets and the cheese sauce, starting and ending with a layer of sauce.",
+    "Bake uncovered for 25 minutes, then let the lasagna rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "easy-bake",
+    "lazy-sunday",
+    "nut-free",
+    "tunisian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 513,
+    "protein": 29,
+    "carbs": 28,
+    "fat": 38
+  },
+  "slug": "aromatic-tunisian-cheese-lasagna",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-tunisian-cheese-lasagna",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:56:55Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "lazy-sunday",
+    "technique": "dashi-extract",
+    "primaryIngredient": "lasagne sheets",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "cheese",
+    "descriptor": "Aromatic",
+    "dishForm": "Lasagna"
+  }
+}
