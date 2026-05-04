@@ -482,6 +482,20 @@
     "shard": "a"
   },
   {
+    "slug": "aerated-portuguese-meal-bake",
+    "title": "Aerated Portuguese Meal Bake",
+    "tags": [
+      "chicken",
+      "high-protein",
+      "macrobiotic",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "portuguese",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "aerated-resinous-kenyan-tripe-bisque",
     "title": "Aerated Resinous Kenyan Tripe Bisque",
     "tags": [
