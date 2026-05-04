@@ -1989,6 +1989,17 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-tunisian-sugar-stir-fry",
+    "title": "Aromatic Tunisian Sugar Stir-fry",
+    "tags": [
+      "tunisian",
+      "snack"
+    ],
+    "cuisine": "tunisian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-ukrainian-chicken-leg-wrap",
     "title": "Aromatic Ukrainian Chicken Leg Wrap",
     "tags": [
