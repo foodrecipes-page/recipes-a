@@ -1,0 +1,101 @@
+{
+  "title": "Aromatic Snappy Brazilian Lamb Pasta",
+  "description": "A flavorful and savory Brazilian dish featuring lamb, pasta, and a unique pasta-water emulsion, designed to cure hangovers and align with ayurvedic tamasic principles.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions until al dente.",
+    "Heat the olive oil in a large skillet over medium-high heat and sear the lamb pieces until browned on all sides.",
+    "Add the chopped onion to the skillet and cook until translucent, then add the minced garlic and cook for an additional minute.",
+    "Stir in the coconut milk, tomato paste, cumin, salt, and black pepper, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes, stirring occasionally.",
+    "Reserve 1 cup of pasta water before draining the cooked pasta, then add the pasta to the skillet with the lamb and sauce.",
+    "Add the reserved pasta water to the skillet in small increments, stirring constantly, until the sauce reaches the desired consistency.",
+    "Serve the pasta hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "aromatic-snappy-brazilian-lamb-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-snappy-brazilian-lamb-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:02:33Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "snappy",
+    "mood": "hangover-cure",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "lamb",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "lamb",
+    "descriptor": "aromatic snappy",
+    "dishForm": "Pasta"
+  }
+}

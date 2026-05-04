@@ -1362,6 +1362,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-snappy-brazilian-lamb-pasta",
+    "title": "Aromatic Snappy Brazilian Lamb Pasta",
+    "tags": [
+      "brazilian-cuisine",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-spicy-japanese-peas-ramen",
     "title": "Aromatic Spicy Japanese Peas Ramen",
     "tags": [
