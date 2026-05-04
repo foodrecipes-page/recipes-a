@@ -1,0 +1,105 @@
+{
+  "title": "Amazingly Aromatic Mediterranean Lamb Kebabs",
+  "description": "A nutty and gooey Mediterranean dish perfect for a date night, featuring lamb kebabs, fries, and fermented elements, all while being low-glycemic-friendly.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "pita bread",
+      "amount": "4 slices"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "dates",
+      "amount": "1/2 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 large",
+      "notes": "cut into fry shapes"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, sumac, and salt.",
+    "Add the lamb cubes to the bowl and marinate for at least 30 minutes.",
+    "Thread the marinated lamb onto skewers, leaving a small space between each piece.",
+    "Grill the lamb kebabs for 10-12 minutes, turning occasionally, until they reach an internal temperature of 145 degrees Fahrenheit.",
+    "While the lamb is cooking, toss the sweet potato fries with a little bit of olive oil and season with salt.",
+    "Bake the sweet potato fries in the oven at 400 degrees Fahrenheit for 20-25 minutes, or until crispy.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the kebabs by slicing the cooked lamb and serving it in the pita bread with feta cheese, dates, and sweet potato fries."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "gluten-free",
+    "kebabs",
+    "lamb",
+    "low-glycemic",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "amazingly-aromatic-mediterranean-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-aromatic-mediterranean-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T02:05:36Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "gooey",
+    "mood": "date-night",
+    "technique": "ferment",
+    "primaryIngredient": "fries",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "lamb",
+    "descriptor": "Amazingly aromatic",
+    "dishForm": "Kebabs"
+  }
+}
