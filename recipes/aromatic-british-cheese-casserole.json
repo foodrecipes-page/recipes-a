@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic British Cheese Casserole",
+  "description": "A creamy, kid-friendly British casserole featuring shredded Monterey Jack and a subtle shio cure blend, perfect for a paleo dinner.",
+  "cuisine": "british",
+  "diet": [
+    "paleo",
+    "kid-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shredded monterey jack cheese",
+      "amount": "2 cups"
+    },
+    {
+      "name": "almond milk, unsweetened",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh thyme leaves",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt (shio cure)",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "freshly ground black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh lemon zest",
+      "amount": "1 tsp",
+      "notes": "adds bright aroma"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees F.",
+    "In a medium bowl, whisk almond milk, coconut cream, sea salt, black pepper, thyme, and oregano until smooth.",
+    "Fold in shredded monterey jack cheese until well coated.",
+    "Stir in chopped parsley until evenly distributed.",
+    "Drizzle olive oil over the top of the cheese mixture.",
+    "Transfer mixture to a greased baking dish and spread evenly.",
+    "Bake for 20 minutes or until the top is golden brown and the cheese is bubbling.",
+    "Let the casserole cool for 5 minutes, then serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "british-heritage",
+    "cheese-lover",
+    "kid-friendly",
+    "one-pan",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 488,
+    "protein": 21,
+    "carbs": 4,
+    "fat": 39
+  },
+  "slug": "aromatic-british-cheese-casserole",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-british-cheese-casserole",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:22:33Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "shio-cure",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "paleo",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "cheese",
+    "descriptor": "Aromatic",
+    "dishForm": "Casserole"
+  }
+}
