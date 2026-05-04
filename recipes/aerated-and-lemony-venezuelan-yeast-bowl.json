@@ -1,0 +1,97 @@
+{
+  "title": "Aerated and Lemony Venezuelan Yeast Bowl",
+  "description": "This recipe is a nostalgic Venezuelan dish with a light and airy texture, featuring lemon zest and a low-calorie-friendly puff.",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "all-purpose gluten-free flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "unsalted butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Combine yeast and warm water in a small bowl. Let it sit for 5 minutes until frothy.",
+    "In a large mixing bowl, combine flour, sugar, salt, and lemon zest.",
+    "Add melted butter and almond milk to the dry ingredients. Mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased earthenware bowl and cover it with plastic wrap.",
+    "Let it rise in a warm place for 1 hour, or until doubled in size.",
+    "Preheat oven to 375°F (190°C).",
+    "Gently punch down the dough and shape it into a round loaf.",
+    "Place the loaf in the preheated oven and bake for 25-30 minutes, or until golden brown.",
+    "Remove the loaf from the oven and let it cool on a wire rack for 10 minutes before slicing."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-meal",
+    "gluten-free",
+    "low-calorie",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "cuisine": "International",
+  "slug": "aerated-and-lemony-venezuelan-yeast-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-and-lemony-venezuelan-yeast-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:38:51Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "lamination-puff",
+    "primaryIngredient": "lemon zest",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "yeast",
+    "descriptor": "aerated and lemony",
+    "dishForm": "Bowl"
+  }
+}
