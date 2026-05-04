@@ -1,0 +1,94 @@
+{
+  "title": "Acidic Tender Kenyan Rice Flour Crepe",
+  "description": "A midnight craving dessert that balances sour lemon, sweet rice flour, and umami miso into tender crepes.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "chapssalgaru sweet rice flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "water",
+      "amount": "250 ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "miso paste (gluten-free)",
+      "amount": "2 tbsp",
+      "notes": "use low-sodium brand"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a bowl whisk the sweet rice flour, salt, sugar, miso paste, and lemon juice until smooth.",
+    "Add water gradually until the batter reaches thin crepe consistency.",
+    "Let the batter rest for 10 minutes to hydrate the flour.",
+    "Heat a nonstick skillet over medium heat and brush lightly with coconut oil.",
+    "Pour a ladleful of batter into the pan, tilting to spread it thin.",
+    "Cook the crepe for 1–2 minutes until edges lift, then flip and cook 30 seconds more.",
+    "Transfer the finished crepe to a plate and repeat with remaining batter.",
+    "Garnish each crepe with fresh mint and serve warm or at room temperature."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crepe",
+    "dessert",
+    "gluten-free",
+    "quick",
+    "rice-flour",
+    "sour",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 845,
+    "protein": 14,
+    "carbs": 156,
+    "fat": 15
+  },
+  "slug": "acidic-tender-kenyan-rice-flour-crepe",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/acidic-tender-kenyan-rice-flour-crepe",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:01:49Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "miso-marinate",
+    "primaryIngredient": "sweet-rice-flour-chapssalgaru",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rice flour",
+    "descriptor": "Acidic Tender",
+    "dishForm": "Crepe"
+  }
+}
