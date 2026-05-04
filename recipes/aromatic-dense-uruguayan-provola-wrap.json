@@ -1,0 +1,96 @@
+{
+  "title": "Aromatic Dense Uruguayan Provola Wrap",
+  "description": "A dense and aromatic Uruguayan dish featuring provola, perfect for a post-workout meal, wrapped in a lotus leaf for a unique twist.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "provola cheese",
+      "amount": "8 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp",
+      "notes": "fresh"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, mix together olive oil, garlic, oregano, thyme, salt, and black pepper.",
+    "Brush the mixture onto both sides of the provola cheese slices.",
+    "Grill the provola cheese for 2-3 minutes per side, or until slightly melted and crispy.",
+    "Meanwhile, prepare the lotus leaves by rinsing them with water and patting them dry.",
+    "To assemble the wraps, place a grilled provola cheese slice onto the center of a lotus leaf.",
+    "Fold the lotus leaf over the cheese to form a wrap, and serve immediately.",
+    "Repeat with the remaining ingredients."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "lotus-leaf",
+    "post-workout",
+    "uruguayan-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "aromatic-dense-uruguayan-provola-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-dense-uruguayan-provola-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:35:43Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "post-workout",
+    "technique": "temper",
+    "primaryIngredient": "provola",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "provola",
+    "descriptor": "aromatic dense",
+    "dishForm": "Wrap"
+  }
+}
