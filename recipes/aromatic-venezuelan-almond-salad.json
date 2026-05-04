@@ -1,0 +1,102 @@
+{
+  "title": "Aromatic Venezuelan Almond Salad",
+  "description": "An earthy, silky salad that blends roasted sweet potato, blanched green beans, and quinoa with a creamy almond butter dressing, perfect for a romantic Venezuelan-inspired dinner.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mixed greens (spinach and arugula)",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Cooked quinoa",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Roasted sweet potato cubes",
+      "amount": "1 cup",
+      "notes": "roasted at 400°F for 25 min"
+    },
+    {
+      "name": "Blanched green beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Almond butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh chopped cilantro",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees f.",
+    "Toss sweet potato cubes with olive oil, salt, and pepper, then roast for 25 minutes until tender.",
+    "Bring a pot of salted water to a boil, add green beans, blanch for 2 minutes, then transfer to ice water to stop cooking.",
+    "In a small bowl, whisk together almond butter, lime juice, olive oil, dijon mustard, and salt until smooth.",
+    "Cook quinoa according to package, let cool to room temperature.",
+    "In a large salad bowl, combine mixed greens, cooked quinoa, roasted sweet potato, blanched green beans, and sliced almonds.",
+    "Drizzle the almond butter dressing over the salad and toss gently to coat evenly.",
+    "Garnish with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "diabetic-friendly",
+    "easy",
+    "romantic",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 310,
+    "protein": 9,
+    "carbs": 22,
+    "fat": 35
+  },
+  "slug": "aromatic-venezuelan-almond-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-venezuelan-almond-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:01:38Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "silky",
+    "mood": "romantic",
+    "technique": "blanch",
+    "primaryIngredient": "almond butter",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "almonds",
+    "descriptor": "Aromatic",
+    "dishForm": "Salad"
+  }
+}

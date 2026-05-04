@@ -1566,6 +1566,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-venezuelan-almond-salad",
+    "title": "Aromatic Venezuelan Almond Salad",
+    "tags": [
+      "diabetic-friendly",
+      "easy",
+      "romantic",
+      "vegan",
+      "weeknight"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-venezuelan-sausage-roast",
     "title": "Aromatic Venezuelan Sausage Roast",
     "tags": [
