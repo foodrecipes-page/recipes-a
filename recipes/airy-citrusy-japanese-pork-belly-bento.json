@@ -1,0 +1,104 @@
+{
+  "title": "Airy Citrusy Japanese Pork Belly Bento",
+  "description": "A refreshing, post-workout Japanese dish featuring tender pork belly slices, crunchy carrots, and a drizzle of citrusy ponzu sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "12 oz"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove"
+    },
+    {
+      "name": "Carrots, peeled and sliced",
+      "amount": "4"
+    },
+    {
+      "name": "Green beans, trimmed",
+      "amount": "4"
+    },
+    {
+      "name": "Zest of 1 orange",
+      "amount": "none"
+    },
+    {
+      "name": "Juice of 2 oranges",
+      "amount": "none"
+    },
+    {
+      "name": "Ponzu sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "none"
+    }
+  ],
+  "instructions": [
+    "In a small saucepan, combine soy sauce, sake, sugar, ginger, and garlic. Bring to a boil over medium-high heat, then reduce to low and simmer for 5 minutes.",
+    "Preheat oven to 400°F (200°C). Place the pork belly on a baking sheet lined with parchment paper and bake for 20 minutes, or until tender and slightly caramelized.",
+    "Blanch the carrots and green beans in boiling water for 3-4 minutes, or until tender but still crisp. Drain and set aside.",
+    "Cut the pork belly into thin slices and place on a separate baking sheet lined with parchment paper.",
+    "Drizzle the pork belly slices with ponzu sauce and sprinkle with sesame seeds. Return to the oven and bake for an additional 5 minutes, or until the sauce is caramelized and the pork is heated through.",
+    "To assemble the bento, place a portion of the pork belly slices on a bed of carrots and green beans in a small bowl or container. Drizzle with additional ponzu sauce if desired.",
+    "Garnish with orange zest and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "japanese",
+    "kansai",
+    "one-pan",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 28,
+    "carbs": 20,
+    "fat": 32
+  },
+  "slug": "airy-citrusy-japanese-pork-belly-bento",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-citrusy-japanese-pork-belly-bento",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:45:05Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "blanch",
+    "primaryIngredient": "pork belly slices",
+    "diet": "flexitarian",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "pork belly",
+    "descriptor": "Airy, Citrusy",
+    "dishForm": "Bento"
+  }
+}
