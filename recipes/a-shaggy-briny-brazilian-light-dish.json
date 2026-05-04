@@ -1,0 +1,102 @@
+{
+  "title": "Shaggy Briny Brazilian Soup",
+  "description": "A light, refreshing soup originating from Brazil, perfect for a casual lunch.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "nuka-pickle",
+      "amount": "4 ounces"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cod fish",
+      "amount": "6 ounces",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "4 ounces",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large pot over medium heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add minced garlic and cook for another minute.",
+    "Add cumin and cook for 1 minute, stirring constantly.",
+    "Add nuka-pickle, cod fish, and firm tofu. Cook for 5 minutes, stirring occasionally.",
+    "Add lemon juice and stir to combine.",
+    "Bring the soup to a simmer and cook for 10 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "light-meal",
+    "soup",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "a-shaggy-briny-brazilian-light-dish",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/a-shaggy-briny-brazilian-light-dish",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:46:58Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "shaggy",
+    "mood": "light",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "cumin",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "light",
+    "descriptor": "a shaggy briny",
+    "dishForm": "dish"
+  }
+}

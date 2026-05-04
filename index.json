@@ -1,5 +1,20 @@
 [
   {
+    "slug": "a-shaggy-briny-brazilian-light-dish",
+    "title": "Shaggy Briny Brazilian Soup",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "light-meal",
+      "soup",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "ablaze-charred-croatian-quinoa-pilaf",
     "title": "Ablaze Charred Croatian Quinoa Pilaf",
     "tags": [
