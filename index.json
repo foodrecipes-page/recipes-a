@@ -1537,6 +1537,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-indian-lentil-curry",
+    "title": "Aromatic Indian Lentil Curry",
+    "tags": [
+      "comfort-food",
+      "indian-cuisine",
+      "lentil-recipes",
+      "ramekin-recipes",
+      "vegan-friendly"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-indian-paneer-paneer-tikka",
     "title": "Aromatic Indian Paneer Tikka",
     "tags": [
