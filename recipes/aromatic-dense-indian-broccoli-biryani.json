@@ -1,0 +1,112 @@
+{
+  "title": "Aromatic Dense Indian Broccoli Biryani",
+  "description": "A spicy, plant-based biryani that blends broccoli, basmati rice, and aromatic spices for a dense, adventurous American twist.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Broccoli florets",
+      "amount": "300 g",
+      "notes": "fresh"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "200 g",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Onion, sliced",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Vegetable stock",
+      "amount": "400 ml"
+    },
+    {
+      "name": "Plant-based yogurt",
+      "amount": "150 ml"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Rinse 200 g of basmati rice under cold water until water runs clear, then soak for 20 minutes.",
+    "In a large pot, bring 400 ml vegetable stock to a simmer over medium heat.",
+    "Add the soaked rice to the simmering stock, cover, lower heat, and cook until the rice is al dente, about 12 minutes, then set aside.",
+    "Heat 2 tbsp oil in a heavy skillet over medium-high heat and add sliced onion, sautéing until golden brown, about 5 minutes.",
+    "Stir in minced garlic, minced ginger, and tomato paste, cooking for 2 minutes until fragrant.",
+    "Mix in ground cumin and ground coriander, and sprinkle chili powder, turmeric, and garam masala; cook for another 2 minutes, stirring constantly.",
+    "Add the broccoli florets to the skillet, tossing to coat with the spice mixture, and continue cooking for 5 minutes until the broccoli is tender yet still crisp.",
+    "Pour in the plant-based yogurt, stirring to combine, and reduce heat to low, letting the mixture simmer gently for 3 minutes to meld flavors.",
+    "Transfer the spiced broccoli and yogurt mixture into the pot of cooked rice, fold gently to distribute evenly, and cover with a tight-fitting lid, cooking over low heat for 5 minutes to allow the flavors to meld.",
+    "Garnish with chopped cilantro before serving hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-fusion",
+    "dense",
+    "one-pan",
+    "plant-based",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1234,
+    "protein": 29,
+    "carbs": 195,
+    "fat": 35
+  },
+  "slug": "aromatic-dense-indian-broccoli-biryani",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-dense-indian-broccoli-biryani",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:18:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "tandoor",
+    "primaryIngredient": "broccoli",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Broccoli",
+    "descriptor": "Aromatic Dense",
+    "dishForm": "Biryani"
+  }
+}
