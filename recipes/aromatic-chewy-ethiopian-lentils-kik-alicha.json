@@ -1,0 +1,118 @@
+{
+  "title": "Aromatic Chewy Ethiopian Lentils Kik Alicha",
+  "description": "A wine‑enhanced, chewy lentil dish infused with miso and cornstarch, perfect for festive Ethiopian feasts.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "200g",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "grated"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1 cup",
+      "notes": "reduces for depth"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tbsp",
+      "notes": "dissolved in broth"
+    },
+    {
+      "name": "low-sodium vegetable broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tsp",
+      "notes": "for thickening slurry"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse 200g of red lentils under cold water until clear, then set aside.",
+    "In a 4‑quart pot, heat 2 tablespoons of olive oil over medium heat, then add 1 diced onion and 2 minced garlic cloves, sauté until translucent. ",
+    "Stir in 1 tablespoon grated fresh ginger and 1 teaspoon each of cumin and turmeric, cooking for 30 seconds until fragrant.",
+    "Add 1 cup of white wine, allowing it to reduce by half, then stir in 2 tablespoons of miso paste until dissolved. ",
+    "Pour in 4 cups of low-sodium vegetable broth and the rinsed lentils; bring the mixture to a gentle boil, then reduce heat to low and simmer for 25 minutes, uncovered. ",
+    "In a small bowl, whisk 2 teaspoons of cornstarch with 2 tablespoons of broth to form a slurry, then slowly pour into the pot while stirring, cooking for an additional 5 minutes until thickened. ",
+    "Season with salt and pepper to taste, and let the dish rest off‑heat for 5 minutes to set the texture. ",
+    "Transfer the Kik Alicha to a lazy-susan-spinner, swirl to distribute evenly, and serve hot accompanied by injera or steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "festive",
+    "healthy",
+    "low-calorie",
+    "one-pot",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 680,
+    "protein": 48,
+    "carbs": 120,
+    "fat": 8
+  },
+  "slug": "aromatic-chewy-ethiopian-lentils-kik-alicha",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-chewy-ethiopian-lentils-kik-alicha",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:45:42Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "festive",
+    "technique": "miso-marinate",
+    "primaryIngredient": "cornstarch",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "Lentils",
+    "descriptor": "Aromatic Chewy",
+    "dishForm": "Kik Alicha"
+  }
+}
