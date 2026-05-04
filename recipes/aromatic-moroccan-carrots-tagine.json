@@ -1,0 +1,105 @@
+{
+  "title": "Aromatic Moroccan Carrots Tagine",
+  "description": "A spicy and aromatic slow-cooked carrot dish with a hint of dark chocolate that delivers bold flavor and high protein in a lazy Sunday meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "carrots",
+      "amount": "1 kg",
+      "notes": "peeled and cut into 2 cm pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cinnamon stick",
+      "amount": "1"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "30 g",
+      "notes": "for a subtle smoky note"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "200 g",
+      "notes": "cooked"
+    },
+    {
+      "name": "water",
+      "amount": "500 ml"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a tagine or heavy pot over medium heat.",
+    "Add onion and cook until translucent, about 5 minutes.",
+    "Stir in garlic, cumin, coriander, and the cinnamon stick, cooking for 1 minute until fragrant.",
+    "Add the carrots, chickpeas, and water, bringing the mixture to a gentle boil.",
+    "Reduce heat to low, cover, and simmer for 30 minutes until the carrots are tender.",
+    "Stir in dark chocolate chips, allowing them to melt and coat the vegetables, creating a subtle depth.",
+    "Taste and adjust seasoning with salt and pepper as needed.",
+    "Remove the pot from heat and let it rest for 5 minutes before serving.",
+    "Serve hot, optionally garnished with fresh cilantro or sliced almonds for texture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-dinner",
+    "high-protein",
+    "lazy-sunday",
+    "one-pot",
+    "spiced",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "aromatic-moroccan-carrots-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-moroccan-carrots-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:20:49Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "carrots",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "carrots",
+    "descriptor": "Aromatic",
+    "dishForm": "Tagine"
+  }
+}

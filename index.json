@@ -1834,6 +1834,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-moroccan-carrots-tagine",
+    "title": "Aromatic Moroccan Carrots Tagine",
+    "tags": [
+      "easy-dinner",
+      "high-protein",
+      "lazy-sunday",
+      "one-pot",
+      "spiced",
+      "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-moroccan-chicken-tagine",
     "title": "Aromatic Moroccan Chicken Tagine",
     "tags": [
