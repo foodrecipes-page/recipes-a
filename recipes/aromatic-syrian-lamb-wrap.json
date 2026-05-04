@@ -1,0 +1,93 @@
+{
+  "title": "Aromatic Syrian Lamb Wrap",
+  "description": "A flavorful and earthy Syrian dish featuring lamb, dried oregano, and ssam wrap, perfect for meal prep, and paleo friendly. This recipe is a hearty and satisfying meal option.",
+  "cuisine": "Syrian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together dried oregano, salt, and black pepper.",
+    "Rub the mixture all over the lamb shoulder, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the lamb shoulder until browned on all sides, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and cook for 20 minutes, or until the lamb is cooked to 145 degrees Fahrenheit.",
+    "Let the lamb rest for 10 minutes before slicing it thinly.",
+    "Assemble the wraps by slicing the lamb and placing it in the ssam wrap, along with chopped onion and minced garlic.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "aromatic-syrian-lamb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-syrian-lamb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:56:18Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "meal-prep",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "dried oregano",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lamb",
+    "descriptor": "aromatic earthy",
+    "dishForm": "Wrap"
+  }
+}
