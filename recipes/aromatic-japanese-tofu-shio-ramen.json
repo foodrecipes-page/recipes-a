@@ -1,0 +1,110 @@
+{
+  "title": "Aromatic Japanese Tofu Shio Ramen",
+  "description": "A yeasty, molten ramen that fuels post-workout recovery with a vegan twist, enriched by vegetarian Worcestershire sauce and crispy tempeh lardons.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g",
+      "notes": "cubed"
+    },
+    {
+      "name": "ramen noodles (shio flavor)",
+      "amount": "150g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "200ml"
+    },
+    {
+      "name": "vegetarian Worcestershire sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "miso paste",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "toasted sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh chives",
+      "amount": "2 tbsp",
+      "notes": "for garnish"
+    },
+    {
+      "name": "tempeh lardons",
+      "amount": "1 tbsp",
+      "notes": "cooked until crisp"
+    }
+  ],
+  "instructions": [
+    "Heat a pot over medium heat and pour in the vegetable broth.",
+    "Add soy sauce, vegetarian Worcestershire sauce, miso paste, and nutritional yeast, stirring until well combined.",
+    "Drop the ramen noodles into the broth and cook for 3 minutes until al dente.",
+    "Fold in the cubed tofu and simmer for another 2 minutes, allowing the tofu to absorb the flavors.",
+    "In a small pan, heat toasted sesame oil and pour in the coconut milk to create a molten, creamy base.",
+    "Pour the coconut milk mixture into the ramen pot, stirring gently to blend the textures.",
+    "Gently toss in the pre-cooked tempeh lardons, distributing them evenly across the bowl.",
+    "Serve the ramen hot in a talavera plate, topping with fresh chives for a burst of color and aroma.",
+    "Let the dish rest for a minute before enjoying to let the flavors meld."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "post-workout",
+    "quick",
+    "ramen",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 775,
+    "protein": 38,
+    "carbs": 67,
+    "fat": 16
+  },
+  "slug": "aromatic-japanese-tofu-shio-ramen",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-japanese-tofu-shio-ramen",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:33:45Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "molten",
+    "mood": "post-workout",
+    "technique": "lardons-render",
+    "primaryIngredient": "worcestershire sauce",
+    "diet": "jain",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Tofu",
+    "descriptor": "Aromatic",
+    "dishForm": "Shio Ramen"
+  }
+}
