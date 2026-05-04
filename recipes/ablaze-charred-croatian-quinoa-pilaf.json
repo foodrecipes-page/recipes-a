@@ -1,0 +1,94 @@
+{
+  "title": "Ablaze Charred Croatian Quinoa Pilaf",
+  "description": "Charred quinoa cooked with aromatic Croatian herbs and a splash of local olive oil creates a fluffy, low‑glycemic pilaf that bursts with smoky flavor. The dish pairs well with grilled vegetables or a light yogurt dip.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-glycemic",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed before cooking"
+    },
+    {
+      "name": "Water",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Dried oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Fresh lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Rinse quinoa under cold water until runoff clear.",
+    "Bring water and quinoa to a boil in a saucepan.",
+    "Reduce heat to low, cover, and simmer until quinoa is tender and water is absorbed, about 15 minutes.",
+    "Heat a grill pan over medium-high heat.",
+    "Drizzle 1 tbsp olive oil over pan and add minced garlic, toasting until fragrant, about 1 minute.",
+    "Add the cooked quinoa to the pan, sprinkle with oregano, paprika, and salt, and char gently, stirring occasionally, until a smoky crust forms, about 5 minutes.",
+    "Remove from heat, stir in lemon zest and remaining olive oil.",
+    "Serve hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "low-glycemic",
+    "one-pan",
+    "smoky",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 478,
+    "protein": 9,
+    "carbs": 43,
+    "fat": 32
+  },
+  "slug": "ablaze-charred-croatian-quinoa-pilaf",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ablaze-charred-croatian-quinoa-pilaf",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:26:06Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "fluffy",
+    "mood": "monsoon",
+    "technique": "toast",
+    "primaryIngredient": "mixed grain",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Quinoa",
+    "descriptor": "Ablaze Charred",
+    "dishForm": "Pilaf"
+  }
+}
