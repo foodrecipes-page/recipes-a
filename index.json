@@ -2552,6 +2552,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-spicy-canadian-napa-cabbage-stir-fry",
+    "title": "Aromatic Spicy Canadian Napa Cabbage Stir Fry",
+    "tags": [
+      "canadian-cuisine",
+      "one-pan",
+      "quick-meal",
+      "seafood",
+      "spicy-food",
+      "stir-fry"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-spicy-japanese-peas-ramen",
     "title": "Aromatic Spicy Japanese Peas Ramen",
     "tags": [

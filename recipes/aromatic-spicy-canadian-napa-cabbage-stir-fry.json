@@ -1,0 +1,100 @@
+{
+  "title": "Aromatic Spicy Canadian Napa Cabbage Stir Fry",
+  "description": "This spicy Canadian dish features napa cabbage and is pescatarian-friendly, perfect for a monsoon evening, with a shattering blend of flavors and textures, whisked to perfection.",
+  "cuisine": "Canadian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "napa cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "salmon fillet",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry until fragrant.",
+    "Add the salmon and cook until browned and cooked through.",
+    "Add the shredded napa cabbage and stir-fry until wilted.",
+    "In a small bowl, whisk together the soy sauce, sriracha sauce, salt, and black pepper.",
+    "Pour the sauce over the cabbage mixture and stir-fry for an additional 2 minutes.",
+    "Serve hot, garnished with sliced green onions if desired.",
+    "Use a whisk to toss the ingredients and ensure even coating with the sauce.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the stir-fry to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "one-pan",
+    "quick-meal",
+    "seafood",
+    "spicy-food",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "aromatic-spicy-canadian-napa-cabbage-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-spicy-canadian-napa-cabbage-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:13:01Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "whisk",
+    "primaryIngredient": "napa cabbage",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "napa cabbage",
+    "descriptor": "Aromatic Spicy",
+    "dishForm": "Stir-fry"
+  }
+}
