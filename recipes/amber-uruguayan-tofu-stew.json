@@ -1,0 +1,105 @@
+{
+  "title": "Amber Uruguayan Tofu Stew",
+  "description": "A resinous, creamy tofu stew infused with matcha and simmered on a cedar plank for a unique flavor. This kid-friendly Uruguayan dish brings a soothing, plant-based twist to your table.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Firm tofu",
+      "amount": "400g"
+    },
+    {
+      "name": "Matcha powder",
+      "amount": "10g",
+      "notes": "whisk with coconut milk to avoid clumps"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml",
+      "notes": "open can at room temp"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "Maple syrup",
+      "amount": "30g"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "30ml"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "2g"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C and place a cedar plank on a baking sheet for 15 minutes to warm.",
+    "Press tofu for 10 minutes, then cube into 1-inch pieces.",
+    "In a small bowl, whisk matcha powder with coconut milk until smooth.",
+    "In the oven, spread tofu, diced onion, minced garlic, grated ginger, turmeric, and soy sauce on the warmed cedar plank.",
+    "Pour the matcha-coconut mixture and vegetable broth over the tofu mixture on the plank, then drizzle maple syrup.",
+    "Cover the plank tightly with aluminum foil and bake in the oven for 45 minutes, stirring once at 20 minutes.",
+    "Remove the plank from oven, stir the stew, and season with salt and pepper to taste.",
+    "Serve the creamy stew hot, optionally garnished with fresh cilantro or chopped green onions."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 45,
+  "totalTimeMin": 90,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cedar-plank",
+    "creamy",
+    "kid-friendly",
+    "matcha",
+    "one-pot",
+    "plant-based",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 86,
+    "carbs": 56,
+    "fat": 37
+  },
+  "slug": "amber-uruguayan-tofu-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/amber-uruguayan-tofu-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:22:28Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "matcha",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "tofu",
+    "descriptor": "Amber",
+    "dishForm": "Stew"
+  }
+}

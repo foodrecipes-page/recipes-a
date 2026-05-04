@@ -1247,6 +1247,22 @@
     "shard": "a"
   },
   {
+    "slug": "amber-uruguayan-tofu-stew",
+    "title": "Amber Uruguayan Tofu Stew",
+    "tags": [
+      "cedar-plank",
+      "creamy",
+      "kid-friendly",
+      "matcha",
+      "one-pot",
+      "plant-based",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 90,
+    "shard": "a"
+  },
+  {
     "slug": "ambrosial-british-mincemeat-tart",
     "title": "Ambrosial British Mincemeat Tart",
     "tags": [
