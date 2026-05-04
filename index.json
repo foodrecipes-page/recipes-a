@@ -1164,6 +1164,20 @@
     "shard": "a"
   },
   {
+    "slug": "amazingly-grilled-canadian-beef-skewers",
+    "title": "Amazingly Grilled Canadian Beef Skewers",
+    "tags": [
+      "beef-recipes",
+      "canadian-cuisine",
+      "date-night",
+      "fodmap-friendly",
+      "grilled-meats"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-juicy-italian-daikon-pinsa",
     "title": "Amazingly Juicy Italian Daikon Pinsa",
     "tags": [

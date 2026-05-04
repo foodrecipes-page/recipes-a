@@ -1,0 +1,88 @@
+{
+  "title": "Amazingly Grilled Canadian Beef Skewers",
+  "description": "Grassy and chewy Canadian dish featuring dutch stroop, perfect for a date night, and fodmap friendly. This recipe uses a yakimono grill for a unique flavor.",
+  "cuisine": "Canadian",
+  "diet": [
+    "fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Canadian beef",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "Dutch stroop",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic infused oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to 400 degrees Fahrenheit.",
+    "Thread the beef cubes onto skewers, leaving a small space between each piece.",
+    "Brush the beef with olive oil and garlic infused oil.",
+    "Season with salt and black pepper.",
+    "Grill the skewers for 10 minutes, turning occasionally.",
+    "Brush the dutch stroop onto the beef during the last 2 minutes of grilling.",
+    "Remove from heat and garnish with chopped parsley.",
+    "Serve immediately.",
+    "Let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "canadian-cuisine",
+    "date-night",
+    "fodmap-friendly",
+    "grilled-meats"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "amazingly-grilled-canadian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-grilled-canadian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:21:47Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "chewy",
+    "mood": "date-night",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "dutch stroop",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef",
+    "descriptor": "Amazingly grilled",
+    "dishForm": "Skewers"
+  }
+}
