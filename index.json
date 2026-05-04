@@ -1508,6 +1508,17 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-moroccan-chicken-tagine",
+    "title": "Aromatic Moroccan Chicken Tagine",
+    "tags": [
+      "moroccan",
+      "dinner"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-moroccan-fava-beans-bissara",
     "title": "Aromatic Moroccan Fava Beans Bissara",
     "tags": [
