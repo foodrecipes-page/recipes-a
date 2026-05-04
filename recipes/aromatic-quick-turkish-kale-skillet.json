@@ -1,0 +1,107 @@
+{
+  "title": "Aromatic Quick Turkish Kale Skillet",
+  "description": "This pungent and springy Turkish dish features kale and is quickly prepared in a cast-iron skillet, making it a great option for a weeknight dinner. It is also Jain-friendly, meaning it contains no animal products or by-products.",
+  "cuisine": "Turkish",
+  "diet": [
+    "Jain",
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kale",
+      "amount": "2 cups",
+      "notes": "chopped, stems removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turkish red pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large cast-iron skillet over medium-high heat.",
+    "Add the chopped onion and cook until it is translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the chopped kale to the skillet, stirring to combine with the onion and garlic.",
+    "Add the ground turkish red pepper, cumin, smoked paprika, salt, and black pepper to the skillet, stirring to combine.",
+    "Pour in the lemon juice and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 5 minutes, or until the kale is tender.",
+    "Serve the skillet hot, garnished with lemon wedges if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "jain-friendly",
+    "kale",
+    "one-pan",
+    "quick-fix",
+    "turkish",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "aromatic-quick-turkish-kale-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-quick-turkish-kale-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:58:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "quick-fix",
+    "technique": "pressure-cook",
+    "primaryIngredient": "kale",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "kale",
+    "descriptor": "Aromatic Quick",
+    "dishForm": "Skillet"
+  }
+}
