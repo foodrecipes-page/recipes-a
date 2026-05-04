@@ -1,0 +1,110 @@
+{
+  "title": "Aromatic Syrian Sweet Red Pepper Stew",
+  "description": "A light, grassy stew of sweet red peppers simmered in olive oil and warm spices, perfect for a romantic date night.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet red bell pepper",
+      "amount": "2 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "water or vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "0.5 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the copper pot over medium heat and add the olive oil.",
+    "Add the sliced onion and sauté until translucent, about 3-4 minutes.",
+    "Stir in the minced garlic and cook for 1 minute until fragrant.",
+    "Mix in the tomato paste and diced tomatoes, cooking for 2 minutes to blend flavors.",
+    "Add the sliced sweet red peppers, ground cumin, coriander, smoked paprika, and cinnamon; stir well.",
+    "Pour in the water or broth, bring the mixture to a gentle simmer, and cover the pot.",
+    "Let the stew cook for 20 minutes, stirring occasionally, until peppers soften.",
+    "Finish with lemon juice, season with salt and pepper to taste, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "copper-pot",
+    "dinner",
+    "easy",
+    "light",
+    "low-ghee",
+    "one-pan",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 190,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 8
+  },
+  "slug": "aromatic-syrian-sweet-red-pepper-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-syrian-sweet-red-pepper-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T08:56:14Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "render-fat",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "sweet red peppers",
+    "descriptor": "Aromatic",
+    "dishForm": "Stew"
+  }
+}
