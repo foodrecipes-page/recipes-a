@@ -1,0 +1,104 @@
+{
+  "title": "Adventurous Yeasty Croatian Asparagus Skillet",
+  "description": "A low-carb friendly Croatian dish featuring asparagus and a mother-sauce base, cooked to perfection in a tava griddle with a yeasty and glassy-jelly texture. This adventurous recipe is sure to delight your taste buds.",
+  "cuisine": "Croatian",
+  "diet": [
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 teaspoon",
+      "notes": "active dry"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a tava griddle over medium heat until melted.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and cook for an additional minute, until fragrant.",
+    "Add the asparagus and cook until tender, about 5 minutes.",
+    "In a small bowl, whisk together the yeast, chicken broth, and heavy cream.",
+    "Pour the yeast mixture over the asparagus and onion mixture in the tava griddle.",
+    "Season with salt, black pepper, and paprika, and stir to combine.",
+    "Reduce heat to low and simmer, covered, for 10 minutes, until the sauce has thickened and the yeast is activated.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus-recipes",
+    "croatian-cuisine",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "yeasty-dishes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "adventurous-yeasty-croatian-asparagus-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-yeasty-croatian-asparagus-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:33:33Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "glassy-jelly",
+    "mood": "adventurous",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "asparagus",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "asparagus",
+    "descriptor": "Adventurous Yeasty",
+    "dishForm": "Skillet"
+  }
+}
