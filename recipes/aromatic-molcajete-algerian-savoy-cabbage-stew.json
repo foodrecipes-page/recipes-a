@@ -1,0 +1,119 @@
+{
+  "title": "Aromatic Molcajete Algerian Savoy Cabbage Stew",
+  "description": "A spicy, juicy vegetarian stew featuring savoy cabbage and sweet potato, slow-cooked in a molcajete for a hearty meal-prep option.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion, sliced",
+      "amount": "1 medium",
+      "notes": "200g"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "3 cloves",
+      "notes": "9g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "30ml"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp",
+      "notes": "5g"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": "5g"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp",
+      "notes": "1g"
+    },
+    {
+      "name": "sweet potato, diced",
+      "amount": "1 medium",
+      "notes": "150g"
+    },
+    {
+      "name": "savoy cabbage, shredded",
+      "amount": "1 small head",
+      "notes": "500g"
+    },
+    {
+      "name": "cherry tomatoes, halved",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "600ml"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp",
+      "notes": "15ml"
+    },
+    {
+      "name": "fresh parsley, chopped",
+      "amount": "1 tbsp",
+      "notes": "5g"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a molcajete over medium heat.",
+    "Add cumin seeds and sauté until fragrant, about 30 seconds.",
+    "Add sliced onion and minced garlic; cook until the onion is translucent, about 5 minutes.",
+    "Stir in diced sweet potato, smoked paprika, and cayenne pepper, cooking for 1 minute.",
+    "Add shredded cabbage and cherry tomato halves, stirring to coat the vegetables with the spices.",
+    "Pour in vegetable broth, bring to a simmer, cover, and cook for 15 minutes until the sweet potato is tender.",
+    "Stir in lemon juice, season with salt and pepper, and simmer for an additional 5 minutes.",
+    "Garnish with chopped parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "meal-prep",
+    "one-pot",
+    "soup",
+    "spicy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "aromatic-molcajete-algerian-savoy-cabbage-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-molcajete-algerian-savoy-cabbage-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:38:31Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "juicy",
+    "mood": "meal-prep",
+    "technique": "dehydrate",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Savoy Cabbage",
+    "descriptor": "Aromatic Molcajete",
+    "dishForm": "Stew"
+  }
+}
