@@ -1,0 +1,100 @@
+{
+  "title": "Aromatic Smoked Syrian Salt Cod Skewers",
+  "description": "A traditional Syrian dish featuring salt cod, smoke, and aromatic spices, served on a cedar plank.",
+  "cuisine": "Syrian",
+  "diet": [
+    "high-protein",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "salt cod",
+      "amount": "1 pound",
+      "notes": "dried and soaked overnight"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4 pieces",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Soak the cedar planks in water for 30 minutes before grilling.",
+    "Cut the salt cod into 1-inch pieces and thread onto skewers.",
+    "Mix the olive oil, lemon juice, garlic, smoked paprika, sumac, and black pepper in a bowl.",
+    "Brush the mixture onto the salt cod skewers.",
+    "Place the skewers on the cedar planks and grill for 8 minutes per side.",
+    "Serve the skewers hot, garnished with chopped parsley.",
+    "Let the skewers rest for 2 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "grilled",
+    "high-protein",
+    "seafood",
+    "smoked",
+    "syrian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 20
+  },
+  "slug": "aromatic-smoked-syrian-salt-cod-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-smoked-syrian-salt-cod-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:43:20Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "dense",
+    "mood": "nostalgic",
+    "technique": "smoke",
+    "primaryIngredient": "salt cod",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "salt cod",
+    "descriptor": "Aromatic Smoked",
+    "dishForm": "Skewers"
+  }
+}
