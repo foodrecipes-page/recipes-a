@@ -1,0 +1,102 @@
+{
+  "title": "Amazingly Aromatic Dutch Apple Wrap",
+  "description": "A sweet and silky Dutch dish featuring allspice and wrapped in a ssam-wrap, perfect for a low-fat friendly snack",
+  "cuisine": "Dutch",
+  "diet": [
+    "low-fat",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ssam-wrap",
+      "amount": "4 sheets",
+      "notes": "low-carb wrap"
+    },
+    {
+      "name": "granny smith apples",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "pure"
+    },
+    {
+      "name": "almond butter",
+      "amount": "2 tablespoons",
+      "notes": "creamy"
+    },
+    {
+      "name": "raisins",
+      "amount": "1/4 cup",
+      "notes": "dark"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat",
+    "In a bowl, mix together sliced apples, allspice, and cinnamon",
+    "Add honey and almond butter to the bowl and mix until well combined",
+    "Arrange a ssam-wrap sheet on a flat surface",
+    "Spoon the apple mixture onto the center of the wrap",
+    "Sprinkle raisins and walnuts over the apple mixture",
+    "Fold the bottom half of the wrap up over the filling",
+    "Fold in the sides and roll the wrap up tightly",
+    "Cook the wrap in the preheated pan for 2-3 minutes on each side",
+    "Serve warm and enjoy"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "apple",
+    "comfort-food",
+    "dutch",
+    "low-fat",
+    "snack",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "amazingly-aromatic-dutch-apple-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-aromatic-dutch-apple-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:16:26Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "allspice",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "apples",
+    "descriptor": "Amazingly aromatic",
+    "dishForm": "Wrap"
+  }
+}

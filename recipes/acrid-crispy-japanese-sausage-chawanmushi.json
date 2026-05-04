@@ -1,0 +1,109 @@
+{
+  "title": "Acrid Crispy Japanese Sausage Chawanmushi",
+  "description": "A peppery, crispy sausage custard ideal for post-workout fuel, made sous-vide and finished on a hot-stone plate.",
+  "cuisine": "Japanese",
+  "diet": [
+    "fodmap-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Japanese pork sausage (200g), trimmed",
+      "amount": "200g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper, crushed",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2"
+    },
+    {
+      "name": "egg whites",
+      "amount": "2"
+    },
+    {
+      "name": "low-sodium dashi",
+      "amount": "300 ml"
+    },
+    {
+      "name": "tamari (low-sodium)",
+      "amount": "30 ml"
+    },
+    {
+      "name": "mirin",
+      "amount": "15 ml"
+    },
+    {
+      "name": "fresh ginger, grated",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "green onion, chopped (green part only)",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "roasted sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat sous-vide water bath to 65°C (149°F).",
+    "Season the sausage with salt and crushed pepper, seal in a vacuum bag, and cook in the water bath for 45 minutes.",
+    "While the sausage cooks, whisk the eggs, egg whites, dashi, tamari, mirin, and grated ginger in a bowl until smooth.",
+    "After 45 minutes, remove the sausage from the bag, pat dry, and sear in a hot pan with sesame oil until golden and crispy, about 5 minutes.",
+    "Slice the seared sausage into bite-sized pieces.",
+    "Heat a hot-stone plate until very hot, then brush with a little sesame oil to prevent sticking.",
+    "Pour the egg-dashi mixture into the hot stone, filling about three-quarters full, then cover tightly.",
+    "Steam the custard over indirect heat for 20 minutes, or until the eggs set and the surface is firm.",
+    "Remove from the stone, garnish with sliced sausage, chopped green onion, and a sprinkle of sesame seeds.",
+    "Serve immediately, letting the crisp sausage contrast the silky custard."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 70,
+  "totalTimeMin": 85,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "chawanmushi",
+    "crispy",
+    "fodmap-friendly",
+    "high-protein",
+    "japanese",
+    "post-workout",
+    "sous-vide"
+  ],
+  "nutrition": {
+    "calories": 790,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 54
+  },
+  "slug": "acrid-crispy-japanese-sausage-chawanmushi",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/acrid-crispy-japanese-sausage-chawanmushi",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:16:16Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "post-workout",
+    "technique": "sous-vide",
+    "primaryIngredient": "sausages",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "Sausage",
+    "descriptor": "Acrid Crispy",
+    "dishForm": "Chawanmushi"
+  }
+}

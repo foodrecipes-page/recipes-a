@@ -115,6 +115,22 @@
     "shard": "a"
   },
   {
+    "slug": "acrid-crispy-japanese-sausage-chawanmushi",
+    "title": "Acrid Crispy Japanese Sausage Chawanmushi",
+    "tags": [
+      "chawanmushi",
+      "crispy",
+      "fodmap-friendly",
+      "high-protein",
+      "japanese",
+      "post-workout",
+      "sous-vide"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 85,
+    "shard": "a"
+  },
+  {
     "slug": "adventurer-s-spicy-flank-steak",
     "title": "Adventurer's Spicy Flank Steak",
     "tags": [
@@ -1160,6 +1176,22 @@
     ],
     "cuisine": "French",
     "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-aromatic-dutch-apple-wrap",
+    "title": "Amazingly Aromatic Dutch Apple Wrap",
+    "tags": [
+      "apple",
+      "comfort-food",
+      "dutch",
+      "low-fat",
+      "snack",
+      "vegetarian",
+      "wrap"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 21,
     "shard": "a"
   },
   {
