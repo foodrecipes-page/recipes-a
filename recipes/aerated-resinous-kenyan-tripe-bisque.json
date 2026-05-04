@@ -1,0 +1,113 @@
+{
+  "title": "Aerated Resinous Kenyan Tripe Bisque",
+  "description": "A post-workout Kenyan dish featuring tripe, deglazed fond, and a halal-friendly twist. This bisque is rich in protein and low in calories, making it an excellent choice for athletes.",
+  "cuisine": "kenyan",
+  "diet": [
+    "halal",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "Fresh or frozen tripe, washed and cleaned"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "Unrefined"
+    },
+    {
+      "name": "Deglazed fond",
+      "amount": "1 cup",
+      "notes": "Reduced beef stock"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 cup",
+      "notes": "Full-fat"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "Unrefined sea salt"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "Freshly ground"
+    },
+    {
+      "name": "Aerating agent (optional)",
+      "amount": "",
+      "notes": "Club soda or seltzer water"
+    }
+  ],
+  "instructions": [
+    "Cook the tripe in a large pot of boiling salted water for 10 minutes.",
+    "Drain the tripe and set it aside to cool.",
+    "In the same pot, heat the coconut oil over medium heat.",
+    "Add the chopped onion and cook until it's translucent, about 5 minutes.",
+    "Add the sliced ginger and minced garlic and cook for another minute.",
+    "Deglaze the pot with the reduced beef stock, scraping the bottom to release any browned bits.",
+    "Add the cooled tripe to the pot and stir to coat with the deglazed fond.",
+    "Pour in the full-fat coconut milk and stir to combine.",
+    "Season the bisque with unrefined sea salt and freshly ground black pepper to taste.",
+    "If desired, aerate the bisque by stirring in a small amount of club soda or seltzer water.",
+    "Serve the bisque hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "halal",
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "aerated-resinous-kenyan-tripe-bisque",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-resinous-kenyan-tripe-bisque",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:43:11Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "aerated",
+    "mood": "post-workout",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "tripe",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "Tripe",
+    "descriptor": "Aerated Resinous",
+    "dishForm": "Bisque"
+  }
+}
