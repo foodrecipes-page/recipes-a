@@ -1,0 +1,94 @@
+{
+  "title": "Adorable Brazilian Bread Cookies",
+  "description": "Buttery, springy cookies with light brown soft sugar, a hint of coconut and a char-grill-yang finish, perfect for kids and made on a raclette grill.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "unsalted butter",
+      "amount": "100 g",
+      "notes": "softened"
+    },
+    {
+      "name": "light brown soft sugar",
+      "amount": "150 g"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "200 g"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "½ tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "100 ml"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "30 g",
+      "notes": "optional for topping"
+    }
+  ],
+  "instructions": [
+    "Preheat a raclette grill to medium‑high heat.",
+    "In a bowl, beat the softened butter and brown sugar until creamy.",
+    "Whisk together flour, baking powder, and sea salt in a separate bowl.",
+    "Gradually fold the dry ingredients into the butter mixture, mixing until just combined.",
+    "Stir in the vanilla extract and coconut milk until a smooth dough forms.",
+    "If using coconut flakes, fold them into the dough now.",
+    "Shape the dough into small rounds about 2 cm in diameter.",
+    "Place the rounds on the preheated grill and cook for 3–4 minutes on each side until a light char appears.",
+    "Remove the cookies and cool them on a wire rack for 5 minutes.",
+    "Serve warm or store in an airtight container for up to 3 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "dessert",
+    "kid-friendly",
+    "quick",
+    "raclette-grill",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 195,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "adorable-brazilian-bread-cookies",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/adorable-brazilian-bread-cookies",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:17:41Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "light brown soft sugar",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "bread",
+    "descriptor": "Adorable",
+    "dishForm": "Cookies"
+  }
+}
