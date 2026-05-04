@@ -351,6 +351,21 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-smoky-korean-black-pudding-namul",
+    "title": "Adventurous Smoky Korean Black Pudding Namul",
+    "tags": [
+      "black-pudding",
+      "grilled-vegetables",
+      "korean-cuisine",
+      "low-fodmap",
+      "namul",
+      "sesame-seeds"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-tadka-noodles",
     "title": "Adventurous Tadka Noodles",
     "tags": [
@@ -1571,6 +1586,21 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-algerian-lamb-tagine",
+    "title": "Aromatic Algerian Lamb Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "clay-cooked",
+      "lamb-recipes",
+      "low-sodium",
+      "mediterranean-diet",
+      "one-pot"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 180,
     "shard": "a"
   },
   {

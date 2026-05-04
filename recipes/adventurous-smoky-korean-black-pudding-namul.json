@@ -1,0 +1,103 @@
+{
+  "title": "Adventurous Smoky Korean Black Pudding Namul",
+  "description": "A sweet and savory Korean dish featuring black pudding, grilled to perfection and mixed with various namul ingredients, this adventurous recipe is FODMAP-friendly and offers a unique taste experience.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "black pudding",
+      "amount": "1 pound",
+      "notes": "sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 teaspoon",
+      "notes": "FODMAP-friendly alternative to garlic"
+    },
+    {
+      "name": "grilled zucchini",
+      "amount": "1 medium",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "grilled carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the yakimono grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a small bowl, whisk together sesame oil, soy sauce, and garlic-infused oil to make the namul sauce.",
+    "Brush the black pudding slices with the namul sauce and grill for 3-4 minutes per side, or until crispy and slightly charred.",
+    "Grill the zucchini and carrots for 2-3 minutes per side, or until tender and lightly charred.",
+    "In a large bowl, combine the grilled black pudding, zucchini, and carrots.",
+    "Sprinkle toasted sesame seeds, chopped green onions, salt, and black pepper over the top of the namul mixture.",
+    "Toss the namul mixture gently to combine, being careful not to break the grilled ingredients.",
+    "Serve the Adventurous Smoky Korean Black Pudding Namul hot, garnished with additional green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "black-pudding",
+    "grilled-vegetables",
+    "korean-cuisine",
+    "low-fodmap",
+    "namul",
+    "sesame-seeds"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "adventurous-smoky-korean-black-pudding-namul",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-smoky-korean-black-pudding-namul",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:35:49Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "black pudding",
+    "diet": "fodmap",
+    "region": "gyeonggi",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "black pudding",
+    "descriptor": "Adventurous Smoky",
+    "dishForm": "Namul"
+  }
+}
