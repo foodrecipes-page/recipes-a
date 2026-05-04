@@ -1671,6 +1671,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-greek-chicken-avgolemono",
+    "title": "Aromatic Greek Chicken Avgolemono",
+    "tags": [
+      "ayurvedic-friendly",
+      "comfort-food",
+      "greek-cuisine",
+      "one-pot",
+      "silky",
+      "yeasty"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-greek-chickpea-bowl",
     "title": "Aromatic Greek Chickpea Bowl",
     "tags": [
