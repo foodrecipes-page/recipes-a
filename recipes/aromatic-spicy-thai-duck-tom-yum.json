@@ -1,0 +1,105 @@
+{
+  "title": "Aromatic Spicy Thai Duck Tom Yum",
+  "description": "A salty, creamy, and kid-friendly Thai dish featuring duck confit leg, this tom yum is a twist on the classic recipe, made keto-friendly and served in a cazuela.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck confit leg",
+      "amount": "2 pounds",
+      "notes": "pre-cooked, shredded"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tom yum paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon grass",
+      "amount": "2 stalks",
+      "notes": "bruised"
+    },
+    {
+      "name": "galangal",
+      "amount": "1 root",
+      "notes": "sliced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "chilies",
+      "amount": "2",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut milk in a large cazuela over medium heat until it starts to simmer.",
+    "Add the tom yum paste and stir until it is fully incorporated and fragrant.",
+    "Add the fish sauce, lime juice, lemon grass, galangal, and kaffir lime leaves to the cazuela and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the shredded duck confit leg to the cazuela and stir to combine.",
+    "Add the sliced mushrooms and chilies to the cazuela and stir to combine.",
+    "Simmer the tom yum for an additional 5 minutes, or until the flavors have melded together and the duck is heated through.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the tom yum hot, garnished with additional kaffir lime leaves and chilies if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-based",
+    "duck-recipes",
+    "keto-friendly",
+    "one-pot",
+    "spicy",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "aromatic-spicy-thai-duck-tom-yum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-spicy-thai-duck-tom-yum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T19:23:46Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "rest",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "keto",
+    "region": "southern-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "duck",
+    "descriptor": "Aromatic Spicy",
+    "dishForm": "Tom Yum"
+  }
+}

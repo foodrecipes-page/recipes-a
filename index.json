@@ -2583,6 +2583,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-spicy-thai-duck-tom-yum",
+    "title": "Aromatic Spicy Thai Duck Tom Yum",
+    "tags": [
+      "coconut-milk-based",
+      "duck-recipes",
+      "keto-friendly",
+      "one-pot",
+      "spicy",
+      "thai-cuisine"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-stone-spanish-eggs-omelette",
     "title": "Aromatic Stone Spanish Eggs Omelette",
     "tags": [
