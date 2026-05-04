@@ -1,0 +1,104 @@
+{
+  "title": "Aromatic Mediterranean Chuck Roast Stew",
+  "description": "A garlicky, velvety stew that brings Mediterranean flavors to the table with tender chuck roast, fresh herbs, and a rich tomato base. Perfect for a comforting lunch or dinner.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chuck roast bone-in",
+      "amount": "2 lb"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Carrot, diced",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Celery, diced",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "Garlic cloves, minced",
+      "amount": "6"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Herb sprigs (rosemary and thyme)",
+      "amount": "2"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "1 tsp salt, 1/2 tsp pepper"
+    }
+  ],
+  "instructions": [
+    "Heat the hot‑pot vessel over medium‑high heat and add 2 tablespoons of olive oil.",
+    "Season the chuck roast with salt and pepper; sear it on all sides until browned, about 4 minutes per side, then remove and set aside.",
+    "In the same pot, add the diced onion, carrot, and celery and cook until the vegetables soften, about 5 minutes.",
+    "Add minced garlic and cook for an additional minute until fragrant.",
+    "Stir in the tomato paste, coating the vegetables, and cook for 2 minutes to develop flavor.",
+    "Pour in the cup of red wine to deglaze the pot, scraping up browned bits; simmer until the wine reduces by half, about 5 minutes.",
+    "Return the roast to the pot and add the 3 cups of beef broth and the herb sprigs; bring the mixture to a gentle simmer.",
+    "Cover the pot, reduce heat to low, and let the stew cook for 1 hour and 45 minutes, or until the meat is tender.",
+    "Remove the herb sprigs and stir in extra salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 105,
+  "totalTimeMin": 120,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "garlic-forward",
+    "one-pot",
+    "paleo-friendly",
+    "steak",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 2120,
+    "protein": 140,
+    "carbs": 35,
+    "fat": 210
+  },
+  "slug": "aromatic-mediterranean-chuck-roast-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-mediterranean-chuck-roast-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:43:47Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "velvety",
+    "mood": "adventurous",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "chuck roast",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Chuck Roast",
+    "descriptor": "Aromatic",
+    "dishForm": "Stew"
+  }
+}
