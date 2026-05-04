@@ -1,0 +1,98 @@
+{
+  "title": "Aromatic Asian Chinese Tofu Noodles",
+  "description": "A sour and creamy Chinese dish featuring vegan white wine vinegar and bhuna, served in a copper mug, this festive recipe is low-glycemic-friendly and perfect for a special occasion.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegan",
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into small cubes"
+    },
+    {
+      "name": "vegan white wine vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "low-glycemic noodles",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 5 minutes.",
+    "Add the bhuna spice mix and cook for 1 minute, stirring constantly.",
+    "Add the noodles and cook according to package instructions, about 5 minutes.",
+    "In a small bowl, whisk together the vegan white wine vinegar and a pinch of salt and pepper.",
+    "Pour the vinegar mixture over the noodles and tofu, and stir to combine.",
+    "Transfer the mixture to a copper mug and garnish with scallions and sesame seeds.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "copper-mug",
+    "festive",
+    "low-glycemic",
+    "noodle-dish",
+    "special-occasion",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "aromatic-asian-chinese-tofu-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-asian-chinese-tofu-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-03T23:59:30Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "festive",
+    "technique": "bhuna",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "tofu",
+    "descriptor": "Aromatic Asian",
+    "dishForm": "Noodles"
+  }
+}

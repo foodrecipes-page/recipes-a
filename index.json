@@ -1053,6 +1053,22 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-asian-chinese-tofu-noodles",
+    "title": "Aromatic Asian Chinese Tofu Noodles",
+    "tags": [
+      "chinese",
+      "copper-mug",
+      "festive",
+      "low-glycemic",
+      "noodle-dish",
+      "special-occasion",
+      "vegan"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-australian-salmon-crumble",
     "title": "Aromatic Australian Salmon Crumble",
     "tags": [
