@@ -1,0 +1,92 @@
+{
+  "title": "Aromatic Uruguayan Rhubarb Pie",
+  "description": "A pungent and romantic Uruguayan dessert featuring rhubarb and bonito shave, made in a kazan cauldron, this pie is a unique blend of flavors and textures, and is whole30 friendly.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "2 pounds",
+      "notes": "fresh"
+    },
+    {
+      "name": "bonito shave",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan cauldron over medium heat to 375 degrees Fahrenheit.",
+    "Mix the rhubarb, bonito shave, and coconut sugar in a large bowl.",
+    "Add the almond flour, coconut oil, eggs, salt, and vanilla extract to the bowl and mix until a dough forms.",
+    "Roll out the dough and place it in the preheated kazan cauldron.",
+    "Fill the dough with the rhubarb mixture and fold the dough over the filling.",
+    "Bake the pie for 45 minutes or until the crust is golden brown.",
+    "Remove the pie from the oven and let it cool for 10 minutes.",
+    "Serve the pie warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "kazan-cauldron",
+    "paleo",
+    "rhubarb",
+    "uruguayan",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "aromatic-uruguayan-rhubarb-pie",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-uruguayan-rhubarb-pie",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:03:51Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "bonito-shave",
+    "primaryIngredient": "rhubarb",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Aromatic flaky",
+    "dishForm": "Pie"
+  }
+}
