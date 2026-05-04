@@ -1,0 +1,107 @@
+{
+  "title": "Aromatic Smoked Filipino Chicken Bowl",
+  "description": "A charred, bouncy-qq chicken bowl infused with peach sweetness, smoky undertones, and Filipino flavors, served in a cozy Korean brass bowl.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken thighs boneless",
+      "amount": "400g",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Peach juice",
+      "amount": "100ml",
+      "notes": "fresh or store-bought"
+    },
+    {
+      "name": "Low-sodium soy sauce",
+      "amount": "30ml",
+      "notes": "reduced sodium"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "15ml",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh ginger",
+      "amount": "1 tbsp",
+      "notes": "minced"
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Liquid smoke",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp oil in a skillet over medium-high heat until shimmering.",
+    "Toss the chicken pieces into the hot skillet and sear until golden brown on all sides, about 5 minutes.",
+    "Whisk together peach juice, low-sodium soy sauce, fish sauce, minced garlic, minced ginger, chili flakes, liquid smoke, salt, and pepper in a small bowl.",
+    "Pour the sauce over the chicken, reduce heat to medium, and simmer, stirring occasionally, until the sauce thickens and the chicken is cooked through, about 10 minutes.",
+    "Transfer the chicken and sauce into a preheated Korean brass bowl to retain warmth and aroma.",
+    "Garnish with a sprinkle of fresh sliced chili or a drizzle of peach glaze if desired.",
+    "Serve hot, letting the bowl’s warmth infuse the flavors.",
+    "Enjoy your aromatic smoked Filipino chicken bowl."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "low-sodium",
+    "one-bowl",
+    "quick-supper",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "aromatic-smoked-filipino-chicken-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-smoked-filipino-chicken-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:07:00Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "smoke",
+    "primaryIngredient": "peach juice",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Chicken",
+    "descriptor": "Aromatic Smoked",
+    "dishForm": "Bowl"
+  }
+}

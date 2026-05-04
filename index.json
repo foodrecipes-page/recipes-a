@@ -1594,6 +1594,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-smoked-filipino-chicken-bowl",
+    "title": "Aromatic Smoked Filipino Chicken Bowl",
+    "tags": [
+      "filipino",
+      "low-sodium",
+      "one-bowl",
+      "quick-supper",
+      "smoky"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-smoky-polish-beef-bake",
     "title": "Aromatic Smoky Polish Beef Bake",
     "tags": [
