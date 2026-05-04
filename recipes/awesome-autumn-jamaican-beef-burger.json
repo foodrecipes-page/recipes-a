@@ -1,0 +1,95 @@
+{
+  "title": "Awesome Autumn Jamaican Beef Burger",
+  "description": "A kid-friendly Jamaican dish featuring salty and springy beef burgers served on sesame seed buns, caramelized to perfection and wrapped in a banana leaf, this recipe is egg-free-friendly and perfect for a fun family meal",
+  "cuisine": "Jamaican",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "sesame seed buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "caramelized"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to 375 degrees Fahrenheit",
+    "In a large bowl, combine the ground beef, jamaican jerk seasoning, salt, and black pepper, and mix well with your hands until just combined",
+    "Divide the beef mixture into 4 equal parts and shape each into a ball, then flatten slightly into patties",
+    "Brush the grill or grill pan with vegetable oil to prevent sticking",
+    "Grill the beef patties for 4-5 minutes per side, or until they reach an internal temperature of 160 degrees Fahrenheit",
+    "While the burgers are cooking, caramelize the onion in a pan with a little vegetable oil over medium-low heat, stirring occasionally",
+    "Toast the sesame seed buns on the grill or in a toaster",
+    "Assemble the burgers by spreading a toasted bun with caramelized onion, then topping with a beef patty",
+    "Wrap each burger in a banana leaf and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "autumn-recipes",
+    "beef-burgers",
+    "grilled-meals",
+    "jamaican-cuisine",
+    "kid-friendly",
+    "sesame-seed-buns"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "awesome-autumn-jamaican-beef-burger",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/awesome-autumn-jamaican-beef-burger",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:29:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "springy",
+    "mood": "kid-friendly",
+    "technique": "caramelize",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "beef",
+    "descriptor": "Awesome Autumn",
+    "dishForm": "Burger"
+  }
+}

@@ -2009,5 +2009,20 @@
     "cuisine": "Jamaican",
     "totalTimeMin": 45,
     "shard": "a"
+  },
+  {
+    "slug": "awesome-autumn-jamaican-beef-burger",
+    "title": "Awesome Autumn Jamaican Beef Burger",
+    "tags": [
+      "autumn-recipes",
+      "beef-burgers",
+      "grilled-meals",
+      "jamaican-cuisine",
+      "kid-friendly",
+      "sesame-seed-buns"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 45,
+    "shard": "a"
   }
 ]
