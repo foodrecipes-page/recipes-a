@@ -1,0 +1,94 @@
+{
+  "title": "Aromatic Slovakian Bread Toast",
+  "description": "A pungent and snappy Slovakian dish featuring milk chocolate and double-rise bread, perfect for a cozy evening, and easily made vegan-friendly by substituting the chocolate.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "milk chocolate",
+      "amount": "1 cup",
+      "notes": "vegan milk chocolate for vegan version"
+    },
+    {
+      "name": "almond butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "or maple syrup for vegan version"
+    },
+    {
+      "name": "walnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees.",
+    "Slice the double-rise bread into 1-inch thick slices.",
+    "In a small bowl, mix together the almond butter, honey, cinnamon, vanilla extract, and sea salt.",
+    "Spread the almond butter mixture onto each bread slice.",
+    "Melt the milk chocolate in a double boiler or in the microwave in 30-second increments, stirring between each interval.",
+    "Drizzle the melted chocolate over the bread slices.",
+    "Sprinkle the chopped walnuts over the chocolate.",
+    "Place the bread slices on a baking sheet lined with parchment paper and bake for 5 minutes.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "chocolate-lover",
+    "comfort-food",
+    "quick-snack",
+    "slovakian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 16
+  },
+  "slug": "aromatic-slovakian-bread-toast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-slovakian-bread-toast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T07:06:27Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "cozy",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "milk chocolate",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "bread",
+    "descriptor": "Aromatic",
+    "dishForm": "Toast"
+  }
+}
