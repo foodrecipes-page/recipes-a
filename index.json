@@ -2318,6 +2318,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-japanese-chicken-kushiyaki",
+    "title": "Aromatic Japanese Chicken Kushiyaki",
+    "tags": [
+      "chicken",
+      "grilled",
+      "japanese",
+      "kushiyaki",
+      "nuka-pickle"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-japanese-rice-tan-tan-udon",
     "title": "Aromatic Japanese Rice Tan Tan Udon",
     "tags": [

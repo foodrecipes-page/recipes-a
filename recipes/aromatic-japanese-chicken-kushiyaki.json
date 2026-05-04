@@ -1,0 +1,122 @@
+{
+  "title": "Aromatic Japanese Chicken Kushiyaki",
+  "description": "A traditional Japanese dish from the Kansai region, featuring tender and flavorful chicken glazed with a sweet and savory sauce.",
+  "cuisine": "Japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless chicken thighs",
+      "amount": "4 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Mirin",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Nuka-pickled daikon",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Whole milk",
+      "amount": "2 tablespoons",
+      "notes": "for brushing chicken"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Japanese rice flour",
+      "amount": "1 tablespoon",
+      "notes": "for dusting"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400°F (200°C).",
+    "Season the chicken thighs with salt and black pepper.",
+    "Dust the chicken with Japanese rice flour, shaking off any excess.",
+    "In a small saucepan, combine mirin, sake, soy sauce, and brown sugar. Bring to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "In a small bowl, whisk together the nuka-pickled daikon and whole milk.",
+    "Grill the chicken for 5-7 minutes per side, or until cooked through.",
+    "During the last minute of grilling, brush the chicken with the nuka-milk mixture and continue grilling until caramelized.",
+    "Transfer the chicken to a serving platter and brush with the sweet soy sauce glaze.",
+    "Sprinkle with green onions and ginger, and serve hot.",
+    "Garnish with additional green onions and serve with steamed Japanese rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "chicken",
+    "grilled",
+    "japanese",
+    "kushiyaki",
+    "nuka-pickle"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 24,
+    "fat": 26
+  },
+  "slug": "aromatic-japanese-chicken-kushiyaki",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-japanese-chicken-kushiyaki",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:42:40Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "nuka-pickle",
+    "primaryIngredient": "whole milk",
+    "diet": "buddhist-temple",
+    "region": "kansai",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic",
+    "dishForm": "Kushiyaki"
+  }
+}
