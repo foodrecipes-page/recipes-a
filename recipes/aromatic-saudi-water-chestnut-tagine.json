@@ -1,0 +1,114 @@
+{
+  "title": "Aromatic Saudi Water Chestnut Tagine",
+  "description": "A citrusy, molten tagine that acts as a hangover cure, featuring water chestnuts simmered in kombu cold extract.",
+  "cuisine": "saudi",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Water chestnuts",
+      "amount": "200g",
+      "notes": "drained"
+    },
+    {
+      "name": "Kombu cold extract",
+      "amount": "250ml",
+      "notes": "prepared"
+    },
+    {
+      "name": "Orange",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1",
+      "notes": "zest and juice"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "15ml",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "5g",
+      "notes": "toasted"
+    },
+    {
+      "name": "Ground coriander",
+      "amount": "5g",
+      "notes": "toasted"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "3g",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": "fine"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "10g",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a tagine or heavy pot over medium heat and add olive oil, then sauté the cumin, coriander, and smoked paprika for 30 seconds until fragrant.",
+    "Add the drained water chestnuts and stir to coat them with the spice mixture, cooking for 2 minutes.",
+    "Pour in the kombu cold extract, orange juice, and lemon juice, then add the orange and lemon zest.",
+    "Stir in the salt and pepper, letting the liquids come to a gentle simmer.",
+    "Reduce heat to low, cover, and let the tagine simmer for 45 minutes, stirring occasionally.",
+    "After 45 minutes, remove the lid and simmer for another 15 minutes until the liquid reduces to a thick, molten consistency.",
+    "Stir in the chopped cilantro during the last five minutes of cooking.",
+    "Taste and adjust seasoning with additional salt or pepper if needed.",
+    "Serve hot, spooning the aromatic mixture into bowls and garnishing with extra cilantro."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 60,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "citrus",
+    "hangover-cure",
+    "saudi",
+    "tagine",
+    "vegetarian",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 7
+  },
+  "slug": "aromatic-saudi-water-chestnut-tagine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-saudi-water-chestnut-tagine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:20:19Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "hangover-cure",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "water chestnut",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Saudi",
+    "mainIngredient": "water chestnut",
+    "descriptor": "Aromatic",
+    "dishForm": "Tagine"
+  }
+}
