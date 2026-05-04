@@ -1,0 +1,108 @@
+{
+  "title": "Saudi Arabian Minced Pork Hash",
+  "description": "A flavorful and anti-inflammatory-friendly breakfast dish featuring minced pork and a variety of spices.",
+  "cuisine": "saudi arbian",
+  "diet": [
+    "paleo",
+    "ketogenic"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "kosher salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1/4 cup",
+      "notes": "crumbled"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional minute.",
+    "Add the minced pork and cook, breaking it up with a spoon, until it is no longer pink, about 5 minutes.",
+    "Add the cumin, coriander, turmeric, kosher salt, and black pepper, and cook for an additional minute.",
+    "Use a spatula to break up the meat and stir in the crumbled feta cheese.",
+    "Continue cooking for an additional 2-3 minutes, until the cheese is melted and the mixture is heated through.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro.",
+    "Cover and refrigerate any leftovers for up to 3 days, or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "anti-inflammatory-friendly",
+    "breakfast",
+    "hash",
+    "minced-pork",
+    "saudi-arabian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 32
+  },
+  "slug": "anti-inflammatory-friendly-saudi-arabian-minced-pork-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/anti-inflammatory-friendly-saudi-arabian-minced-pork-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:35:08Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "creamy",
+    "mood": "brunch-mood",
+    "technique": "marinate",
+    "primaryIngredient": "minced pork",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "minced_pork",
+    "descriptor": "anti-inflammatory-friendly",
+    "dishForm": "Hash"
+  }
+}
