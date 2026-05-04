@@ -1,0 +1,122 @@
+{
+  "title": "Appetizing Filipino Asparagus Stew",
+  "description": "A savory Filipino-inspired asparagus stew with a salty, cheese‑pull finish, perfect for meal prep.",
+  "cuisine": "Filipino",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "coconut oil",
+      "amount": "1 tsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "200 g",
+      "notes": "diced"
+    },
+    {
+      "name": "asparagus",
+      "amount": "500 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "200 ml"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "400 ml"
+    },
+    {
+      "name": "peanut butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "white sugar candy",
+      "amount": "30 g"
+    },
+    {
+      "name": "shredded cheddar cheese",
+      "amount": "100 g"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp coconut oil in a ramekin over medium heat until hot.",
+    "Add diced onion and minced garlic, sauté until translucent.",
+    "Stir in diced tofu and cook for 2 minutes until lightly browned.",
+    "Add sliced asparagus, 2 tbsp soy sauce, 1 tbsp fish sauce, 200 ml water, and 1 tsp salt, bring to a simmer.",
+    "Pour in 400 ml coconut milk and 2 tbsp peanut butter, stir until the sauce thickens and coats the vegetables.",
+    "Add 30 g white sugar candy, stir until melted and the sauce is slightly sweet.",
+    "Reduce heat, let the stew simmer for 10 minutes until the asparagus is tender.",
+    "Sprinkle 100 g shredded cheddar cheese over the top, cover the ramekin, and let the cheese pull for 2 minutes.",
+    "Serve hot straight from the ramekin, optionally garnished with extra cheese or a pinch of pepper."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus",
+    "cheese-pull",
+    "filipino",
+    "high-protein",
+    "kare-kare",
+    "meal-prep",
+    "ramekin"
+  ],
+  "nutrition": {
+    "calories": 560,
+    "protein": 16,
+    "carbs": 24,
+    "fat": 36
+  },
+  "slug": "appetizing-filipino-asparagus-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/appetizing-filipino-asparagus-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T07:46:51Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "candy",
+    "primaryIngredient": "asparagus",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Asparagus",
+    "descriptor": "Appetizing",
+    "dishForm": "Stew"
+  }
+}
