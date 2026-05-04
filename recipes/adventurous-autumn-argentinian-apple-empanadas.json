@@ -1,0 +1,95 @@
+{
+  "title": "Adventurous Autumn Argentinian Apple Empanadas",
+  "description": "A low-calorie Argentinian dish featuring braeburn apples and miso marinate, with a bitter and molten flavor profile, perfect for adventurous eaters. This dish is a unique twist on traditional empanadas.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low-calorie",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Braeburn apples",
+      "amount": "4",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Whole wheat flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Low-fat butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, salt, cinnamon, and nutmeg.",
+    "Add the low-fat butter to the bowl and mix until a crumbly dough forms.",
+    "Gradually add cold water to the bowl and mix until a smooth dough forms.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a few slices of apple in the center of each circle.",
+    "Drizzle the miso paste over the apple slices.",
+    "Fold the dough over the filling and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the beaten egg.",
+    "Bake the empanadas for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "autumn",
+    "baked-goods",
+    "empanadas",
+    "low-calorie",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "adventurous-autumn-argentinian-apple-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-autumn-argentinian-apple-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T05:46:18Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "miso-marinate",
+    "primaryIngredient": "braeburn apples",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "apples",
+    "descriptor": "Adventurous Autumn",
+    "dishForm": "Empanadas"
+  }
+}

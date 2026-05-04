@@ -100,6 +100,21 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-autumn-argentinian-apple-empanadas",
+    "title": "Adventurous Autumn Argentinian Apple Empanadas",
+    "tags": [
+      "argentinian",
+      "autumn",
+      "baked-goods",
+      "empanadas",
+      "low-calorie",
+      "vegetarian"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 55,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-canadian-chocolate-crumble",
     "title": "Adventurous Canadian Chocolate Crumble",
     "tags": [
