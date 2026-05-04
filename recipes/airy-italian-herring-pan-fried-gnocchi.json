@@ -1,0 +1,106 @@
+{
+  "title": "Airy Italian Herring Pan-Fried Gnocchi",
+  "description": "Fresh, light, and festive Italian dish featuring herring and gnocchi, ideal for a delicious dinner or lunch.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "herring",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose, gluten-free if needed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "dry, such as Pinot Grigio"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Combine herring, potato, eggs, and parmesan cheese in a mixing bowl. Mix well until a dough forms, then knead for 5 minutes until smooth.",
+    "Divide the dough into 4 equal pieces, then roll each piece into a long rope.",
+    "Cut the ropes into 1-inch pieces to form the gnocchi.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the gnocchi and cook for 2-3 minutes on each side until golden brown.",
+    "Add the white wine and cook until the liquid is nearly evaporated, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "gluten-free",
+    "high-protein",
+    "italian",
+    "low-calorie",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "airy-italian-herring-pan-fried-gnocchi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-italian-herring-pan-fried-gnocchi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:29:55Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "knead",
+    "primaryIngredient": "herring",
+    "diet": "low-calorie",
+    "region": "calabrian",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "herring",
+    "descriptor": "Airy",
+    "dishForm": "Pan-Fried Gnocchi"
+  }
+}
