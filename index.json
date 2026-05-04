@@ -3013,5 +3013,21 @@
     "cuisine": "Jamaican",
     "totalTimeMin": 45,
     "shard": "a"
+  },
+  {
+    "slug": "ayurvedic-and-tamasic-canadian-beef-free-ground-poppy-seeds-hash",
+    "title": "Ayurvedic and Tamasic Canadian Beef-Free Ground Poppy Seeds Hash",
+    "tags": [
+      "breakfast",
+      "cheese-pull",
+      "herbal",
+      "kid-friendly",
+      "lunch",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Canadians",
+    "totalTimeMin": 30,
+    "shard": "a"
   }
 ]

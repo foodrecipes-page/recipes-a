@@ -1,0 +1,118 @@
+{
+  "title": "Ayurvedic and Tamasic Canadian Beef-Free Ground Poppy Seeds Hash",
+  "description": "This kid-friendly hash is an herbal and cheese-pull friendly twist on a classic Canadian dish, featuring ground poppy seeds and a deglazed binchotan-grill vessel.",
+  "cuisine": "Canadians",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ground poppy seeds",
+      "amount": "1 1/2 cups",
+      "notes": "Ayurvedic-friendly and tamasic reducing."
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced."
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Cabbage",
+      "amount": "1 small head",
+      "notes": "Shredded."
+    },
+    {
+      "name": "Mung bean paste",
+      "amount": "1/4 cup",
+      "notes": "Ayurvedic-friendly and tamasic reducing."
+    },
+    {
+      "name": "Tamari",
+      "amount": "2 tbsp",
+      "notes": "Gluten-free soy sauce."
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For deglazing."
+    },
+    {
+      "name": "Cheddar cheese shreds",
+      "amount": "1 cup",
+      "notes": "Ayurvedic-friendly, tamasic reducing, and kid-friendly."
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Garnish."
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of sesame oil in a binchotan-grill vessel over medium-high heat.",
+    "Add chopped onion and saut\u00186; until translucent.",
+    "Add minced garlic and cook for an additional 1 minute.",
+    "Add chopped celery and cook until tender, about 3-4 minutes.",
+    "Add shredded cabbage and cook until wilted, about 4-5 minutes.",
+    "Add ground poppy seeds and cook for an additional 2 minutes.",
+    "Add mung bean paste, tamari, and cook for 1 minute, stirring constantly.",
+    "Add cheddar cheese shreds and stir until melted.",
+    "Deglaze the binchotan-grill vessel with remaining 1 tbsp of sesame oil.",
+    "Season with salt and pepper to taste.",
+    "Transfer the hash to a serving vessel and garnish with chopped fresh parsley.",
+    "Serve hot and enjoy!",
+    "Let the hash rest for 5 minutes before serving to allow the flavors to meld together.",
+    "Serve with your favorite accompaniments, such as toast or eggs.",
+    "This dish is perfect for a quick and easy breakfast or brunch option.",
+    "This hash is also a great way to use up leftover mung bean paste and cabbage."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "cheese-pull",
+    "herbal",
+    "kid-friendly",
+    "lunch",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "ayurvedic-and-tamasic-canadian-beef-free-ground-poppy-seeds-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/ayurvedic-and-tamasic-canadian-beef-free-ground-poppy-seeds-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:18:46Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "kid-friendly",
+    "technique": "deglaze",
+    "primaryIngredient": "ground poppy seeds",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "beef-free ground poppy seeds",
+    "descriptor": "Ayurvedic and Tamasic",
+    "dishForm": "Hash"
+  }
+}
