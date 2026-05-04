@@ -2417,6 +2417,22 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-smoky-greek-lentils-stew",
+    "title": "Aromatic Smoky Greek Lentils Stew",
+    "tags": [
+      "comfort",
+      "greek",
+      "lentil",
+      "low-fat",
+      "smoky",
+      "stew",
+      "veg"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-smoky-polish-beef-bake",
     "title": "Aromatic Smoky Polish Beef Bake",
     "tags": [
