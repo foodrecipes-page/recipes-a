@@ -1522,6 +1522,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-greek-chickpea-bowl",
+    "title": "Aromatic Greek Chickpea Bowl",
+    "tags": [
+      "bowl",
+      "chickpea",
+      "greek",
+      "healthy",
+      "low-fat",
+      "weeknight"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-indian-paneer-paneer-tikka",
     "title": "Aromatic Indian Paneer Tikka",
     "tags": [
