@@ -1,0 +1,105 @@
+{
+  "title": "Acidic Greek Rice Avgolemono Soup",
+  "description": "A tangy, citrusy Greek rice soup with lemongrass and coconut cream, perfect for a post-workout boost.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jasmine rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh lemongrass",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "takrai",
+      "amount": "1 teaspoon",
+      "notes": "tarragon"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "green onion",
+      "amount": "1 stalk",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse 1 cup jasmine rice until the water runs clear.",
+    "In a pot, bring 2 cups vegetable broth to a boil and add the rice, then reduce heat, cover, and simmer 15 minutes until the rice is cooked.",
+    "In a bowl, whisk 1 egg with 1 tablespoon lemon juice and a pinch of salt until frothy.",
+    "Heat 1 teaspoon olive oil in a saucepan, add 1 tablespoon chopped lemongrass and 1 teaspoon takrai, and cook 1 minute until fragrant.",
+    "Add 1 cup coconut cream to the saucepan, stir, and let it simmer gently for 5 minutes.",
+    "Remove the saucepan from heat and slowly pour the warm coconut mixture into the heated egg mixture, whisking constantly to prevent curdling.",
+    "Return the egg mixture to the pot with the rice, stir gently, and let it simmer 3 minutes until slightly thickened.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped green onion and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "acrid",
+    "high-protein",
+    "macrobiotic-friendly",
+    "post-workout",
+    "soup"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 12,
+    "carbs": 70,
+    "fat": 18
+  },
+  "slug": "acidic-greek-rice-avgolemono-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/acidic-greek-rice-avgolemono-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:08:28Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "lemongrass-takrai",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "Rice",
+    "descriptor": "Acidic",
+    "dishForm": "Avgolemono Soup"
+  }
+}

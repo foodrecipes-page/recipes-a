@@ -1,0 +1,113 @@
+{
+  "title": "Aromatic Uruguayan Ham Stew",
+  "description": "A spicy, glassy-jelly ham stew cooked in a clay pot that is kid-friendly and Whole30 compliant.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ham",
+      "amount": "450g",
+      "notes": "cubed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mixed vegetables",
+      "amount": "2 cups",
+      "notes": "red bell pepper, carrot, potato diced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ham stock",
+      "amount": "1 cup"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat a clay pot over medium heat and add olive oil.",
+    "Sauté the diced onion until translucent, about 4 minutes.",
+    "Add minced garlic and cook for 1 minute until fragrant.",
+    "Stir in the mixed vegetables and cook for 5 minutes, stirring occasionally.",
+    "Mix in tomato puree, ham stock, smoked paprika, cumin, cayenne, and cubed ham, and bring to a gentle simmer.",
+    "Cover the pot and transfer to the oven; bake for 45 minutes until the broth thickens into a glassy glaze.",
+    "Remove the pot, stir in salt and pepper to taste, and let it rest for 5 minutes.",
+    "Garnish with chopped parsley before serving.",
+    "Serve hot with crusty bread or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 50,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot",
+    "glassy-stew",
+    "kid-friendly",
+    "spicy",
+    "uruguayan",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 170,
+    "protein": 9,
+    "carbs": 12,
+    "fat": 8
+  },
+  "slug": "aromatic-uruguayan-ham-stew",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-uruguayan-ham-stew",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T10:08:49Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "glassy-jelly",
+    "mood": "kid-friendly",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "ham",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Ham",
+    "descriptor": "Aromatic",
+    "dishForm": "Stew"
+  }
+}

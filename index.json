@@ -60,6 +60,20 @@
     "shard": "a"
   },
   {
+    "slug": "acidic-greek-rice-avgolemono-soup",
+    "title": "Acidic Greek Rice Avgolemono Soup",
+    "tags": [
+      "acrid",
+      "high-protein",
+      "macrobiotic-friendly",
+      "post-workout",
+      "soup"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "acidic-tender-kenyan-rice-flour-crepe",
     "title": "Acidic Tender Kenyan Rice Flour Crepe",
     "tags": [
@@ -2325,6 +2339,21 @@
       "umami-rich"
     ],
     "cuisine": "Mexican",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-uruguayan-ham-stew",
+    "title": "Aromatic Uruguayan Ham Stew",
+    "tags": [
+      "clay-pot",
+      "glassy-stew",
+      "kid-friendly",
+      "spicy",
+      "uruguayan",
+      "whole30-friendly"
+    ],
+    "cuisine": "Uruguayan",
     "totalTimeMin": 60,
     "shard": "a"
   },
