@@ -1,0 +1,105 @@
+{
+  "title": "Acidic Brazilian Gobo-Burdock Soup",
+  "description": "A tangy midnight soup that blends gobo and burdock root with Brazil's zestful flavors, perfect for a flexitarian craving.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gobo (burdock root)",
+      "amount": "250g"
+    },
+    {
+      "name": "Fresh lime juice",
+      "amount": "60ml"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Water",
+      "amount": "1 liter"
+    },
+    {
+      "name": "Black beans",
+      "amount": "100g",
+      "notes": "cooked"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "15g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chili pepper",
+      "amount": "1 small",
+      "notes": "sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "2g"
+    }
+  ],
+  "instructions": [
+    "Chop gobo into thin slices.",
+    "Bring water to boil in a pot and add gobo slices; simmer for 15 minutes until tender.",
+    "Add diced onion and minced garlic; cook for 3 minutes until fragrant.",
+    "Stir in black beans and sliced chili pepper; simmer for another 5 minutes.",
+    "Pour in coconut milk and fresh lime juice; bring to gentle boil and reduce heat, cooking for 5 minutes.",
+    "Season with salt to taste and adjust acidity by adding more lime if desired.",
+    "Remove from heat and let the soup cool slightly before serving.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Optionally, squeeze extra lime over each bowl for extra snap.",
+    "Serve immediately as a midnight craving delight."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "acidic",
+    "brazilian",
+    "flexitarian",
+    "midnight-craving",
+    "snappy",
+    "sour"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 5
+  },
+  "slug": "acidic-brazilian-gobo-burdock-soup",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/acidic-brazilian-gobo-burdock-soup",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:30:02Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "snappy",
+    "mood": "midnight-craving",
+    "technique": "steam",
+    "primaryIngredient": "gobo-burdock",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "gobo-burdock",
+    "descriptor": "Acidic",
+    "dishForm": "Soup"
+  }
+}
