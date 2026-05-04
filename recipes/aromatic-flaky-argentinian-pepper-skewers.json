@@ -1,0 +1,98 @@
+{
+  "title": "Aromatic Flaky Argentinian Pepper Skewers",
+  "description": "Floral, flaky skewers featuring sashimi-cut red pepper, seasoned with Argentine herbs, cooked on a hot stone plate for a crowd-pleaser whole30 dish.",
+  "cuisine": "argentinian",
+  "diet": [
+    "whole30"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Red bell pepper, sashimi cut",
+      "amount": "400g"
+    },
+    {
+      "name": "Red onion, sashimi cut",
+      "amount": "150g"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh oregano leaves, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh rosemary, chopped",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a hot stone plate over medium-high heat until steaming hot.",
+    "In a bowl, toss the pepper and onion pieces with olive oil, oregano, rosemary, smoked paprika, cumin, salt, and black pepper until evenly coated.",
+    "Skewer alternating pepper and onion slices onto 8-inch skewers.",
+    "Place the skewers on the hot stone plate and sear for 3 minutes on one side.",
+    "Flip the skewers and sear for another 3 minutes, until the peppers are charred and tender.",
+    "Transfer the skewers to a serving plate and sprinkle with lemon zest.",
+    "Serve immediately while the stone plate is still hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "flaky",
+    "floral",
+    "hot-stone",
+    "pepper",
+    "skewers",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 105,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 7
+  },
+  "slug": "aromatic-flaky-argentinian-pepper-skewers",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-flaky-argentinian-pepper-skewers",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:35:30Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "crowd-pleaser",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "red pepper",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Pepper",
+    "descriptor": "Aromatic Flaky",
+    "dishForm": "Skewers"
+  }
+}
