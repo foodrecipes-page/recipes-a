@@ -1,0 +1,119 @@
+{
+  "title": "aromatic-fruity-algerian-lamb-tagine",
+  "description": "Briny, fluffy, energizing algerian dish featuring sun-dried tomatoes, tandoor, low-carb-friendly served in a korean-brass-bowl.",
+  "cuisine": "algerian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5",
+      "notes": null
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 450°F (230°C).",
+    "Trim the lamb shoulder of excess fat and cut it into 1-inch (2.5 cm) pieces.",
+    "In a large bowl, combine the lamb, sun-dried tomatoes, onion, garlic, cumin, coriander, paprika, salt, and black pepper. Mix well to coat the lamb evenly.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb mixture to the skillet and cook, stirring occasionally, until the lamb is browned on all sides, about 5 minutes.",
+    "Transfer the lamb mixture to the preheated tandoor and cook for 30 minutes.",
+    "Meanwhile, chop the fresh parsley and set aside.",
+    "After 30 minutes, remove the lamb from the tandoor and stir in the lemon juice.",
+    "Serve the lamb hot in a korean-brass-bowl, garnished with chopped parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "flavorful-lamb",
+    "healthy-recipe",
+    "low-carb",
+    "one-pan",
+    "tandoor-cooking",
+    "vegetarian-option"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 36,
+    "carbs": 10,
+    "fat": 28
+  },
+  "slug": "aromatic-fruity-algerian-lamb-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-fruity-algerian-lamb-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T00:17:12Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "fluffy",
+    "mood": "energizing",
+    "technique": "tandoor",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "Lamb",
+    "descriptor": "Aromatic Fruity",
+    "dishForm": "Tagine"
+  }
+}

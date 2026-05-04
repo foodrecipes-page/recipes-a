@@ -1203,6 +1203,22 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-fruity-algerian-lamb-tagine",
+    "title": "aromatic-fruity-algerian-lamb-tagine",
+    "tags": [
+      "algerian-cuisine",
+      "flavorful-lamb",
+      "healthy-recipe",
+      "low-carb",
+      "one-pan",
+      "tandoor-cooking",
+      "vegetarian-option"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 55,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-irish-potato-curry",
     "title": "Aromatic Irish Potato Curry",
     "tags": [
