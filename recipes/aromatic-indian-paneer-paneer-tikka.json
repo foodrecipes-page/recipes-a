@@ -1,0 +1,108 @@
+{
+  "title": "Aromatic Indian Paneer Tikka",
+  "description": "Chewy paneer marinated with dill and spices, grilled to perfection and served with a keto-friendly cauliflower rice side.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Paneer",
+      "amount": "400g"
+    },
+    {
+      "name": "Plain yogurt",
+      "amount": "200g"
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh dill, chopped",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Cauliflower rice",
+      "amount": "150g"
+    }
+  ],
+  "instructions": [
+    "Cut paneer into 1 inch cubes and set aside."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indian",
+    "keto-friendly",
+    "one-pan",
+    "quick",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 367,
+    "protein": 26,
+    "carbs": 8,
+    "fat": 26
+  },
+  "slug": "aromatic-indian-paneer-paneer-tikka",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-indian-paneer-paneer-tikka",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T04:31:55Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "dill",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "Paneer",
+    "descriptor": "Aromatic",
+    "dishForm": "Paneer Tikka"
+  }
+}

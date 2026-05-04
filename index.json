@@ -1507,6 +1507,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-indian-paneer-paneer-tikka",
+    "title": "Aromatic Indian Paneer Tikka",
+    "tags": [
+      "high-protein",
+      "indian",
+      "keto-friendly",
+      "one-pan",
+      "quick",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-indian-prawns-palak-paneer",
     "title": "Aromatic Indian Prawns Palak Paneer",
     "tags": [
@@ -1708,6 +1723,20 @@
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-syrian-chestnut-mushroom-pilaf",
+    "title": "Aromatic Syrian Chestnut Mushroom Pilaf",
+    "tags": [
+      "gluten-free-options",
+      "mushroom-recipes",
+      "rice-dishes",
+      "syrian-cuisine",
+      "vegetarian-meals"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
