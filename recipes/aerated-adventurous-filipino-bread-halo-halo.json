@@ -1,0 +1,99 @@
+{
+  "title": "Aerated Adventurous Filipino Bread Halo Halo",
+  "description": "A unique Filipino dessert featuring stale bread, roasted and aerated to perfection, served in a lotus leaf wrap with a variety of sweet ingredients, this halal-friendly dish is a twist on the classic halo halo, it is made with fry grind rice khao khuah and other adventurous ingredients",
+  "cuisine": "Filipino",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "stale bread",
+      "amount": "2 cups",
+      "notes": "preferably a day old"
+    },
+    {
+      "name": "rice khao khuah",
+      "amount": "1 cup",
+      "notes": "fried and ground"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "jackfruit",
+      "amount": "1 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "kaong",
+      "amount": "1 cup",
+      "notes": "palm fruit"
+    },
+    {
+      "name": "nata de coco",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "Cut the stale bread into small cubes and roast in the oven for 10 minutes.",
+    "Allow the bread to cool, then grind it into fine crumbs using a food processor.",
+    "Mix the ground bread with the fried and ground rice khao khuah.",
+    "In a large bowl, combine the coconut milk, sugar, and water, and stir until the sugar is dissolved.",
+    "Add the roasted bread and rice mixture to the coconut milk mixture and stir well.",
+    "Add the jackfruit, kaong, and nata de coco to the mixture and stir gently.",
+    "Spoon the mixture into the lotus leaves, making sure to fill them to the brim.",
+    "Fold the lotus leaves to form a bundle and secure with a toothpick if needed.",
+    "Serve the Aerated Adventurous Filipino Bread Halo Halo chilled, garnished with additional ingredients if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-dessert",
+    "halal-friendly",
+    "lotus-leaf-wrap",
+    "stale-bread-recipe",
+    "unique-dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "aerated-adventurous-filipino-bread-halo-halo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-adventurous-filipino-bread-halo-halo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T18:37:54Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "stale bread",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "bread",
+    "descriptor": "Aerated Adventurous",
+    "dishForm": "Halo Halo"
+  }
+}
