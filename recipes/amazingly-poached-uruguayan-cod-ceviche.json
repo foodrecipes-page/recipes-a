@@ -1,0 +1,106 @@
+{
+  "title": "Amazingly Poached Uruguayan Cod Ceviche",
+  "description": "A refreshing Uruguayan dish featuring poached cod, with a balance of umami flavors and a bouncy texture, suitable for an ayurvedic tamasic diet.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "1 pound",
+      "notes": "fresh and sustainable"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Poach the cod fillets in simmering water at 180 degrees Fahrenheit for 8 minutes.",
+    "Remove the cod from the water and let it cool to room temperature.",
+    "In a large bowl, whisk together lime juice, lemon juice, olive oil, salt, and black pepper.",
+    "Add the sliced red onion, minced garlic, and grated ginger to the bowl and stir to combine.",
+    "Flake the cooled cod into small pieces and add it to the bowl, stirring gently to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, stir in the chopped cilantro.",
+    "Serve the ceviche chilled, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 8,
+  "totalTimeMin": 58,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ceviche",
+    "gluten-free",
+    "healthy",
+    "poached",
+    "seafood",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "amazingly-poached-uruguayan-cod-ceviche",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-poached-uruguayan-cod-ceviche",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T11:31:12Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "bouncy-qq",
+    "mood": "show-off",
+    "technique": "poach",
+    "primaryIngredient": "cod",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "cod",
+    "descriptor": "Amazingly Poached",
+    "dishForm": "Ceviche"
+  }
+}
