@@ -1,0 +1,112 @@
+{
+  "title": "Amorous Mustard Uruguayan Lamb Terrine",
+  "description": "A mustardy, velvety terrine that brings romance to the Uruguayan table, perfect for a special dinner.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb loin chops",
+      "amount": "800g",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "whole grain mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh rosemary",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "shallot",
+      "amount": "1",
+      "notes": "finely diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "red wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "lamb stock",
+      "amount": "200ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 160°C and set a terracotta dish on a rack inside a larger pan filled with water up to halfway for a bain-marie.",
+    "Season lamb slices with salt and pepper on both sides.",
+    "Heat olive oil in a skillet over medium-high heat and sear lamb slices until browned, about 2 minutes per side, then transfer to the terracotta dish.",
+    "In the same skillet, sauté shallot and garlic until translucent, then pour in red wine and reduce by half.",
+    "Stir in both mustards, rosemary, thyme, and lamb stock, bringing the mixture to a gentle simmer for 3 minutes.",
+    "Pour the sauce evenly over the lamb in the terracotta dish, ensuring each piece is covered.",
+    "Cover the dish tightly with foil and bake in the bain-marie for 45 minutes until the lamb is tender and the sauce has thickened.",
+    "Remove from oven, let rest 10 minutes, then serve warm with a drizzle of the remaining sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 55,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bain-marie",
+    "lamb",
+    "mustard",
+    "romantic",
+    "terrine",
+    "uruguayan",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 2300,
+    "protein": 210,
+    "carbs": 10,
+    "fat": 170
+  },
+  "slug": "amorous-mustard-uruguayan-lamb-terrine",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/amorous-mustard-uruguayan-lamb-terrine",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T12:31:36Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "velvety",
+    "mood": "romantic",
+    "technique": "bain-marie",
+    "primaryIngredient": "lamb loin chops",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "lamb",
+    "descriptor": "Amorous Mustard",
+    "dishForm": "Terrine"
+  }
+}
