@@ -1,0 +1,110 @@
+{
+  "title": "Aromatic Brazilian Rose Cake",
+  "description": "Floral, velvety cake leavened with instant yeast and steamed in a bamboo basket, sugar‑free friendly and perfect for a solo dinner dessert.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "sugar-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "instant yeast",
+      "amount": "5g"
+    },
+    {
+      "name": "powdered erythritol",
+      "amount": "80g"
+    },
+    {
+      "name": "rosewater",
+      "amount": "15ml"
+    },
+    {
+      "name": "low-fat milk",
+      "amount": "120ml"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "60ml"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "30g"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp",
+      "notes": "for greasing"
+    }
+  ],
+  "instructions": [
+    "In a mixing bowl whisk together flour, instant yeast, powdered erythritol, ground cinnamon and salt.",
+    "Warm milk and almond milk to 40°C and stir in rosewater and vanilla extract.",
+    "Pour the liquid mixture into the dry ingredients and beat until a smooth batter forms.",
+    "Add melted butter and coconut oil, then fold in the egg until fully incorporated.",
+    "Cover the bowl with plastic wrap and let the batter rise for 45 minutes at room temperature.",
+    "Grease a bamboo steamer basket with coconut oil and line it with parchment paper.",
+    "Spoon the risen batter into the steamer, filling each cup about three-quarters full.",
+    "Steam the cake over boiling water for 20 minutes, keeping the lid on.",
+    "Remove the steamed cake and allow it to cool for 10 minutes before slicing.",
+    "Serve warm with a dusting of powdered erythritol or a drizzle of rosewater glaze."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian",
+    "floral",
+    "instant-yeast",
+    "mushimono-steam",
+    "steamed-cake",
+    "sugar-free-friendly",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 34,
+    "carbs": 157,
+    "fat": 46
+  },
+  "slug": "aromatic-brazilian-rose-cake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-brazilian-rose-cake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T13:04:07Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "instant yeast",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "rose",
+    "descriptor": "Aromatic",
+    "dishForm": "Cake"
+  }
+}
