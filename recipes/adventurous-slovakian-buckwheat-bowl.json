@@ -1,0 +1,96 @@
+{
+  "title": "Adventurous Slovakian Buckwheat Bowl",
+  "description": "Peppery, crunchy date-night Slovakian dish featuring dark soft brown sugar, dashi extract, gluten-free-friendly, served in a dolsot stone bowl.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "buckwheat groats",
+      "amount": "150 g"
+    },
+    {
+      "name": "water",
+      "amount": "300 ml"
+    },
+    {
+      "name": "dashi stock",
+      "amount": "200 ml"
+    },
+    {
+      "name": "dark soft brown sugar",
+      "amount": "30 g",
+      "notes": "soft to dissolve"
+    },
+    {
+      "name": "roasted crushed peppercorns",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shiitake mushrooms",
+      "amount": "100 g",
+      "notes": "sliced"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Rinse the buckwheat groats until the water runs clear.",
+    "In a pot, combine the buckwheat, water, and dashi stock, then bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15 minutes until the grains are tender.",
+    "Stir in the brown sugar, peppercorns, and red pepper flakes; cook for 2 minutes to bloom the flavors.",
+    "Transfer the mixture to a preheated dolsot, then sprinkle sesame seeds, sliced mushrooms, and chopped scallions on top.",
+    "Cover the dolsot briefly to steam the toppings, then uncover and let the bowl rest for 5 minutes to develop crunch.",
+    "Serve hot straight from the dolsot, optionally garnishing with extra sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat-bowl",
+    "date-night",
+    "gluten-free",
+    "pescatarian",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 375,
+    "protein": 11,
+    "carbs": 75,
+    "fat": 5
+  },
+  "slug": "adventurous-slovakian-buckwheat-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-slovakian-buckwheat-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:33:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "dashi-extract",
+    "primaryIngredient": "dark soft brown sugar",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "Buckwheat",
+    "descriptor": "Adventurous",
+    "dishForm": "Bowl"
+  }
+}

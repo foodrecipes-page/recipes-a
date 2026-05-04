@@ -246,6 +246,20 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-slovakian-buckwheat-bowl",
+    "title": "Adventurous Slovakian Buckwheat Bowl",
+    "tags": [
+      "buckwheat-bowl",
+      "date-night",
+      "gluten-free",
+      "pescatarian",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-tadka-noodles",
     "title": "Adventurous Tadka Noodles",
     "tags": [
