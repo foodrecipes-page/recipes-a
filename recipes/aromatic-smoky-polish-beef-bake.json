@@ -1,0 +1,92 @@
+{
+  "title": "Aromatic Smoky Polish Beef Bake",
+  "description": "A hearty Polish dish featuring minced beef, baked in a Korean brass bowl with a smoky flavor, mustardy taste, and crumbly texture, perfect for a cold evening.",
+  "cuisine": "Polish",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried marjoram",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the wood-fired oven to 375 degrees Fahrenheit.",
+    "Mix the minced beef, flour, mustard, marjoram, smoked paprika, salt, and pepper in a large bowl until just combined.",
+    "Transfer the beef mixture to a Korean brass bowl.",
+    "Pour the beef broth over the beef mixture.",
+    "Dot the top of the beef mixture with the butter.",
+    "Cover the bowl with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20 minutes, or until the top is lightly browned.",
+    "Remove the bowl from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hearty-dish",
+    "one-bowl-meal",
+    "polish-cuisine",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "aromatic-smoky-polish-beef-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-smoky-polish-beef-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:21:50Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "minced beef",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "beef",
+    "descriptor": "Aromatic Smoky",
+    "dishForm": "Bake"
+  }
+}

@@ -996,6 +996,17 @@
     "shard": "a"
   },
   {
+    "slug": "ambrosial-thai-tofu-curry",
+    "title": "Ambrosial Thai Tofu Curry",
+    "tags": [
+      "thai",
+      "dinner"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "ancho-crunch-bowl",
     "title": "Ancho Crunch Bowl",
     "tags": [
@@ -1274,6 +1285,20 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 150,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-polish-beef-bake",
+    "title": "Aromatic Smoky Polish Beef Bake",
+    "tags": [
+      "comfort-food",
+      "hearty-dish",
+      "one-bowl-meal",
+      "polish-cuisine",
+      "smoky-flavor"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 70,
     "shard": "a"
   },
   {

@@ -1,0 +1,96 @@
+{
+  "title": "Ambrosial Thai Tofu Curry",
+  "description": "A creamy, fragrant one-pot tofu curry that balances sweet, sour, and umami flavors, perfect for a quick shojin-friendly meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "light coconut milk",
+      "amount": "200ml"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "ginger garlic paste",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh mushrooms",
+      "amount": "200g"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "low sodium soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fresh cilantro, chopped",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Press the tofu for 15 minutes and cut into bite-size cubes.",
+    "Heat the vegetable oil in the kazan cauldron over medium heat and brown the tofu cubes until golden.",
+    "Add the ginger garlic paste and Thai red curry paste to the pot and sauté for 1 minute until fragrant.",
+    "Pour in the coconut milk and gently stir to combine with the spices.",
+    "Add the sliced mushrooms and pour in the soy sauce, then bring the mixture to a gentle simmer.",
+    "Let the curry cook for 10 minutes, stirring occasionally, until the mushrooms are tender and the sauce thickens.",
+    "Squeeze in lime juice and sweeten with palm sugar, adjusting to taste.",
+    "Turn off the heat and stir in the chopped cilantro for freshness and color.",
+    "Serve the curry hot over steamed jasmine rice or enjoy it on its own.",
+    "Wash and dry the pot at the end for future use."
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "thai",
+    "dinner"
+  ],
+  "slug": "ambrosial-thai-tofu-curry",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ambrosial-thai-tofu-curry",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:21:42Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "gooey",
+    "mood": "one-pot",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "ginger garlic paste",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "Tofu",
+    "descriptor": "Ambrosial",
+    "dishForm": "Curry"
+  }
+}
