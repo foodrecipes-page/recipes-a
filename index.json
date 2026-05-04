@@ -2582,6 +2582,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-spicy-filipino-beef-kaldereta",
+    "title": "Aromatic Spicy Filipino Beef Kaldereta",
+    "tags": [
+      "egg-free",
+      "filipino-cuisine",
+      "gluten-free",
+      "one-pan",
+      "quick-dinner",
+      "spicy-food"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-spicy-japanese-peas-ramen",
     "title": "Aromatic Spicy Japanese Peas Ramen",
     "tags": [

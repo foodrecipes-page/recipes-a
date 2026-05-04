@@ -1,0 +1,96 @@
+{
+  "title": "Aromatic Spicy Filipino Beef Kaldereta",
+  "description": "A quick and spicy Filipino dish featuring apricot jam and bhuna, wrapped in a ti-leaf for a unique flavor and presentation. This egg-free friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "bhuna",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat and add the beef, cooking until browned on all sides.",
+    "Remove the beef from the skillet and set aside, leaving the drippings behind.",
+    "Add the chopped onion to the skillet and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for an additional minute, until fragrant.",
+    "Add the bhuna, apricot jam, fish sauce, and black pepper to the skillet, stirring to combine.",
+    "Return the beef to the skillet and stir to coat with the sauce.",
+    "Reduce heat to low and simmer, covered, for 10-15 minutes, or until the beef is tender.",
+    "While the beef is cooking, prepare the ti leaves by washing and drying them thoroughly.",
+    "To serve, place a portion of the beef mixture onto a ti leaf and wrap to form a neat package.",
+    "Serve immediately, garnished with additional ti leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "filipino-cuisine",
+    "gluten-free",
+    "one-pan",
+    "quick-dinner",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "aromatic-spicy-filipino-beef-kaldereta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-spicy-filipino-beef-kaldereta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T20:53:59Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "quick-fix",
+    "technique": "bhuna",
+    "primaryIngredient": "apricot jam",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "beef",
+    "descriptor": "Aromatic Spicy",
+    "dishForm": "Kaldereta"
+  }
+}
