@@ -1,0 +1,106 @@
+{
+  "title": "Aromatic Spanish Shrimp Salad",
+  "description": "Garlicky Spanish shrimp salad with a hint of spice, served chilled. The dish combines shrimp, a vegetable stock cube, and a light vinaigrette.",
+  "cuisine": "Spanish",
+  "diet": [
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp, peeled and deveined",
+      "amount": "500g"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "vegetable stock cube",
+      "amount": "1"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sea salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "black pepper",
+      "amount": "pinch"
+    },
+    {
+      "name": "cucumber, diced",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cherry tomatoes, halved",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sliced olives",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Prepare a spherification bath by dissolving 1g sodium alginate in 1L water and stirring until clear.",
+    "In a separate bowl, mix 2 tbsp olive oil, minced garlic, smoked paprika, lemon juice, and a pinch of salt.",
+    "Using a syringe, drop small droplets of the garlic oil mixture into the alginate bath to form micro-spheres; let them set for 2 minutes then transfer to cold water.",
+    "Pat dry the shrimp with paper towels and season with salt and pepper.",
+    "Heat a skillet over medium-high heat and cook shrimp for 2 minutes each side until pink.",
+    "In a serving bowl, combine cooked shrimp, diced cucumber, cherry tomato halves, sliced olives, and fresh parsley.",
+    "Drizzle the garlic oil spheres over the salad and toss gently.",
+    "Serve immediately chilled, garnished with extra parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-free",
+    "salad",
+    "shrimp",
+    "spherification",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 9
+  },
+  "slug": "aromatic-spanish-shrimp-salad",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-spanish-shrimp-salad",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:16:14Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "spherify",
+    "primaryIngredient": "vegetable stock cube",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Shrimp",
+    "descriptor": "Aromatic",
+    "dishForm": "Salad"
+  }
+}

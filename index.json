@@ -2050,6 +2050,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-spanish-shrimp-salad",
+    "title": "Aromatic Spanish Shrimp Salad",
+    "tags": [
+      "egg-free",
+      "salad",
+      "shrimp",
+      "spherification",
+      "spicy",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-spicy-japanese-peas-ramen",
     "title": "Aromatic Spicy Japanese Peas Ramen",
     "tags": [
