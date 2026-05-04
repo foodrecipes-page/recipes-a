@@ -1,0 +1,105 @@
+{
+  "title": "Amazingly Creamy Portuguese Farfalle Pasta",
+  "description": "This dish features farfalle pasta in a creamy malty sauce with a shio-koji cure, perfect for a Whole30-friendly meal prep option.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "Whole30",
+    "Gluten Free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "12 oz",
+      "notes": "gluten free"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the farfalle pasta according to the package instructions.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "In a small bowl, mix the shio-koji with a little water to create a paste, then add it to the skillet and stir to combine.",
+    "Pour in the chicken broth and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the sauce simmer for 10 minutes.",
+    "Stir in the coconut cream and let the sauce simmer for an additional 5 minutes.",
+    "Season the sauce with salt and black pepper to taste.",
+    "Drain the cooked pasta and add it to the skillet, tossing to combine with the sauce.",
+    "Serve the pasta hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "creamy-pasta",
+    "gluten-free",
+    "meal-prep",
+    "one-pot",
+    "portuguese-cuisine",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "amazingly-creamy-portuguese-farfalle-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-creamy-portuguese-farfalle-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T04:14:21Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "creamy",
+    "mood": "meal-prep",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "farfalle",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "farfalle",
+    "descriptor": "Amazingly creamy",
+    "dishForm": "Pasta"
+  }
+}
