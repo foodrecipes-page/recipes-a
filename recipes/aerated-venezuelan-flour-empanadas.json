@@ -1,0 +1,112 @@
+{
+  "title": "Aerated Venezuelan Flour Empanadas",
+  "description": "Cultured, aerated version of Venezuelan empanadas ideal for a date-night dinner. Served hot with a dollop of cream.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": "Use a high-protein flour for best results"
+    },
+    {
+      "name": "Cultured buttermilk",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Shio-cure salmon (optional)",
+      "amount": "2 ounces",
+      "notes": "Cured in sea salt, sugar, and spices for 2 weeks"
+    },
+    {
+      "name": "Lard or vegetable shortening",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "Add more if dough is too dry"
+    },
+    {
+      "name": "Bread flour",
+      "amount": "1 tablespoon",
+      "notes": "Added to enhance structure and aeration"
+    }
+  ],
+  "instructions": [
+    "Combine flour, sugar, yeast, and salt in a large mixing bowl.",
+    "In a separate bowl, mix buttermilk, lard or shortening, and egg.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until a shaggy dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest in a warm place for 1 hour.",
+    "Punch down the dough and divide it into 8-10 equal pieces.",
+    "Roll each piece into a ball and flatten it slightly into a disk shape.",
+    "Place a tablespoon of filling in the center of each disk and fold the dough over to form a half-moon shape.",
+    "Press the edges together to seal the empanada and cut a few slits in the top to allow steam to escape.",
+    "Brush the tops with a little water and bake in a preheated oven at 375°F (190°C) for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "aerated",
+    "date-night",
+    "empanadas",
+    "high-protein",
+    "vegan-option",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "aerated-venezuelan-flour-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-venezuelan-flour-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:16:38Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "shio-cure",
+    "primaryIngredient": "all purpose flour",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Flour",
+    "descriptor": "Aerated",
+    "dishForm": "Empanadas"
+  }
+}
