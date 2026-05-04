@@ -1976,6 +1976,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-stone-spanish-eggs-omelette",
+    "title": "Aromatic Stone Spanish Eggs Omelette",
+    "tags": [
+      "easy",
+      "egg-based",
+      "one-pot",
+      "quick",
+      "spicy",
+      "stone-cooking"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-syrian-cannellini-beans-stew",
     "title": "Aromatic Syrian Cannellini Beans Stew",
     "tags": [
