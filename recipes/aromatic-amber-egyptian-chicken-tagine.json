@@ -1,0 +1,107 @@
+{
+  "title": "Aromatic Amber Egyptian Chicken Tagine",
+  "description": "A funky and flavorful one-pot Egyptian dish featuring sugar syrup and yakimono-grill, perfect for a special occasion, this FODMAP-friendly recipe is sure to impress",
+  "cuisine": "Egyptian",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "sugar syrup",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yakimono-grill sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic-free ginger paste",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large yakimono-grill or tagine over medium-high heat",
+    "Add the chopped onion and cook until it starts to brown, about 5 minutes",
+    "Add the chicken to the pot and cook until it is browned on all sides, about 5-7 minutes",
+    "Add the sugar syrup, yakimono-grill sauce, ginger paste, cumin, paprika, salt, and black pepper to the pot, stirring to combine",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 25-30 minutes",
+    "Remove the pot from the heat and let it cool slightly",
+    "Stir in the chopped fresh parsley and serve the tagine hot over rice or couscous",
+    "Garnish with additional parsley, if desired",
+    "Serve immediately and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipe",
+    "fodmap-friendly",
+    "gluten-free",
+    "north-african",
+    "one-pot",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "aromatic-amber-egyptian-chicken-tagine",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-amber-egyptian-chicken-tagine",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-04T21:09:26Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "shattering",
+    "mood": "one-pot",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "sugar syrup",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic Amber",
+    "dishForm": "Tagine"
+  }
+}

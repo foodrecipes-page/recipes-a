@@ -1711,6 +1711,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-amber-egyptian-chicken-tagine",
+    "title": "Aromatic Amber Egyptian Chicken Tagine",
+    "tags": [
+      "chicken-recipe",
+      "fodmap-friendly",
+      "gluten-free",
+      "north-african",
+      "one-pot",
+      "special-occasion"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-asian-chinese-tofu-noodles",
     "title": "Aromatic Asian Chinese Tofu Noodles",
     "tags": [
