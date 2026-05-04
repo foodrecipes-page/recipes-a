@@ -1602,6 +1602,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-crispy-indian-vegetable-vada",
+    "title": "Aromatic Crispy Indian Vegetable Vada",
+    "tags": [
+      "fermented-food",
+      "high-protein",
+      "indian-food",
+      "macrobiotic",
+      "snack-time",
+      "vegetarian"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-crispy-tunisian-lamb-tagine",
     "title": "Aromatic Crispy Tunisian Lamb Tagine",
     "tags": [

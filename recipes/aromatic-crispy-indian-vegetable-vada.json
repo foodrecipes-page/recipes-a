@@ -1,0 +1,103 @@
+{
+  "title": "Aromatic Crispy Indian Vegetable Vada",
+  "description": "A sour, crispy, and energizing Indian dish featuring roasted vegetables and ferment-jang, this macrobiotic-friendly vada is a perfect snack. It combines the flavors of Gujarat with the benefits of fermented food.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "macrobiotic"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "split chickpeas",
+      "amount": "1 cup",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "green chili",
+      "amount": "2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "ferment-jang paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Drain and rinse the soaked chickpeas, then grind them into a coarse paste using a food processor.",
+    "In a large mixing bowl, combine the chickpea paste, chopped onion, grated carrot, chopped green chili, and grated ginger.",
+    "Add the ferment-jang paste, lemon juice, and salt to the bowl and mix well.",
+    "Using your hands, shape the mixture into small patties, about 1 1/2 inches in diameter and 1/2 inch thick.",
+    "Heat the oil in a deep frying pan over medium heat until it reaches 350 degrees Fahrenheit.",
+    "When the oil is hot, add a few of the patties to the pan, being careful not to overcrowd it.",
+    "Fry the patties until they are golden brown and crispy, about 3-4 minutes on each side.",
+    "Remove the fried vadas from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the vadas hot with your favorite chutney or raita."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "fermented-food",
+    "high-protein",
+    "indian-food",
+    "macrobiotic",
+    "snack-time",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 10
+  },
+  "slug": "aromatic-crispy-indian-vegetable-vada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-crispy-indian-vegetable-vada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T10:06:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crispy",
+    "mood": "energizing",
+    "technique": "ferment-jang",
+    "primaryIngredient": "roasted vegetables",
+    "diet": "macrobiotic",
+    "region": "gujarati",
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Aromatic Crispy",
+    "dishForm": "Vada"
+  }
+}
