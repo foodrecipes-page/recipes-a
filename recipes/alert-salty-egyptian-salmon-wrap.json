@@ -1,0 +1,103 @@
+{
+  "title": "Alert Salty Egyptian Salmon Wrap",
+  "description": "A quick, salty Egyptian-inspired wrap featuring sashimi‑style salmon, wholegrain mustard, and fresh veggies for a dairy‑free crowd‑pleaser.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sashimi salmon fillet",
+      "amount": "150g",
+      "notes": "cut into strips"
+    },
+    {
+      "name": "wholegrain mustard",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "whole wheat tortilla",
+      "amount": "2"
+    },
+    {
+      "name": "cucumber",
+      "amount": "0.5",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrot",
+      "amount": "0.5 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/8 tsp"
+    }
+  ],
+  "instructions": [
+    "Slice the sashimi salmon into 1‑inch strips.",
+    "In a small bowl whisk together the wholegrain mustard, lemon juice, olive oil, salt, and pepper.",
+    "Toss the salmon strips in the mustard sauce until evenly coated.",
+    "Warm the whole wheat tortillas in a dry skillet over medium heat for 30 seconds each side.",
+    "Lay the tortilla flat and spread the mustard‑marinated salmon across the center.",
+    "Top the salmon with sliced cucumber, shredded carrot, and chopped parsley.",
+    "Drizzle a little extra mustard sauce over the vegetables for extra flavor.",
+    "Fold the sides of the tortilla over the filling and roll tightly, then slice the wrap diagonally."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "dairy-free",
+    "egyptian",
+    "meal-prep",
+    "quick",
+    "salty",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 34,
+    "carbs": 28,
+    "fat": 17
+  },
+  "slug": "alert-salty-egyptian-salmon-wrap",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/alert-salty-egyptian-salmon-wrap",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:45:02Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "wholegrain mustard",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "salmon",
+    "descriptor": "Alert Salty",
+    "dishForm": "Wrap"
+  }
+}
