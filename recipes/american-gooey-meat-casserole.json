@@ -1,0 +1,121 @@
+{
+  "title": "American Gooey Meat Casserole",
+  "description": "A floral, gooey, and quick-fix American dish featuring ground cumin, perfect for busy weeknights. This egg-free-friendly recipe is a unique twist on traditional comfort food.",
+  "cuisine": "American",
+  "diet": [
+    null,
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "infuse-oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cooking spray",
+      "amount": "1 spray",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cook the beef in a large skillet over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and bell pepper to the skillet and cook until the vegetables are tender.",
+    "Sprinkle the flour over the beef mixture and cook for 1 minute, stirring constantly.",
+    "Stir in the chicken broth, cumin, and a pinch of salt and pepper. Bring the mixture to a simmer and cook until it thickens.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with the cheddar cheese.",
+    "Drizzle the infuse-oil over the cheese and sprinkle with cilantro.",
+    "Cover the dish with aluminum foil and bake for 20 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "easy-meat-lovers",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "american-gooey-meat-casserole",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/american-gooey-meat-casserole",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:53:28Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "gooey",
+    "mood": "quick-fix",
+    "technique": "infuse-oil",
+    "primaryIngredient": "ground cumin",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "american",
+    "mainIngredient": "meat",
+    "descriptor": "gooey",
+    "dishForm": "casserole"
+  }
+}

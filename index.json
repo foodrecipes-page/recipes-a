@@ -1632,6 +1632,20 @@
     "shard": "a"
   },
   {
+    "slug": "american-gooey-meat-casserole",
+    "title": "American Gooey Meat Casserole",
+    "tags": [
+      "casserole",
+      "comfort-food",
+      "easy-meat-lovers",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "amorous-mustard-uruguayan-lamb-terrine",
     "title": "Amorous Mustard Uruguayan Lamb Terrine",
     "tags": [
