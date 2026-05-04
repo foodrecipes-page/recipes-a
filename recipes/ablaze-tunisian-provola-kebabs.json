@@ -1,0 +1,113 @@
+{
+  "title": "Ablaze Tunisian Provola Kebabs",
+  "description": "Charred, snappy kebabs packed with provola cheese and Tunisian spices, perfect for a lazy Sunday lunch or dinner.",
+  "cuisine": "tunisian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "provola cheese",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "wooden skewers",
+      "amount": "8"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "divided"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "couscous",
+      "amount": "200g",
+      "notes": "cooked, optional"
+    }
+  ],
+  "instructions": [
+    "Soak wooden skewers in water for 15 minutes to prevent burning.",
+    "In a bowl, toss diced provola with 1 tbsp olive oil, garlic, paprika, cumin, chili flakes, lemon juice, salt, and pepper until evenly coated.",
+    "Thread provola cubes onto soaked skewers, spacing them evenly, and set aside to marinate for 5 minutes.",
+    "Heat a nonstick skillet over medium-high heat and pour 1 tbsp olive oil.",
+    "Add the kebabs to the skillet and sear each side for 2 minutes until a golden crust forms.",
+    "Reduce heat to medium and continue cooking, turning occasionally, until the cheese inside is melted and the exterior is charred, about 4 minutes total.",
+    "Transfer the finished kebabs onto a plate lined with paper towels to drain excess oil.",
+    "Sprinkle chopped parsley over the kebabs for a fresh finish.",
+    "If desired, serve the kebabs over a bed of fluffy couscous or with pita bread.",
+    "Enjoy hot and crispy, perfect for a lazy Sunday meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "double-fry",
+    "flexitarian",
+    "kebab",
+    "lazy-sunday",
+    "snappy",
+    "tunisian"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 70,
+    "carbs": 5,
+    "fat": 100
+  },
+  "slug": "ablaze-tunisian-provola-kebabs",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ablaze-tunisian-provola-kebabs",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T03:35:12Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "provola",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "provola",
+    "descriptor": "Ablaze",
+    "dishForm": "Kebabs"
+  }
+}
