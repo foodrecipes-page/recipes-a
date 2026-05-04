@@ -1,0 +1,102 @@
+{
+  "title": "Aromatic Umami Mexican Poblanos Stew",
+  "description": "This stew is a flavorful and aromatic Mexican dish featuring roasted poblanos, ground annatto, and dashi extract, cooked to perfection in a claypot. It is a nut-free-friendly option for a delicious dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "gluten-free",
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblanos",
+      "amount": "4 large",
+      "notes": "roasted and chopped"
+    },
+    {
+      "name": "ground annatto",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "14.5 ounces"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the claypot over medium heat and add the chopped onion, cooking until it is translucent.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the ground beef, breaking it up with a spoon as it cooks, until it is no longer pink.",
+    "Stir in the ground annatto, dashi extract, salt, and black pepper, cooking for 1 minute.",
+    "Add the roasted and chopped poblanos, canned diced tomatoes, and beef broth, stirring to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "claypot-cooking",
+    "gluten-free",
+    "mexican-food",
+    "nut-free",
+    "one-pot",
+    "umami-rich"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "aromatic-umami-mexican-poblanos-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-umami-mexican-poblanos-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T01:00:58Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "dashi-extract",
+    "primaryIngredient": "ground annatto",
+    "diet": "nut-free",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblanos",
+    "descriptor": "Aromatic Umami",
+    "dishForm": "Stew"
+  }
+}

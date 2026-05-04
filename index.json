@@ -1408,6 +1408,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-umami-mexican-poblanos-stew",
+    "title": "Aromatic Umami Mexican Poblanos Stew",
+    "tags": [
+      "claypot-cooking",
+      "gluten-free",
+      "mexican-food",
+      "nut-free",
+      "one-pot",
+      "umami-rich"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-venezuelan-sausage-roast",
     "title": "Aromatic Venezuelan Sausage Roast",
     "tags": [
