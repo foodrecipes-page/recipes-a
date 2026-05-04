@@ -1,0 +1,119 @@
+{
+  "title": "Aromatic Roasted Venezuelan Vine Leaves Tacos",
+  "description": "Spicy, aerated Venezuelan dish featuring vine leaves and dashi-extract, served in a tandoor clay pot.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vine Leaves",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Dashi-Extract",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Jalapeño",
+      "amount": "1 small",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Salsa",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tortillas",
+      "amount": "8",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a tandoor clay pot over medium-high heat.",
+    "Sauté chopped onion and minced garlic until softened, about 3 minutes.",
+    "Add dashi-extract and cook for 1 minute, stirring constantly.",
+    "Add jalapeño and cook for an additional 2 minutes, until slightly charred.",
+    "Stir in cilantro and lime juice.",
+    "Season with salt and black pepper to taste.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble tacos by spooning roasted vegetable mixture onto a warmed tortilla.",
+    "Top with vegan salsa and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "lunch",
+    "south-american",
+    "street-food",
+    "tacos",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 480,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 24
+  },
+  "slug": "aromatic-roasted-venezuelan-vine-leaves-tacos",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-roasted-venezuelan-vine-leaves-tacos",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:21:32Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "dashi-extract",
+    "primaryIngredient": "vine leaves",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "vine leaves",
+    "descriptor": "Aromatic Roasted",
+    "dishForm": "Tacos"
+  }
+}

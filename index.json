@@ -2435,6 +2435,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-roasted-venezuelan-vine-leaves-tacos",
+    "title": "Aromatic Roasted Venezuelan Vine Leaves Tacos",
+    "tags": [
+      "lunch",
+      "south-american",
+      "street-food",
+      "tacos",
+      "vegan"
+    ],
+    "cuisine": "Venezuelan",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-saudi-water-chestnut-tagine",
     "title": "Aromatic Saudi Water Chestnut Tagine",
     "tags": [
