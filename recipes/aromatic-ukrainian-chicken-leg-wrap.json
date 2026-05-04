@@ -1,0 +1,97 @@
+{
+  "title": "Aromatic Ukrainian Chicken Leg Wrap",
+  "description": "A buttery and crumbly Ukrainian dish featuring chicken legs wrapped in a corn husk, perfect for a comforting meal. This recipe is dairy-free-friendly.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken legs",
+      "amount": "4",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "corn husks",
+      "amount": "4",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together melted butter, chopped onion, minced garlic, smoked paprika, salt, and black pepper.",
+    "Add the chicken legs to the bowl and toss to coat evenly with the butter mixture.",
+    "Wrap each chicken leg in a corn husk, making sure to seal the edges.",
+    "Place the wrapped chicken legs on a baking sheet lined with parchment paper.",
+    "Bake for 30 minutes or until the chicken is cooked through and the corn husks are crispy.",
+    "Remove from oven and let rest for 5 minutes before serving.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "corn-husk-recipes",
+    "dairy-free",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "aromatic-ukrainian-chicken-leg-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-ukrainian-chicken-leg-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T06:52:16Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "crumbly",
+    "mood": "comforting",
+    "technique": "reduce",
+    "primaryIngredient": "chicken legs",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "chicken legs",
+    "descriptor": "aromatic buttery",
+    "dishForm": "Wrap"
+  }
+}
