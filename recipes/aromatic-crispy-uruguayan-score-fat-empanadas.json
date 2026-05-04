@@ -1,0 +1,104 @@
+{
+  "title": "Aromatic Crispy Uruguayan Score-fat Empanadas",
+  "description": "Delicate sweet empanadas infused with lemongrass and coconut milk. Perfect as a dessert or snack.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": "full-fat canned coconut milk"
+    },
+    {
+      "name": "Lemongrass stalks",
+      "amount": "2",
+      "notes": "white and light green parts only"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/4 cup",
+      "notes": "fine granulated sugar"
+    },
+    {
+      "name": "All-purpose gluten-free flour",
+      "amount": "2 1/4 cups",
+      "notes": "see note on gluten-free flours"
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "softened, for score-fat"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large",
+      "notes": "for dough and egg wash"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C). Line a baking sheet with parchment paper.",
+    "In a food processor, combine gluten-free flour, sugar, and salt. Pulse until well combined.",
+    "Add softened butter to the flour mixture and process until a crumbly dough forms.",
+    "Add eggs to the dough and process until a cohesive ball forms. Wrap in plastic wrap and refrigerate for 30 minutes.",
+    "Trim lemongrass stalks to 6 inches long. Place them on a cutting board, cut-side up.",
+    "Score the surface of each lemongrass stalk with a sharp knife, creating a 1-inch deep grid pattern.",
+    "In a small bowl, whisk together coconut milk, sugar, and salt until dissolved.",
+    "Place a piece of dough on a lightly floured surface, roll out to a 1/8-inch thickness. Place a lemongrass stalk in the center of the dough.",
+    "Brush the edges of the dough with coconut milk mixture. Fold the dough over the lemongrass, pressing edges to seal.",
+    "Repeat with remaining dough and lemongrass. Place empanadas on prepared baking sheet, leaving 1 inch of space between each.",
+    "Brush tops with egg wash and sprinkle with confectioners' sugar, if desired.",
+    "Bake for 20-25 minutes or until golden brown. Cool on a wire rack for 10 minutes before serving."
+  ],
+  "prepTimeMin": 40,
+  "cookTimeMin": 25,
+  "totalTimeMin": 65,
+  "servings": 12,
+  "difficulty": "hard",
+  "tags": [
+    "coconut-milk",
+    "dessert",
+    "gluten-free",
+    "high-protein",
+    "lemongrass",
+    "score-fat",
+    "uruguayan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 24,
+    "fat": 12
+  },
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-crispy-uruguayan-score-fat-empanadas",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-04T16:09:08Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "springy",
+    "mood": "cozy",
+    "technique": "score-fat",
+    "primaryIngredient": "lemongrass stalks",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "score-fat",
+    "descriptor": "Aromatic Crispy",
+    "dishForm": "Empanadas"
+  }
+}
