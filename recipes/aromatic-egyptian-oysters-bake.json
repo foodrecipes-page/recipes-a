@@ -1,0 +1,106 @@
+{
+  "title": "Aromatic Egyptian Oysters Bake",
+  "description": "A garlicky, molten baked oyster dish that balances light Egyptian flavors with a rich buttery sauce, served from a fondue pot for a unique presentation.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Oysters",
+      "amount": "12 oysters"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Butter",
+      "amount": "20 g",
+      "notes": "softened"
+    },
+    {
+      "name": "Parmesan cheese",
+      "amount": "30 g",
+      "notes": "grated"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1 tbsp",
+      "notes": "juice"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "pinch",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Egg white",
+      "amount": "1",
+      "notes": "whisked"
+    },
+    {
+      "name": "Bread crumbs",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Place the fondue pot on the stove over medium heat and melt the butter.",
+    "Add the minced garlic and cook for 30 seconds until aromatic.",
+    "Stir in the grated Parmesan, lemon juice, and whisked egg white until the mixture thickens slightly.",
+    "Season the sauce with salt, pepper, and chopped parsley.",
+    "Arrange the shucked oysters in the fondue pot, placing them on top of the sauce.",
+    "Optionally sprinkle bread crumbs over the oysters for extra crispness.",
+    "Bake for 10 minutes until the oysters are cooked through and the top is golden and bubbly.",
+    "Remove from the oven and let it rest for 2 minutes.",
+    "Serve immediately, piping the remaining sauce over each oyster."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "fondue-pot",
+    "garlic",
+    "halal-friendly",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 459,
+    "protein": 44,
+    "carbs": 1,
+    "fat": 31
+  },
+  "slug": "aromatic-egyptian-oysters-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-egyptian-oysters-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T02:36:26Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "molten",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "oysters",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Oysters",
+    "descriptor": "Aromatic",
+    "dishForm": "Bake"
+  }
+}
