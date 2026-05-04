@@ -1,0 +1,83 @@
+{
+  "title": "Airy Sweet Uruguayan Sugar Pudding",
+  "description": "A light and airy Uruguayan dessert featuring sugar and a touch of resinous flavor, made with a whisk and paleo-friendly ingredients. This dessert is perfect for warm evenings.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "egg whites",
+      "amount": "4 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the egg whites and salt until soft peaks form.",
+    "Gradually add the granulated sugar and honey to the egg mixture, whisking continuously until stiff peaks form.",
+    "Add the lemon juice and vanilla extract to the mixture, whisking until well combined.",
+    "Pour the mixture into 6 individual serving cups or ramekins.",
+    "Place the serving cups in a large baking dish and add hot water to come halfway up the sides of the cups.",
+    "Bake for 15 minutes, then reduce the oven temperature to 350 degrees Fahrenheit and continue baking for an additional 10 minutes.",
+    "Remove the pudding from the oven and let it cool to room temperature.",
+    "Cover and refrigerate the pudding for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "light-dessert",
+    "paleo-friendly",
+    "sugar-free-alternative",
+    "uruguayan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 0
+  },
+  "slug": "airy-sweet-uruguayan-sugar-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-sweet-uruguayan-sugar-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-04T00:45:43Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "light",
+    "mood": "light",
+    "technique": "whisk",
+    "primaryIngredient": "sugar",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "sugar",
+    "descriptor": "Airy Sweet",
+    "dishForm": "Pudding"
+  }
+}
