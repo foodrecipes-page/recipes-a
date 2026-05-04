@@ -1,0 +1,110 @@
+{
+  "title": "Ardent Polish Buckwheat Bake",
+  "description": "Spicy, bouncy-qq macrobiotic buckwheat bake infused with fresh perilla-leaf kkaennip.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "macrobiotic"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "buckwheat flour",
+      "amount": "200g"
+    },
+    {
+      "name": "water",
+      "amount": "300ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fresh perilla leaf kkaennip",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "silken tofu",
+      "amount": "200g"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tbsp grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "2 stalks sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180C.",
+    "In a mixing bowl, combine buckwheat flour, salt, pepper, and chili flakes.",
+    "Whisk in water until batter is smooth and thick.",
+    "Heat sesame oil in a skillet over medium heat and sauté garlic and ginger until fragrant.",
+    "Add the shredded perilla leaf kkaennip and tofu cubes to the skillet, stirring for 2 minutes.",
+    "Pour the sautéed mixture into the batter, then fold in sliced scallions and soy sauce.",
+    "Grease a baking dish with a little sesame oil and pour the batter into it, smoothing the top.",
+    "Bake for 25 minutes or until the surface is golden and a toothpick comes out clean.",
+    "Remove from the oven, let it cool for 5 minutes, then cut into squares.",
+    "Serve warm with a drizzle of sesame oil and extra chili flakes if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat",
+    "macrobiotic",
+    "one-pan",
+    "perilla",
+    "polish",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 55,
+    "fat": 12
+  },
+  "slug": "ardent-polish-buckwheat-bake",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/ardent-polish-buckwheat-bake",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T09:01:44Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "bake",
+    "primaryIngredient": "perilla-leaf-kkaennip",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "buckwheat",
+    "descriptor": "Ardent",
+    "dishForm": "Bake"
+  }
+}
