@@ -2153,6 +2153,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-light-filipino-chicken-curry",
+    "title": "Aromatic Light Filipino Chicken Curry",
+    "tags": [
+      "chicken-recipes",
+      "coconut-milk-recipes",
+      "curry-dishes",
+      "filipino-cuisine",
+      "lime-leaf-recipes"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-light-korean-chicken-wrap",
     "title": "Aromatic Light Korean Chicken Wrap",
     "tags": [
