@@ -1084,6 +1084,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-braised-slovakian-onion-stew",
+    "title": "Aromatic Braised Slovakian Onion Stew",
+    "tags": [
+      "comfort-food",
+      "european",
+      "hearty",
+      "mediterranean",
+      "slow-cooker",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-canadian-cheese-gratin",
     "title": "Aromatic Canadian Cheese Gratin",
     "tags": [
@@ -1095,6 +1110,21 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 22,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-indian-beans-fritters",
+    "title": "Aromatic Crispy Indian Beans Fritters",
+    "tags": [
+      "bean-fritters",
+      "crispy",
+      "double-fry",
+      "pescatarian-friendly",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Indian",
+    "totalTimeMin": 38,
     "shard": "a"
   },
   {
