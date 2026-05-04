@@ -1,0 +1,91 @@
+{
+  "title": "Amber American Drumsticks Bowl",
+  "description": "A peppery, amber-glaze chicken drumstick bowl with a glassy-sugar jelly that showcases a bold American flavor, served in a Korean brass bowl.",
+  "cuisine": "American",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken drumsticks",
+      "amount": "1.5 lb",
+      "notes": "bone-in"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "4 tbsp"
+    },
+    {
+      "name": "Honey",
+      "amount": "3 tbsp"
+    },
+    {
+      "name": "Dijon mustard",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Garlic cloves",
+      "amount": "3",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Whisk soy sauce, honey, mustard, garlic, paprika, pepper, and 2 tbsp water in a bowl to make glaze.",
+    "Pat drumsticks dry and season with salt.",
+    "Arrange drumsticks on a baking tray and brush with half of the glaze.",
+    "Roast for 25 minutes, then flip drumsticks and brush with remaining glaze.",
+    "Continue roasting for another 20 minutes until internal temperature reaches 165°F.",
+    "While drumsticks roast, reduce leftover glaze in a saucepan over medium heat until thick and glossy, about 5 minutes.",
+    "Serve drumsticks in a Korean brass bowl, drizzle with glossy glaze, sprinkle parsley, and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 45,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-drumsticks",
+    "dinner",
+    "glassy-jelly",
+    "korean-brass-bowl",
+    "peppery",
+    "show-off"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 15,
+    "fat": 20
+  },
+  "slug": "amber-american-drumsticks-bowl",
+  "source": "ocloud-gpt-oss:20b",
+  "canonicalUrl": "https://foodrecipes.page/r/amber-american-drumsticks-bowl",
+  "providerUsed": "ocloud-gpt-oss:20b",
+  "createdAt": "2026-05-04T00:11:45Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "glassy-jelly",
+    "mood": "show-off",
+    "technique": "reduce",
+    "primaryIngredient": "chicken drumsticks",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "drumsticks",
+    "descriptor": "Amber",
+    "dishForm": "Bowl"
+  }
+}
