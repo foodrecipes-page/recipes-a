@@ -2097,6 +2097,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-smoky-brazilian-sausage-stew",
+    "title": "Aromatic Smoky Brazilian Sausage Stew",
+    "tags": [
+      "brazilian-inspired",
+      "comfort-food",
+      "one-pot",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-smoky-polish-beef-bake",
     "title": "Aromatic Smoky Polish Beef Bake",
     "tags": [
