@@ -1,0 +1,118 @@
+{
+  "title": "Aromatic Slow-Cooked Saudi-Arabian Beef Brisket Hash",
+  "description": "A delicious, low-glycemic-friendly weeknight dish featuring beef brisket, cooked in a Bain Marie using an iron teppan vessel. The sweet and crunchy flavors make it a perfect dinner option.",
+  "cuisine": "Saudi Arabian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef Brisket",
+      "amount": "1 whole piece",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Cayenne Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in the iron teppan vessel over medium heat. ",
+    "Sear the beef brisket for 2 minutes on each side, then set aside.",
+    "In the same vessel, add the remaining 1 tablespoon of coconut oil, followed by the sliced onions. Cook until the onions are lightly browned, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the vessel and cook for another minute, stirring constantly to prevent burning.",
+    "Add the cumin, cayenne pepper, salt, and black pepper to the vessel and stir to combine.",
+    "Place the beef brisket back into the vessel, followed by the sliced potatoes and diced tomatoes. ",
+    "Transfer the vessel to a Bain Marie and cook for 2.5 hours at 275°F (135°C).",
+    "After 2 hours, stir the hash gently to redistribute the ingredients.",
+    "Continue cooking for another 30 minutes, or until the potatoes are tender and the beef is fall-apart tender.",
+    "Garnish with fresh parsley and serve hot.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "low-carb",
+    "one-pan",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 44,
+    "carbs": 25,
+    "fat": 32
+  },
+  "slug": "aromatic-slow-cooked-saudi-arabian-beef-brisket-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-slow-cooked-saudi-arabian-beef-brisket-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-04T21:08:54Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crunchy",
+    "mood": "weeknight",
+    "technique": "bain-marie",
+    "primaryIngredient": "beef brisket",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Saudi-Arabian",
+    "mainIngredient": "beef_brisket",
+    "descriptor": "Aromatic Slow-Cooked",
+    "dishForm": "Hash"
+  }
+}
