@@ -1,0 +1,83 @@
+{
+  "title": "Adventurous American Cheese Grilled Cheese",
+  "description": "A rich and indulgent twist on the classic grilled cheese, featuring a melted cheese-pull and a hint of tropical flavor.",
+  "cuisine": "American",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "American Cheese",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Provolone Cheese",
+      "amount": "2 slices",
+      "notes": ""
+    },
+    {
+      "name": "Pineapple Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brioche Bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a griddle or skillet over medium heat.",
+    "Butter one side of each bread slice.",
+    "Place two slices of bread, butter side down, on the griddle.",
+    "Top each slice with a slice of American cheese, a slice of Provolone cheese, and a drizzle of pineapple juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "american-food",
+    "cheese-pull",
+    "easy-snack",
+    "grilled-cheese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 24,
+    "fat": 40
+  },
+  "slug": "adventurous-american-cheese-grilled-cheese",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-american-cheese-grilled-cheese",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:33Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "cheese-pull",
+    "mood": "adventurous",
+    "technique": "rest",
+    "primaryIngredient": "pineapple juice",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "American",
+    "mainIngredient": "cheese",
+    "descriptor": "adventurous",
+    "dishForm": "Grilled Cheese"
+  }
+}

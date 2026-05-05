@@ -1,0 +1,69 @@
+{
+  "title": "Aerated Croatian Burger Buns Burger",
+  "description": "A rich, aerated burger featuring sesame seed buns, perfect for a lazy Sunday evening. This dish combines traditional Croatian flavors with modern plant-based friendliness.",
+  "cuisine": "Croatian",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh yeast",
+      "amount": "10g",
+      "notes": "active dry yeast works as well"
+    }
+  ],
+  "instructions": [
+    "Combine yeast and warm water in a bowl, let it sit for 5 minutes to activate the yeast.",
+    "Add flour, salt, and sugar to the bowl, mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with plastic wrap, and let it rise in a warm place for 1 hour, or until doubled in size.",
+    "Punch down the dough and divide it into 4 equal pieces, shape each piece into a ball.",
+    "Let the dough balls rest for 10 minutes, then roll each one into a long rope, forming the classic burger bun shape.",
+    "Place the buns on a baking sheet lined with parchment paper, cover with plastic wrap, and let them rise for another 30 minutes, or until puffed.",
+    "Bake the buns in a preheated oven at 350°F (180°C) for 15 minutes, or until golden brown.",
+    "While the buns are baking, cook your favorite burger patties, following the package instructions.",
+    "Assemble the burgers by spreading a dollop of mayonnaise on the bottom bun, followed by a cooked patty, a few slices of fresh lettuce, a slice of tomato, and finally the top bun, securing with a toothpick if needed."
+  ],
+  "prepTimeMin": 50,
+  "cookTimeMin": 25,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "croatian",
+    "lazy-sunday",
+    "plant-based",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "aerated-croatian-burger-buns-burger",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-croatian-burger-buns-burger",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:56:18Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "lazy-sunday",
+    "technique": "ferment",
+    "primaryIngredient": "sesame seed burger buns",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "burger buns",
+    "descriptor": "Aerated",
+    "dishForm": "Burger"
+  }
+}

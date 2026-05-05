@@ -220,6 +220,20 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-american-cheese-grilled-cheese",
+    "title": "Adventurous American Cheese Grilled Cheese",
+    "tags": [
+      "american-food",
+      "cheese-pull",
+      "easy-snack",
+      "grilled-cheese",
+      "weeknight"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-autumn-argentinian-apple-empanadas",
     "title": "Adventurous Autumn Argentinian Apple Empanadas",
     "tags": [
@@ -540,6 +554,20 @@
     "shard": "a"
   },
   {
+    "slug": "aerated-croatian-burger-buns-burger",
+    "title": "Aerated Croatian Burger Buns Burger",
+    "tags": [
+      "burger",
+      "croatian",
+      "lazy-sunday",
+      "plant-based",
+      "weeknight"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 75,
+    "shard": "a"
+  },
+  {
     "slug": "aerated-japanese-chicken-tagine",
     "title": "Aerated Japanese Chicken Tagine",
     "tags": [
@@ -581,6 +609,20 @@
     ],
     "cuisine": "kenyan",
     "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-rich-venezuelan-farfalle-pasta",
+    "title": "Aerated, Rich Venezuelan Farfalle Pasta",
+    "tags": [
+      "aerated",
+      "gluten-free",
+      "smoked",
+      "vegetarian",
+      "venezuelan"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {

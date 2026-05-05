@@ -1,0 +1,130 @@
+{
+  "title": "Aerated, Rich Venezuelan Farfalle Pasta",
+  "description": "A comforting and unique pasta dish from Venezuela, featuring aerated farfalle, binchotan charcoal, and a mix of flavors.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "binchotan charcoal",
+      "amount": "2 pieces",
+      "notes": "for smoking flavor"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "plantain",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "sweet potato",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "veggie broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat binchotan charcoal in a smoky charcoal grill to 225\u001238 F.",
+    "Bring a large pot of salted water to a boil and cook farfalle pasta according to package instructions.",
+    "Sauté diced onion and minced garlic in olive oil until softened.",
+    "Add diced plantain and sweet potato to the skillet and cook until tender.",
+    "Add ground cumin, smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add veggie broth to the skillet and bring to a simmer.",
+    "Add cooked farfalle pasta to the skillet and toss to combine.",
+    "Transfer the pasta mixture to a serving dish and top with grated cheddar cheese and a dollop of sour cream.",
+    "Place the serving dish over the smoky charcoal grill to aerate the dish for 5-7 minutes, or until the cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "gluten-free",
+    "smoked",
+    "vegetarian",
+    "venezuelan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 14,
+    "carbs": 60,
+    "fat": 16
+  },
+  "slug": "aerated-rich-venezuelan-farfalle-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-rich-venezuelan-farfalle-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:57:07Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "binchotan-charcoal",
+    "primaryIngredient": "farfalle",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "Farfalle",
+    "descriptor": "Aerated, Rich",
+    "dishForm": "Pasta"
+  }
+}
