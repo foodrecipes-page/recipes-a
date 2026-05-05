@@ -582,6 +582,20 @@
     "shard": "a"
   },
   {
+    "slug": "aerated-funky-saudi-arabian-casserole-tagine",
+    "title": "aerated funky saudi-arabian casserole tagine",
+    "tags": [
+      "one-pot",
+      "satvik",
+      "saudi-arabian",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "saudi-arabian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aerated-japanese-chicken-tagine",
     "title": "Aerated Japanese Chicken Tagine",
     "tags": [
@@ -2655,6 +2669,21 @@
     "tags": [
       "moroccan",
       "dinner"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-moroccan-eggplant-tagine",
+    "title": "Aromatic Moroccan Eggplant Zaalouk",
+    "tags": [
+      "date-night",
+      "eggplant",
+      "low-fat",
+      "moroccan",
+      "weeknight",
+      "zaalouk"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 40,

@@ -1,0 +1,67 @@
+{
+  "title": "aerated funky saudi-arabian casserole tagine",
+  "description": "a flavorful and aromatic one-pot dish made with saudi-arabian spices, shio-cure, and a touch of caster sugar. satvik-friendly recipe",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shio-cure",
+      "amount": "250g",
+      "notes": "cured in salt and turmeric water, drained and chopped"
+    }
+  ],
+  "instructions": [
+    "heat 2 tablespoons of olive oil in a large saut\u00176 pan over medium heat.",
+    "add 1 onion, finely chopped, and saut\u00176 until translucent.",
+    "add 2 cloves of garlic, minced, and saut\u00176 for 1 minute.",
+    "add 250g of shio-cure, chopped, and cook for 2-3 minutes, stirring occasionally.",
+    "add 1 cup of long-grain rice, rinsed and drained, and stir to combine.",
+    "add 1 teaspoon of ground cumin, 1 teaspoon of ground coriander, and 1/2 teaspoon of turmeric, and stir to combine.",
+    "add 1 cup of water and 1 cup of vegetable broth, and bring to a boil.",
+    "reduce the heat to low, cover the pan, and cook for 18-20 minutes or until the liquid has been absorbed and the rice is tender.",
+    "add 1/2 cup of diced fresh parsley, 1/4 cup of chopped fresh mint, and 2 tablespoons of caster sugar, and stir to combine.",
+    "transfer the contents of the pan to a serving dish and top with toasted almonds and dried rose petals",
+    "casserole is ready to be served!",
+    "fluff the casserole with a fork before serving.",
+    "serve hot, garnished with additional parsley and mint if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "one-pot",
+    "satvik",
+    "saudi-arabian",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 22
+  },
+  "slug": "aerated-funky-saudi-arabian-casserole-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-funky-saudi-arabian-casserole-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:26:07Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "one-pot",
+    "technique": "shio-cure",
+    "primaryIngredient": "caster sugar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Saudi-arabian",
+    "mainIngredient": "casserole",
+    "descriptor": "aerated funky",
+    "dishForm": "tagine"
+  }
+}
