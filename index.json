@@ -568,6 +568,20 @@
     "shard": "a"
   },
   {
+    "slug": "aerated-french-polish-puff-pastry",
+    "title": "Aerated French Polish Puff Pastry",
+    "tags": [
+      "paleo",
+      "puff-pastry",
+      "tarragon",
+      "whole30",
+      "whole30-friendly"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 70,
+    "shard": "a"
+  },
+  {
     "slug": "aerated-japanese-chicken-tagine",
     "title": "Aerated Japanese Chicken Tagine",
     "tags": [
@@ -2863,6 +2877,19 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoked-portuguese-fish-dum-paella",
+    "title": "Aromatic Smoked Portuguese Fish Dum Paella",
+    "tags": [
+      "fish-dumplings",
+      "one-pot",
+      "portuguese",
+      "robata-grill"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {

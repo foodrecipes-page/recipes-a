@@ -1,0 +1,103 @@
+{
+  "title": "Aromatic Smoked Portuguese Fish Dum Paella",
+  "description": "Rich, creamy Portuguese one-pot dish featuring yuzu and smoked fish dumplings, cooked to perfection on a robata grill.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "vegan",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Yuzu juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Smoked fish dumplings",
+      "amount": "12 pieces",
+      "notes ": "Homemade or store-bought"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes ": "Uncooked white or brown rice"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes ": "Canned or fresh"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 teaspoon",
+      "notes ": "Spanish or Hungarian"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes ": "Minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes ": "Chopped"
+    },
+    {
+      "name": "Almonds",
+      "amount": "1/4 cup",
+      "notes ": "Sliced and toasted"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes ": "High-quality extra virgin"
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large paella pan or Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute, until fragrant.",
+    "Add the tomato paste and smoked paprika, cook for 1-2 minutes, stirring constantly.",
+    "Add the uncooked rice, stir to coat the rice with the oil and mix with the spices.",
+    "Add the yuzu juice, smoked fish dumplings, slivered almonds, and enough water to cover the ingredients.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 15-20 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Season with salt to taste, then serve hot directly from the pan."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish-dumplings",
+    "one-pot",
+    "portuguese",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 65,
+    "fat": 22
+  },
+  "slug": "aromatic-smoked-portuguese-fish-dum-paella",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-smoked-portuguese-fish-dum-paella",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:47Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "creamy",
+    "mood": "one-pot",
+    "technique": "dum",
+    "primaryIngredient": "yuzu",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "fish dum",
+    "descriptor": "Aromatic Smoked",
+    "dishForm": "Paella"
+  }
+}

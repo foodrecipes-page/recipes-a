@@ -1,0 +1,96 @@
+{
+  "title": "Aerated French Polish Puff Pastry",
+  "description": "A light, airy, and flavorful pastry featuring the taste of tarragon leaves, made with a long-fermentation dough and a jammy filling. Perfect for a Whole30-friendly dessert or snack.",
+  "cuisine": "French",
+  "diet": [
+    null,
+    "whole30",
+    "paleo"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Tarragon leaves",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Jam",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the puff pastry dough to a thickness of about 1/8 inch.",
+    "Cut out a large rectangle from the dough, about 12 inches by 8 inches.",
+    "Spread a thin layer of jam onto the center of the dough, leaving a 1-inch border around the edges.",
+    "Sprinkle the tarragon leaves over the jam.",
+    "Fold the dough over the filling to create a rectangular shape, pressing the edges to seal.",
+    "Use a sharp knife to cut a decorative border around the edges of the pastry.",
+    "Place the pastry on a baking sheet lined with parchment paper.",
+    "Bake the pastry for 25 minutes, or until it's golden brown.",
+    "Let the pastry cool on a wire rack for 10 minutes before slicing and serving"
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 25,
+  "totalTimeMin": 70,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "paleo",
+    "puff-pastry",
+    "tarragon",
+    "whole30",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "slug": "aerated-french-polish-puff-pastry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-french-polish-puff-pastry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:22:41Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "aerated",
+    "mood": "light",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "tarragon leaves",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "polish",
+    "descriptor": "aerated",
+    "dishForm": "Puff Pastry"
+  }
+}
