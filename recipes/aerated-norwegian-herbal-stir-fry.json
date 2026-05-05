@@ -1,0 +1,117 @@
+{
+  "title": "Aerated Norwegian Herbal Stir-fry",
+  "description": "A light and refreshing stir-fry featuring red wine jelly and Norwegian herbs. Serve raw-friendly and enjoy the simplicity of this aerated dish.",
+  "cuisine": "Norwegian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Parsley",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red wine jelly",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "0.5 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fennel seeds",
+      "amount": "0.25 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": "For aerating"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the red onion and saut\u00042e until translucent, about 5 minutes.",
+    "Add the parsley, dill, and fennel seeds, and saut\u00042e for an additional 2 minutes.",
+    "Stir in the honey and red wine jelly until combined.",
+    "Season with salt and black pepper to taste.",
+    "Bring the water to a boil in a separate pot, then reduce heat to low.",
+    "Slowly pour the hot water into the skillet with the stir-fry mixture, creating air pockets as you go.",
+    "Stir gently to combine, being careful not to deflate the aerated mixture.",
+    "Transfer the stir-fry to a serving dish and garnish with fresh chives and a drizzle of rice vinegar.",
+    "Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-norwegian",
+    "high-protein",
+    "one-pan",
+    "raw-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 80,
+    "fat": 12
+  },
+  "slug": "aerated-norwegian-herbal-stir-fry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-norwegian-herbal-stir-fry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:16:27Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "stir-fry",
+    "primaryIngredient": "red wine jelly",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "herbal",
+    "descriptor": "aerated",
+    "dishForm": "Stir-fry"
+  }
+}
