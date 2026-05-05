@@ -1,0 +1,113 @@
+{
+  "title": "Aerated Monsoon Slovakian Rice Pilaf",
+  "description": "A grassy, aerated, and creamy rice dish inspired by the flavors of Slovakia, perfect for a monsoon day.",
+  "cuisine": "slovakian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Basmati rice (Fry-grind-rice-khao-khua)",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Double cream",
+      "amount": "1 cup",
+      "notes": "Heavy cream can be used as a substitute."
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "Use filtered water for best results."
+    },
+    {
+      "name": "Grassy Slovakian herb blend (e.g. parsley, dill, tarragon)",
+      "amount": "2 tbsp",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Crushed garlic",
+      "amount": "1 clove",
+      "notes": "Mince before using."
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "Use salted or unsalted, soft or salted."
+    },
+    {
+      "name": "Freshly ground black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped",
+      "notes": "For garnish."
+    },
+    {
+      "name": "Fried shallots (store-bought or homemade)",
+      "amount": "1/4 cup",
+      "notes": "Optional, but adds crunch."
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste."
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Optional, but adds a smoky flavor."
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet over medium heat.",
+    "Add the crushed garlic and cook for 1 minute, until fragrant.",
+    "Add the grassy Slovakian herb blend and cook for another minute, until the aroma fills the air.",
+    "Add the basmati rice and cook, stirring constantly, for 2-3 minutes, until the rice is lightly toasted.",
+    "Add the water, double cream, salt, and paprika (if using) to the skillet. Bring to a boil, then reduce the heat to low, cover, and simmer for 18-20 minutes, or until the liquid has been absorbed and the rice is cooked through.",
+    "Fluff the rice with a fork and stir in the fried shallots (if using).",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the rice to a wooden board and garnish with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated",
+    "creamy",
+    "flexitarian",
+    "monsoon",
+    "rice-pilaf",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 63,
+    "fat": 20
+  },
+  "slug": "aerated-monsoon-slovakian-rice-pilaf",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-monsoon-slovakian-rice-pilaf",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:15:01Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "aerated",
+    "mood": "monsoon",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "double cream",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "rice",
+    "descriptor": "Aerated Monsoon",
+    "dishForm": "Pilaf"
+  }
+}
