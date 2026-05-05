@@ -1,0 +1,117 @@
+{
+  "title": "Aerated Brazilian Kabocha Wrap",
+  "description": "Rich, aerated, indulgent Brazilian dish featuring kabocha, knead, and Buddhist-temple-friendly corn-husk wrap. Perfect for a delightful vegetarian meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kabocha squash",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Corn husk wrap",
+      "amount": "4-6",
+      "notes": "soak in water for 30 minutes before use"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat, unsweetened"
+    },
+    {
+      "name": "Squeezed lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tablespoons",
+      "notes": "clarified butter, melted"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "2 teaspoons",
+      "notes": "freshly grated"
+    },
+    {
+      "name": "Crushed black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    },
+    {
+      "name": "Sliced almonds",
+      "amount": "1/4 cup",
+      "notes": "optional topping"
+    },
+    {
+      "name": "Buddhist-temple-friendly vegan cheese",
+      "amount": "2 tablespoons",
+      "notes": "optional, shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Pierce the kabocha squash multiple times with a fork, then bake for 45 minutes, or until tender.",
+    "Scoop out the flesh of the kabocha squash, and mash in a bowl with a fork until smooth.",
+    "In a separate bowl, whisk together coconut milk, lime juice, ghee, ginger, black pepper, and salt.",
+    "Add the mashed kabocha squash to the coconut milk mixture, and stir until well combined.",
+    "Heat a large skillet over medium heat, and add the coconut milk mixture. Cook, stirring frequently, for 10-12 minutes, or until the mixture is heated through and slightly thickened.",
+    "To assemble the wraps, lay a corn husk flat on a work surface, and spread a quarter of the kabocha mixture down the center of the husk, leaving a 1-inch border around the edges.",
+    "Add a sprinkle of chopped cilantro and sliced almonds, if using, on top of the kabocha mixture.",
+    "Fold the bottom edge of the corn husk up over the filling, then fold in the sides and roll the wrap into a neat cylinder. Repeat with the remaining ingredients, and serve immediately"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "brazilian",
+    "high-calorie",
+    "indulgent",
+    "vegan",
+    "vegetarian",
+    "weeknight",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 850,
+    "protein": 20,
+    "carbs": 45,
+    "fat": 55
+  },
+  "slug": "aerated-brazilian-kabocha-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-brazilian-kabocha-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:37:14Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "indulgent",
+    "technique": "knead",
+    "primaryIngredient": "kabocha",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "kabocha",
+    "descriptor": "aerated",
+    "dishForm": "Wrap"
+  }
+}
