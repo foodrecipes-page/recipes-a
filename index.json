@@ -3448,6 +3448,21 @@
     "shard": "a"
   },
   {
+    "slug": "austere-spanish-hummus-paella",
+    "title": "austere spanish hummus paella",
+    "tags": [
+      "breakfast",
+      "hummus",
+      "one-pan",
+      "paella",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "avocado-berber",
     "title": "Avocado Berber",
     "tags": [
