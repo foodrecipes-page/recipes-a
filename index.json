@@ -2033,6 +2033,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-chinese-eggplant-bao",
+    "title": "aromatic chinese eggplant bao",
+    "tags": [
+      "baos",
+      "chinese",
+      "one-pan",
+      "veggie-friendly",
+      "weeknight"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-citrus-italian-coconut-frittata",
     "title": "Aromatic Citrus Italian Coconut Frittata",
     "tags": [

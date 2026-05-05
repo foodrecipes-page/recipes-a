@@ -1,0 +1,123 @@
+{
+  "title": "aromatic chinese eggplant bao",
+  "description": "romantic chinese dish featuring fresh thyme with pungent, gooey eggplant",
+  "cuisine": "chinese",
+  "diet": [
+    null,
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "4 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": ""
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "hoisin sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "veggie broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "4 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "slice the eggplant into 1/2-inch thick rounds",
+    "heat 2 tablespoons of sesame oil in a wok or large skillet over medium-high heat",
+    "add the garlic and ginger and cook, stirring constantly, for 1 minute",
+    "add the sliced eggplant and cook, stirring occasionally, until the eggplant is tender and lightly browned, about 8-10 minutes",
+    "meanwhile, combine the hoisin sauce, soy sauce, sugar, and cornstarch in a small bowl and stir to combine",
+    "add the hoisin sauce mixture to the wok or skillet and stir to combine",
+    "bring the mixture to a boil, then reduce the heat to medium-low and simmer, stirring constantly, for 2-3 minutes",
+    "to assemble the bao, spread a thin layer of the eggplant mixture onto a piece of dough, then top with a few slices of scallion and a sprig of thyme",
+    "fold the dough over the filling to form a bun and place it on a baking sheet",
+    "repeat with the remaining dough and filling",
+    "brush the tops of the bao with a little bit of sesame oil and bake in a preheated oven at 400\u00149 for 15-20 minutes, or until the bao are golden brown",
+    "meanwhile, combine the flour and water in a small bowl and stir to combine",
+    "dough is ready to use once it's smooth and elastic"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baos",
+    "chinese",
+    "one-pan",
+    "veggie-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 440,
+    "protein": 12,
+    "carbs": 80,
+    "fat": 16
+  },
+  "slug": "aromatic-chinese-eggplant-bao",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-chinese-eggplant-bao",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:04:53Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "brine-wet",
+    "primaryIngredient": "fresh thyme",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "eggplant",
+    "descriptor": "aromatic",
+    "dishForm": "Bao"
+  }
+}
