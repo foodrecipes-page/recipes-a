@@ -1,0 +1,91 @@
+{
+  "title": "Aromatic Peruvian Sweet Potato Picarones",
+  "description": "These jammy, fluffy picarones are a macrobiotic-friendly weeknight dish featuring stracciatella-cheese and sweet potato.",
+  "cuisine": "Peruvian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweet potatoes",
+      "amount": 2
+    },
+    {
+      "name": "stracciatella cheese",
+      "amount": "80g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "milk or water",
+      "amount": "400ml"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Grate sweet potatoes and mix with stracciatella cheese.",
+    "In a separate bowl, whisk together flour, baking powder, butter, olive oil, sugar, and vanilla extract.",
+    "Add wet ingredients to dry in a large mixing bowl, stirring until smooth.",
+    "Heat milk or water over medium heat. Add to batter and stir until well combined.",
+    "Pour batter into greased muffin tins, filling each about 3/4 full.",
+    "Bake for 20-25 minutes or until golden brown on top and a toothpick inserted comes out clean.",
+    "Let cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "macrobiotic",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 319,
+    "protein": 7,
+    "carbs": 45,
+    "fat": 2
+  },
+  "slug": "aromatic-peruvian-sweet-potato-picarones",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-peruvian-sweet-potato-picarones",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T06:50:37Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "fluffy",
+    "mood": "weeknight",
+    "technique": "saute",
+    "primaryIngredient": "stracciatella-cheese",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "sweet potato",
+    "descriptor": "Aromatic",
+    "dishForm": "Picarones"
+  }
+}
