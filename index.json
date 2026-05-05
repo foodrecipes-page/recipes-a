@@ -582,6 +582,20 @@
     "shard": "a"
   },
   {
+    "slug": "aerated-malt-middle-eastern-bread-fatteh",
+    "title": "Aerated Malt Middle-eastern Bread Fatteh",
+    "tags": [
+      "high-protein",
+      "middle-eastern",
+      "one-pan",
+      "show-off",
+      "weeknight"
+    ],
+    "cuisine": "middle-eastern",
+    "totalTimeMin": 80,
+    "shard": "a"
+  },
+  {
     "slug": "aerated-monsoon-slovakian-rice-pilaf",
     "title": "Aerated Monsoon Slovakian Rice Pilaf",
     "tags": [
@@ -680,6 +694,21 @@
     ],
     "cuisine": "Saudi-Arabian",
     "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-uruguayan-herring-stew",
+    "title": "Aerated Uruguayan Herring Stew",
+    "tags": [
+      "fish",
+      "herring",
+      "quick",
+      "stew",
+      "uruguayan",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {

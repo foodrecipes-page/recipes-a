@@ -1,0 +1,99 @@
+{
+  "title": "Aerated Malt Middle-eastern Bread Fatteh",
+  "description": "A crispy and airy bread dish loaded with malty flavors and sweet Thai basil notes, perfect for a show-stopping middle-eastern meal.",
+  "cuisine": "middle-eastern",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Middle Eastern Bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Thai Sweet Basil Horapa",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Whole Wheat Flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Instant Dry Yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "\u00192 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the middle eastern bread into 1-inch cubes.",
+    "Mix together the unsalted butter, granulated sugar, and salt in a bowl.",
+    "Add the eggs, one at a time, to the bowl, mixing until just combined.",
+    "In a separate bowl, whisk together the all-purpose flour, whole wheat flour, and instant dry yeast.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined, being careful not to overmix.",
+    "Gently fold in the Thai sweet basil horapa.",
+    "Pour the mixture into a greased loaf pan and let it rise in a warm place for 1 hour.",
+    "Bake the loaf for 30 minutes, or until golden brown.",
+    "Remove the loaf from the oven and let it cool for 10 minutes.",
+    "Cut the loaf into slices and fry them in a pan of oil until crispy and golden brown.",
+    "Drizzle with sesame seeds and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 50,
+  "totalTimeMin": 80,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "high-protein",
+    "middle-eastern",
+    "one-pan",
+    "show-off",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 2400,
+    "protein": 60,
+    "carbs": 380,
+    "fat": 80
+  },
+  "slug": "aerated-malt-middle-eastern-bread-fatteh",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-malt-middle-eastern-bread-fatteh",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:17:53Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "aerated",
+    "mood": "show-off",
+    "technique": "fry",
+    "primaryIngredient": "thai-sweet-basil-horapa",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Middle-eastern",
+    "mainIngredient": "Bread",
+    "descriptor": "Aerated Malt",
+    "dishForm": "Fatteh"
+  }
+}
