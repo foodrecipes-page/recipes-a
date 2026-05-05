@@ -1,0 +1,116 @@
+{
+  "title": "Aromatic Saffron Kenyan Rice Hash",
+  "description": "A mustardy, chewy take on the classic Kenyan dish, featuring crispy rice paper sheets and a protein-boosting twist.",
+  "cuisine": "kenyan",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 tsp",
+      "notes": "soaked in 2 tbsp hot water"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Mustard oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "small, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cast-iron skillet oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Protein powder of choice",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Soak 4-6 rice paper sheets in warm water for at least 15 minutes before use.",
+    "Chop the onion and saut\u00036 the garlic in a cast-iron skillet over medium heat.",
+    "Add 1 tsp of cast-iron skillet oil to the skillet and stir to coat.",
+    "Add the soaked rice paper sheets to the skillet and cook for 2-3 minutes on each side, until crispy and golden brown.",
+    "Remove the rice paper sheets from the skillet and set aside.",
+    "In the same skillet, add the rice vinegar, mustard oil, and protein powder of choice. Stir to combine.",
+    "Add the cooked rice to the skillet, stirring to coat in the flavorful liquid.",
+    "Stir in the soaked and drained saffron threads, salt, and black pepper.",
+    "Transfer the cooked rice to a serving dish and top with chopped cilantro and scallions (if using)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kenyan",
+    "one-pan",
+    "saffron",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "aromatic-saffron-kenyan-rice-hash",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-saffron-kenyan-rice-hash",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T21:53:55Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "chewy",
+    "mood": "indulgent",
+    "technique": "spherify",
+    "primaryIngredient": "rice paper sheets",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "rice",
+    "descriptor": "Aromatic Saffron",
+    "dishForm": "Hash"
+  }
+}
