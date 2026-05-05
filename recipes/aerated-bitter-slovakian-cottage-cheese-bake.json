@@ -1,0 +1,116 @@
+{
+  "title": "Aerated Bitter Slovakian Cottage Cheese Bake",
+  "description": "A unique brunch dish featuring cottage cheese, perfect for a slovakian-inspired meal. This aerated batter adds a light and fluffy texture.",
+  "cuisine": "slovakian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "cottage cheese",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "150g",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "50g",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "whole milk",
+      "amount": "120ml",
+      "notes": ""
+    },
+    {
+      "name": "sour cream",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Whisk together cottage cheese, sugar, eggs, cheddar cheese, vanilla extract, and paprika in a large bowl.",
+    "In a separate bowl, whisk together flour, baking powder, and salt. Add to the cheese mixture and stir until combined.",
+    "Add unsalted butter, melted at 82°C (180°F) in a sous-vide water bath, then add the sour cream and whole milk. Whisk until smooth.",
+    "Pour the batter into a greased 20cm (8 inch) round baking dish.",
+    "Bake for 35 minutes or until the top is golden brown and the center is set.",
+    "Let the bake rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "brunch",
+    "high-protein",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 370,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 18
+  },
+  "slug": "aerated-bitter-slovakian-cottage-cheese-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-bitter-slovakian-cottage-cheese-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:31:11Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "aerated",
+    "mood": "brunch-mood",
+    "technique": "sous-vide",
+    "primaryIngredient": "cottage cheese",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "cottage cheese",
+    "descriptor": "aerated bitter",
+    "dishForm": "Bake"
+  }
+}
