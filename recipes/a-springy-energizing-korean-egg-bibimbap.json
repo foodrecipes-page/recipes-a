@@ -1,0 +1,83 @@
+{
+  "title": "Springy Energizing Korean Egg Bibimbap",
+  "description": "A fatty, springy, energizing korean dish featuring egg, kneadable for a healthier version without sugar. Perfect for breakfast or snack time.",
+  "cuisine": "Korean (Seoul)",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Egg",
+      "amount": "4"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Gochujang (Korean Chili Paste)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Watermelon Radish",
+      "amount": "6 slices"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "3 medium, peeled and sliced thickly"
+    },
+    {
+      "name": "Korean Greens (e.g., Bibim Spinach)",
+      "amount": "2 cups, stemmed"
+    }
+  ],
+  "instructions": [
+    "Crack eggs into a bowl. Beat until frothy.",
+    "Mix in rice vinegar, sesame oil, and gochujang. Knead the mixture for at least 3 minutes until it feels springy to touch.",
+    "Divide the kneaded egg mixture equally among four bowls.",
+    "Add watermelon radish slices, diced bell pepper, sliced carrots, and Korean greens on top of each bowl of egg.",
+    "Drizzle with additional gochujang for extra flavor if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egg-bibimbap",
+    "energizing",
+    "korean",
+    "springy"
+  ],
+  "nutrition": {
+    "calories": 270,
+    "protein": 18,
+    "carbs": 34,
+    "fat": 12
+  },
+  "slug": "a-springy-energizing-korean-egg-bibimbap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/a-springy-energizing-korean-egg-bibimbap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T20:50:29Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "knead",
+    "primaryIngredient": "egg",
+    "diet": "sugar-free",
+    "region": "seoul",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Egg",
+    "descriptor": "Springy Energizing",
+    "dishForm": "Bibimbap"
+  }
+}
