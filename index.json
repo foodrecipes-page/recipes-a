@@ -162,6 +162,22 @@
     "shard": "a"
   },
   {
+    "slug": "acrunchy-umami-aji-pasta",
+    "title": "Acrunchy Umami Aji Pasta",
+    "tags": [
+      "ayurvedic",
+      "crispy",
+      "fermented",
+      "kid-friendly",
+      "peruvian",
+      "tamasic",
+      "umami"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "adorable-brazilian-bread-cookies",
     "title": "Adorable Brazilian Bread Cookies",
     "tags": [

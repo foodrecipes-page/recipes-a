@@ -1,0 +1,89 @@
+{
+  "title": "Acrunchy Umami Aji Pasta",
+  "description": "This kid-friendly Peruvian dish features a crispy umami pasta base with red chilli flakes and fermented flavors, suitable for ayurvedic-tamasic diets.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "tamasic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole wheat pasta",
+      "amount": 400
+    },
+    {
+      "name": "red chilli flakes",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "fermented lemon juice",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "ayurvedic aji amarillo powder",
+      "amount": "3 tsp"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": 60
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F.",
+    "Cook pasta according to package until al dente, then drain and set aside.",
+    "In a large bowl, mix the pasta with red chilli flakes, fermented lemon juice, aji amarillo powder, chickpeas, tomato paste, and water.",
+    "Transfer the mixture to an oven-safe baking dish. Drizzle olive oil over the top for extra crispiness.",
+    "Bake in preheated oven for 15 minutes or until golden brown.",
+    "Serve hot with a side of yogurt蘸酱."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic",
+    "crispy",
+    "fermented",
+    "kid-friendly",
+    "peruvian",
+    "tamasic",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "acrunchy-umami-aji-pasta",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/acrunchy-umami-aji-pasta",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-05T00:37:08Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "crispy",
+    "mood": "kid-friendly",
+    "technique": "ferment-jang",
+    "primaryIngredient": "red chilli flakes",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Umami",
+    "mainIngredient": "Aji",
+    "descriptor": "Crunchy",
+    "dishForm": "Pasta"
+  }
+}
