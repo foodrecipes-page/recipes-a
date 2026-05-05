@@ -624,6 +624,21 @@
     "shard": "a"
   },
   {
+    "slug": "aerated-mediterranean-garlic-stew",
+    "title": "Aerated Mediterranean Garlic Stew",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "meal-prep",
+      "mediterranean",
+      "one-pan",
+      "vegetarian"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "aerated-monsoon-slovakian-rice-pilaf",
     "title": "Aerated Monsoon Slovakian Rice Pilaf",
     "tags": [
@@ -2731,6 +2746,20 @@
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 150,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-peruvian-shrimp-chupe-de-camarones",
+    "title": "Aromatic Peruvian Shrimp Chupe de Camarones",
+    "tags": [
+      "flexitarian",
+      "high-protein",
+      "one-pan",
+      "peruvian",
+      "weeknight"
+    ],
+    "cuisine": "peruvian",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {

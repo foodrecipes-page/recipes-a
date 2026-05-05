@@ -1,0 +1,105 @@
+{
+  "type": "object",
+  "title": "Aromatic Peruvian Shrimp Chupe de Camarones",
+  "description": "A resinous, springy, post-workout Peruvian dish featuring Italian seasoning, tadka, and flexitarian-friendly options.",
+  "cuisine": "peruvian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "tadka oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the tadka oil in an iron teppan pan over medium-high heat.",
+    "Heat the tadka oil for 1 minute.",
+    "Add the chopped onion and sauté until translucent, 3-4 minutes.",
+    "Add the minced garlic and sauté for 1 minute.",
+    "Add the diced chili pepper and sauté for 1 minute.",
+    "Add the shrimp and cook until pink, 2-3 minutes.",
+    "Add the Italian seasoning, tomato paste, white wine, chicken broth, cumin, and salt.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 5 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "flexitarian",
+    "high-protein",
+    "one-pan",
+    "peruvian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 10
+  },
+  "slug": "aromatic-peruvian-shrimp-chupe-de-camarones",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:30:15Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "springy",
+    "mood": "post-workout",
+    "technique": "tadka",
+    "primaryIngredient": "italian seasoning",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Aromatic",
+    "dishForm": "Chupe de Camarones"
+  }
+}
