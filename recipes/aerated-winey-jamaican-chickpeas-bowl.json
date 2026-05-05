@@ -1,0 +1,107 @@
+{
+  "title": "Aerated Winey Jamaican Chickpeas Bowl",
+  "description": "A unique, paleo-friendly dish featuring aerated kombu-cold-extract and a hint of Jamaican spices. This recipe may help alleviate hangover symptoms.",
+  "cuisine": "Jamaican",
+  "diet": [],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Canned Chickpeas",
+      "amount": "1 can (14 oz) drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "Kombu",
+      "amount": "2 inches piece of dried kombu seaweed",
+      "notes": "For kombu cold extract, see notes."
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches piece of fresh ginger",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Allspice",
+      "amount": "0.5 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Thyme",
+      "amount": "0.25 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "0.25 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Red Wine Vinegar",
+      "amount": "2 tablespoons",
+      "notes": "or apple cider vinegar"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine chickpeas, ginger, garlic, allspice, thyme, and smoked paprika in a medium-sized bowl.",
+    "In a separate bowl, whisk together kombu cold extract, coconut oil, and red wine vinegar until well combined.",
+    "Add the wet ingredients to the dry ingredients and stir until the chickpeas are evenly coated.",
+    "Transfer the mixture to a baking sheet lined with parchment paper and use a fork to aerate the chickpeas, breaking them apart slightly.",
+    "Bake at 375°F (190°C) for 20-25 minutes or until the chickpeas are lightly browned and crispy.",
+    "Remove from oven and stir in honey.",
+    "Return to oven and bake for an additional 5-7 minutes or until caramelized.",
+    "Remove from oven, let cool, and serve hot.",
+    "Note: To make kombu cold extract, soak 2 inches piece of dried kombu seaweed in 1 cup of water for 4-8 hours. Strain and discard the seaweed, reserving the liquid for use in this recipe."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "hangover-cure",
+    "high-protein",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 442,
+    "protein": 21,
+    "carbs": 51,
+    "fat": 22
+  },
+  "slug": "aerated-winey-jamaican-chickpeas-bowl",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-winey-jamaican-chickpeas-bowl",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:43:36Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chickpeas",
+    "descriptor": "aerated winey",
+    "dishForm": "Bowl"
+  }
+}
