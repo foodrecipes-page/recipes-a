@@ -1,0 +1,104 @@
+{
+  "title": "Aerated Peppery Malaysian Eggplant Biryani",
+  "description": "A flavorful and refreshing twist on traditional Malaysian Biryani, featuring eggplant and a hint of pepper. This dish is perfect for a weeknight dinner or a special occasion.",
+  "cuisine": "Malaysian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Eggplant",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Red chili peppers",
+      "amount": "2",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat.",
+    "Add onion, ginger, and garlic paste. Cook until the onion is translucent."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "biryani",
+    "eggplant",
+    "malaysian-cuisine",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "aerated-peppery-malaysian-eggplant-biryani",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-peppery-malaysian-eggplant-biryani",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:05:52Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "crowd-pleaser",
+    "technique": "marinate",
+    "primaryIngredient": "eggplant",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "eggplant",
+    "descriptor": "aerated peppery",
+    "dishForm": "Biryani"
+  }
+}

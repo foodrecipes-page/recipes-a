@@ -582,6 +582,20 @@
     "shard": "a"
   },
   {
+    "slug": "aerated-peppery-malaysian-eggplant-biryani",
+    "title": "Aerated Peppery Malaysian Eggplant Biryani",
+    "tags": [
+      "biryani",
+      "eggplant",
+      "malaysian-cuisine",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 55,
+    "shard": "a"
+  },
+  {
     "slug": "aerated-portuguese-meal-bake",
     "title": "Aerated Portuguese Meal Bake",
     "tags": [
@@ -623,6 +637,20 @@
     ],
     "cuisine": "venezuelan",
     "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-saudi-arabian-cashews-buttery",
+    "title": "Aerated Saudi-Arabian Cashews",
+    "tags": [
+      "easy-to-make",
+      "gluten-free",
+      "kid-friendly",
+      "snack",
+      "vegan"
+    ],
+    "cuisine": "Saudi-Arabian",
+    "totalTimeMin": 20,
     "shard": "a"
   },
   {

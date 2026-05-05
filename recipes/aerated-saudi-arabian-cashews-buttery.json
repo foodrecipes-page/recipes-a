@@ -1,0 +1,100 @@
+{
+  "title": "Aerated Saudi-Arabian Cashews",
+  "description": "A kid-friendly dish featuring cashews with a buttery and aerated finish, made vegan-friendly.",
+  "cuisine": "Saudi-Arabian",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dates",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, grind the cashews into a fine powder.",
+    "Add the dates, coconut milk, lemon juice, water, salt, yeast, and baking powder to the blender.",
+    "Blend the mixture on high speed for 2 minutes, until it becomes light and frothy.",
+    "Stop the blender and scrape down the sides with a spatula.",
+    "Return the blender to high speed and continue blending for another minute, until the mixture becomes aerated and doubled in volume.",
+    "Pour the mixture into a bowl and refrigerate for at least 2 hours to allow it to set.",
+    "Once set, use a spatula to scoop the aerated cashew mixture into individual serving cups or ramekins.",
+    "Refrigerate for an additional 30 minutes to chill before serving.",
+    "Serve chilled, garnished with additional cashews if desired.",
+    "To make the aerated finish more visible, top each serving with a dollop of whipped coconut cream or a sprinkle of matcha powder."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 20,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "kid-friendly",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 6
+  },
+  "slug": "aerated-saudi-arabian-cashews-buttery",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-saudi-arabian-cashews-buttery",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:06:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "kid-friendly",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "cashews",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Saudi-arabian",
+    "mainIngredient": "cashews",
+    "descriptor": "aerated",
+    "dishForm": "buttery"
+  }
+}
