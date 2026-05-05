@@ -1,0 +1,69 @@
+{
+  "title": "Adventurous Umami Irish Dish Bake",
+  "description": "A keto-friendly, adventurous Irish dish featuring cooking wine and a bake. Perfect for a weeknight dinner or special occasion.",
+  "cuisine": "irish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "shaggy thyme",
+      "amount": "2 tbsp",
+      "notes": "fresh or dried"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) with a rack positioned in the middle of the oven.",
+    "Mix the pork belly, shaggy thyme, salt, and pepper in a large bowl until well combined.",
+    "Transfer the mixture to a 9x13-inch baking dish and drizzle with the cooking wine.",
+    "Cover the dish with aluminum foil and bake for 2 hours.",
+    "Remove the foil and continue baking for an additional 30 minutes or until the top is lightly browned.",
+    "Let the dish rest for 10 minutes before serving.",
+    "Slice into portions and serve hot.",
+    "Note: If using fresh thyme, be sure to chop it finely before adding it to the mixture.",
+    "Baste the pork belly with the pan juices during the last 20 minutes of cooking for added flavor and moisture."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 160,
+  "totalTimeMin": 175,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "adventurous",
+    "irish",
+    "keto",
+    "one-pan",
+    "umami",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 60,
+    "carbs": 5,
+    "fat": 60
+  },
+  "slug": "adventurous-umami-irish-dishes-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-umami-irish-dishes-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-05T22:34:07Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "bake",
+    "primaryIngredient": "cooking wine",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "irish",
+    "mainIngredient": "dishes",
+    "descriptor": "adventurous umami",
+    "dishForm": "bake"
+  }
+}
