@@ -1,0 +1,82 @@
+{
+  "title": "Aromatic Pungent Silky Tahini Wrap",
+  "description": "This Tunisian-inspired dish features a silky tahini wrap with a touch of pungency and yuzu-cure for an ayurvedic-tamasic-friendly meal-prep option, served on a hot-stone plate.",
+  "cuisine": "Tunisian",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tahini",
+      "amount": 100
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dill leaves",
+      "amount": "few sprigs"
+    },
+    {
+      "name": "parsley",
+      "amount": "handful"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "pinch"
+    },
+    {
+      "name": "paprika",
+      "amount": "pinch"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": 20
+    }
+  ],
+  "instructions": [
+    "In a bowl, mix tahini with yuzu juice and salt until smooth.",
+    "Stir in dill leaves, parsley, sesame seeds, and paprika.",
+    "Heat olive oil in a small pan over medium heat. Pour tahini mixture into the hot oil and stir gently to coat evenly.",
+    "Serve immediately on a hot-stone plate for an aromatic and silky experience.",
+    "Optional: Slice vegetables or fruits as accompaniments."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "ayurvedic-friendly",
+    "mealtube-prep",
+    "tamasic-friendly"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 8,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "aromatic-pungent-silky-tahini-wrap",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-pungent-silky-tahini-wrap",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T17:41:32Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "tahini",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "tahini",
+    "descriptor": "Pungent Silky",
+    "dishForm": "Wrap"
+  }
+}
