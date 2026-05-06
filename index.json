@@ -234,6 +234,19 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-american-scallions-fried-rice",
+    "title": "Adventurous American Scallions Fried Rice",
+    "tags": [
+      "fried-rice",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "american",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-autumn-argentinian-apple-empanadas",
     "title": "Adventurous Autumn Argentinian Apple Empanadas",
     "tags": [
