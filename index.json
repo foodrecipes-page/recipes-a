@@ -3419,6 +3419,17 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-warm-water-octopus",
+    "title": "Aromatic Warm Water Octopus",
+    "tags": [
+      "spanish-valencian",
+      "dinner"
+    ],
+    "cuisine": "spanish (valencian)",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "artichoke-infused-briny-mediterranean-garlic-bake",
     "title": "Artichoke-Infused Briny Mediterranean Garlic Bake",
     "tags": [

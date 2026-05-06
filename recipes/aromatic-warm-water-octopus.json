@@ -1,0 +1,92 @@
+{
+  "title": "Aromatic Warm Water Octopus",
+  "description": "This citrusy and crispy octopus dish is a low-glycemic-friendly adaptation of the classic Galician pulpo a la gallega, featuring warm water to tenderize the octopus.",
+  "cuisine": "spanish (valencian)",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "octopus",
+      "amount": 1
+    },
+    {
+      "name": "olive oil",
+      "amount": 20
+    },
+    {
+      "name": "lemon juice",
+      "amount": 50
+    },
+    {
+      "name": "garlic cloves",
+      "amount": 3
+    },
+    {
+      "name": "basil leaves",
+      "amount": 10
+    },
+    {
+      "name": "cilantro (coriander) finely chopped",
+      "amount": 20
+    },
+    {
+      "name": "extra-virgin olive oil",
+      "amount": 50
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": 30
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 180°C (350°F).",
+    "Rinse octopus and cut into bite-sized pieces. Pat dry with paper towels.",
+    "Mix olive oil, lemon juice, garlic, basil leaves, cilantro, and white wine vinegar in a bowl.",
+    "Place octopus on a baking sheet, drizzle with the marinade mixture, and roast for 15 minutes.",
+    "Increase oven temperature to 200°C (390°F).",
+    "Drain excess marinade, add more olive oil if needed, and roast until crispy, about 5-7 minutes more.",
+    "Serve hot as a low-glycemic-friendly starter or side dish.",
+    "prepTimeMin: 10",
+    "cookTimeMin: 20",
+    "totalTimeMin: 30",
+    "servings: 4",
+    "difficulty: medium",
+    "tags: citrusy, crispy, warm-water-tenderized-octopus, low-glycemic-friendly, spanish-valencian-dish, adventurous",
+    "nutrition: {calories: 250, protein: 30, carbs: 10, fat: 10}"
+  ],
+  "difficulty": "medium",
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "tags": [
+    "spanish-valencian",
+    "dinner"
+  ],
+  "slug": "aromatic-warm-water-octopus",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-warm-water-octopus",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-06T12:53:07Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "crispy",
+    "mood": "adventurous",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "warm water",
+    "diet": "low-glycemic",
+    "region": "valencian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Octopus",
+    "descriptor": "Warm Water",
+    "dishForm": "Pulpo-a-la-Gallega"
+  }
+}
