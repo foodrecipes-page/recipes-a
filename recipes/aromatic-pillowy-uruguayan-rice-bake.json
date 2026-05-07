@@ -1,0 +1,112 @@
+{
+  "title": "Aromatic Pillowy Uruguayan Rice Bake",
+  "description": "A savory Uruguayan dish with pillowy texture featuring white sauerkraut and energizing ingredients. This gluten-free-friendly recipe is perfect for a weeknight dinner.",
+  "cuisine": "uruguayan",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "White Rice",
+      "amount": "1 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "White Sauerkraut",
+      "amount": "1/2 cup",
+      "notes": "canned or fresh, drained, rinse if canned"
+    },
+    {
+      "name": "Chicken Broth",
+      "amount": "1 3/4 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ground Beef",
+      "amount": "1/2 lb",
+      "notes": "lean, browned, crumbled"
+    },
+    {
+      "name": "Chorizo",
+      "amount": "1/4 lb",
+      "notes": "diced, Spanish-style, gluten-free"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "smoked, sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "preferably flaky sea salt"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine rice, sauerkraut, chicken broth, and olive oil.",
+    "In a large skillet, saut\b5 onion and garlic until softened.",
+    "Add ground beef and chorizo, cook until browned, breaking up chunks with spatula.",
+    "Transfer the skillet mixture to a 6-quart donabe or clay pot.",
+    "Add paprika, salt, and black pepper to the donabe, stir to combine.",
+    "Cover the donabe with a tight-fitting lid and transfer to a preheated oven at 375\u00161F (190\u00161C).",
+    "Bake for 25 minutes, then reduce heat to 325\u00161F (160\u00161C) and continue baking for an additional 15 minutes.",
+    "Remove the donabe from the oven and let rest for 10 minutes.",
+    "Fluff the rice with a fork before serving.",
+    "Garnish with diced onion, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meals",
+    "gluten-free",
+    "one-pan",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 29,
+    "carbs": 64,
+    "fat": 20
+  },
+  "slug": "aromatic-pillowy-uruguayan-rice-bake",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-pillowy-uruguayan-rice-bake",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:28:26Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "pillowy",
+    "mood": "energizing",
+    "technique": "dehydrate",
+    "primaryIngredient": "white sauerkraut",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "Rice",
+    "descriptor": "Aromatic Pillowy",
+    "dishForm": "Bake"
+  }
+}
