@@ -1,0 +1,115 @@
+{
+  "title": "Aromatic Midnight Chinese Rice Shui Zhu Yu",
+  "description": "A delicious, hearty, and aromatic Chinese dish featuring seasoned rice vinegar, savory sauté, and a raw-friendly form. This midnight-craving Shui Zhu Yu is perfect for a cold winter night.",
+  "cuisine": "Chinese",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 slices",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "Seasoned with sugar and salt"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Ginger paste",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large wok or frying pan over medium-high heat.",
+    "Add the ginger and garlic and sauté for 2 minutes, until fragrant.",
+    "Add the rice and stir-fry for 2-3 minutes, until the rice starts to brown.",
+    "Add the seasoned rice vinegar, soy sauce, hoisin sauce, scallions, ginger paste, sesame oil, salt, and black pepper. Stir-fry for 2-3 minutes, until the rice is coated with the sauce.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the Shui Zhu Yu to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "midnight-craving",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 8,
+    "carbs": 70,
+    "fat": 20
+  },
+  "slug": "aromatic-midnight-chinese-rice-shui-zhu-yu",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-midnight-chinese-rice-shui-zhu-yu",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:26:19Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "shattering",
+    "mood": "midnight-craving",
+    "technique": "saute",
+    "primaryIngredient": "seasoned rice vinegar",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "Rice",
+    "descriptor": "Aromatic Midnight",
+    "dishForm": "Shui Zhu Yu"
+  }
+}
