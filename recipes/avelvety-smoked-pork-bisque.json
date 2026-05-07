@@ -1,0 +1,87 @@
+{
+  "title": "Avelvety Smoked Pork Bisque",
+  "description": "This fermented, velvety Norwegian dish is a pescatarian-friendly solo-dinner option featuring smoked paprika and slow braising.",
+  "cuisine": "Norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "450g pork shoulder",
+      "amount": "1"
+    },
+    {
+      "name": "2 tbsp fermented vegetables",
+      "amount": ""
+    },
+    {
+      "name": "2 cloves garlic",
+      "amount": "3"
+    },
+    {
+      "name": "1 tsp smoked paprika",
+      "amount": "1"
+    },
+    {
+      "name": "1 bay leaf",
+      "amount": "1"
+    },
+    {
+      "name": "2 cups water",
+      "amount": "2"
+    },
+    {
+      "name": "Salt to taste",
+      "amount": ""
+    },
+    {
+      "name": "1 lemon, zest and juice",
+      "amount": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F.",
+    "Season pork shoulder with smoked paprika, salt, and a pinch of black pepper.",
+    "Place in a roasting pan, pour water over it, add bay leaf and garlic cloves inside the pork cavity for flavoring. Bake for 2 hours or until internal temperature reaches 145°F (63°C).",
+    "While cooking, prepare bisque by crushing fermented vegetables to a pulp with a fork.",
+    "After resting, shred cooked pork into large chunks.",
+    "In a blender, combine shredded pork, fermented vegetable pulp, lemon zest and juice. Blend until smooth.",
+    "Pour blended mixture back into the roasting pan, stir gently, then bring to a gentle simmer over medium heat.",
+    "Reduce for 20 minutes or until thickened, season with salt as needed."
+  ],
+  "prepTimeMin": 120,
+  "cookTimeMin": 180,
+  "totalTimeMin": 300,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fermented",
+    "nordic-dish",
+    "pork-bisque",
+    "smoked-paprika",
+    "velvety"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 38,
+    "carbs": 16,
+    "fat": 14
+  },
+  "slug": "avelvety-smoked-pork-bisque",
+  "source": "ollama-qwen2.5:3b",
+  "canonicalUrl": "https://foodrecipes.page/r/avelvety-smoked-pork-bisque",
+  "providerUsed": "ollama-qwen2.5:3b",
+  "createdAt": "2026-05-07T05:19:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "velvety",
+    "mood": "solo-dinner",
+    "technique": "braise",
+    "primaryIngredient": "smoked paprika",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Smoked",
+    "mainIngredient": "Pork",
+    "descriptor": "Velvety",
+    "dishForm": "Bisque"
+  }
+}

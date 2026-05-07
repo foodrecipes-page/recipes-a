@@ -3529,6 +3529,20 @@
     "shard": "a"
   },
   {
+    "slug": "avelvety-smoked-pork-bisque",
+    "title": "Avelvety Smoked Pork Bisque",
+    "tags": [
+      "fermented",
+      "nordic-dish",
+      "pork-bisque",
+      "smoked-paprika",
+      "velvety"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 300,
+    "shard": "a"
+  },
+  {
     "slug": "avocado-berber",
     "title": "Avocado Berber",
     "tags": [
