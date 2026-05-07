@@ -2589,6 +2589,22 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-grilled-british-lamb-satay",
+    "title": "Aromatic Grilled British Lamb Satay",
+    "tags": [
+      "british",
+      "dinner",
+      "entree",
+      "grilled",
+      "lamb",
+      "satay",
+      "special-occasion"
+    ],
+    "cuisine": "british",
+    "totalTimeMin": 32,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-indian-lentil-curry",
     "title": "Aromatic Indian Lentil Curry",
     "tags": [

@@ -1,0 +1,103 @@
+{
+  "title": "Aromatic Grilled British Lamb Satay",
+  "description": "A delicious and flavorful dish featuring grilled lamb, inspired by traditional British cuisine. Perfect for a dinner party or special occasion.",
+  "cuisine": "british",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Mirepoix (onion, carrot, celery)",
+      "amount": "1 large",
+      "notes": "Chop into small pieces"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ground cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ground cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For brushing grill"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine mirepoix, garlic, cinnamon, cumin, and coriander. Blend until smooth.",
+    "In a large bowl, whisk together yogurt and mirepoix mixture. Add lamb and mix until coated.",
+    "Cover and refrigerate for at least 2 hours or overnight.",
+    "Preheat robata grill to medium-high heat.",
+    "Thread lamb onto skewers, leaving a small space between each piece.",
+    "Brush grill with olive oil to prevent sticking.",
+    "Grill lamb for 4-6 minutes per side, or until cooked to desired level of doneness.",
+    "Transfer lamb to a plate and let rest for 5 minutes.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "dinner",
+    "entree",
+    "grilled",
+    "lamb",
+    "satay",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 16
+  },
+  "slug": "aromatic-grilled-british-lamb-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-grilled-british-lamb-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:18:34Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "show-off",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "cinnamon",
+    "diet": "raw",
+    "region": "english",
+    "cuisineAdjective": "British",
+    "mainIngredient": "Lamb",
+    "descriptor": "Aromatic Grilled",
+    "dishForm": "Satay"
+  }
+}
