@@ -1,0 +1,111 @@
+{
+  "title": "Airy Crunchy Middle-Eastern Almonds Falafel",
+  "description": "Pungent, springy, and adventurous, this Middle-Eastern dish is a delightful twist on traditional falafel, featuring ground almonds and a creamy coconut surprise.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan",
+    "jain",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Almonds",
+      "amount": "2 1/2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chickpea Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Cream",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Bicarbonate of Soda",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Combine Ground Almonds, Chickpea Flour, and Bicarbonate of Soda in a large bowl.",
+    "In a separate bowl, mix Coconut Cream, Garlic, Lemon Juice, Salt, and Black Pepper until smooth.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Fold in Fresh Cilantro.",
+    "Heat Olive Oil in a deep frying pan over medium heat.",
+    "Using a spoon, drop small portions of the mixture into the oil and fry until golden brown, about 3-4 minutes on each side.",
+    "Drain the falafel on paper towels and serve hot on a Lazy Susan Spinner.",
+    "Serve with your favorite Middle-Eastern dips or sauces, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "almonds",
+    "gluten-free",
+    "jain",
+    "middle-eastern",
+    "one-pan",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 60
+  },
+  "slug": "airy-crunchy-middle-eastern-almonds-falafel",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-crunchy-middle-eastern-almonds-falafel",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-07T23:12:59Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "ground almonds",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Middle-Eastern",
+    "mainIngredient": "Almonds",
+    "descriptor": "Airy Crunchy",
+    "dishForm": "Falafel"
+  }
+}
