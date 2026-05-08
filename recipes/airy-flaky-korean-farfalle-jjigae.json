@@ -1,0 +1,117 @@
+{
+  "title": "Airy Flaky Korean Farfalle Jjigae",
+  "description": "A malty and flaky Korean Busan-style dish featuring farfalle, steamed with mushrooms and a crispy sesame crust, served in a ceramic tagine pot.",
+  "cuisine": "Korean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "250g",
+      "notes": "Dried Italian farfalle"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "1 tsp",
+      "notes": "Optional for extra heat"
+    },
+    {
+      "name": "Gochujang paste",
+      "amount": "2 tbsp",
+      "notes": "Spicy Korean chili paste"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "Balances heat from chili flakes"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": "For crispy sesame crust"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced, for garnish"
+    },
+    {
+      "name": "shredded mushrooms",
+      "amount": "100g",
+      "notes": "Shiitake or cremini work well"
+    },
+    {
+      "name": "flour",
+      "amount": "2 tbsp",
+      "notes": "For crispy sesame crust"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tbsp",
+      "notes": "For crispy sesame crust"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Optional, for added flavor"
+    },
+    {
+      "name": "water",
+      "amount": "100ml",
+      "notes": "For steaming"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine farfalle pasta, Korean chili flakes, and a pinch of salt. Set aside.",
+    "In a small saucepan, heat 2 tablespoons of sesame oil over medium heat.",
+    "Add Gochujang paste and sugar, whisking constantly to prevent lumps.",
+    "Simmer the paste mixture for 5 minutes, or until it thickens and darkens slightly.",
+    "In a separate pan, heat 1 tablespoon of sesame oil over medium heat.",
+    "Add shredded mushrooms and cook until they release their moisture and start to brown.",
+    "In a separate bowl, whisk together flour, sesame seeds, and a pinch of salt.",
+    "Add steamed water to the flour mixture and stir until a smooth, thick batter forms.",
+    "Pour the batter into the ceramic tagine pot and spread it evenly.",
+    "Add the mushroom mixture on top of the batter and spoon the farfalle pasta over the top.",
+    "Drizzle the Gochujang paste mixture over the farfalle and top with green onions.",
+    "Transfer the tagine pot to the oven and bake at 375°F (190°C) for 20 minutes, or until the crust is crispy and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "busan",
+    "crust",
+    "farfalle",
+    "jjigae",
+    "korean",
+    "one-pan",
+    "sesame",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "airy-flaky-korean-farfalle-jjigae",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-flaky-korean-farfalle-jjigae",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:08:08Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "flaky",
+    "mood": "festive",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "farfalle",
+    "diet": "nut-free",
+    "region": "busan",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "Farfalle",
+    "descriptor": "Airy Flaky",
+    "dishForm": "Jjigae"
+  }
+}
