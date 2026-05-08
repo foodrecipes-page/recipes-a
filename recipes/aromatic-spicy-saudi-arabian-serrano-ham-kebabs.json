@@ -1,0 +1,98 @@
+{
+  "title": "Aromatic Spicy Saudi Arabian Serrano Ham Kebabs",
+  "description": "A pungent and snappy Saudi Arabian dish featuring serrano ham and bhuna, perfect for a lazy Sunday, this recipe is low-fat-friendly and full of flavor. It combines the spices of Saudi Arabia with the savory taste of serrano ham.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "low-fat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "serrano ham",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "bhuna spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "2 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, making sure it reaches 400 degrees Fahrenheit.",
+    "Thread the serrano ham, onion, bell pepper, and garlic onto skewers, leaving a little space between each piece.",
+    "In a small bowl, mix together the bhuna spice mix, olive oil, salt, and black pepper to create a marinade.",
+    "Brush the marinade onto the kebabs, making sure they are fully coated.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the vegetables are tender and the serrano ham is crispy.",
+    "Remove the kebabs from the grill and squeeze the lemon juice over them.",
+    "Serve the kebabs hot, garnished with fresh parsley or cilantro if desired.",
+    "Let the kebabs rest for a few minutes before serving to allow the juices to redistribute."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-meats",
+    "kebabs",
+    "low-fat",
+    "saudi-arabian-cuisine",
+    "spicy-food",
+    "sunday-lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "aromatic-spicy-saudi-arabian-serrano-ham-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-spicy-saudi-arabian-serrano-ham-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:28:18Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "snappy",
+    "mood": "lazy-sunday",
+    "technique": "bhuna",
+    "primaryIngredient": "serrano ham",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "serrano ham",
+    "descriptor": "Aromatic Spicy",
+    "dishForm": "Kebabs"
+  }
+}
