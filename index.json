@@ -1930,6 +1930,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazing-al-dente-chinese-pork-mu-shu",
+    "title": "Amazing Al Dente Chinese Pork Mu Shu",
+    "tags": [
+      "al-dente",
+      "chinese-food",
+      "high-protein",
+      "mu-shu",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "amazing-amber-french-flaxseed-galette",
     "title": "Amazing Amber French Flaxseed Galette",
     "tags": [

@@ -1,0 +1,92 @@
+{
+  "title": "Amazing Al Dente Chinese Pork Mu Shu",
+  "description": "A malty, bouncy-qq, cozy Chinese dish featuring gherkin relish and al-dente finish, high in protein and perfect for a weeknight dinner.",
+  "cuisine": "Chinese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork loin",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mu shu pancakes",
+      "amount": "4-6 pancakes"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the pork loin strips and cook until browned, about 3-4 minutes.",
+    "Add the chopped scallions and cook for an additional 1 minute.",
+    "In a small bowl, whisk together the soy sauce and oyster sauce.",
+    "Pour the sauce mixture over the pork and scallions, and stir to combine.",
+    "Add the gherkin relish and stir-fry for an additional 2 minutes.",
+    "Warm the mu shu pancakes by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the mu shu by spooning the pork and relish mixture onto a pancake and serving immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "al-dente",
+    "chinese-food",
+    "high-protein",
+    "mu-shu",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "amazing-al-dente-chinese-pork-mu-shu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-al-dente-chinese-pork-mu-shu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:38:34Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "al-dente-finish",
+    "primaryIngredient": "gherkin relish",
+    "diet": "high-protein",
+    "region": "zhejiang",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Amazing Al Dente",
+    "dishForm": "Mu Shu"
+  }
+}
