@@ -1,0 +1,101 @@
+{
+  "title": "Authentic Amber Irish Cheese Casserole",
+  "description": "A nutty and crumbly Irish dish featuring shredded Monterey Jack cheese, perfect for a sick day, and Buddhist-temple-friendly as it is vegetarian and uses fermented ingredients.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monterey Jack cheese",
+      "amount": "2 cups shredded",
+      "notes": "preferably fermented for at least 6 months"
+    },
+    {
+      "name": "sourdough bread",
+      "amount": "1 loaf cubed",
+      "notes": "day-old bread is best"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large chopped"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "2 cups sliced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large skillet, sauté the chopped onion, sliced mushrooms, and chopped celery in melted butter until the vegetables are tender.",
+    "Add the minced garlic and cook for an additional minute.",
+    "In a large bowl, combine the cooked vegetable mixture, cubed sourdough bread, and shredded Monterey Jack cheese.",
+    "Season the mixture with dried thyme, salt, and black pepper.",
+    "Transfer the mixture to a 9x13 inch baking dish and bake for 25 minutes.",
+    "Remove the casserole from the oven and let it cool for a few minutes before serving.",
+    "Serve hot and enjoy.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "irish-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "authentic-amber-irish-cheese-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/authentic-amber-irish-cheese-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:02:47Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crumbly",
+    "mood": "sick-day",
+    "technique": "ferment",
+    "primaryIngredient": "shredded monterey jack cheese",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "cheese",
+    "descriptor": "Authentic Amber",
+    "dishForm": "Casserole"
+  }
+}
