@@ -1,0 +1,102 @@
+{
+  "title": "Aromatic Jamaican Sausage Gratin",
+  "description": "A garlicky, solo-dinner Jamaican dish featuring German sausages, this gratin is perfect for a quiet night in, with a glassy-jelly topping and deep-fry-tod crunch, all in an individual mini cocotte, following ayurvedic sattvic friendly principles.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "sattvic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "German sausage",
+      "amount": "2",
+      "notes": "preferably Weisswurst or similar"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small"
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Slice the German sausage into 1-inch pieces and set aside.",
+    "In a small pan, heat the coconut oil over medium heat and saute the onion until translucent.",
+    "Add the garlic, allspice, thyme, and scotch bonnet pepper to the pan and cook for 1 minute.",
+    "Add the tomato paste to the pan and cook for an additional minute, stirring constantly.",
+    "In a small bowl, mix the vegetable broth and bread crumbs together.",
+    "In an individual mini cocotte, create a layer of sausage, followed by a layer of the onion and garlic mixture, and finally a layer of the bread crumb mixture.",
+    "Repeat the layers two more times, ending with a layer of bread crumb mixture on top.",
+    "Place the cocotte in the oven and bake for 25 minutes, or until the top is golden brown and the sausage is cooked through.",
+    "Remove the cocotte from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "cozy-dinner",
+    "german-sausage",
+    "jamaican-inspired",
+    "one-pan",
+    "sattvic-friendly",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 30
+  },
+  "slug": "aromatic-jamaican-sausage-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-jamaican-sausage-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T09:10:23Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "glassy-jelly",
+    "mood": "solo-dinner",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "german sausages",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "sausages",
+    "descriptor": "Aromatic Ayurvedic",
+    "dishForm": "Gratin"
+  }
+}
