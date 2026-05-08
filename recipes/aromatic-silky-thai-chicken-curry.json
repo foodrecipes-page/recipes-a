@@ -1,0 +1,105 @@
+{
+  "title": "Aromatic Silky Thai Chicken Curry",
+  "description": "This briny and silky Thai dish features a rich and aromatic sauce, whisked to perfection, making it a paleo-friendly delight, evoking nostalgic memories of traditional Thai cuisine.",
+  "cuisine": "Thai",
+  "diet": [
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium heat.",
+    "Add the diced onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, stirring constantly, until the paste is fragrant.",
+    "Add the chicken breast and cook until it is browned on all sides and cooked through.",
+    "Add the coconut milk, fish sauce, lime juice, salt, and pepper, and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the sauce has thickened and the chicken is fully cooked.",
+    "Use a whisk to stir the sauce and create a silky texture.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the curry hot, garnished with fresh herbs or chilies if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "paleo-friendly",
+    "spicy",
+    "thai-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 28
+  },
+  "slug": "aromatic-silky-thai-chicken-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-silky-thai-chicken-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:31:24Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "silky",
+    "mood": "nostalgic",
+    "technique": "whisk",
+    "primaryIngredient": "sauce",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "aromatic silky",
+    "dishForm": "Curry"
+  }
+}
