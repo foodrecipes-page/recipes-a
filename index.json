@@ -2534,6 +2534,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-australian-fennel-wrap",
+    "title": "Aromatic Australian Fennel Wrap",
+    "tags": [
+      "australian-cuisine",
+      "easy-lunch",
+      "grilled-wrap",
+      "healthy-snack",
+      "kid-friendly",
+      "ovo-vegetarian"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-australian-salmon-crumble",
     "title": "Aromatic Australian Salmon Crumble",
     "tags": [

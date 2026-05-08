@@ -1,0 +1,107 @@
+{
+  "title": "Aromatic Australian Fennel Wrap",
+  "description": "A kid-friendly Australian dish featuring fennel seeds, leaf-wrap-steam, and ovo-vegetarian-friendly ingredients, with a grassy and creamy flavor profile.",
+  "cuisine": "Australian",
+  "diet": [
+    "ovo-vegetarian",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "whole wheat tortilla",
+      "amount": "4 large",
+      "notes": "or other whole grain wrap"
+    },
+    {
+      "name": "fennel seeds",
+      "amount": "2 tablespoons",
+      "notes": "toasted"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cherry tomatoes",
+      "amount": "1 cup",
+      "notes": "halved"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a large non-stick skillet or griddle over medium heat.",
+    "In a small bowl, mix together toasted fennel seeds, salt, and pepper.",
+    "Spread a tablespoon of ricotta cheese on each tortilla, leaving a small border around the edges.",
+    "Top the cheese with a few slices of cucumber, some grated carrot, and a sprinkle of fennel seed mixture.",
+    "Add a few halved cherry tomatoes on top of the other ingredients.",
+    "Drizzle a tablespoon of olive oil over the filling ingredients.",
+    "Sprinkle some chopped parsley over the top of each wrap.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll the wrap up tightly.",
+    "Place the wraps seam-side down on the preheated skillet or griddle and cook for 2-3 minutes on each side, until the tortilla is lightly browned and the filling is heated through.",
+    "Serve the wraps hot, sliced in half if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "easy-lunch",
+    "grilled-wrap",
+    "healthy-snack",
+    "kid-friendly",
+    "ovo-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "aromatic-australian-fennel-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-australian-fennel-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:04:59Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "kid-friendly",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "fennel seeds",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fennel",
+    "descriptor": "aromatic creamy",
+    "dishForm": "Wrap"
+  }
+}
