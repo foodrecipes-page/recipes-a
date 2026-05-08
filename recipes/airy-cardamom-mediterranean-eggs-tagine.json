@@ -1,0 +1,108 @@
+{
+  "title": "airy cardamom mediterranean eggs tagine",
+  "description": "salty, crumbly post-workout dish featuring cardamom, papillote, jain-friendly.",
+  "cuisine": "mediterranean",
+  "diet": [
+    "jain",
+    "vegetarian",
+    "vegan-friendly"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salted butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "green cardamom",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "canned chickpeas",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "crushed red pepper flakes",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "heat the olive oil in the tagine pot over medium heat.",
+    "add the onion and garlic and cook until softened, about 3 minutes.",
+    "add the canned chickpeas, salted butter, green cardamom, and crushed red pepper flakes.",
+    "stir to combine and cook for an additional 2 minutes.",
+    "crack in the eggs and stir to distribute evenly.",
+    "pour in the almond milk and stir gently to combine.",
+    "cover the tagine pot with a lid and cook over low heat for 8-10 minutes or until the eggs are set.",
+    "stir in the chopped fresh parsley and lemon juice.",
+    "serve hot and garnish with additional parsley if desired.",
+    "meanwhile, preheat the oven to 400°f (200°c).",
+    "place the tagine pot in the oven and bake for an additional 5-7 minutes or until the top is lightly browned.",
+    "carefully remove the tagine pot from the oven and let it cool slightly."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "easy-to-make",
+    "mediterranean",
+    "one-pan",
+    "post-workout",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "airy-cardamom-mediterranean-eggs-tagine",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-cardamom-mediterranean-eggs-tagine",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:13:30Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "post-workout",
+    "technique": "papillote",
+    "primaryIngredient": "cardamom",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "eggs",
+    "descriptor": "Airy Cardamom",
+    "dishForm": "Tagine"
+  }
+}
