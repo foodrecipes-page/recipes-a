@@ -2093,6 +2093,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazing-yeasty-canadian-rye-bread-stew",
+    "title": "Amazing Yeasty Canadian Rye Bread Stew",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "hearty-stew",
+      "one-pot",
+      "sugar-free",
+      "yeasty-bread"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-acidic-spanish-orange-ensaimada",
     "title": "Amazingly Acidic Spanish Orange Ensaimada",
     "tags": [

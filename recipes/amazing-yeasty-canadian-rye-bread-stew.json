@@ -1,0 +1,102 @@
+{
+  "title": "Amazing Yeasty Canadian Rye Bread Stew",
+  "description": "A hearty, one-pot Canadian dish featuring yeasty rye bread, this stew is perfect for a cold winter's night, and is sugar-free-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "sugar-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rye bread",
+      "amount": "2 cups cubed",
+      "notes": "day-old bread"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "lean"
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium diced"
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium peeled and sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large peeled and cubed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot or Dutch oven, brown the ground beef over medium-high heat, breaking it up into small pieces as it cooks.",
+    "Add the diced onions to the pot and cook until they are translucent and starting to caramelize.",
+    "Add the sliced carrots and cubed potatoes to the pot, stirring to combine with the beef and onions.",
+    "In a small bowl, whisk together the beef broth, dried thyme, salt, and black pepper, then pour the mixture over the beef and vegetables in the pot.",
+    "Add the cubed rye bread to the pot, stirring to combine with the other ingredients.",
+    "Sprinkle the active dry yeast over the top of the stew and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Remove the pot from the heat and let the stew cool slightly before serving.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "hearty-stew",
+    "one-pot",
+    "sugar-free",
+    "yeasty-bread"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "amazing-yeasty-canadian-rye-bread-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-yeasty-canadian-rye-bread-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:29:13Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "juicy",
+    "mood": "one-pot",
+    "technique": "knead",
+    "primaryIngredient": "rye bread",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "rye bread",
+    "descriptor": "amazing yeasty",
+    "dishForm": "Stew"
+  }
+}
