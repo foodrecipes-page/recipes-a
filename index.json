@@ -1826,6 +1826,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazing-aromatic-polish-penne-pasta",
+    "title": "Amazing Aromatic Polish Penne Pasta",
+    "tags": [
+      "comfort-food",
+      "mushroom",
+      "one-pan",
+      "pasta",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "amazing-crispy-argentinian-potato-empanadas",
     "title": "Amazing Crispy Argentinian Potato Empanadas",
     "tags": [

@@ -1,0 +1,102 @@
+{
+  "title": "Amazing Aromatic Polish Penne Pasta",
+  "description": "This resinous and fluffy Polish dish is a midnight craving featuring penne pasta and nigiri-shaping, perfect for vegetarians. It combines the richness of mushrooms and the comfort of penne pasta.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "penne pasta",
+      "amount": "12 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "button mushrooms",
+      "amount": "2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the penne pasta according to the package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and saute the chopped onion until translucent.",
+    "Add the sliced mushrooms to the skillet and cook until they release their liquid and start to brown.",
+    "Add the minced garlic to the skillet and cook for 1 minute, stirring constantly to prevent burning.",
+    "In a large bowl, combine the cooked penne pasta, sauteed mushroom mixture, and grated cheddar cheese.",
+    "In a small bowl, whisk together the vegetable broth, dried thyme, salt, and black pepper, then pour the mixture over the pasta and toss to combine.",
+    "Using your hands, shape the pasta mixture into small nigiri-shaped pieces.",
+    "Serve the Amazing Aromatic Polish Penne Pasta hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "mushroom",
+    "one-pan",
+    "pasta",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "amazing-aromatic-polish-penne-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-aromatic-polish-penne-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:51:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "fluffy",
+    "mood": "midnight-craving",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "penne pasta",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "penne pasta",
+    "descriptor": "Amazing aromatic",
+    "dishForm": "Pasta"
+  }
+}
