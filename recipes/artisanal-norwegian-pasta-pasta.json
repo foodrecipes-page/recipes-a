@@ -1,0 +1,108 @@
+{
+  "title": "Pan-Seared Artisanal Norwegian Pasta with Smoked Paprika Emulsion",
+  "description": "",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Artisanal Norwegian Spelt Pasta",
+      "amount": "12 oz",
+      "notes": "freshly made or store-bought"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": "sweet and smoky"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1 egg",
+      "notes": "beaten"
+    },
+    {
+      "name": "Grated Parmesan",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat and sauté the garlic until fragrant, about 1-2 minutes.",
+    "Add the smoked paprika to the skillet and cook for an additional 1-2 minutes, stirring constantly.",
+    "Remove the skillet from the heat and stir in the lemon juice, egg, and grated Parmesan until well combined.",
+    "Drain the cooked pasta and add it to the skillet, tossing to coat with the smoked paprika emulsion.",
+    "Season the pasta with salt and black pepper to taste.",
+    "Serve the pasta immediately, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "healthy",
+    "norwegian-cuisine",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "artisanal-norwegian-pasta-pasta",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/artisanal-norwegian-pasta-pasta",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:38:00Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "pasta-water-emulsion",
+    "primaryIngredient": "sweet smoked paprika",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "pasta",
+    "descriptor": "Artisanal",
+    "dishForm": "Pasta"
+  }
+}
