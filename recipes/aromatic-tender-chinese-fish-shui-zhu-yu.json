@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Tender Chinese Fish Shui Zhu Yu",
+  "description": "This peppery and tender Chinese dish is made with cooking wine and a mother sauce base, wrapped in pandan leaves for a nostalgic flavor, and is ayurvedic rajasic friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fish fillets",
+      "amount": "4 pieces",
+      "notes": "any white fish"
+    },
+    {
+      "name": "cooking wine",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "pandan leaves",
+      "amount": "4 leaves"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peppercorns",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Prepare the pandan leaves by cleaning and cutting them into suitable sizes for wrapping the fish.",
+    "Mix the cooking wine, mother sauce, sliced ginger, minced garlic, and peppercorns in a bowl.",
+    "Place a fish fillet in the center of each pandan leaf and brush the mixed sauce on both sides of the fish.",
+    "Wrap the fish with the pandan leaves and secure with a toothpick if needed.",
+    "Heat the sesame oil in a large skillet over medium heat and add the wrapped fish.",
+    "Cook the fish for 5 minutes on each side or until it is cooked through.",
+    "Remove the fish from the skillet and garnish with chopped scallions.",
+    "Serve the fish hot with steamed vegetables or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "fish-recipes",
+    "gluten-free",
+    "low-carb",
+    "one-pan",
+    "pandan-leaves"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "aromatic-tender-chinese-fish-shui-zhu-yu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-tender-chinese-fish-shui-zhu-yu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:16:18Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "nostalgic",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "cooking wine",
+    "diet": "ayurvedic-rajasic",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "fish",
+    "descriptor": "aromatic tender",
+    "dishForm": "Shui Zhu Yu"
+  }
+}
