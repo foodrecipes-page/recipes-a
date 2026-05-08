@@ -1,0 +1,101 @@
+{
+  "title": "Aromatic Light Slovakian Sun Dried Tomato Tagine",
+  "description": "A nutty and light Slovakian dish featuring sun-dried tomatoes, served in a ceramic tagine, perfect for a solo dinner, this recipe is also buddhist-temple-friendly as it does not include any animal products.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sun dried tomatoes",
+      "amount": "1 cup",
+      "notes": "packed in oil, drained and chopped"
+    },
+    {
+      "name": "lamination puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "chopped"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Roll out the lamination puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and onion until softened.",
+    "Add the chopped sun dried tomatoes, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Place the skillet mixture onto one half of the puff pastry, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the puff pastry over the filling to form a triangle or square shape, pressing the edges to seal.",
+    "Place the tagine in a ceramic dish and add the water to the dish.",
+    "Cover the dish with a lid or foil and bake for 25 minutes.",
+    "Remove the lid or foil and continue baking for an additional 10 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "one-pot",
+    "slovakian",
+    "solodinner",
+    "tagine",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 20
+  },
+  "slug": "aromatic-light-slovakian-sun-dried-tomato-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-light-slovakian-sun-dried-tomato-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:03:32Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "light",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "sun-dried tomatoes",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "sun-dried tomatoes",
+    "descriptor": "Aromatic Light",
+    "dishForm": "Tagine"
+  }
+}
