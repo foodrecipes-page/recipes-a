@@ -262,6 +262,21 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-aromatic-saudi-arabian-pork-belly-kebabs",
+    "title": "Adventurous Aromatic Saudi Arabian Pork Belly Kebabs",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "one-pan",
+      "pork-belly",
+      "saudi-arabian",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-autumn-argentinian-apple-empanadas",
     "title": "Adventurous Autumn Argentinian Apple Empanadas",
     "tags": [
@@ -3898,6 +3913,21 @@
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 135,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-peppery-french-sesame-bouillabaisse",
+    "title": "Aromatic Peppery French Sesame Bouillabaisse",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "one-pot",
+      "sesame-butter",
+      "shojin-friendly",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {

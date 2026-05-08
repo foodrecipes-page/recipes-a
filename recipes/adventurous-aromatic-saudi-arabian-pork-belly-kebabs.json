@@ -1,0 +1,92 @@
+{
+  "title": "Adventurous Aromatic Saudi Arabian Pork Belly Kebabs",
+  "description": "A charred and springy Saudi Arabian dish featuring pork belly slices, this recipe is a unique and flavorful twist on traditional kebabs, with a deglaze-fond and no onion or garlic, making it friendly to those with sensitivities.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Saudi Arabian spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pomegranate molasses",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat, making sure the grates are clean and brush them with oil to prevent sticking.",
+    "In a large bowl, whisk together olive oil, lemon juice, Saudi Arabian spice mix, salt, and black pepper.",
+    "Add the sliced pork belly to the bowl and toss to coat with the marinade, making sure each piece is well coated.",
+    "Thread the marinated pork belly pieces onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 5-7 minutes per side, or until they are charred and cooked through to an internal temperature of 145 degrees.",
+    "While the kebabs are cooking, mix the pomegranate molasses and 1 tablespoon of water in a small bowl.",
+    "After flipping the kebabs, brush the pomegranate molasses mixture onto the cooked side of the kebabs.",
+    "Once the kebabs are done, remove them from the grill and brush with the deglaze-fond made by reducing the marinade over high heat until almost syrupy.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "pork-belly",
+    "saudi-arabian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "adventurous-aromatic-saudi-arabian-pork-belly-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-aromatic-saudi-arabian-pork-belly-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:57:28Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "springy",
+    "mood": "adventurous",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "pork belly slices",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "pork belly",
+    "descriptor": "adventurous aromatic",
+    "dishForm": "Kebabs"
+  }
+}

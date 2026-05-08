@@ -1,0 +1,102 @@
+{
+  "title": "Aromatic Peppery French Sesame Bouillabaisse",
+  "description": "A peppery and chewy French dish featuring sesame butter, this bouillabaisse is a shojin-friendly and energizing meal option, originating from the Lyon region of France.",
+  "cuisine": "French",
+  "diet": [
+    "shojin",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sesame butter",
+      "amount": "1/2 cup",
+      "notes": " creamy and nutty"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": " chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": " minced"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1 bulb",
+      "notes": " sliced"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "1 teaspoon",
+      "notes": " whole black peppercorns"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": " chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the sliced fennel and cook for 5 minutes, until it starts to soften.",
+    "Add the whole black peppercorns and cook for 1 minute, until fragrant.",
+    "Add the vegetable broth, sesame butter, and saffron threads, and bring to a boil.",
+    "Reduce the heat to low and simmer for 20 minutes, until the flavors have melded together.",
+    "Stir in the chopped parsley and season with salt to taste.",
+    "Serve the bouillabaisse hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "one-pot",
+    "sesame-butter",
+    "shojin-friendly",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "aromatic-peppery-french-sesame-bouillabaisse",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-peppery-french-sesame-bouillabaisse",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:57:44Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "chewy",
+    "mood": "energizing",
+    "technique": "steam",
+    "primaryIngredient": "sesame butter",
+    "diet": "shojin",
+    "region": "lyon",
+    "cuisineAdjective": "French",
+    "mainIngredient": "sesame",
+    "descriptor": "Aromatic Peppery",
+    "dishForm": "Bouillabaisse"
+  }
+}
