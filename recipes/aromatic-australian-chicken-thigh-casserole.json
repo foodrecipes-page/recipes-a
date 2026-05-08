@@ -1,0 +1,104 @@
+{
+  "title": "Aromatic Australian Chicken Thigh Casserole",
+  "description": "A hearty Australian dish featuring chicken thighs, dum, and aromatic spices, cooked to perfection in a donabe vessel, suitable for shojin-friendly diets. This casserole is salty, crumbly, and perfect for meal prep.",
+  "cuisine": "Australian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "dum",
+      "amount": "1 cup",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "rosemary",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Heat the oil in the donabe vessel over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken thighs, dum, thyme, rosemary, salt, and pepper, stirring to combine.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Cover the donabe vessel with a lid and transfer to the preheated oven.",
+    "Bake for 30 minutes, then remove the lid and continue baking for an additional 20 minutes.",
+    "Remove from the oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "comfort-food",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "aromatic-australian-chicken-thigh-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-australian-chicken-thigh-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:45:33Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crumbly",
+    "mood": "meal-prep",
+    "technique": "dum",
+    "primaryIngredient": "chicken thighs",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken thighs",
+    "descriptor": "Aromatic Australian",
+    "dishForm": "Casserole"
+  }
+}

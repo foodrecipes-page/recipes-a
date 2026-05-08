@@ -2593,6 +2593,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-australian-chicken-thigh-casserole",
+    "title": "Aromatic Australian Chicken Thigh Casserole",
+    "tags": [
+      "australian-cuisine",
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 70,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-australian-fennel-wrap",
     "title": "Aromatic Australian Fennel Wrap",
     "tags": [
