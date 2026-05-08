@@ -1,0 +1,101 @@
+{
+  "title": "Aromatic Roasted Thai Tofu Gaeng Curry",
+  "description": "A low-carb and romantic Thai dish featuring roasted tofu and soya milk, served on a cedar plank. This gaeng curry is a perfect dinner option for those looking for a flavorful and healthy meal.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-carb",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into cubes"
+    },
+    {
+      "name": "soya milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a bowl, whisk together soya milk, shio-koji, thai red curry paste, fish sauce, lime juice, brown sugar, salt, and black pepper.",
+    "Add the tofu cubes to the bowl and marinate for at least 30 minutes.",
+    "Remove the tofu from the marinade and place it on a cedar plank lined with parchment paper.",
+    "Drizzle the coconut oil over the tofu and roast in the oven for 20 minutes.",
+    "While the tofu is roasting, simmer the marinade in a saucepan over medium heat until it thickens into a gaeng curry sauce.",
+    "Once the tofu is done, remove it from the oven and brush it with the gaeng curry sauce.",
+    "Return the tofu to the oven and roast for an additional 5 minutes.",
+    "Remove the tofu from the oven and serve it on the cedar plank, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gaeng-curry",
+    "healthy-meal",
+    "low-carb",
+    "romantic-dinner",
+    "thai-cuisine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "aromatic-roasted-thai-tofu-gaeng-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-roasted-thai-tofu-gaeng-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:20:37Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "bouncy-qq",
+    "mood": "romantic",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "soya milk",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "tofu",
+    "descriptor": "Aromatic Roasted",
+    "dishForm": "Gaeng Curry"
+  }
+}
