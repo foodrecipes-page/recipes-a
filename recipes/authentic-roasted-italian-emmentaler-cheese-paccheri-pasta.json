@@ -1,0 +1,97 @@
+{
+  "title": "Authentic Roasted Italian Emmentaler Cheese Paccheri Pasta",
+  "description": "A comforting and creamy roasted Italian pasta dish featuring Emmentaler cheese and paccheri pasta, perfect for a sick day or a cozy evening at home. This egg-free friendly recipe is a classic Roman dish with a twist.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "12 oz",
+      "notes": "dry"
+    },
+    {
+      "name": "Emmentaler cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Cook the paccheri pasta according to package instructions until al dente, then set aside.",
+    "In a large skillet, heat the olive oil over medium heat and saute the garlic and onion until softened.",
+    "In a large bowl, combine the cooked pasta, Emmentaler cheese, and sauteed garlic and onion mixture.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the pasta mixture to a baking dish and top with additional Emmentaler cheese.",
+    "Roast in the preheated oven for 20 minutes, or until the top is golden brown and the cheese is melted and bubbly.",
+    "Remove from the oven and sprinkle with chopped parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "italian-cuisine",
+    "one-pan",
+    "roasted",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "slug": "authentic-roasted-italian-emmentaler-cheese-paccheri-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/authentic-roasted-italian-emmentaler-cheese-paccheri-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:46:10Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "pillowy",
+    "mood": "sick-day",
+    "technique": "spherify",
+    "primaryIngredient": "emmentaler cheese",
+    "diet": "egg-free",
+    "region": "roman",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "emmentaler cheese",
+    "descriptor": "authentic roasted",
+    "dishForm": "Paccheri Pasta"
+  }
+}
