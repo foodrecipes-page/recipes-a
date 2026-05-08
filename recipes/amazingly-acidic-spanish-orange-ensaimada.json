@@ -1,0 +1,94 @@
+{
+  "title": "Amazingly Acidic Spanish Orange Ensaimada",
+  "description": "A sour and juicy Andalusian dish featuring molasses, perfect for a festive occasion, this macrobiotic-friendly ensaimada is a unique twist on traditional Spanish cuisine.",
+  "cuisine": "Spanish",
+  "diet": [
+    "macrobiotic",
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "orange juice",
+      "amount": "2 cups",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "molasses",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "orange zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the orange juice, molasses, olive oil, and sea salt.",
+    "Add the orange zest and lemon juice to the bowl and stir to combine.",
+    "In a separate bowl, whisk together the flour and yeast.",
+    "Slowly add the dry ingredients to the wet ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Punch down the dough and shape it into an ensaimada.",
+    "Place the ensaimada on a baking sheet and bake for 25 minutes.",
+    "Remove the ensaimada from the oven and let it cool on a wire rack."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "festive",
+    "macrobiotic",
+    "molasses-based",
+    "orange-recipe",
+    "spanish-dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "amazingly-acidic-spanish-orange-ensaimada",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-acidic-spanish-orange-ensaimada",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T10:39:24Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "juicy",
+    "mood": "festive",
+    "technique": "poach",
+    "primaryIngredient": "molasses",
+    "diet": "macrobiotic",
+    "region": "andalusian",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "oranges",
+    "descriptor": "Amazingly Acidic",
+    "dishForm": "Ensaimada"
+  }
+}
