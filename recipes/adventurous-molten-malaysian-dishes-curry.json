@@ -1,0 +1,112 @@
+{
+  "title": "adventurous molten malaysian dishes curry",
+  "description": "a spicy and rich curry made with blackcurrant jam and caramelized onions.",
+  "cuisine": "malaysian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "blackcurrant jam",
+      "amount": "2 tbsp",
+      "notes": "reduces the acidity in the curry"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat the coconut oil in a large skillet over medium-high heat.",
+    "add the onions and cook until caramelized, about 8 minutes.",
+    "add the garlic and ginger and cook for 1 minute, until fragrant.",
+    "add the chicken and cook until browned, about 5 minutes.",
+    "add the curry powder, turmeric, cayenne pepper, and salt, and cook for 1 minute, until fragrant.",
+    "add the coconut milk and blackcurrant jam, and bring to a simmer.",
+    "reduce heat to low and let cook for 10 minutes, until the sauce has thickened.",
+    "taste and adjust seasoning as needed."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-calorie",
+    "one-pan",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 800,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 50
+  },
+  "slug": "adventurous-molten-malaysian-dishes-curry",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-molten-malaysian-dishes-curry",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:29:19Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "molten",
+    "mood": "adventurous",
+    "technique": "caramelize",
+    "primaryIngredient": "blackcurrant jam",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "malaysian",
+    "mainIngredient": "dishes",
+    "descriptor": "adventurous molten",
+    "dishForm": "curry"
+  }
+}
