@@ -1,0 +1,111 @@
+{
+  "title": "Aromatic Anti Inflammatory Korean Rice Vermicelli Jjigae",
+  "description": "A salty, juicy, comforting Korean dish featuring rice vermicelli in a soffritto-base, with anti-inflammatory friendly ingredients, in the form of a traditional Korean jjigae.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Rice vermicelli",
+      "amount": "200g",
+      "notes": "preferably Korean style"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "400ml"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "100g",
+      "notes": "chopped"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Toasted sesame seeds",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large pot over medium heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the turmeric and cook for 1 minute, stirring constantly.",
+    "Add the gochujang and cook for 1 minute, stirring constantly.",
+    "Add the vegetable broth and bring to a boil.",
+    "Add the rice vermicelli and cook according to the package instructions.",
+    "Add the chopped kimchi and cook for another 2 minutes.",
+    "Season with salt to taste.",
+    "Garnish with chopped green onions and toasted sesame seeds."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "comfort-food",
+    "gluten-free",
+    "korean-cuisine",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "aromatic-anti-inflammatory-korean-rice-vermicelli-jjigae",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-anti-inflammatory-korean-rice-vermicelli-jjigae",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:31:42Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "juicy",
+    "mood": "comforting",
+    "technique": "soffritto-base",
+    "primaryIngredient": "rice vermicelli",
+    "diet": "anti-inflammatory",
+    "region": "gyeongsang",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rice vermicelli",
+    "descriptor": "aromatic anti inflammatory",
+    "dishForm": "Jjigae"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "title": "Aromatic Syrian Chicken Skillet",
+  "description": "A peppery and springy Syrian dish featuring chicken thighs and confit-tomato, perfect for a brunch mood, this recipe is sugar-free-friendly.",
+  "cuisine": "Syrian",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh and chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sumac",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chicken thighs to the skillet and cook until browned on both sides and cooked through.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the chopped tomatoes, salt, black pepper, sumac, and paprika to the skillet and cook for 10 minutes.",
+    "Return the chicken to the skillet and stir to combine with the tomato mixture.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Stir in the chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "chicken-recipes",
+    "gluten-free",
+    "one-pan",
+    "sugar-free",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "aromatic-syrian-chicken-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-syrian-chicken-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:32:09Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "confit-tomato",
+    "primaryIngredient": "chicken thighs",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken thighs",
+    "descriptor": "aromatic springy",
+    "dishForm": "Skillet"
+  }
+}

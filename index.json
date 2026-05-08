@@ -2757,6 +2757,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-anti-inflammatory-korean-rice-vermicelli-jjigae",
+    "title": "Aromatic Anti Inflammatory Korean Rice Vermicelli Jjigae",
+    "tags": [
+      "anti-inflammatory",
+      "comfort-food",
+      "gluten-free",
+      "korean-cuisine",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-asian-chinese-pork-dim-sum",
     "title": "Aromatic Asian Chinese Pork Dim Sum",
     "tags": [
@@ -4314,6 +4329,21 @@
       "rice-dishes",
       "syrian-cuisine",
       "vegetarian-meals"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-syrian-chicken-skillet",
+    "title": "Aromatic Syrian Chicken Skillet",
+    "tags": [
+      "brunch-ideas",
+      "chicken-recipes",
+      "gluten-free",
+      "one-pan",
+      "sugar-free",
+      "syrian-cuisine"
     ],
     "cuisine": "Syrian",
     "totalTimeMin": 50,
