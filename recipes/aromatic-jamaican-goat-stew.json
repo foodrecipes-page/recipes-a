@@ -1,0 +1,105 @@
+{
+  "title": "Aromatic Jamaican Goat Stew",
+  "description": "A hearty and flavorful stew featuring tender goat meat and aromatic spices, cooked to perfection in a clay pot tagliere. This dish is perfect for a midnight craving.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat meat",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": " chopped, seeds removed"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the clay pot tagliere over medium heat.",
+    "Add the onion and garlic and saute until the onion is translucent.",
+    "Add the goat meat and cook until browned on all sides.",
+    "Add the sumac, thyme, scotch bonnet pepper, potato, and carrot, and stir to combine.",
+    "Pour in the beef broth and bring the stew to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the meat is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "clay-pot-cooking",
+    "goat-meat",
+    "hearty-stew",
+    "jamaican-cuisine",
+    "kosher-friendly",
+    "midnight-craving"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "slug": "aromatic-jamaican-goat-stew",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-jamaican-goat-stew",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-08T21:09:01Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "bouncy-qq",
+    "mood": "midnight-craving",
+    "technique": "clay-pot-cook",
+    "primaryIngredient": "sumac",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "goat",
+    "descriptor": "Aromatic Bouncy",
+    "dishForm": "Stew"
+  }
+}
