@@ -1,0 +1,98 @@
+{
+  "title": "Aromatic Light French Chicken Gratin",
+  "description": "This dish features chicken cooked in sake and topped with a light, umami-rich mother sauce, perfect for a special occasion. It is a whole30-friendly, light French burgundy-inspired recipe.",
+  "cuisine": "French",
+  "diet": [
+    "whole30",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4 lbs",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "sake",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a large saucepan, combine sake, coconut cream, lemon juice, thyme, garlic powder, salt, and pepper, and bring to a boil over high heat.",
+    "Reduce the heat to low and simmer the sauce for 10 minutes, stirring occasionally.",
+    "Meanwhile, season the chicken breast with salt and pepper.",
+    "Add the chicken to the saucepan and cook for 5 minutes on each side, or until browned.",
+    "Transfer the chicken to a baking dish and spoon some of the sauce over the top of each breast.",
+    "Bake the chicken in the preheated oven for 20 minutes, or until cooked through.",
+    "Remove the chicken from the oven and sprinkle with chopped parsley.",
+    "Serve the chicken hot, spooning some of the remaining sauce over the top of each breast."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french-inspired",
+    "low-carb",
+    "one-pan",
+    "special-occasion",
+    "umami-rich",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "aromatic-light-french-chicken-gratin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-light-french-chicken-gratin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:46:09Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "shattering",
+    "mood": "light",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "sake-cooking",
+    "diet": "whole30",
+    "region": "burgundy",
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic Light",
+    "dishForm": "Gratin"
+  }
+}

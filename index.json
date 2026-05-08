@@ -2154,6 +2154,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazing-herbal-moroccan-kiwifruit-chebakia",
+    "title": "Amazing Herbal Moroccan Kiwifruit Chebakia",
+    "tags": [
+      "dessert-recipes",
+      "flexitarian-friendly",
+      "hangover-cure",
+      "herbal-remedies",
+      "moroccan-cuisine",
+      "snack-ideas"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "amazing-yeasty-canadian-rye-bread-stew",
     "title": "Amazing Yeasty Canadian Rye Bread Stew",
     "tags": [
@@ -3811,6 +3826,21 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-light-french-chicken-gratin",
+    "title": "Aromatic Light French Chicken Gratin",
+    "tags": [
+      "french-inspired",
+      "low-carb",
+      "one-pan",
+      "special-occasion",
+      "umami-rich",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 55,
     "shard": "a"
   },
   {

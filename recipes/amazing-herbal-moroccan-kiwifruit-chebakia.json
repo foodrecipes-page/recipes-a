@@ -1,0 +1,97 @@
+{
+  "title": "Amazing Herbal Moroccan Kiwifruit Chebakia",
+  "description": "A traditional Moroccan chebakia dish infused with herbal flavors and featuring kiwifruit, perfect for a flexitarian snack or dessert. This sweet and shattering treat is also known to help cure hangovers.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "kiwifruit",
+      "amount": "4",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "orange blossom water",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "ginger powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cinnamon powder",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, whisk together the almond flour, sesame seeds, ginger powder, and cinnamon powder.",
+    "In a separate bowl, mix together the honey, orange blossom water, and rose water.",
+    "Add the diced kiwifruit to the honey mixture and marinate for at least 30 minutes.",
+    "Using a spoon, drop small balls of the almond flour mixture into the oil and fry until golden brown.",
+    "Drain the fried chebakia on paper towels and then dip them into the honey and kiwifruit mixture.",
+    "Serve the chebakia warm and enjoy.",
+    "Store any leftovers in an airtight container at room temperature for up to 3 days.",
+    "Reheat the chebakia in the oven at 300 degrees Fahrenheit for 5 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert-recipes",
+    "flexitarian-friendly",
+    "hangover-cure",
+    "herbal-remedies",
+    "moroccan-cuisine",
+    "snack-ideas"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "amazing-herbal-moroccan-kiwifruit-chebakia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-herbal-moroccan-kiwifruit-chebakia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:46:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "shattering",
+    "mood": "hangover-cure",
+    "technique": "marinate",
+    "primaryIngredient": "kiwifruit",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Moroccan",
+    "mainIngredient": "kiwifruit",
+    "descriptor": "Amazing Herbal",
+    "dishForm": "Chebakia"
+  }
+}
