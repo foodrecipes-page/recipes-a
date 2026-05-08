@@ -3282,6 +3282,22 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-silky-italian-pasta",
+    "title": "Aromatic Silky Italian Pasta",
+    "tags": [
+      "herbal",
+      "italian",
+      "low-fat",
+      "matcha",
+      "one-pot",
+      "silky",
+      "weeknight"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-silky-korean-celery-stew",
     "title": "Aromatic Silky Korean Celery Stew",
     "tags": [
