@@ -1,0 +1,103 @@
+{
+  "title": "Authentic Aromatic Middle Eastern Lentils Mujadara",
+  "description": "A traditional Middle Eastern dish made with lentils and rice, infused with aromatic spices and topped with caramelized onions, this recipe is a hearty and flavorful weeknight meal option, featuring egg white and wood-fired bake elements, while being ayurvedic-sattvic-friendly.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green or brown lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "2 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "egg white",
+      "amount": "1 large"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit for wood-fired baking effect.",
+    "In a large pot, combine the lentils and water, and bring to a boil over high heat.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes, or until the lentils are tender.",
+    "In a large bowl, combine the cooked lentils, rice, salt, black pepper, cumin, and coriander, and mix well.",
+    "In a large skillet, heat the olive oil over medium heat, and cook the sliced onions for 20 minutes, or until caramelized.",
+    "In a small bowl, whisk the egg white until stiff peaks form, and set aside.",
+    "In a large baking dish, combine the lentil and rice mixture, and top with the caramelized onions and whisked egg white.",
+    "Bake the mujadara in the preheated oven for 20 minutes, or until the egg white is set and the onions are golden brown.",
+    "Remove the mujadara from the oven, and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "lentils",
+    "middle-eastern",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "authentic-aromatic-middle-eastern-lentils-mujadara",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/authentic-aromatic-middle-eastern-lentils-mujadara",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:31:36Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "wood-fired-bake",
+    "primaryIngredient": "egg white",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Middle Eastern",
+    "mainIngredient": "lentils",
+    "descriptor": "Authentic Aromatic",
+    "dishForm": "Mujadara"
+  }
+}
