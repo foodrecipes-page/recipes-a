@@ -3781,6 +3781,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-tender-japanese-chicken-wrap",
+    "title": "Aromatic Tender Japanese Chicken Wrap",
+    "tags": [
+      "easy-dinner",
+      "healthy",
+      "high-protein",
+      "japanese",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-tunisian-cheese-lasagna",
     "title": "Aromatic Tunisian Cheese Lasagna",
     "tags": [

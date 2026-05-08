@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Tender Japanese Chicken Wrap",
+  "description": "A peppery and tender Japanese dish featuring chicken, almonds, and ssam wrap, perfect for a solo dinner, this recipe is high in protein and can be prepared in under an hour.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/2 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "1 package",
+      "notes": "about 8-10 wraps"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, sesame oil, grated ginger, black pepper, and salt.",
+    "Add the chicken breast to the bowl and marinate for at least 15 minutes.",
+    "Remove the chicken from the marinade and bake in the oven for 20 minutes or until cooked through.",
+    "While the chicken is cooking, toast the sliced almonds in a dry pan over medium heat for 2-3 minutes.",
+    "Warm the ssam wraps by wrapping them in a damp paper towel and microwaving for 20 seconds.",
+    "Assemble the wraps by slicing the cooked chicken into thin strips and placing it onto the ssam wrap along with toasted almonds, green onions, and a sprinkle of black pepper.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy-dinner",
+    "healthy",
+    "high-protein",
+    "japanese",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 20,
+    "fat": 20
+  },
+  "slug": "aromatic-tender-japanese-chicken-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-tender-japanese-chicken-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:29:23Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "almonds",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic Tender",
+    "dishForm": "Wrap"
+  }
+}
