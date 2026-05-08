@@ -5331,6 +5331,21 @@
     "shard": "a"
   },
   {
+    "slug": "awesome-american-onion-casserole",
+    "title": "Awesome American Onion Casserole",
+    "tags": [
+      "american",
+      "casserole",
+      "festive",
+      "grassy",
+      "shojin",
+      "vegetarian"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "awesome-autumn-jamaican-beef-burger",
     "title": "Awesome Autumn Jamaican Beef Burger",
     "tags": [
