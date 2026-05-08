@@ -1,0 +1,100 @@
+{
+  "title": "Aromatic Adventurous Syrian Lentil Kebabs",
+  "description": "A sour and crisp Syrian dish featuring sumac and spherified lentils, perfect for adventurous eaters, this vegan-friendly recipe is a must try for anyone looking to spice up their meal routine.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "sumac",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sodium alginate",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, soak the lentils in water for at least 4 hours or overnight.",
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a blender or food processor, combine the soaked lentils, sumac, lemon juice, olive oil, onion, garlic, salt, and black pepper, and blend until smooth.",
+    "Stir in the sodium alginate and let the mixture sit for 10 minutes to allow it to thicken.",
+    "Using a spoon, drop small balls of the lentil mixture into a bath of cold water to spherify them.",
+    "Once the lentil balls have firmed up, remove them from the water and thread them onto skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper and bake for 20 minutes, flipping halfway through.",
+    "Serve the kebabs hot, garnished with additional sumac and a squeeze of lemon juice if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-recipes",
+    "spherified-food",
+    "sumac-spice",
+    "syrian-cuisine",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "aromatic-adventurous-syrian-lentil-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-adventurous-syrian-lentil-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:14:09Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "crisp",
+    "mood": "adventurous",
+    "technique": "spherify",
+    "primaryIngredient": "sumac",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lentils",
+    "descriptor": "Aromatic Adventurous",
+    "dishForm": "Kebabs"
+  }
+}
