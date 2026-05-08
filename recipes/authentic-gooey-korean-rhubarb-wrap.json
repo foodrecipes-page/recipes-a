@@ -1,0 +1,101 @@
+{
+  "title": "Authentic Gooey Korean Rhubarb Wrap",
+  "description": "A traditional Chungcheong-style dish featuring rhubarb and ssam-wrap, perfect for a solo dinner, this recipe is gluten-free-friendly and served on a wooden board.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rhubarb",
+      "amount": "1 pound",
+      "notes": "fresh, cut into 1-inch pieces"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together gochujang, soy sauce, brown sugar, garlic, and ginger to make the sauce.",
+    "Add the cut rhubarb to the bowl and toss to coat with the sauce.",
+    "Let the rhubarb mixture marinate for at least 30 minutes to allow the flavors to meld.",
+    "Heat the sesame oil in a large skillet over medium heat.",
+    "Add the marinated rhubarb to the skillet and cook, stirring occasionally, until the rhubarb is tender and caramelized, about 20 minutes.",
+    "While the rhubarb is cooking, prepare the ssam wrap by rinsing the leaves and patting them dry with paper towels.",
+    "To assemble the wraps, place a few pieces of the cooked rhubarb onto the center of a ssam leaf, then sprinkle with toasted sesame seeds and a pinch of salt.",
+    "Fold the ssam leaf over the filling to form a wrap, and serve immediately.",
+    "Repeat with the remaining ingredients to make additional wraps."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "korean-cuisine",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "authentic-gooey-korean-rhubarb-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/authentic-gooey-korean-rhubarb-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:49:03Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "gooey",
+    "mood": "solo-dinner",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "rhubarb",
+    "diet": "gluten-free",
+    "region": "chungcheong",
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "rhubarb",
+    "descriptor": "Authentic gooey",
+    "dishForm": "Wrap"
+  }
+}
