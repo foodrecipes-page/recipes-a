@@ -2549,6 +2549,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-algerian-turkey-neck-tagine",
+    "title": "Aromatic Algerian Turkey Neck Tagine",
+    "tags": [
+      "algerian-cuisine",
+      "comfort-food",
+      "one-pot",
+      "slow-cooked",
+      "spicy",
+      "turkey-recipes"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 180,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-amber-egyptian-chicken-tagine",
     "title": "Aromatic Amber Egyptian Chicken Tagine",
     "tags": [
@@ -2739,6 +2754,20 @@
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 22,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-canadian-lentil-stew",
+    "title": "Aromatic Canadian Lentil Stew",
+    "tags": [
+      "canadian-cuisine",
+      "comfort-food",
+      "high-protein",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 60,
     "shard": "a"
   },
   {

@@ -1,0 +1,93 @@
+{
+  "title": "Aromatic Canadian Lentil Stew",
+  "description": "A hearty and flavorful vegan-friendly stew featuring mustard seeds and lardons-render, perfect for a weeknight dinner",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "green lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lardons-render",
+      "amount": "1/4 cup",
+      "notes": "vegan alternative to bacon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the lardons-render over medium heat until crispy",
+    "Add the mustard seeds and cook for 1 minute, until fragrant",
+    "Add the chopped onion, carrots, and celery, and cook until the vegetables are tender",
+    "Add the green lentils, vegetable broth, and tomato paste, and bring to a boil",
+    "Reduce the heat to low and simmer for 30 minutes, until the lentils are tender",
+    "Season with salt and pepper to taste",
+    "Ladle the stew into mason jars and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "comfort-food",
+    "high-protein",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "aromatic-canadian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-canadian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:58:44Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "bouncy-qq",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "mustard seeds",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "lentils",
+    "descriptor": "Aromatic Hearty",
+    "dishForm": "Stew"
+  }
+}
