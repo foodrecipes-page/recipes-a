@@ -1,0 +1,103 @@
+{
+  "title": "Tunisian Vegetable Bowl",
+  "description": "A flavorful, dairy-free one-pan dish packed with aromatic vegetables. Perfect for a quick weeknight dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "dairy-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable shortening",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Parsnip",
+      "amount": "1 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potato",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable shortening in a large dolsot-stone-bowl over medium heat.",
+    "Add the chopped onion and sauté until translucent, about 5 minutes.",
+    "Add the chopped carrot, parsnip, and potato, and continue to sauté for another 10 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Stir in the chopped cilantro and lemon juice.",
+    "Transfer the bowl to the oven and bake at 400°F (200°C) for 20 minutes.",
+    "Remove the bowl from the oven and top with sliced olives.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "easy-to-make",
+    "high-protein",
+    "north-african",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "airy-aromatic-tunisian-vegetable-bowl",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-aromatic-tunisian-vegetable-bowl",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:09:35Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "silky",
+    "mood": "weeknight",
+    "technique": "soffritto-base",
+    "primaryIngredient": "vegetable shortening",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "vegetable",
+    "descriptor": "Airy, aromatic",
+    "dishForm": "Bowl"
+  }
+}
