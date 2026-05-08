@@ -1,0 +1,107 @@
+{
+  "title": "Aromatic Indian Lentils Dal Tadka",
+  "description": "Savory and juicy Indian lentil dish featuring yogurt, perfect for a brunch mood, with anti-inflammatory properties. This dal tadka is a comforting and flavorful meal.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "split red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1/2 cup",
+      "notes": "plain"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and drain well, then set aside.",
+    "Heat the ghee or oil in a large pan over medium heat.",
+    "Add the cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the turmeric, salt, and rinsed lentils, stirring well to combine.",
+    "Add the water to the pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes or until the lentils are tender.",
+    "Use a pressure cooker to cook the lentils for 10 minutes, if desired, for faster cooking.",
+    "Stir in the plain yogurt and cook for an additional 2 minutes.",
+    "Serve the dal tadka hot, garnished with chopped fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch-ideas",
+    "comfort-food",
+    "gluten-free",
+    "indian-cuisine",
+    "lentil-recipes",
+    "vegetarian-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "aromatic-indian-lentils-dal-tadka",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-indian-lentils-dal-tadka",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:52:57Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "juicy",
+    "mood": "brunch-mood",
+    "technique": "pressure-cook",
+    "primaryIngredient": "yogurt",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "lentils",
+    "descriptor": "Aromatic Anti-Inflammatory",
+    "dishForm": "Dal Tadka"
+  }
+}
