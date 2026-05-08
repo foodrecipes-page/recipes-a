@@ -1,0 +1,114 @@
+{
+  "title": "aromatic spicy norwegian halibut pilaf",
+  "description": "Spicy, chewy, and flavorful Norwegian halibut pilaf, featuring tobiko and halal-friendly ingredients.",
+  "cuisine": "norwegian",
+  "diet": [
+    "halal",
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ground allspice",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tobiko",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium heat.",
+    "Add chopped red onion and cook until translucent, about 3 minutes.",
+    "Add arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add red pepper flakes, ground allspice, salt, and black pepper. Stir to combine.",
+    "Add halibut fillets and cook for 2-3 minutes, until browned on both sides.",
+    "Add water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 10-12 minutes, until rice is cooked and liquid is absorbed.",
+    "Stir in lemon juice and tobiko.",
+    "Serve immediately, garnished with additional tobiko if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "hard",
+  "tags": [
+    "aromatic",
+    "high-protein",
+    "one-pan",
+    "seafood-lovers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 44,
+    "fat": 24
+  },
+  "slug": "aromatic-spicy-norwegian-halibut-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-spicy-norwegian-halibut-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:11:36Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "chewy",
+    "mood": "solo-dinner",
+    "technique": "saute",
+    "primaryIngredient": "tobiko",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Halibut",
+    "descriptor": "Aromatic Spicy",
+    "dishForm": "Pilaf"
+  }
+}

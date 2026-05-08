@@ -3424,6 +3424,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-spicy-norwegian-halibut-pilaf",
+    "title": "aromatic spicy norwegian halibut pilaf",
+    "tags": [
+      "aromatic",
+      "high-protein",
+      "one-pan",
+      "seafood-lovers",
+      "weeknight"
+    ],
+    "cuisine": "norwegian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-spicy-thai-duck-tom-yum",
     "title": "Aromatic Spicy Thai Duck Tom Yum",
     "tags": [
