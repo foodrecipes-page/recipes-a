@@ -1,0 +1,95 @@
+{
+  "title": "airy aeration italian herbs toast",
+  "description": "a classic italian-inspired toast dish featuring airy aerated herbs, perfect for a buddhist-temple-friendly brunch option.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "whole wheat bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "bhuna chutney",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "extra virgin olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "first, preheat a non-stick skillet over medium heat.",
+    "then, toast the bread slices for about 2 minutes on each side until lightly browned.",
+    "next, in a small bowl, mix the bhuna chutney, garlic, and rice vinegar.",
+    "brush the chutney mixture onto toasted bread slices.",
+    "top each bread slice with a quarter cup of parsley and basil leaves.",
+    "drizzle a tablespoon of extra virgin olive oil over the herbs.",
+    "season with salt and black pepper to taste.",
+    "finally, serve immediately in copper mugs for a nostalgic italian flair."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 4,
+  "totalTimeMin": 14,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "buddhist-temple-friendly",
+    "herbal",
+    "high-fiber",
+    "italian-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "slug": "airy-aerated-italian-herbs-toast",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-aerated-italian-herbs-toast",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:55:50Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "bhuna",
+    "primaryIngredient": "rice vinegar",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "herbs",
+    "descriptor": "Airy Aerated",
+    "dishForm": " Toast"
+  }
+}
