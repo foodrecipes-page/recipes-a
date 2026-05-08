@@ -1,0 +1,94 @@
+{
+  "title": "Aromatic Dense Chinese Almonds Zha Jiang Mian",
+  "description": "A resinous and dense Chinese dish featuring almonds and a soffritto base, perfect for a keto-friendly meal prep option",
+  "cuisine": "Chinese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "zha jiang mian noodles",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a large skillet over medium-high heat",
+    "Add the sliced almonds and cook until fragrant and lightly toasted",
+    "Add the ground pork and cook until browned, breaking it up into small pieces as it cooks",
+    "Add the grated ginger and minced garlic and cook for 1 minute",
+    "Add the soy sauce and stir to combine",
+    "Add the chopped scallions and cook until wilted",
+    "Cook the zha jiang mian noodles according to package instructions",
+    "Combine the cooked noodles and pork mixture and stir to combine"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese-cuisine",
+    "keto-friendly",
+    "low-carb",
+    "meal-prep",
+    "noodle-dish"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "aromatic-dense-chinese-almonds-zha-jiang-mian",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-dense-chinese-almonds-zha-jiang-mian",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T08:45:52Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "dense",
+    "mood": "meal-prep",
+    "technique": "soffritto-base",
+    "primaryIngredient": "almonds",
+    "diet": "keto",
+    "region": "hakka",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "almonds",
+    "descriptor": "Aromatic Dense",
+    "dishForm": "Zha Jiang Mian"
+  }
+}
