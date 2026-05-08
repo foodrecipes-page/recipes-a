@@ -1,0 +1,114 @@
+{
+  "title": "Amazingly Crisp Ethiopian Padron Peppers Gomen",
+  "description": "A jammy, crisp, and flavorful Ethiopian dish featuring padron peppers, perfect for a brunch mood, this satvik-friendly gomen is a must try.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "satvik"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "padron peppers",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "1 teaspoon",
+      "notes": "Ethiopian chili powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for broiling"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, toss the padron peppers with 1 tablespoon of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the peppers on a baking sheet and broil for 10 minutes, or until the skin is blistered and charred.",
+    "While the peppers are broiling, heat the remaining 1 tablespoon of olive oil in a large skillet over medium heat.",
+    "Add the chopped onion to the skillet and cook until it is softened and translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute, stirring constantly.",
+    "Add the berbere spice to the skillet and cook for 1 minute, stirring constantly.",
+    "Once the peppers are done broiling, remove them from the oven and let them cool down for a few minutes.",
+    "Peel off the skin from the peppers and chop them into small pieces, then add them to the skillet with the onion mixture.",
+    "Stir in the lemon juice and cook for an additional 2 minutes, stirring constantly.",
+    "Season the gomen with salt and black pepper to taste, then garnish with chopped fresh cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "easy-brunch",
+    "ethiopian",
+    "one-pan",
+    "satvik",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "amazingly-crisp-ethiopian-padron-peppers-gomen",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-crisp-ethiopian-padron-peppers-gomen",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:14:23Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "crisp",
+    "mood": "brunch-mood",
+    "technique": "broil",
+    "primaryIngredient": "padron peppers",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "padron peppers",
+    "descriptor": "Amazingly crisp",
+    "dishForm": "Gomen"
+  }
+}
