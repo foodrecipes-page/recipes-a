@@ -1,0 +1,117 @@
+{
+  "title": "Aromatic Silky Saudi Arabian Lamb Tagine",
+  "description": "Indulge in this rich and flavorful Saudi Arabian dish, featuring tender lamb and a blend of aromatic spices, all wrapped in a silky en-croute pastry, perfect for a special occasion, and made with buddhist-temple-friendly ingredients, avoiding any animal by-products and using garlic granules for added depth of flavor, while also incorporating a winey reduction to enhance the overall taste experience.",
+  "cuisine": "saudi-arabian",
+  "diet": [
+    "halal",
+    "buddhist"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "garlic granules",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together garlic granules, cumin, coriander, cayenne pepper, salt, and black pepper.",
+    "Add the lamb pieces to the bowl and toss to coat with the spice mixture.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the chopped onion to the pot and cook until browned, about 5 minutes.",
+    "Add the grated ginger to the pot and cook for 1 minute.",
+    "Add the lamb pieces to the pot and cook until browned on all sides, about 5 minutes.",
+    "Add the red wine to the pot, scraping up any browned bits from the bottom.",
+    "Bring the wine to a simmer and cook until reduced by half, about 5 minutes.",
+    "Roll out the puff pastry on a floured surface to a large rectangle, about 1/4 inch thick.",
+    "Place the lamb and onion mixture in the center of the pastry rectangle, leaving a 1 inch border around the edges.",
+    "Brush the edges of the pastry with a little water and fold the pastry over the filling, pressing the edges to seal.",
+    "Place the tagine on a baking sheet and bake for 25 minutes, or until the pastry is golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "lamb-based",
+    "middle-eastern",
+    "pastry-dish",
+    "special-occasion",
+    "wine-braised"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 35
+  },
+  "slug": "aromatic-silky-saudi-arabian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-silky-saudi-arabian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:25:33Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "silky",
+    "mood": "indulgent",
+    "technique": "en-croute",
+    "primaryIngredient": "garlic granules",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "lamb",
+    "descriptor": "Aromatic Silky",
+    "dishForm": "Tagine"
+  }
+}
