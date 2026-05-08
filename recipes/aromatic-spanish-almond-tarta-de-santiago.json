@@ -1,0 +1,101 @@
+{
+  "title": "Aromatic Spanish Almond Tarta De Santiago",
+  "description": "A traditional Catalan dish featuring crunchy almonds and a hint of garlic, perfect for a brunch gathering, this recipe is diabetic friendly and made in the form of a tarta de santiago.",
+  "cuisine": "Spanish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 1/2 cups",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": "poached"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 sheet",
+      "notes": "thawed"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Roll out the puff pastry and place it on a baking sheet.",
+    "Mix the sliced almonds, minced garlic, salt, and black pepper in a bowl.",
+    "Spread the almond mixture evenly over the puff pastry, leaving a 1 inch border.",
+    "Drizzle the olive oil over the almond mixture.",
+    "Squeeze the lemon juice over the top.",
+    "Poach the eggs and place them on top of the tart.",
+    "Bake the tart for 25 minutes or until the pastry is golden brown.",
+    "Remove the tart from the oven and let it cool for 5 minutes.",
+    "Slice the tart into 8 pieces and serve."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond-based",
+    "brunch-ideas",
+    "diabetic-friendly",
+    "gluten-free",
+    "poached-eggs",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 20
+  },
+  "slug": "aromatic-spanish-almond-tarta-de-santiago",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-spanish-almond-tarta-de-santiago",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:49:21Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crunchy",
+    "mood": "brunch-mood",
+    "technique": "poach",
+    "primaryIngredient": "salt",
+    "diet": "diabetic-friendly",
+    "region": "catalan",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "almonds",
+    "descriptor": "Aromatic Crunchy",
+    "dishForm": "Tarta De Santiago"
+  }
+}
