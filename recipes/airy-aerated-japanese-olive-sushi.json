@@ -1,0 +1,101 @@
+{
+  "title": "Airy Aerated Japanese Olive Sushi",
+  "description": "A romantic Japanese dish featuring pitted black olives and caramelized flavors, this vegetarian-friendly sushi is a unique twist on traditional recipes. It is a fatty and aerated dish perfect for special occasions.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "1 cup",
+      "notes": "preferably Koshihikari or Akita Komachi"
+    },
+    {
+      "name": "water",
+      "amount": "1 3/4 cups"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pitted black olives",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "noru sheets",
+      "amount": "1 package"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese short grain rice thoroughly and cook it according to the package instructions with 1 3/4 cups of water.",
+    "In a small saucepan, combine rice vinegar, sugar, and salt, and bring to a boil over medium heat.",
+    "Once the rice is cooked, mix it with the vinegar mixture and let it cool to room temperature.",
+    "Caramelize the pitted black olives by heating them in a saucepan with olive oil over low heat for 10 minutes.",
+    "Cut the noru sheets into desired shapes and sizes for the sushi.",
+    "Assemble the sushi by spreading a thin layer of cooled rice onto the noru sheets, leaving a 1-inch border at the top.",
+    "Arrange the caramelized olives in the middle of the rice.",
+    "Roll the sushi using a bamboo sushi mat and slice it into individual pieces.",
+    "Garnish with sesame seeds and pickled ginger.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated-dishes",
+    "fatty-foods",
+    "japanese-cuisine",
+    "romantic-dinner",
+    "special-occasion",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "airy-aerated-japanese-olive-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-aerated-japanese-olive-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:13:41Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "aerated",
+    "mood": "romantic",
+    "technique": "caramelize",
+    "primaryIngredient": "pitted black olives",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "olives",
+    "descriptor": "Airy Aerated",
+    "dishForm": "Sushi"
+  }
+}
