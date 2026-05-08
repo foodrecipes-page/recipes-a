@@ -1,0 +1,90 @@
+{
+  "title": "Aromatic Quick French Chicken Coq Au Vin",
+  "description": "A flexitarian friendly French dish featuring chicken cooked in lime juice and chocolate, served in individual mini cocottes.",
+  "cuisine": "French",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dark chocolate",
+      "amount": "2 ounces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees.",
+    "Season the chicken thighs with salt and pepper.",
+    "Heat a skillet over medium high heat and sear the chicken until browned.",
+    "Add the sliced onions to the skillet and cook until they are translucent.",
+    "Add the mushrooms and garlic to the skillet and cook until the mushrooms release their liquid.",
+    "Add the lime juice, chocolate, thyme, and bay leaves to the skillet and stir to combine.",
+    "Place the chicken and sauce in individual mini cocottes.",
+    "Bake the coq au vin in the preheated oven for 20 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "flexitarian",
+    "french-cuisine",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "aromatic-quick-french-chicken-coq-au-vin",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-quick-french-chicken-coq-au-vin",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:50:51Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "juicy",
+    "mood": "quick-fix",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "lime juice",
+    "diet": "flexitarian",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic Quick",
+    "dishForm": "Coq Au Vin"
+  }
+}

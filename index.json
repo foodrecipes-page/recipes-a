@@ -4325,6 +4325,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-quick-french-chicken-coq-au-vin",
+    "title": "Aromatic Quick French Chicken Coq Au Vin",
+    "tags": [
+      "chicken-recipes",
+      "flexitarian",
+      "french-cuisine",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-quick-turkish-kale-skillet",
     "title": "Aromatic Quick Turkish Kale Skillet",
     "tags": [
