@@ -2444,6 +2444,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-american-shrimp-skewers",
+    "title": "Aromatic American Shrimp Skewers",
+    "tags": [
+      "american-cuisine",
+      "grilled",
+      "low-carb",
+      "romantic-dinner",
+      "seafood"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 23,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-asian-chinese-tofu-noodles",
     "title": "Aromatic Asian Chinese Tofu Noodles",
     "tags": [
