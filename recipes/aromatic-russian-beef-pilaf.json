@@ -1,0 +1,97 @@
+{
+  "title": "Aromatic Russian Beef Pilaf",
+  "description": "A pungent and crumbly Russian dish featuring garlic sauce and dashi extract, served on a hot stone plate, low sodium friendly.",
+  "cuisine": "Russian",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "garlic sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dashi extract",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "uncooked white rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "low sodium beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt free seasoning",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium high heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the beef strips and cook until they are browned.",
+    "Add the grated carrots and cook for 2 minutes.",
+    "Add the garlic sauce, dashi extract, and salt free seasoning, and stir to combine.",
+    "Add the uncooked white rice and stir to combine with the beef mixture.",
+    "Add the low sodium beef broth and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 20 minutes.",
+    "Fluff the pilaf with a fork and serve on a hot stone plate."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "hot-stone-plate",
+    "low-sodium",
+    "one-pot",
+    "russian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "aromatic-russian-beef-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-russian-beef-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:33:27Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crumbly",
+    "mood": "monsoon",
+    "technique": "dashi-extract",
+    "primaryIngredient": "garlic sauce",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beef",
+    "descriptor": "Aromatic Crumbly",
+    "dishForm": "Pilaf"
+  }
+}

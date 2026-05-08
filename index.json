@@ -1915,6 +1915,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazingly-aromatic-dutch-chicken-stew",
+    "title": "Amazingly Aromatic Dutch Chicken Stew",
+    "tags": [
+      "chicken-recipe",
+      "comfort-food",
+      "dutch-cuisine",
+      "kosher-friendly",
+      "spicy",
+      "stone-bowl"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-aromatic-mediterranean-lamb-kebabs",
     "title": "Amazingly Aromatic Mediterranean Lamb Kebabs",
     "tags": [
@@ -3322,6 +3337,20 @@
     ],
     "cuisine": "Venezuelan",
     "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-russian-beef-pilaf",
+    "title": "Aromatic Russian Beef Pilaf",
+    "tags": [
+      "beef-recipes",
+      "hot-stone-plate",
+      "low-sodium",
+      "one-pot",
+      "russian-cuisine"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
