@@ -1,0 +1,156 @@
+{
+  "title": "Aerated Herbal Croatian Brie Tart",
+  "description": "A nostalgic Croatian dessert featuring brie cheese and sweet, aerated toppings. This tart is perfect for a weeknight treat.",
+  "cuisine": "croatian",
+  "diet": [
+    "gluten-free",
+    "macrobiotic-friendly"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 1/4 cups",
+      "notes": ""
+    },
+    {
+      "name": "brie cheese",
+      "amount": "1 (8 oz) wheel",
+      "notes": "softened to room temperature"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": "plus 2 tbsp for dusting"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "chilled and cut into small pieces"
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "candy pieces (such as M&M's or chopped peanut butter cups)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "hazelnut oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cocoa nibs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "raspberry jam",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a medium bowl, whisk together flour and confectioners' sugar. Add cold butter and use a pastry blender or your fingertips to work it into the flour mixture until it resembles coarse crumbs.",
+    "Press the mixture into a 9-inch tart pan with a removable bottom, pressing it evenly into the corners.",
+    "Bake the crust at 350°F for 15 minutes, then set aside to cool.",
+    "In a large bowl, beat the brie cheese with an electric mixer until it's smooth. Add the granulated sugar, vanilla extract, honey, and salt, and beat until well combined. ",
+    "In a separate bowl, whisk together the eggs, lemon zest, and almond extract. Add this mixture to the cheese mixture and beat until smooth.",
+    "Pour the cheese mixture into the cooled tart crust and smooth the top with an offset spatula.",
+    "Bake the tart at 350°F for 25-30 minutes, or until the edges are set and the center is just slightly jiggly.",
+    "Remove the tart from the oven and sprinkle with confectioners' sugar. Allow it to cool to room temperature before slicing and serving.",
+    "To make the aerated topping, beat the egg whites and granulated sugar in a large bowl until stiff peaks form. Add the hazelnut oil and beat until well combined.",
+    "To assemble the tart, spread a layer of candy pieces on top of the cooled tart. Then sprinkle the aerated topping over the candy pieces.",
+    "Dust with confectioners' sugar and serve immediately.",
+    "To make the candy-studded jam topping, combine the raspberry jam and maple syrup in a small saucepan and bring to a simmer over medium heat. ",
+    "Remove from heat and stir in the cocoa nibs. ",
+    "Spread the jam mixture over the top of the tart, leaving a 1-inch border around the edges. ",
+    "Sprinkle with additional candy pieces and confectioners' sugar, if desired."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 8,
+  "difficulty": "hard",
+  "tags": [
+    "cheesecake",
+    "crustless",
+    "european",
+    "macrobiotic-friendly",
+    "tart",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 1286,
+    "protein": 11,
+    "carbs": 144,
+    "fat": 93
+  },
+  "slug": "aerated-herbal-croatian-brie-tart",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-herbal-croatian-brie-tart",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:37:10Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "candy",
+    "primaryIngredient": "brie",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "croatian",
+    "mainIngredient": "brie",
+    "descriptor": "aerated herbal",
+    "dishForm": "tart"
+  }
+}
