@@ -3293,6 +3293,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-charred-welsh-genmaicha-smoked-cheese-ploughmans-lunch",
+    "title": "Aromatic Charred Welsh Genmaicha Smoked Cheese Ploughmans Lunch",
+    "tags": [
+      "genmaicha-tea",
+      "gluten-free",
+      "ploughmans-lunch",
+      "smoked-cheese",
+      "vegetarian",
+      "welsh-cuisine"
+    ],
+    "cuisine": "Welsh",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-chewy-ethiopian-lentils-kik-alicha",
     "title": "Aromatic Chewy Ethiopian Lentils Kik Alicha",
     "tags": [
