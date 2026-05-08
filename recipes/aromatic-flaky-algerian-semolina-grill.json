@@ -1,0 +1,100 @@
+{
+  "title": "Aromatic Flaky Algerian Semolina Grill",
+  "description": "A sour and flaky solo dinner dish from Algeria featuring semolina rimacinata, this recipe is perfect for a weeknight meal, it is paleo friendly and made in a raclette grill.",
+  "cuisine": "Algerian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "semolina rimacinata",
+      "amount": "1 cup",
+      "notes": "fine semolina flour"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "water",
+      "amount": "1/2 cup",
+      "notes": "warm"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the semolina rimacinata, salt, and black pepper.",
+    "Add the olive oil, lemon juice, and warm water to the bowl and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 4 equal pieces and roll each piece into a ball.",
+    "Flatten each ball into a disk shape and brush with olive oil.",
+    "Place the disks on the preheated raclette grill and cook for 2 minutes on each side.",
+    "While the semolina is cooking, mix the minced garlic and chopped parsley in a small bowl.",
+    "After the semolina is cooked, brush the garlic parsley mixture on top of each disk.",
+    "Serve the aromatic flaky Algerian semolina grill hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "algerian-cuisine",
+    "gluten-free",
+    "healthy-dinner",
+    "one-pan",
+    "paleo-friendly",
+    "weeknight-meal"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "aromatic-flaky-algerian-semolina-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-flaky-algerian-semolina-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T21:33:01Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "flaky",
+    "mood": "solo-dinner",
+    "technique": "deglaze-fond",
+    "primaryIngredient": "semolina-rimacinata",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "semolina",
+    "descriptor": "Aromatic Flaky",
+    "dishForm": "Grill"
+  }
+}

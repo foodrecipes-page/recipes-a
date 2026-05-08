@@ -2125,6 +2125,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazing-bouncy-mexican-pork-carnitas",
+    "title": "Amazing Bouncy Mexican Pork Carnitas",
+    "tags": [
+      "comfort-food",
+      "halal-friendly",
+      "mexican-food",
+      "one-pot",
+      "pork-recipes",
+      "slow-cooked"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 200,
+    "shard": "a"
+  },
+  {
     "slug": "amazing-crispy-argentinian-potato-empanadas",
     "title": "Amazing Crispy Argentinian Potato Empanadas",
     "tags": [
@@ -3480,6 +3495,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-flaky-algerian-semolina-grill",
+    "title": "Aromatic Flaky Algerian Semolina Grill",
+    "tags": [
+      "algerian-cuisine",
+      "gluten-free",
+      "healthy-dinner",
+      "one-pan",
+      "paleo-friendly",
+      "weeknight-meal"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -5008,6 +5038,21 @@
     ],
     "cuisine": "spanish",
     "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "authentic-acidic-polish-tripe-tagine",
+    "title": "Polish Tripe Tagine",
+    "tags": [
+      "dairy-free",
+      "gluten-free",
+      "hearty-stew",
+      "kid-friendly",
+      "one-pot",
+      "polish-cuisine"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 120,
     "shard": "a"
   },
   {
