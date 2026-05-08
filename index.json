@@ -2934,6 +2934,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-dense-uruguayan-beef-stew",
+    "title": "Aromatic Dense Uruguayan Beef Stew",
+    "tags": [
+      "beef-recipe",
+      "comfort-food",
+      "gluten-free",
+      "hearty-stew",
+      "low-glycemic",
+      "south-american"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 170,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-dense-uruguayan-provola-wrap",
     "title": "Aromatic Dense Uruguayan Provola Wrap",
     "tags": [
