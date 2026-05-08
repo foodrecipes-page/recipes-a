@@ -3867,5 +3867,20 @@
     "cuisine": "Canadians",
     "totalTimeMin": 30,
     "shard": "a"
+  },
+  {
+    "slug": "ayurvedic-friendly-garlicky-tender-spanish-gambas-al-ajillo-paella",
+    "title": "Garlicky Spanish Gambas Al Ajillo Paella",
+    "tags": [
+      "easy-to-make",
+      "low-maintenance",
+      "one-pan",
+      "shrimp",
+      "spanish",
+      "weeknight"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]

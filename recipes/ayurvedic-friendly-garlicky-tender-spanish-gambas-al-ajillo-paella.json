@@ -1,0 +1,108 @@
+{
+  "title": "Garlicky Spanish Gambas Al Ajillo Paella",
+  "description": "Ayurvedic-friendly, tender shrimp and rice dish with a rich, garlicky flavor.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "Spanish paella rice"
+    },
+    {
+      "name": "shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "semiskimmed milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "safron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the shrimp and cook for 2-3 minutes, until pink and cooked through.",
+    "Add the rice and stir to coat the rice in the oil and mix with the garlic and shrimp.",
+    "Add the semiskimmed milk, tomato paste, safron threads, smoked paprika, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve hot, directly from the paella pan."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "low-maintenance",
+    "one-pan",
+    "shrimp",
+    "spanish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "ayurvedic-friendly-garlicky-tender-spanish-gambas-al-ajillo-paella",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/ayurvedic-friendly-garlicky-tender-spanish-gambas-al-ajillo-paella",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:25:42Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "pillowy",
+    "mood": "one-pot",
+    "technique": "katsuramuki-cut",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "Gambas",
+    "descriptor": "Ayurvedic-friendly, Garlicky, Tender",
+    "dishForm": "Al Ajillo Paella"
+  }
+}
