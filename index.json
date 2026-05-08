@@ -1389,6 +1389,21 @@
     "shard": "a"
   },
   {
+    "slug": "airy-flaky-northern-irish-scones-afternoon-tea",
+    "title": "Airy Flaky Northern Irish Scones Afternoon Tea",
+    "tags": [
+      "afternoon-tea",
+      "flaky-pastry",
+      "gluten-free-option",
+      "northern-irish",
+      "romantic-dish",
+      "vegetarian"
+    ],
+    "cuisine": "Northern Irish",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "airy-italian-herring-pan-fried-gnocchi",
     "title": "Airy Italian Herring Pan-Fried Gnocchi",
     "tags": [
@@ -2750,6 +2765,21 @@
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-egyptian-shrimp-pilaf",
+    "title": "Aromatic Egyptian Shrimp Pilaf",
+    "tags": [
+      "kid-friendly",
+      "low-glycemic",
+      "middle-eastern",
+      "one-pan",
+      "seafood",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {

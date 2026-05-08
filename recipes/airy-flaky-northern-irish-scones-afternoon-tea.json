@@ -1,0 +1,94 @@
+{
+  "title": "Airy Flaky Northern Irish Scones Afternoon Tea",
+  "description": "A delicate and romantic Northern Irish dish featuring flaky scones with a floral twist, perfect for afternoon tea, made with malt vinegar and incorporating anti-inflammatory friendly ingredients through the use of mantecare emulsification.",
+  "cuisine": "Northern Irish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "gluten-free alternative available"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "malt vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "3/4 cup"
+    },
+    {
+      "name": "dried rose petals",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large mixing bowl, whisk together the flour, baking powder, and salt.",
+    "Add the cold butter to the dry ingredients and use a pastry blender or fingers to work it into the mixture until it resembles coarse crumbs.",
+    "In a small bowl, whisk together the malt vinegar, heavy cream, dried rose petals, and honey.",
+    "Pour the wet ingredients into the dry ingredients and stir until the dough comes together in a shaggy mass.",
+    "Turn the dough out onto a floured surface and gently knead it a few times until it comes together.",
+    "Pat the dough into a circle that is about 1 inch thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out scones.",
+    "Place the scones on a baking sheet lined with parchment paper.",
+    "Brush the tops of the scones with a little extra heavy cream and sprinkle with sugar."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "afternoon-tea",
+    "flaky-pastry",
+    "gluten-free-option",
+    "northern-irish",
+    "romantic-dish",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "airy-flaky-northern-irish-scones-afternoon-tea",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-flaky-northern-irish-scones-afternoon-tea",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:47:04Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "romantic",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "malt vinegar",
+    "diet": "anti-inflammatory",
+    "region": "northern-irish",
+    "cuisineAdjective": "Northern Irish",
+    "mainIngredient": "scones",
+    "descriptor": "Airy Flaky",
+    "dishForm": "Afternoon Tea"
+  }
+}
