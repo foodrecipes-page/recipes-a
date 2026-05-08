@@ -2452,6 +2452,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazingly-salty-ukrainian-butternut-squash-pilaf",
+    "title": "Ukrainian Butternut Squash Pilaf",
+    "tags": [
+      "comfort-food",
+      "kid-friendly",
+      "one-pan",
+      "plant-based",
+      "salty",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-smoky-jamaican-duck-confit",
     "title": "Amazingly Smoky Jamaican Duck Confit",
     "tags": [
@@ -4347,6 +4362,21 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-snappy-malaysian-blackberry-skillet",
+    "title": "Aromatic Snappy Malaysian Blackberry Skillet",
+    "tags": [
+      "gluten-free",
+      "healthy",
+      "malaysian-cuisine",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
