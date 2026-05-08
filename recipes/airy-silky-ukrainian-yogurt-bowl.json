@@ -1,0 +1,98 @@
+{
+  "title": "Airy Silky Ukrainian Yogurt Bowl",
+  "description": "A spicy and light Ukrainian dish featuring yogurt, served in a donabe vessel, perfect for a flexitarian diet. This recipe combines the creaminess of yogurt with the tanginess of brine-wet ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "flexitarian",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, low-fat"
+    },
+    {
+      "name": "pickled cucumber",
+      "amount": "1/2 cup",
+      "notes": "brine-wet, sliced"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1/4 teaspoon",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "chopped fresh dill",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1/2 cup",
+      "notes": "raw"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the yogurt, red pepper flakes, salt, and black pepper until well combined.",
+    "Add the grated carrot and chopped fresh dill to the bowl and stir gently.",
+    "Arrange the sliced pickled cucumber in the bottom of a donabe vessel.",
+    "Spoon the yogurt mixture over the pickled cucumber.",
+    "Drizzle the honey over the top, if using.",
+    "Cover the donabe and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the Airy Silky Ukrainian Yogurt Bowl chilled, garnished with additional chopped fresh dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 45,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "flexitarian",
+    "healthy",
+    "high-protein",
+    "one-bowl",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "airy-silky-ukrainian-yogurt-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-silky-ukrainian-yogurt-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T07:55:45Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "silky",
+    "mood": "light",
+    "technique": "brine-wet",
+    "primaryIngredient": "yogurt",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "yogurt",
+    "descriptor": "airy silky",
+    "dishForm": "Bowl"
+  }
+}
