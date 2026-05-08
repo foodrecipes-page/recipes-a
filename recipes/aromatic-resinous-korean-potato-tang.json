@@ -1,0 +1,96 @@
+{
+  "title": "Aromatic Resinous Korean Potato Tang",
+  "description": "A festive Korean dish featuring potato buns cooked in a ttukbaegi earthenware pot, served in a copper mug. This satvik-friendly recipe is perfect for special occasions.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potatoes, all-purpose flour, and a pinch of salt, and mix well.",
+    "Knead the potato mixture for about 10 minutes until it forms a smooth dough.",
+    "Divide the dough into 4-6 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape to form the potato buns.",
+    "Heat the sesame oil in a ttukbaegi earthenware pot over medium heat.",
+    "Add the minced garlic and grated ginger to the pot and stir-fry for 1 minute.",
+    "Add the soy sauce and rice vinegar to the pot and stir to combine.",
+    "Add the potato buns to the pot and cook for 10-12 minutes, or until they are cooked through and lightly browned.",
+    "Serve the potato buns in a copper mug, garnished with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "copper-mug",
+    "earthenware-cook",
+    "korean-cuisine",
+    "resinous-dish",
+    "special-occasion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "aromatic-resinous-korean-potato-tang",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-resinous-korean-potato-tang",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:30:33Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crumbly",
+    "mood": "festive",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "potatoe buns",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "potatoes",
+    "descriptor": "Aromatic Resinous",
+    "dishForm": "Tang"
+  }
+}
