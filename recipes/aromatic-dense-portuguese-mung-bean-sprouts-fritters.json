@@ -1,0 +1,100 @@
+{
+  "title": "Aromatic Dense Portuguese Mung Bean Sprouts Fritters",
+  "description": "A citrusy and dense Portuguese dish featuring mung bean sprouts, perfect for festive occasions, this satvik friendly recipe is a delight to make and eat. It is a traditional Portuguese recipe with a twist of Asian flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "satvik",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mung bean sprouts",
+      "amount": "1 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "portuguese spice blend",
+      "amount": "1 teaspoon",
+      "notes": "store bought"
+    },
+    {
+      "name": "chickpea flour",
+      "amount": "1/2 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the mung bean sprouts, onion, garlic, lemon zest, and portuguese spice blend.",
+    "In a separate bowl, mix together the chickpea flour and salt.",
+    "Add the chickpea flour mixture to the mung bean sprouts mixture and mix well.",
+    "Using your hands, shape the mixture into small patties.",
+    "Coat each patty with additional chickpea flour if needed.",
+    "Fry the patties in the hot oil for 3-4 minutes on each side, until golden brown.",
+    "Remove the fritters from the oil and place them on a paper towel lined plate to drain excess oil.",
+    "Serve the fritters hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "festive-food",
+    "mung-bean-sprouts",
+    "portuguese-cuisine",
+    "satvik-friendly",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "aromatic-dense-portuguese-mung-bean-sprouts-fritters",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-dense-portuguese-mung-bean-sprouts-fritters",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:26:02Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "festive",
+    "technique": "agemono-deep-fry",
+    "primaryIngredient": "mung-bean-sprout-sukju",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "mung bean sprouts",
+    "descriptor": "Aromatic Dense",
+    "dishForm": "Fritters"
+  }
+}
