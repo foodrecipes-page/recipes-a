@@ -1,0 +1,96 @@
+{
+  "title": "Airy Sweet Saudi Arabian Milk Pudding",
+  "description": "A sweet and crispy Saudi Arabian dessert featuring sweetened condensed milk and laminated puff pastry, perfect for special occasions.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "sweetened condensed milk",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "puff pastry",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch.",
+    "In a small bowl, whisk together the sweetened condensed milk, beaten eggs, granulated sugar, rose water, and cardamom powder.",
+    "Brush the melted butter evenly over the puff pastry, leaving a 1 inch border around the edges.",
+    "Pour the milk mixture over the pastry, spreading it evenly to the edges.",
+    "Fold the 1 inch border of the pastry up over the filling to form a crust.",
+    "Brush the crust with a little bit of water and sprinkle with chopped pistachios if using.",
+    "Bake the pudding for 25-30 minutes, or until the pastry is golden brown and the filling is set.",
+    "Remove the pudding from the oven and let it cool to room temperature.",
+    "Refrigerate the pudding for at least 2 hours before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "kosher-friendly",
+    "middle-eastern",
+    "special-occasion",
+    "sweet-tooth"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "airy-sweet-saudi-arabian-milk-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-sweet-saudi-arabian-milk-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:50:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "lamination-puff",
+    "primaryIngredient": "sweetened condensed milk",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "milk",
+    "descriptor": "Airy Sweet",
+    "dishForm": "Pudding"
+  }
+}
