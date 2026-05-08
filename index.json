@@ -2227,6 +2227,20 @@
     "shard": "a"
   },
   {
+    "slug": "amazingly-tender-uruguayan-bun-empanadas",
+    "title": "Uruguayan Bun Empanadas",
+    "tags": [
+      "baked-goods",
+      "homemade",
+      "snack-time",
+      "south-american",
+      "vegetarian"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-tender-uruguayan-hind-shank-stew",
     "title": "Uruguayan Hind Shank Stew",
     "tags": [

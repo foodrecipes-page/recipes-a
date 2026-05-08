@@ -1,0 +1,95 @@
+{
+  "title": "Uruguayan Bun Empanadas",
+  "description": "These tender empanadas are a classic Uruguayan dish, made with a yeasty bun and filled with a variety of ingredients, perfect for a midnight craving. They are vegetarian friendly and can be enjoyed at any time of day.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "hard cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the flour, yeast, salt, and sugar.",
+    "Gradually add the warm water to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat the oven to 375 degrees.",
+    "Punch down the dough and divide it into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of olive oil, a few pieces of chopped onion, and a sprinkle of shredded cheese in the center of each circle.",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with a little bit of olive oil and bake for 20 minutes.",
+    "Serve the empanadas warm and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "homemade",
+    "snack-time",
+    "south-american",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "amazingly-tender-uruguayan-bun-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-tender-uruguayan-bun-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:04:42Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "midnight-craving",
+    "technique": "whisk",
+    "primaryIngredient": "bun",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Uruguayan",
+    "mainIngredient": "bun",
+    "descriptor": "amazingly tender",
+    "dishForm": "Empanadas"
+  }
+}
