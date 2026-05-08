@@ -1,0 +1,96 @@
+{
+  "title": "Airy Aerated Slovakian Pork Dumplings",
+  "description": "A traditional Slovakian dish with a twist, featuring aerated pork dumplings in a briny gochujang sauce, perfect for meal prep. This kosher-friendly recipe is a unique blend of flavors and textures.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "gochujang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork shoulder, gochujang, salt, and black pepper, and mix until just combined.",
+    "In a separate bowl, whisk together the flour, baking powder, and eggs.",
+    "Add the dry ingredients to the pork mixture and mix until a shaggy dough forms.",
+    "Knead the dough for 10 minutes until it becomes smooth and elastic.",
+    "Cover the dough with plastic wrap and let it rest for 30 minutes.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Heat the vegetable oil in a large pot over medium heat and fry the dumplings until they are golden brown.",
+    "Remove the dumplings from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Serve the dumplings hot with a side of steamed vegetables or a salad."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "kosher-friendly",
+    "meal-prep",
+    "one-pan",
+    "pork-recipe",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "airy-aerated-slovakian-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-aerated-slovakian-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:26:34Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "aerated",
+    "mood": "meal-prep",
+    "technique": "knead",
+    "primaryIngredient": "gochujang",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "Airy Aerated",
+    "dishForm": "Dumplings"
+  }
+}
