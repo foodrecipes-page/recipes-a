@@ -1,0 +1,116 @@
+{
+  "title": "Aromatic Rich Kenyan Lamb Tagine",
+  "description": "A rich and crumbly Kenyan dish featuring makrut lime leaves, perfect for a date night, made in a traditional tagine pot with ayurvedic tamasic friendly ingredients and a mantecare emulsify technique.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 2 inch pieces"
+    },
+    {
+      "name": "makrut lime leaves",
+      "amount": "4",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine pot over medium heat.",
+    "Add the onion and cook until it is translucent and starting to caramelize.",
+    "Add the garlic and ginger and cook for 1 minute, stirring constantly.",
+    "Add the lamb and cook until it is browned on all sides.",
+    "Add the cumin, coriander, cayenne pepper, salt, and black pepper, and stir to combine.",
+    "Add the makrut lime leaves and stir to combine.",
+    "Cover the tagine pot and bring the mixture to a simmer.",
+    "Reduce the heat to low and cook, covered, for 2 1/2 hours, or until the lamb is tender.",
+    "Remove the tagine pot from the heat and let it cool slightly.",
+    "Serve the lamb and sauce over rice or with naan bread."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "ayurvedic-friendly",
+    "date-night",
+    "gluten-free",
+    "kenyan-cuisine",
+    "lamb-recipes",
+    "tagine-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "aromatic-rich-kenyan-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-rich-kenyan-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:35:31Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "crumbly",
+    "mood": "date-night",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "makrut lime leaves",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "lamb",
+    "descriptor": "Aromatic Rich",
+    "dishForm": "Tagine"
+  }
+}
