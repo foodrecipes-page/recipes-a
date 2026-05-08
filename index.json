@@ -2429,6 +2429,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-algerian-quinoa-tagine",
+    "title": "Aromatic Algerian Quinoa Tagine",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "healthy",
+      "north-african",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-amber-egyptian-chicken-tagine",
     "title": "Aromatic Amber Egyptian Chicken Tagine",
     "tags": [
