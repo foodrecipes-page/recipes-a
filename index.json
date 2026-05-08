@@ -4022,6 +4022,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-light-jamaican-macaroni-pasta",
+    "title": "Aromatic Light Jamaican Macaroni Pasta",
+    "tags": [
+      "jamaican-cuisine",
+      "light-meal",
+      "meal-prep",
+      "one-pot",
+      "spicy-food"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-light-kenyan-lamb-wrap",
     "title": "Aromatic Light Kenyan Lamb Wrap",
     "tags": [
