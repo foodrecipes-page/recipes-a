@@ -1,0 +1,98 @@
+{
+  "title": "Adventurous Snappy Ethiopian Manchego Ye Beg Alichia",
+  "description": "A fatty and snappy Ethiopian dish featuring Manchego cheese, this recipe combines the flavors of Ethiopia with a low-glycemic twist, served in a traditional dolsot stone bowl. It is a unique and adventurous take on traditional Ye Beg Alichia.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Manchego cheese",
+      "amount": "1 cup shredded",
+      "notes": "aged at least 6 months"
+    },
+    {
+      "name": "khao khuas",
+      "amount": "1 cup",
+      "notes": "Thai fermented rice"
+    },
+    {
+      "name": "Ethiopian berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "dried fenugreek leaves",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the ghee in a large skillet over medium heat.",
+    "Add the sliced onion and cook until it is lightly browned.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the berbere spice and cook for 1 minute, stirring constantly.",
+    "Add the khao khuas and cook for 2 minutes, stirring frequently.",
+    "Stir in the shredded Manchego cheese until it is fully melted and incorporated.",
+    "Add the chopped cilantro and dried fenugreek leaves, stirring to combine.",
+    "Transfer the mixture to a dolsot stone bowl and serve immediately.",
+    "Garnish with additional cilantro and fenugreek leaves, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "gluten-free",
+    "international",
+    "low-glycemic",
+    "one-pot",
+    "spicy",
+    "stone-bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 30
+  },
+  "slug": "adventurous-snappy-ethiopian-manchego-ye-beg-alichia",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-snappy-ethiopian-manchego-ye-beg-alichia",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:33:01Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "adventurous",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "manchego",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "manchego",
+    "descriptor": "Adventurous Snappy",
+    "dishForm": "Ye Beg Alichia"
+  }
+}
