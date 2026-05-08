@@ -1,0 +1,92 @@
+{
+  "title": "Amazingly Crunchy Ukrainian Cheese Skewers",
+  "description": "A salty and crunchy Ukrainian dish featuring cheese slices, perfect for a date night, made possible with a tandoor and raw-friendly ingredients.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "raw-friendly",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cheese slices",
+      "amount": "12 slices",
+      "notes": "preferably Ukrainian cheese like Kiev cheese"
+    },
+    {
+      "name": "Tandoor spice mix",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bamboo skewers",
+      "amount": "12 skewers"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit.",
+    "In a bowl, mix together the tandoor spice mix, paprika, garlic powder, and salt.",
+    "Thread a cheese slice onto each bamboo skewer.",
+    "Brush the cheese slices with olive oil and sprinkle with the spice mix.",
+    "Place the skewers in the tandoor and cook for 5 minutes on each side.",
+    "Remove the skewers from the tandoor and garnish with chopped fresh parsley.",
+    "Serve the skewers immediately and enjoy.",
+    "Make sure to handle the hot skewers with care.",
+    "You can serve the skewers with a side of raw vegetables for a light dinner."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "date-night",
+    "high-protein",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "amazingly-crunchy-ukrainian-cheese-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-crunchy-ukrainian-cheese-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:21:09Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "crunchy",
+    "mood": "date-night",
+    "technique": "tandoor",
+    "primaryIngredient": "cheese slices",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "cheese",
+    "descriptor": "Amazingly Crunchy",
+    "dishForm": "Skewers"
+  }
+}
