@@ -543,6 +543,20 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-syrian-dish-wrap",
+    "title": "Syrian Massaman Lamb Wrap",
+    "tags": [
+      "adventurous",
+      "high-protein",
+      "one-pan",
+      "syrian",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-tadka-noodles",
     "title": "Adventurous Tadka Noodles",
     "tags": [

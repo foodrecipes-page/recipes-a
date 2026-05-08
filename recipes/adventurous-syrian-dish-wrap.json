@@ -1,0 +1,117 @@
+{
+  "title": "Syrian Massaman Lamb Wrap",
+  "description": "A fusion of Syrian and Southeast Asian flavors, this adventurous wrap features tender lamb, crispy vegetables, and a hint of warm spices. Serve with a side of tangy tahini sauce for dipping.",
+  "cuisine": "Syrian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Massaman curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Red pepper",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6 ssam wraps",
+      "notes": ""
+    },
+    {
+      "name": "Parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tahini sauce",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a blender or food processor, combine the Massaman curry paste, olive oil, onion, garlic, cucumber, tomato, and red pepper. Blend until smooth.",
+    "In a large bowl, combine the lamb shoulder, curry paste mixture, and a pinch of salt and pepper. Mix well to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat a grill or grill pan to medium-high heat. Remove the lamb from the refrigerator and let it sit at room temperature for 30 minutes.",
+    "Grill the lamb for 5-7 minutes per side, or until it reaches an internal temperature of 145°F (63°C).",
+    "Transfer the lamb to a cutting board and let it rest for 10 minutes before slicing it thinly.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for 5 minutes.",
+    "Assemble the wraps by placing a few slices of the lamb on each pita bread, followed by a spoonful of the tahini sauce, some parsley, and a sprinkle of sumac.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "high-protein",
+    "one-pan",
+    "syrian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 42,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "adventurous-syrian-dish-wrap",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-syrian-dish-wrap",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:38:27Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "bouncy-qq",
+    "mood": "adventurous",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "massaman-paste",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "syrian",
+    "mainIngredient": "dish",
+    "descriptor": "adventurous",
+    "dishForm": "wrap"
+  }
+}
