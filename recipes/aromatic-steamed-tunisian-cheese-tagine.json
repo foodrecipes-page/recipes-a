@@ -1,0 +1,103 @@
+{
+  "title": "Aromatic Steamed Tunisian Cheese Tagine",
+  "description": "A malty, cheese-pull, crowd-pleaser Tunisian dish featuring clotted cream, this recipe is a unique and delicious experience. It is steamed to perfection in a dolsot-stone-bowl.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "shojin"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "clotted cream",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "tunisian cheese",
+      "amount": "1 block",
+      "notes": "crumbly"
+    },
+    {
+      "name": "malt syrup",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer to 200 degrees Fahrenheit.",
+    "In a small bowl, mix together the malt syrup, olive oil, garlic, paprika, salt, and black pepper.",
+    "Place the tunisian cheese in the dolsot-stone-bowl and brush the malt syrup mixture evenly over the cheese.",
+    "Add the sliced onion on top of the cheese.",
+    "Spoon the clotted cream over the onion.",
+    "Sprinkle the chopped parsley over the clotted cream.",
+    "Place the dolsot-stone-bowl in the steamer and steam for 20 minutes.",
+    "Remove the bowl from the steamer and let it cool for 5 minutes.",
+    "Serve the Aromatic Steamed Tunisian Cheese Tagine hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-lovers",
+    "comfort-food",
+    "shojin-friendly",
+    "steamed-dishes",
+    "tunisian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 28
+  },
+  "slug": "aromatic-steamed-tunisian-cheese-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-steamed-tunisian-cheese-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:06:44Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "cheese-pull",
+    "mood": "crowd-pleaser",
+    "technique": "steam",
+    "primaryIngredient": "clotted cream",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "cheese",
+    "descriptor": "Aromatic Steamed",
+    "dishForm": "Tagine"
+  }
+}
