@@ -1,0 +1,94 @@
+{
+  "title": "Authentic Charred Scottish Sausage Skewers",
+  "description": "A traditional Scottish dish featuring charred sausages served with applesauce, grilled to perfection on a robata grill in a copper pot, suitable for a Buddhist temple gathering",
+  "cuisine": "Scottish",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Scottish sausage",
+      "amount": "1 pound",
+      "notes": "preferably made with beef and pork"
+    },
+    {
+      "name": "applesauce",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup",
+      "notes": "button mushrooms, cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to medium-high heat, approximately 400 degrees Fahrenheit, in a copper pot.",
+    "Thread the Scottish sausage, onion, bell pepper, and mushroom onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with olive oil and season with salt and black pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the sausage is charred and cooked through.",
+    "Serve the skewers hot with applesauce on the side.",
+    "Garnish with fresh parsley or rosemary, if desired.",
+    "Ensure the skewers are cooked to an internal temperature of at least 160 degrees Fahrenheit to ensure food safety."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "applesauce",
+    "copper-pot",
+    "grilled-meat",
+    "robata-grill",
+    "sausage-skewers",
+    "scottish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "authentic-charred-scottish-sausage-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/authentic-charred-scottish-sausage-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:18:18Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "robata-grill",
+    "primaryIngredient": "applesauce",
+    "diet": "buddhist-temple",
+    "region": "scottish",
+    "cuisineAdjective": "Scottish",
+    "mainIngredient": "sausages",
+    "descriptor": "authentic charred",
+    "dishForm": "Skewers"
+  }
+}
