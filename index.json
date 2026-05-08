@@ -2319,6 +2319,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazingly-aromatic-uruguayan-rice-pilaf",
+    "title": "Amazingly Aromatic Uruguayan Rice Pilaf",
+    "tags": [
+      "aromatic",
+      "gluten-free",
+      "one-pot",
+      "uruguayan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-aromatic-uruguayan-tofu-bake",
     "title": "Amazingly Aromatic Uruguayan Tofu Bake",
     "tags": [
