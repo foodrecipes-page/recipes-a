@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Light Norwegian Lamb Stew",
+  "description": "A keto-friendly and umami-rich lamb stew featuring sage and braised to perfection, perfect for a post-workout dinner",
+  "cuisine": "Norwegian",
+  "diet": [
+    "keto",
+    "low-carb",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 1.5 inch cubes"
+    },
+    {
+      "name": "sage leaves",
+      "amount": "6",
+      "notes": "fresh"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lamb broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "0.5 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit",
+    "Season the lamb cubes with salt and black pepper",
+    "Heat the olive oil in a large Dutch oven over medium-high heat",
+    "Sear the lamb cubes until browned on all sides, about 5 minutes",
+    "Add the chopped onion to the pot and cook until translucent, about 5 minutes",
+    "Add the minced garlic and cook for an additional minute",
+    "Add the lamb broth, sage leaves, and browned lamb cubes to the pot",
+    "Cover the pot and transfer it to the preheated oven",
+    "Braise the stew for 2.5 hours, or until the lamb is tender",
+    "Remove the pot from the oven and let it cool slightly"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "keto-friendly",
+    "low-carb",
+    "norwegian-cuisine",
+    "one-pot",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "aromatic-light-norwegian-lamb-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-light-norwegian-lamb-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T23:24:05Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "light",
+    "mood": "post-workout",
+    "technique": "braise",
+    "primaryIngredient": "sage",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Aromatic Light",
+    "dishForm": "Stew"
+  }
+}
