@@ -1,0 +1,99 @@
+{
+  "title": "Aerated Spicy Italian Cucumber Suppli",
+  "description": "A spicy Italian dish featuring cucumber, served as a solo dinner in a cast-iron skillet, this ovo-vegetarian friendly recipe is a twist on traditional suppli, with an aerated texture from the egg and cheese mixture.",
+  "cuisine": "Italian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cucumber",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "spicy italian seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat the broiler to 400 degrees Fahrenheit.",
+    "In a large bowl, combine the grated cucumber, parmesan cheese, eggs, flour, spicy italian seasoning, salt, and black pepper, and mix well.",
+    "Heat the olive oil in a 10-inch cast-iron skillet over medium heat.",
+    "Pour the cucumber mixture into the skillet and cook for 2 minutes.",
+    "Transfer the skillet to the preheated broiler and broil for 5 minutes, or until the top is golden brown.",
+    "Remove the skillet from the oven and sprinkle the shredded mozzarella cheese on top.",
+    "Return the skillet to the oven and broil for an additional 2 minutes, or until the cheese is melted and bubbly.",
+    "Remove the skillet from the oven and let it cool for a few minutes.",
+    "Use a spatula to carefully loosen the edges of the suppli from the skillet.",
+    "Slide the suppli out of the skillet onto a plate and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "aerated-texture",
+    "cast-iron-skillet",
+    "italian-food",
+    "one-pan",
+    "ovo-vegetarian",
+    "spicy-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "aerated-spicy-italian-cucumber-suppli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-spicy-italian-cucumber-suppli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:56:19Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "broil",
+    "primaryIngredient": "cucumber",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "cucumber",
+    "descriptor": "Aerated Spicy",
+    "dishForm": "Suppli"
+  }
+}
