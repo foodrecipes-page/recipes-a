@@ -1,0 +1,96 @@
+{
+  "title": "Aromatic Flaky Egyptian Refried Beans Flatbread",
+  "description": "This pungent and cozy Egyptian dish features refried beans on a flaky flatbread made with long-fermentation dough, perfect for a satisfying lunch.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "refried beans",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "long-fermentation dough",
+      "amount": "2 cups",
+      "notes": "gluten-free friendly"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the slate tile in a warm place for 30 minutes before baking.",
+    "Roll out the long-fermentation dough to a thickness of about 1/4 inch.",
+    "Spread the refried beans evenly over the dough, leaving a 1 inch border around the edges.",
+    "Drizzle the olive oil over the beans and sprinkle with minced garlic, onion, cumin, coriander, salt, and black pepper.",
+    "Fold the edges of the dough over the beans to form a crust.",
+    "Place the flatbread on the preheated slate tile and bake in a preheated oven at 400 degrees Fahrenheit for 25 minutes.",
+    "Remove the flatbread from the oven and let it cool for 5 minutes before slicing and serving.",
+    "Serve the flatbread warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meals",
+    "flatbread",
+    "gluten-free",
+    "lunch-ideas",
+    "middle-eastern",
+    "refried-beans"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "aromatic-flaky-egyptian-refried-beans-flatbread",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-flaky-egyptian-refried-beans-flatbread",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:14:56Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "flaky",
+    "mood": "cozy",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "refried beans",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "refried beans",
+    "descriptor": "Aromatic flaky",
+    "dishForm": "Flatbread"
+  }
+}
