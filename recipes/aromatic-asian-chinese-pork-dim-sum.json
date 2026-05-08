@@ -1,0 +1,98 @@
+{
+  "title": "Aromatic Asian Chinese Pork Dim Sum",
+  "description": "A flexitarian-friendly Chinese dish featuring pork and thai-bird-chili, served in a dim sum form and grilled to perfection on a robata grill, perfect for a lazy Sunday",
+  "cuisine": "Chinese",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "ground"
+    },
+    {
+      "name": "thai bird chili",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the robata grill to 400 degrees Fahrenheit",
+    "In a large bowl, combine the ground pork, sliced thai bird chili, grated ginger, and minced garlic",
+    "Mix well until all the ingredients are fully incorporated",
+    "Add the soy sauce and sesame oil to the bowl and mix until the pork mixture is well coated",
+    "Lay a wonton wrapper on a flat surface and place a tablespoon of the pork mixture in the center of the wrapper",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper",
+    "Fold the wrapper into a triangle and press the edges together to seal the dim sum",
+    "Repeat the process with the remaining wrappers and pork mixture",
+    "Grill the dim sum on the robata grill for 2-3 minutes on each side, or until they are cooked through and slightly charred",
+    "Serve the dim sum hot, garnished with chopped scallions"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "dim-sum",
+    "flexitarian",
+    "grilled",
+    "pork-dishes",
+    "robata-grill",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "slug": "aromatic-asian-chinese-pork-dim-sum",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-asian-chinese-pork-dim-sum",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:26:38Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "glassy-jelly",
+    "mood": "lazy-sunday",
+    "technique": "dum",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "Aromatic Asian",
+    "dishForm": "Dim Sum"
+  }
+}

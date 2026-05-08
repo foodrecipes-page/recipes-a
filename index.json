@@ -2653,6 +2653,22 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-asian-chinese-pork-dim-sum",
+    "title": "Aromatic Asian Chinese Pork Dim Sum",
+    "tags": [
+      "asian-inspired",
+      "dim-sum",
+      "flexitarian",
+      "grilled",
+      "pork-dishes",
+      "robata-grill",
+      "spicy"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-asian-chinese-tofu-noodles",
     "title": "Aromatic Asian Chinese Tofu Noodles",
     "tags": [
