@@ -1,0 +1,103 @@
+{
+  "title": "Amazingly Smoky Jamaican Duck Confit",
+  "description": "A smoky and cozy Jamaican dish featuring duck confit leg, this recipe is sugar-free friendly and perfect for a special occasion. The glassy-jelly texture and flambe technique add to its unique flavor and presentation.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "sugar-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "4",
+      "notes": "preferably with skin"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Brown mustard",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Jamaican allspice",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Rum",
+      "amount": "1/4 cup",
+      "notes": "optional for flambe"
+    },
+    {
+      "name": "Duck fat",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a small bowl, mix together smoked paprika, brown mustard, Jamaican allspice, thyme, garlic powder, salt, and black pepper.",
+    "Rub the spice mixture all over the duck legs, making sure to get some under the skin as well.",
+    "Place the duck legs in a large Dutch oven and pour in the duck fat, making sure the legs are completely submerged.",
+    "Cover the Dutch oven with a lid and transfer it to the preheated oven.",
+    "Braise the duck legs for 2 1/2 hours, or until the meat is tender and falls off the bone.",
+    "Remove the Dutch oven from the oven and let it cool slightly.",
+    "If using rum, carefully pour it over the duck legs and ignite it with a match, being cautious of the flames.",
+    "Let the flames burn for about 30 seconds to 1 minute, or until the rum has almost completely evaporated.",
+    "Serve the duck confit legs hot, garnished with fresh thyme and scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "confit-technique",
+    "duck-recipes",
+    "jamaican-cuisine",
+    "smoky-flavors",
+    "special-occasion",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 45
+  },
+  "slug": "amazingly-smoky-jamaican-duck-confit",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-smoky-jamaican-duck-confit",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:27:22Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "glassy-jelly",
+    "mood": "cozy",
+    "technique": "flambe",
+    "primaryIngredient": "duck-confit-leg",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "duck",
+    "descriptor": "Amazingly Smoky",
+    "dishForm": "Confit"
+  }
+}
