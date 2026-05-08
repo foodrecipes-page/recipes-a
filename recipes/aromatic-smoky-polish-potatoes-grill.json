@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Smoky Polish Potatoes Grill",
+  "description": "A light and bitter Polish dish featuring grilled potatoes, perfect for a monsoon day, made dairy-free-friendly using a binchotan grill.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy-free",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled and sliced into 1/2 inch thick rounds"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, toss the sliced potatoes with smoked paprika, garlic powder, onion powder, salt, and black pepper until they are evenly coated.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the potato slices for about 5 minutes per side, or until they are tender and lightly charred.",
+    "Remove the potatoes from the grill and sprinkle with chopped parsley.",
+    "Drizzle the grilled potatoes with lemon juice and serve immediately.",
+    "Let the potatoes cool for a few minutes before serving to allow the flavors to meld together.",
+    "Serve the Aromatic Smoky Polish Potatoes Grill hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "gluten-free",
+    "grilled-vegetables",
+    "monsoon-recipes",
+    "polish-cuisine",
+    "smoky-flavors",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 8
+  },
+  "slug": "aromatic-smoky-polish-potatoes-grill",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-smoky-polish-potatoes-grill",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:15:38Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "light",
+    "mood": "monsoon",
+    "technique": "grill",
+    "primaryIngredient": "potatoes",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Aromatic Smoky",
+    "dishForm": "Grill"
+  }
+}
