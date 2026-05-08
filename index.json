@@ -3177,6 +3177,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-saudi-arabian-lentil-grill",
+    "title": "Aromatic Saudi Arabian Lentil Grill",
+    "tags": [
+      "grilled",
+      "high-protein",
+      "lentil-based",
+      "middle-eastern",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-saudi-water-chestnut-tagine",
     "title": "Aromatic Saudi Water Chestnut Tagine",
     "tags": [
