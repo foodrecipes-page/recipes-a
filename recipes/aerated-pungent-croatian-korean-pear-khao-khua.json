@@ -1,0 +1,114 @@
+{
+  "title": "Aerated Pungent Croatian Korean-pear Khao-Khua",
+  "description": "A hangover-cure dish featuring aerated Khao-Khua, Korean-pear, and pungent Croatian spices. Savory and aromatic, pairs well with a morning brew.",
+  "cuisine": "Croatian",
+  "diet": [
+    "Whole30"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Korean-pear",
+      "amount": "1",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Khao-Khua",
+      "amount": "1 cup",
+      "notes": "dry, uncooked rice"
+    },
+    {
+      "name": "Croatian black pepper",
+      "amount": "2 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Cayenne pepper",
+      "amount": "1 tsp",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "coarse, unrefined"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "filtered water"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Black sesame seeds",
+      "amount": "1 tsp",
+      "notes": "toasted and ground"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a kadhai over medium heat.",
+    "Add garlic and saut\u00113; for 1 minute, until fragrant.",
+    "Add 1 cup of rice to the kadhai and stir to coat with ghee and garlic.",
+    "Add 1 cup of water to the kadhai and stir to combine.",
+    "Bring to a boil, then reduce heat to low, cover, and simmer for 10 minutes.",
+    "While rice cooks, toast 1 tsp of black sesame seeds in a dry pan over medium heat, stirring frequently.",
+    "Grind toasted sesame seeds into a fine powder using a spice grinder.",
+    "Stir sesame powder into cooked rice and mix well.",
+    "Stir in cayenne pepper, salt, black pepper, and cinnamon.",
+    "Stir in diced Korean-pear and cook for 2 minutes, until heated through.",
+    "To aerate the Khao-Khua, lift the kadhai off the heat and let the mixture rest for 5 minutes, before fluffing with a fork.",
+    "Serve immediately, garnished with additional black sesame seeds if desired.",
+    "Adjust seasoning as needed before serving.",
+    "Garnish with cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "comfort-food",
+    "easy-to-make",
+    "main-course",
+    "morning-cure",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 8,
+    "carbs": 80,
+    "fat": 24
+  },
+  "slug": "aerated-pungent-croatian-korean-pear-khao-khua",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-pungent-croatian-korean-pear-khao-khua",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T07:53:44Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "aerated",
+    "mood": "hangover-cure",
+    "technique": "fry-grind-rice-khao-khua",
+    "primaryIngredient": "korean-pear",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "korean-pear",
+    "descriptor": "Aerated Pungent",
+    "dishForm": "Khao-Khua"
+  }
+}
