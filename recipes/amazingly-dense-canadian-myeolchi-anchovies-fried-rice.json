@@ -1,0 +1,101 @@
+{
+  "title": "Amazingly Dense Canadian Myeolchi Anchovies Fried Rice",
+  "description": "A dense and flavorful Canadian dish featuring myeolchi anchovies, double fry KFC style, and plant based friendly, cooked on a salt block vessel.",
+  "cuisine": "Canadian",
+  "diet": [
+    "plant-based",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "myeolchi anchovies",
+      "amount": "1 cup",
+      "notes": "dried and crushed"
+    },
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day old"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet over medium high heat to 350 degrees Fahrenheit.",
+    "Double fry the myeolchi anchovies by frying them for 2 minutes, then letting them cool, and frying them again for 1 minute until crispy.",
+    "In the same skillet, add the diced onion and cook until translucent for 3 minutes.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the cooked rice to the skillet, breaking up any clumps with a spatula, and stir fry for 5 minutes.",
+    "Add the soy sauce, salt, and pepper to the rice mixture and stir fry for 1 minute until well combined.",
+    "Add the double fried myeolchi anchovies to the rice mixture and stir fry for 1 minute until well combined.",
+    "Transfer the rice mixture to a salt block vessel and cook for 2 minutes on each side until a crust forms.",
+    "Garnish with chopped scallions and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-cuisine",
+    "double-fry",
+    "fried-rice",
+    "pescatarian",
+    "plant-based",
+    "salt-block"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "amazingly-dense-canadian-myeolchi-anchovies-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-dense-canadian-myeolchi-anchovies-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:04:47Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "myeolchi-anchovies",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "myeolchi anchovies",
+    "descriptor": "amazingly dense",
+    "dishForm": "Fried-Rice"
+  }
+}
