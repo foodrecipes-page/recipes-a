@@ -1,0 +1,106 @@
+{
+  "title": "airy norwegian halibut salad",
+  "description": "a light and refreshing norwegian-inspired salad featuring halibut, kimchi and peanut oil, perfect for a date night dinner",
+  "cuisine": "norwegian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "halibut fillets",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "kimchi",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "peanut oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickled red onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "start by preparing the kimchi, peel and slice 1/2 cup of cucumber, and place it in a bowl with 2 tbsp of kimchi and 1 tbsp of soy sauce. refrigerate for at least 30 minutes.",
+    "cut the halibut fillets into 1-inch pieces and place them on a plate. drizzle with 1 tbsp of peanut oil and season with salt and pepper.",
+    "heat 1-2 tbsp of peanut oil in a large skillet over medium-high heat. add the halibut and cook for 2-3 minutes per side, or until cooked through.",
+    "remove the halibut from the skillet and set it aside to rest. add the remaining 1/4 cup of peanut oil to the skillet and stir in 2 tbsp of kimchi and 1 tbsp of pickled red onion.",
+    "add the chopped cilantro and toasted sesame seeds to the skillet and stir to combine. season with salt and pepper to taste.",
+    "to assemble the salad, place the halibut on a plate and top with the kimchi-sesame seed mixture. drizzle with lemon juice and honey to taste.",
+    "garnish with additional cilantro and sesame seeds if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 6,
+  "totalTimeMin": 21,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "fish",
+    "high-protein",
+    "norwegian",
+    "raw-friendly",
+    "salad",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 50,
+    "carbs": 10,
+    "fat": 24
+  },
+  "slug": "airy-norwegian-halibut-salad",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-norwegian-halibut-salad",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T16:43:08Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "peanut oil",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "Halibut",
+    "descriptor": "Airy",
+    "dishForm": "Salad"
+  }
+}
