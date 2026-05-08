@@ -1,0 +1,122 @@
+{
+  "title": "Aromatic Indian Chana Masala",
+  "description": "Resinous and crispy, this Indian dish is perfect for a lazy Sunday. Chana masala is a popular North Indian recipe made with chickpeas in a rich tomato-based sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "diabetic-friendly",
+    "vegetarian",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 can",
+      "notes": "crushed"
+    },
+    {
+      "name": "chana masala spice mix",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "celery salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat.",
+    "Add onion, ginger, and garlic; cook until onion is translucent.",
+    "Add chickpeas, chana masala spice mix, turmeric, cumin, coriander, and celery salt; cook for 1 minute.",
+    "Add crushed tomatoes and 1 cup of water; bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Stir in beurre-monte and ghee.",
+    "Season with salt to taste.",
+    "Serve hot garnished with fresh cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chana-masala",
+    "comfort-food",
+    "easy-to-make",
+    "healthy",
+    "high-protein",
+    "indian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "aromatic-indian-chana-masala",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-indian-chana-masala",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T09:16:48Z",
+  "axes": {
+    "flavor": "resinous",
+    "texture": "crispy",
+    "mood": "lazy-sunday",
+    "technique": "beurre-monte",
+    "primaryIngredient": "celery salt",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "chana",
+    "descriptor": "Aromatic",
+    "dishForm": "Masala"
+  }
+}

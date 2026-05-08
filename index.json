@@ -2743,6 +2743,23 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-indian-chana-masala",
+    "title": "Aromatic Indian Chana Masala",
+    "tags": [
+      "chana-masala",
+      "comfort-food",
+      "easy-to-make",
+      "healthy",
+      "high-protein",
+      "indian",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-indian-lentil-curry",
     "title": "Aromatic Indian Lentil Curry",
     "tags": [
