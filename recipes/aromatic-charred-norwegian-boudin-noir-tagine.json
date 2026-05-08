@@ -1,0 +1,107 @@
+{
+  "title": "Aromatic Charred Norwegian Boudin Noir Tagine",
+  "description": "A hearty Norwegian dish featuring charred boudin noir, flambe, and aromatic spices, cooked in a traditional clay tagine, perfect for a cozy dinner, and FODMAP friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "FODMAP friendly",
+    "gluten free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boudin noir",
+      "amount": "4 links",
+      "notes": "Norwegian blood sausage"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic infused oil",
+      "amount": "1 tablespoon",
+      "notes": "FODMAP friendly substitute for garlic"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "flambe liquor",
+      "amount": "2 tablespoons",
+      "notes": "such as cognac or rum"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the boudin noir links with cumin, coriander, and cayenne pepper.",
+    "Heat the olive oil in the clay tagine over medium heat.",
+    "Add the sliced onion to the tagine and cook until caramelized, stirring occasionally.",
+    "Add the grated ginger and garlic infused oil to the tagine and cook for 1 minute.",
+    "Add the seasoned boudin noir links to the tagine and cook until browned on all sides.",
+    "Add the chicken broth to the tagine and bring to a simmer.",
+    "Cover the tagine with a lid and transfer to the preheated oven.",
+    "Bake for 20 minutes, then remove the lid and continue baking for an additional 10 minutes, or until the boudin noir is charred and crispy.",
+    "Remove the tagine from the oven and carefully flambe the dish with the flambe liquor.",
+    "Serve the charred boudin noir hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dinner-ideas",
+    "fodmap-friendly",
+    "gluten-free",
+    "norwegian-cuisine",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "aromatic-charred-norwegian-boudin-noir-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-charred-norwegian-boudin-noir-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:13:46Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crisp",
+    "mood": "cozy",
+    "technique": "flambe",
+    "primaryIngredient": "boudin-noir",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "boudin noir",
+    "descriptor": "Aromatic Charred",
+    "dishForm": "Tagine"
+  }
+}
