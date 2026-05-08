@@ -1,0 +1,130 @@
+{
+  "title": "Aromatic Spiced Polish Beef Stew",
+  "description": "A hearty, comforting Polish dish featuring tender beef, aromatic spices and a rich, jammy sauce.",
+  "cuisine": "Polish",
+  "diet": [
+    "ayurvedic",
+    "tamasic-friendly"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound (450g)",
+      "notes": ""
+    },
+    {
+      "name": "red onions",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "red chilli powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "dashi extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot, set aside.",
+    "Add onions to pot and cook until softened, about 5 minutes.",
+    "Add carrots and potatoes to pot, cook for 5 minutes.",
+    "Add flour to pot, stir to combine.",
+    "Cook for 1 minute.",
+    "Gradually add beef broth, red wine, and apple cider vinegar.",
+    "Bring to a boil, then reduce heat to low.",
+    "Return beef to pot.",
+    "Add red chilli powder, dashi extract, black pepper, and salt.",
+    "Cover and simmer for 2 hours, or until beef is tender.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-stew",
+    "comfort-food",
+    "hearty",
+    "high-protein",
+    "one-pot-meal",
+    "polish",
+    "weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 24
+  },
+  "slug": "aromatic-spiced-polish-beef-stew",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-spiced-polish-beef-stew",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T18:07:09Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "gooey",
+    "mood": "comforting",
+    "technique": "dashi-extract",
+    "primaryIngredient": "red chilli powder",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "beef",
+    "descriptor": "Aromatic Spiced",
+    "dishForm": "Stew"
+  }
+}

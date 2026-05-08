@@ -4110,6 +4110,22 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-spiced-polish-beef-stew",
+    "title": "Aromatic Spiced Polish Beef Stew",
+    "tags": [
+      "beef-stew",
+      "comfort-food",
+      "hearty",
+      "high-protein",
+      "one-pot-meal",
+      "polish",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 135,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-spicy-canadian-napa-cabbage-stir-fry",
     "title": "Aromatic Spicy Canadian Napa Cabbage Stir Fry",
     "tags": [
