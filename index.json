@@ -1811,6 +1811,20 @@
     "shard": "a"
   },
   {
+    "slug": "amazingly-aromatic-brazilian-beef-roast",
+    "title": "Amazingly Aromatic Brazilian Beef Roast",
+    "tags": [
+      "beef-recipes",
+      "brazilian-cuisine",
+      "macrobiotic-friendly",
+      "roast-dinner",
+      "special-occasion"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 150,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-aromatic-british-prune-scones",
     "title": "Amazingly Aromatic British Prune Scones",
     "tags": [

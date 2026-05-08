@@ -1,0 +1,96 @@
+{
+  "title": "Amazingly Aromatic Brazilian Beef Roast",
+  "description": "This indulgent Brazilian dish features a tender beef roast served with a tangy gherkin relish, making for a truly unforgettable meal. The combination of yeasty and springy flavors creates a unique taste experience.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef roast",
+      "amount": "3 pounds",
+      "notes": "grass fed"
+    },
+    {
+      "name": "gherkin relish",
+      "amount": "1 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "sea salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "yeast extract",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325 degrees Fahrenheit.",
+    "Season the beef roast with sea salt and black pepper.",
+    "Heat the olive oil in a large Dutch oven over medium high heat.",
+    "Sear the beef roast on all sides until browned.",
+    "Add the sliced onion to the pot and cook until it is translucent.",
+    "Add the garlic and cook for an additional minute.",
+    "Add the yeast extract and stir to combine.",
+    "Transfer the pot to the preheated oven and roast for 2 hours.",
+    "While the roast is cooking, prepare the gherkin relish according to the package instructions.",
+    "Once the roast is cooked, let it rest for 10 minutes before slicing and serving with the gherkin relish and chopped parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef-recipes",
+    "brazilian-cuisine",
+    "macrobiotic-friendly",
+    "roast-dinner",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 10,
+    "fat": 42
+  },
+  "slug": "amazingly-aromatic-brazilian-beef-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-aromatic-brazilian-beef-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T11:49:58Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "springy",
+    "mood": "indulgent",
+    "technique": "roast",
+    "primaryIngredient": "gherkin relish",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "Amazingly aromatic",
+    "dishForm": "Roast"
+  }
+}
