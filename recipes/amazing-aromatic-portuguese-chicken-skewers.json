@@ -1,0 +1,98 @@
+{
+  "title": "Amazing Aromatic Portuguese Chicken Skewers",
+  "description": "Tangy and molten, these Portuguese chicken skewers are full of energizing flavor, featuring bouillon cubes and a char-grill yang, all while being FODMAP-friendly.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "bouillon cubes",
+      "amount": "2 cubes",
+      "notes": "dissolved in 1/4 cup water"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together the dissolved bouillon cubes, olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken breast pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "Brush the skewers with lemon juice during the last 2 minutes of grilling.",
+    "Remove the skewers from the grill and sprinkle with chopped parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "grilled",
+    "high-protein",
+    "one-pan",
+    "portuguese-inspired",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "amazing-aromatic-portuguese-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-aromatic-portuguese-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:34:55Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "molten",
+    "mood": "energizing",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "bouillon cubes",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic Amazing",
+    "dishForm": "Skewers"
+  }
+}
