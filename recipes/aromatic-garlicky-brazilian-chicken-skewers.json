@@ -1,0 +1,92 @@
+{
+  "title": "Aromatic Garlicky Brazilian Chicken Skewers",
+  "description": "A garlicky and snappy post-workout Brazilian dish featuring chicken stock cube and caramelized onions, made with ayurvedic-sattvic-friendly ingredients",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "chicken stock cube",
+      "amount": "2 cubes"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, whisk together chicken stock cube, garlic, salt, black pepper, and paprika",
+    "Add the chicken to the bowl and toss to coat with the marinade",
+    "Thread the chicken onto skewers, leaving a small space between each piece",
+    "Brush the onion slices with coconut oil and grill for 5 minutes per side, or until caramelized",
+    "Grill the chicken skewers for 8-10 minutes, or until cooked through",
+    "Serve the chicken skewers with caramelized onions and your choice of sides"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-inspired",
+    "dairy-free",
+    "gluten-free",
+    "grilled",
+    "high-protein"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "aromatic-garlicky-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-garlicky-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:13:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "snappy",
+    "mood": "post-workout",
+    "technique": "caramelize",
+    "primaryIngredient": "chicken stock cube",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "aromatic garlicky",
+    "dishForm": "Skewers"
+  }
+}

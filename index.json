@@ -3621,6 +3621,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-garlicky-brazilian-chicken-skewers",
+    "title": "Aromatic Garlicky Brazilian Chicken Skewers",
+    "tags": [
+      "brazilian-inspired",
+      "dairy-free",
+      "gluten-free",
+      "grilled",
+      "high-protein"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-greek-chicken-avgolemono",
     "title": "Aromatic Greek Chicken Avgolemono",
     "tags": [
@@ -4308,6 +4322,21 @@
     ],
     "cuisine": "Ukrainian",
     "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-silky-dutch-oats-pudding",
+    "title": "Aromatic Silky Dutch Oats Pudding",
+    "tags": [
+      "dutch-cuisine",
+      "healthy-dessert",
+      "oat-based",
+      "post-workout",
+      "refrigerate",
+      "sugar-free"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 15,
     "shard": "a"
   },
   {
