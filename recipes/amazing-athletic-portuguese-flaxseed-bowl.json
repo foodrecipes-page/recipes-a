@@ -1,0 +1,96 @@
+{
+  "title": "Amazing Athletic Portuguese Flaxseed Bowl",
+  "description": "A post-workout Portuguese dish featuring fermented flaxseed, this bowl is designed to help athletes recover with a low-glycemic friendly meal.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "1/2 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "plain yogurt",
+      "amount": "1 cup"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "portuguese sea salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "chia seeds",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "shredded coconut",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, mix together the ground flaxseed and lemon juice to create a flaxseed gel.",
+    "Let the flaxseed gel sit for 5 minutes to thicken.",
+    "In a blender, combine the plain yogurt, honey, olive oil, salt, and portuguese sea salt, and blend until smooth.",
+    "Add the flaxseed gel to the blender and blend until well combined.",
+    "Stir in the chia seeds and shredded coconut.",
+    "Pour the mixture into a bowl and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve the bowl chilled, garnished with additional shredded coconut if desired.",
+    "Emulsify the mixture by stirring it vigorously before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy-snack",
+    "low-glycemic",
+    "portuguese",
+    "post-workout"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "slug": "amazing-athletic-portuguese-flaxseed-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-athletic-portuguese-flaxseed-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T14:54:31Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "shattering",
+    "mood": "post-workout",
+    "technique": "emulsify",
+    "primaryIngredient": "flaxseed",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "flaxseed",
+    "descriptor": "Amazing Athletic",
+    "dishForm": "Bowl"
+  }
+}
