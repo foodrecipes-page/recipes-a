@@ -1,0 +1,99 @@
+{
+  "title": "Airy Croatian Kabanos Skewers",
+  "description": "A light and flavorful Croatian dish featuring Polish kabanos, perfect for a quick snack or meal, this Whole30-friendly recipe is made with a mustardy twist and cooked to perfection on a raclette-grill.",
+  "cuisine": "Croatian",
+  "diet": [
+    "Whole30",
+    "Gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Polish kabanos",
+      "amount": "12 slices",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1/4 cup",
+      "notes": "whole-grain"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/2 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "Egg",
+      "amount": "2 large",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "fine"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette-grill to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the mustard, coconut cream, egg, salt, and black pepper until well combined.",
+    "Add the chopped parsley and lemon juice to the bowl and stir until the mixture is smooth.",
+    "Thread a slice of kabanos onto each skewer, leaving a small space between each piece.",
+    "Dip each skewer into the mustard mixture, coating the kabanos evenly.",
+    "Place the skewers on the preheated raclette-grill and cook for 5 minutes, or until the kabanos is lightly browned.",
+    "Serve the skewers hot, garnished with additional parsley if desired.",
+    "Knead any leftover mustard mixture into a small ball and serve on the side as a dipping sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "croatian-cuisine",
+    "easy-snack",
+    "gluten-free",
+    "mustard-based",
+    "polish-inspired",
+    "whole30"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "airy-croatian-kabanos-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-croatian-kabanos-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:15:41Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "pillowy",
+    "mood": "light",
+    "technique": "knead",
+    "primaryIngredient": "polish kabanos",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "kabanos",
+    "descriptor": "airy pillowy",
+    "dishForm": "Skewers"
+  }
+}
