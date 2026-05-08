@@ -1,0 +1,96 @@
+{
+  "title": "Amazingly Crisp German Paneer Skillet",
+  "description": "A nutty and crisp German dish featuring paneer, this lacto-vegetarian-friendly recipe is a nostalgic treat, kneaded to perfection with a blend of spices and herbs.",
+  "cuisine": "German",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a large skillet over medium heat and melt 1 tablespoon of butter.",
+    "Add the chopped onion and cook until it is translucent and starting to caramelize.",
+    "Add the minced garlic and cook for an additional minute, stirring constantly to prevent burning.",
+    "Add the caraway seeds, salt, and black pepper, and stir to combine.",
+    "Add the paneer to the skillet, cutting it into small cubes if necessary, and cook until it is golden brown on all sides.",
+    "Add the remaining 1 tablespoon of butter to the skillet and stir to combine.",
+    "Sprinkle the chopped parsley over the top of the paneer and stir to combine.",
+    "Reduce heat to low and simmer the mixture for 5 minutes, stirring occasionally.",
+    "Serve the Amazingly Crisp German Paneer Skillet hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german-cuisine",
+    "high-protein",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "amazingly-crisp-german-paneer-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-crisp-german-paneer-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:21:09Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "crisp",
+    "mood": "nostalgic",
+    "technique": "knead",
+    "primaryIngredient": "paneer",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "German",
+    "mainIngredient": "paneer",
+    "descriptor": "amazingly crisp",
+    "dishForm": "Skillet"
+  }
+}
