@@ -1,0 +1,98 @@
+{
+  "title": "Airy Aerated Egyptian Lamb Pasta",
+  "description": "Savory Egyptian dish featuring tagliatelle, lamb, and a light airy texture, perfect for a solo dinner",
+  "cuisine": "Egyptian",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tagliatelle",
+      "amount": "8 oz",
+      "notes": "dried"
+    },
+    {
+      "name": "lamb shoulder",
+      "amount": "1 lb",
+      "notes": "ground"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the tagliatelle according to the package instructions",
+    "In a large skillet, heat the olive oil over medium-high heat and cook the lamb until browned, breaking it up into small pieces as it cooks",
+    "Add the chopped onion to the skillet and cook until it is translucent",
+    "Add the minced garlic to the skillet and cook for 1 minute",
+    "Stir in the tomato paste, salt, black pepper, and paprika, and cook for 1 minute",
+    "Drain the cooked tagliatelle and add it to the skillet, tossing to combine with the lamb and sauce",
+    "Use a fork to aerate the pasta, lifting and separating the strands to create a light and airy texture",
+    "Serve the pasta hot, garnished with chopped fresh parsley or cilantro if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "high-protein",
+    "lamb",
+    "one-pan",
+    "pasta",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 750,
+    "protein": 50,
+    "carbs": 60,
+    "fat": 30
+  },
+  "slug": "airy-aerated-egyptian-lamb-pasta",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-aerated-egyptian-lamb-pasta",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T17:32:36Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "fry",
+    "primaryIngredient": "tagliatelle",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "lamb",
+    "descriptor": "Airy Aerated",
+    "dishForm": "Pasta"
+  }
+}
