@@ -1,0 +1,104 @@
+{
+  "title": "Adventurous Aerated Croatian Vegetable Skewers",
+  "description": "A buttery and aerated Croatian dish featuring white vinegar and wok-hei, made with ayurvedic-sattvic-friendly ingredients. This recipe is perfect for adventurous eaters looking to try something new.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "white vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together olive oil, white vinegar, salt, and black pepper.",
+    "Add the cut vegetables to the bowl and toss to coat with the marinade.",
+    "Thread the marinated vegetables onto skewers, leaving a small space between each piece.",
+    "Brush the grill with butter to prevent sticking.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the vegetables are tender and lightly charred.",
+    "Remove the skewers from the grill and sprinkle with chopped parsley.",
+    "Serve the skewers hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "colorful",
+    "easy-to-make",
+    "grilled",
+    "healthy",
+    "summer",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 12
+  },
+  "slug": "adventurous-aerated-croatian-vegetable-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-aerated-croatian-vegetable-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:17:38Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "wok-hei",
+    "primaryIngredient": "white vinegar",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Adventurous Aerated",
+    "dishForm": "Skewers"
+  }
+}
