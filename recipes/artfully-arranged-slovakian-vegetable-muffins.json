@@ -1,0 +1,101 @@
+{
+  "title": "Artfully Arranged Slovakian Vegetable Muffins",
+  "description": "Earthly and tender, these Slovakian vegetable muffins are a show-off dish featuring sashimi-cut vegetables, perfect for a vegetarian-friendly meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "grated carrot",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated zucchini",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together the flour, baking powder, and salt.",
+    "In a separate bowl, whisk together the grated carrot, grated zucchini, chopped scallions, and shredded cheese.",
+    "Add the egg, milk, and olive oil to the bowl with the vegetables and stir until combined.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Divide the batter evenly among 12 muffin cups.",
+    "Bake for 20 minutes, or until the muffins are golden brown.",
+    "Allow the muffins to cool in the pan for 5 minutes, then transfer them to a wire rack to cool completely.",
+    "Slice the muffins in half and arrange on a tagliere with sashimi-cut vegetables.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "lunch",
+    "muffins",
+    "sashimi-cut",
+    "slovakian",
+    "tagliere",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 2
+  },
+  "slug": "artfully-arranged-slovakian-vegetable-muffins",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/artfully-arranged-slovakian-vegetable-muffins",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:07:47Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "tender",
+    "mood": "show-off",
+    "technique": "sashimi-cut",
+    "primaryIngredient": "muffins",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "vegetables",
+    "descriptor": "Artfully Arranged",
+    "dishForm": "Muffins"
+  }
+}
