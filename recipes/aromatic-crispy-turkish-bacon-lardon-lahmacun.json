@@ -1,0 +1,120 @@
+{
+  "title": "Aromatic Crispy Turkish Bacon Lardon Lahmacun",
+  "description": "A delicious, shaggy, crowd-pleasing Turkish dish featuring crispy bacon lardon, tagine-cooked to perfection. Ovo-vegetarian friendly and perfect for breakfast or lunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bacon Lardons",
+      "amount": "12 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Flour",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C) and a comal or skillet over medium heat.",
+    "Roll out the dough to a thickness of 1/8 inch (3 mm) and cook in the comal for 2-3 minutes on each side, or until slightly puffed.",
+    "Mix the cumin, paprika, black pepper, and salt in a small bowl and sprinkle over the cooked dough.",
+    "Top the dough with the cooked bacon lardons, onion, garlic, and a sprinkle of cumin mixture.",
+    "Mix the yogurt and lemon juice in a small bowl and drizzle over the top of the dough.",
+    "Bake the lahmacun in the preheated oven for 12-15 minutes, or until the crust is golden brown and the filling is heated through.",
+    "Remove from the oven and sprinkle with fresh parsley.",
+    "Let the lahmacun rest for 2-3 minutes before slicing and serving.",
+    "Slice the lahmacun into thin strips and serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "high-protein",
+    "lahmacun",
+    "lunch",
+    "one-pan",
+    "turkish",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 432,
+    "protein": 32,
+    "carbs": 24,
+    "fat": 28
+  },
+  "slug": "aromatic-crispy-turkish-bacon-lardon-lahmacun",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-crispy-turkish-bacon-lardon-lahmacun",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-08T22:27:40Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "shaggy",
+    "mood": "crowd-pleaser",
+    "technique": "tagine-cook",
+    "primaryIngredient": "bacon lardon",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "Bacon Lardon",
+    "descriptor": "Aromatic Crispy",
+    "dishForm": "Lahmacun"
+  }
+}

@@ -3339,6 +3339,22 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-crispy-turkish-bacon-lardon-lahmacun",
+    "title": "Aromatic Crispy Turkish Bacon Lardon Lahmacun",
+    "tags": [
+      "breakfast",
+      "high-protein",
+      "lahmacun",
+      "lunch",
+      "one-pan",
+      "turkish",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-crispy-uruguayan-score-fat-empanadas",
     "title": "Aromatic Crispy Uruguayan Score-fat Empanadas",
     "tags": [
