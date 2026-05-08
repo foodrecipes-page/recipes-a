@@ -1,0 +1,105 @@
+{
+  "title": "Authentic Dense Italian Eggplant Lasagna",
+  "description": "A classic Italian dish featuring char-grilled eggplant, rich tomato sauce, and a blend of cheeses, all combined in a dense and satisfying lasagna, with a hint of beer flavor and a smoky char-grill taste.",
+  "cuisine": "Italian",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 large",
+      "notes": "sliced into 1/4 inch thick rounds"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "beer",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Char-grill the eggplant slices until they are tender and lightly browned.",
+    "In a large skillet, combine the tomato sauce and beer, and bring to a simmer over medium heat.",
+    "In a large bowl, combine the ricotta cheese, mozzarella cheese, and parmesan cheese, and mix well.",
+    "Add the olive oil, salt, and black pepper to the cheese mixture, and mix until smooth.",
+    "Spread a layer of the tomato sauce in the bottom of a 9x13 inch baking dish.",
+    "Arrange 4 lasagna noodles on top of the sauce.",
+    "Spread half of the cheese mixture over the noodles.",
+    "Add a layer of char-grilled eggplant slices on top of the cheese.",
+    "Repeat the layers, starting with the noodles, then the tomato sauce, then the remaining cheese mixture, and finally another layer of eggplant.",
+    "Top the lasagna with the shredded mozzarella cheese."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crowd-pleaser",
+    "italian-food",
+    "lacto-vegetarian",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 35,
+    "fat": 20
+  },
+  "slug": "authentic-dense-italian-eggplant-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/authentic-dense-italian-eggplant-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:44:34Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "dense",
+    "mood": "crowd-pleaser",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "beer",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "eggplant",
+    "descriptor": "Authentic Dense",
+    "dishForm": "Lasagna"
+  }
+}
