@@ -1,0 +1,104 @@
+{
+  "title": "Aromatic Australian Chicken Skewers",
+  "description": "Garlicky chicken skewers with a cheese pull, featuring piccalilli and a light Australian twist, perfect for a paleo-friendly dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "piccalilli",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together garlic, piccalilli, olive oil, salt, black pepper, and lemon juice",
+    "Add the chicken to the bowl and marinate for at least 30 minutes",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece",
+    "Brush the grill with olive oil to prevent sticking",
+    "Grill the skewers for 10-12 minutes, or until the chicken is cooked through",
+    "While the chicken is cooking, melt the mozzarella cheese in a saucepan over low heat",
+    "Once the chicken is cooked, brush with melted mozzarella cheese",
+    "Garnish with chopped fresh parsley and serve immediately"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian-cuisine",
+    "cheesy",
+    "garlicky",
+    "grilled-chicken",
+    "paleo-friendly",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "aromatic-australian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-australian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:53:24Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "cheese-pull",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "piccalilli",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic Grilled",
+    "dishForm": "Skewers"
+  }
+}

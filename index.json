@@ -2460,6 +2460,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-australian-chicken-skewers",
+    "title": "Aromatic Australian Chicken Skewers",
+    "tags": [
+      "australian-cuisine",
+      "cheesy",
+      "garlicky",
+      "grilled-chicken",
+      "paleo-friendly",
+      "skewers"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 32,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-australian-salmon-crumble",
     "title": "Aromatic Australian Salmon Crumble",
     "tags": [
