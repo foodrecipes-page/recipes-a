@@ -1,0 +1,98 @@
+{
+  "title": "Airy French Carnaroli Rice Mille Feuille",
+  "description": "A rich and satisfying French dish featuring Carnaroli rice and double-rise bread, perfect for a quick and indulgent meal. This ayurvedic tamasic-friendly dish is sure to please.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Carnaroli rice",
+      "amount": "1 1/2 cups",
+      "notes": "imported from Italy"
+    },
+    {
+      "name": "double-rise bread",
+      "amount": "1 loaf",
+      "notes": "day-old bread"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup",
+      "notes": "whipped"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "Slice the double-rise bread into 1/4 inch thick slices.",
+    "Butter each slice of bread on both sides.",
+    "In a large bowl, combine the cooked Carnaroli rice, shredded gruyere cheese, and melted unsalted butter.",
+    "In a separate bowl, whip the heavy cream until stiff peaks form.",
+    "Add the beaten egg to the whipped cream and mix until well combined.",
+    "To assemble the mille feuille, place a slice of bread on a flat surface, followed by a layer of the rice mixture, and then a layer of the cream mixture.",
+    "Repeat the layers two more times, ending with a layer of bread on top.",
+    "Place the mille feuille in the oven and bake for 25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "indulgent",
+    "rich-and-creamy",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "airy-french-carnaroli-rice-mille-feuille",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-french-carnaroli-rice-mille-feuille",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T18:54:03Z",
+  "axes": {
+    "flavor": "fatty",
+    "texture": "snappy",
+    "mood": "quick-fix",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "carnaroli-rice",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "French",
+    "mainIngredient": "carnaroli rice",
+    "descriptor": "Airy",
+    "dishForm": "Mille Feuille"
+  }
+}

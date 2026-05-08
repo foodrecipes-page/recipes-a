@@ -1493,6 +1493,20 @@
     "shard": "a"
   },
   {
+    "slug": "airy-french-carnaroli-rice-mille-feuille",
+    "title": "Airy French Carnaroli Rice Mille Feuille",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "indulgent",
+      "rich-and-creamy",
+      "special-occasion"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "airy-italian-herring-pan-fried-gnocchi",
     "title": "Airy Italian Herring Pan-Fried Gnocchi",
     "tags": [
