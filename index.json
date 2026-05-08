@@ -1703,6 +1703,21 @@
     "shard": "a"
   },
   {
+    "slug": "airy-syrian-chicken-kebabs",
+    "title": "Airy Syrian Chicken Kebabs",
+    "tags": [
+      "chicken-recipes",
+      "double-fry",
+      "mascarpone-cheese",
+      "ramekin-recipes",
+      "special-occasions",
+      "syrian-cuisine"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "airy-venezuelan-pita-bread-wrap",
     "title": "Airy Venezuelan Pita Bread Wrap",
     "tags": [

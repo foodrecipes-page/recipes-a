@@ -1,0 +1,97 @@
+{
+  "title": "Airy Syrian Chicken Kebabs",
+  "description": "A light and festive Syrian dish featuring mascarpone and double-fry KFC style chicken, perfect for special occasions.",
+  "cuisine": "Syrian",
+  "diet": [
+    "gluten-free",
+    "anti-inflammatory"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "mascarpone cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together mascarpone cheese, white wine, olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and mix until they are well coated with the mascarpone mixture.",
+    "Thread the chicken pieces onto skewers, leaving a small space between each piece.",
+    "Dip each skewer into the KFC style breading mixture, shaking off any excess.",
+    "Double fry the chicken skewers in hot oil until they are golden brown and crispy.",
+    "Place the skewers in a ramekin and bake in the oven for 10 minutes.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "double-fry",
+    "mascarpone-cheese",
+    "ramekin-recipes",
+    "special-occasions",
+    "syrian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "airy-syrian-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-syrian-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T20:54:54Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "light",
+    "mood": "festive",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "mascarpone",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "chicken",
+    "descriptor": "Airy Crunchy",
+    "dishForm": "Kebabs"
+  }
+}
