@@ -1,0 +1,102 @@
+{
+  "title": "Awesomely Creamy Polish Taleggio Noodles",
+  "description": "A tangy and creamy Polish dish featuring taleggio cheese, perfect for a hangover cure, and made Jain-friendly by using vegetable broth and avoiding any animal-derived ingredients.",
+  "cuisine": "Polish",
+  "diet": [
+    "Jain",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Taleggio cheese",
+      "amount": "8 oz",
+      "notes": "softened"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Eggless noodles",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Bring the vegetable broth to a boil in a large pot.",
+    "Add the eggless noodles to the pot and cook according to the package instructions.",
+    "Drain the noodles and set them aside.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the chopped onion to the skillet and cook until softened.",
+    "Add the minced garlic to the skillet and cook for an additional minute.",
+    "Add the softened taleggio cheese to the skillet and stir until melted and smooth.",
+    "Add the cooked noodles to the skillet and toss to combine with the cheese sauce.",
+    "Season the noodles with salt and black pepper to taste.",
+    "Divide the noodles into individual portions and shape each portion into a nigiri shape.",
+    "Garnish each portion with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "easy-weeknight",
+    "jain-friendly",
+    "one-pot",
+    "pasta-lovers",
+    "vegetarian-delight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "awesomely-creamy-polish-taleggio-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/awesomely-creamy-polish-taleggio-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:08:35Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "creamy",
+    "mood": "hangover-cure",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "taleggio",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "taleggio",
+    "descriptor": "Awesomely creamy",
+    "dishForm": "Noodles"
+  }
+}

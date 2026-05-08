@@ -1,0 +1,97 @@
+{
+  "title": "Awesome Crunchy Irish Soybean Sprouts Hash",
+  "description": "A bitter and crunchy Irish dish featuring soybean sprouts, yuzu cure, and low glycemic friendly ingredients, perfect for meal prep. This recipe combines the nutty flavor of soybean sprouts with the tangy taste of yuzu.",
+  "cuisine": "Irish",
+  "diet": [
+    "low-glycemic",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "soybean sprouts",
+      "amount": "1 cup",
+      "notes": "kongnamul"
+    },
+    {
+      "name": "yuzu juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together yuzu juice, olive oil, salt, and black pepper.",
+    "Add the diced onion and minced garlic to the bowl and mix well.",
+    "Add the soybean sprouts to the bowl and toss to coat with the yuzu mixture.",
+    "Spread the soybean sprouts mixture on a baking sheet and roast for 20 minutes.",
+    "While the soybean sprouts are roasting, boil the diced potatoes in a large pot of salted water until they are tender.",
+    "Drain the potatoes and let them cool.",
+    "Once the soybean sprouts are done roasting, remove them from the oven and let them cool.",
+    "In a large pan, heat a couple of tablespoons of olive oil over medium heat.",
+    "Add the roasted soybean sprouts and cooked potatoes to the pan and stir to combine.",
+    "Cook the hash for an additional 5 minutes, stirring frequently, until it is crispy and golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "irish-cuisine",
+    "low-glycemic",
+    "meal-prep"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "awesome-crunchy-irish-soybean-sprouts-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/awesome-crunchy-irish-soybean-sprouts-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T15:08:39Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "yuzu-cure",
+    "primaryIngredient": "soybean-sprout-kongnamul",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Irish",
+    "mainIngredient": "soybean sprouts",
+    "descriptor": "Awesome crunchy",
+    "dishForm": "Hash"
+  }
+}

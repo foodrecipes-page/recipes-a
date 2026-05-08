@@ -4328,6 +4328,35 @@
     "shard": "a"
   },
   {
+    "slug": "awesome-crunchy-irish-soybean-sprouts-hash",
+    "title": "Awesome Crunchy Irish Soybean Sprouts Hash",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "irish-cuisine",
+      "low-glycemic",
+      "meal-prep"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 55,
+    "shard": "a"
+  },
+  {
+    "slug": "awesomely-creamy-polish-taleggio-noodles",
+    "title": "Awesomely Creamy Polish Taleggio Noodles",
+    "tags": [
+      "comfort-food",
+      "easy-weeknight",
+      "jain-friendly",
+      "one-pot",
+      "pasta-lovers",
+      "vegetarian-delight"
+    ],
+    "cuisine": "Polish",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "ayurvedic-and-tamasic-canadian-beef-free-ground-poppy-seeds-hash",
     "title": "Ayurvedic and Tamasic Canadian Beef-Free Ground Poppy Seeds Hash",
     "tags": [
