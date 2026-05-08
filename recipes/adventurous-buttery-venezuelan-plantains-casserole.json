@@ -1,0 +1,113 @@
+{
+  "title": "adventurous buttery venezuelan plantains casserole",
+  "description": "a rich and flavorful venezuelan-inspired dish featuring crispy plantains, creamy creme patissiere, and a tangy mother sauce base, all combined in a satisfying casserole. perfect for adventurous eaters and those looking to try something new.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "jains"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "plantains",
+      "amount": "3"
+    },
+    {
+      "name": "avocado oil",
+      "amount": "1/4 cup",
+      "notes": "for greasing the baking dish"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cocoa powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ground cinnamon",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "creme patissiere",
+      "amount": "1 cup"
+    },
+    {
+      "name": "mother sauce base",
+      "amount": "1 cup"
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "preheat the oven to 375f (190c) and grease a 9x13-inch baking dish with avocado oil.",
+    "slice the plantains into 1-inch rounds and layer them in the bottom of the baking dish.",
+    "in a large skillet, sauté the diced onion and minced garlic over medium heat until softened.",
+    "add the cocoa powder, ground cinnamon, ground cumin, and salt to the skillet and cook for 1 minute.",
+    "pour the creme patissiere and mother sauce base over the plantains in the baking dish.",
+    "sprinkle the shredded cheese over the top of the casserole and dot with the sautéed onion and garlic mixture.",
+    "cover the dish with aluminum foil and bake for 30 minutes.",
+    "remove the foil and continue baking for an additional 15-20 minutes, or until the cheese is melted and bubbly.",
+    "remove the casserole from the oven and garnish with chopped fresh cilantro.",
+    "serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "adventurous",
+    "butternut-squash",
+    "casserole",
+    "one-pan",
+    "vegan-option",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 18
+  },
+  "slug": "adventurous-buttery-venezuelan-plantains-casserole",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-buttery-venezuelan-plantains-casserole",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-08T08:04:59Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "juicy",
+    "mood": "adventurous",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "creme-patissiere",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "plantains",
+    "descriptor": "adventurous buttery",
+    "dishForm": "Casserole"
+  }
+}
