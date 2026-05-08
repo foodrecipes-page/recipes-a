@@ -1,0 +1,101 @@
+{
+  "title": "Airy Light Japanese Fish Sushi",
+  "description": "A cultured and dense Japanese dish featuring salsa and shio-cure, wrapped in a ti-leaf for a low-fat and refreshing meal. This dish is perfect for those looking for a light and healthy sushi option.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fat",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": "Japanese short-grain rice"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sushi-grade fish",
+      "amount": "1/2 pound",
+      "notes": "such as salmon or tuna"
+    },
+    {
+      "name": "shio-cure mixture",
+      "amount": "2 tablespoons",
+      "notes": "mix of salt and sugar"
+    },
+    {
+      "name": "salsa",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ti-leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    }
+  ],
+  "instructions": [
+    "Prepare the sushi rice according to the package instructions using 1 cup of water.",
+    "In a small saucepan, combine the rice vinegar, sugar, and salt, and bring to a boil.",
+    "Reduce the heat and simmer the vinegar mixture for 5 minutes.",
+    "Allow the sushi rice to cool, then mix in the vinegar mixture.",
+    "Cut the sushi-grade fish into small pieces and cure with the shio-cure mixture for 30 minutes.",
+    "Rinse the fish pieces and pat dry with paper towels.",
+    "Lay a ti-leaf flat and spread a thin layer of sushi rice onto the center of the leaf.",
+    "Place a few pieces of the cured fish on top of the rice, followed by a spoonful of salsa.",
+    "Sprinkle sesame seeds and scallions over the top of the fish.",
+    "Fold the ti-leaf over the filling to form a tight package, and serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-to-make",
+    "gluten-free",
+    "healthy-meal",
+    "japanese-cuisine",
+    "low-fat",
+    "sushi-recipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "airy-light-japanese-fish-sushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-light-japanese-fish-sushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:48:47Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "shio-cure",
+    "primaryIngredient": "salsa",
+    "diet": "low-fat",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "fish",
+    "descriptor": "Airy Light",
+    "dishForm": "Sushi"
+  }
+}
