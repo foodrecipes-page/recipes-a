@@ -1,0 +1,97 @@
+{
+  "title": "Amazing Crispy Argentinian Potato Empanadas",
+  "description": "A cultured and chewy Argentinian dish featuring vegan white wine vinegar and a double-fry method, these empanadas are a quick-fix delight. They are satvik-friendly and perfect for a snack or dinner.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegan",
+    "satvik"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "white wine vinegar",
+      "amount": "1/4 cup",
+      "notes": "vegan"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, salt, and pepper.",
+    "Gradually add the white wine vinegar and olive oil to the flour mixture, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 8 equal pieces and roll each piece into a ball.",
+    "Roll out each ball of dough into a thin circle.",
+    "Place a tablespoon of chopped onion and a tablespoon of diced potato in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape and press the edges together to seal.",
+    "Double-fry the empanadas by frying them at 350 degrees Fahrenheit for 2 minutes, then increasing the temperature to 375 degrees Fahrenheit and frying for an additional 2 minutes.",
+    "Drain the empanadas on paper towels and serve hot."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-cuisine",
+    "double-fry",
+    "potato-empanadas",
+    "satvik-friendly",
+    "vegan-snacks"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "amazing-crispy-argentinian-potato-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-crispy-argentinian-potato-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T12:23:22Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "chewy",
+    "mood": "quick-fix",
+    "technique": "double-fry-kfc",
+    "primaryIngredient": "vegan white wine vinegar",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Amazing Crispy",
+    "dishForm": "Empanadas"
+  }
+}
