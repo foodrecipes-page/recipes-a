@@ -1434,6 +1434,21 @@
     "shard": "a"
   },
   {
+    "slug": "airy-light-italian-chicken-pasta",
+    "title": "Airy Light Italian Chicken Pasta",
+    "tags": [
+      "chicken-recipes",
+      "halal-friendly",
+      "italian-food",
+      "light-meals",
+      "pasta-dishes",
+      "sous-vide-cooking"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 140,
+    "shard": "a"
+  },
+  {
     "slug": "airy-romantic-saudi-arabian-blueberries-bake",
     "title": "Airy Romantic Saudi-Arabian Blueberries Bake",
     "tags": [
