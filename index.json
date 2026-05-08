@@ -4484,6 +4484,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-thai-cabbage-kanom-ko",
+    "title": "Aromatic Thai Cabbage Kanom Ko",
+    "tags": [
+      "grilled",
+      "low-sodium",
+      "one-pan",
+      "thai-food",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-tunisian-cheese-lasagna",
     "title": "Aromatic Tunisian Cheese Lasagna",
     "tags": [

@@ -1,0 +1,101 @@
+{
+  "title": "Aromatic Thai Cabbage Kanom Ko",
+  "description": "A sweet and fluffy Thai dish featuring cabbage leaves, served as a solo dinner in a kanom ko form, cooked on a binchotan grill with a nimono simmer method, low in sodium.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-sodium",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage leaves",
+      "amount": "4 large leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the binchotan grill to medium heat.",
+    "In a blender or food processor, combine coconut milk, palm sugar, fish sauce, and lime juice, and blend until smooth.",
+    "In a large pan, heat the vegetable oil over medium heat and saute the garlic and ginger until fragrant.",
+    "Add the blended coconut milk mixture to the pan and bring to a simmer.",
+    "Reduce the heat to low and add the cabbage leaves to the pan, spooning some of the simmering liquid over them.",
+    "Cover the pan and cook for 10 minutes, or until the cabbage leaves are tender.",
+    "Stir in the chopped Thai basil and season with salt to taste.",
+    "Serve the cabbage leaves in a kanom ko form, garnished with additional Thai basil if desired.",
+    "Cook the kanom ko on the preheated binchotan grill for 2 minutes on each side, or until lightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "low-sodium",
+    "one-pan",
+    "thai-food",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "aromatic-thai-cabbage-kanom-ko",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-thai-cabbage-kanom-ko",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T19:12:23Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "fluffy",
+    "mood": "solo-dinner",
+    "technique": "nimono-simmer",
+    "primaryIngredient": "cabbage leaves",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "cabbage",
+    "descriptor": "Aromatic Steamed",
+    "dishForm": "Kanom Ko"
+  }
+}
