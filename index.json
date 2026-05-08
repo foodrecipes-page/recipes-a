@@ -1781,6 +1781,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazing-aromatic-peruvian-potato-stew",
+    "title": "Amazing Aromatic Peruvian Potato Stew",
+    "tags": [
+      "comfort-food",
+      "diabetic-friendly",
+      "gluten-free",
+      "hearty-stew",
+      "one-pot-meal",
+      "peruvian-cuisine"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-acidic-spanish-orange-ensaimada",
     "title": "Amazingly Acidic Spanish Orange Ensaimada",
     "tags": [
