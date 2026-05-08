@@ -1,0 +1,110 @@
+{
+  "title": "Airy Delicate Japanese Kidney Beans Nabemono",
+  "description": "A cultured and light Japanese dish featuring kidney beans in a nabemono style, perfect for a brunch mood. This recipe is friendly to Buddhist temple dietary preferences.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kidney beans",
+      "amount": "1 cup",
+      "notes": "canned, drained, and rinsed"
+    },
+    {
+      "name": "dashi broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "mirin",
+      "amount": "1/4 cup",
+      "notes": "sweet Japanese cooking wine"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low sodium"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tofu",
+      "amount": "1/2 cup",
+      "notes": "silken, cut into small cubes"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "12 sheets",
+      "notes": "for lamination puff"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "white pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, combine dashi broth, mirin, and soy sauce, and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and add the kidney beans, cooking for 10 minutes or until they are tender.",
+    "In a small pan, heat the sesame oil over medium heat and fry the tofu until it is golden brown.",
+    "Add the fried tofu to the pot with the kidney beans and stir to combine.",
+    "In a separate pan, heat a small amount of sesame oil over medium heat and fry the wonton wrappers until they are crispy and puffed.",
+    "Add the green onions, salt, and white pepper to the pot and stir to combine.",
+    "To serve, place a portion of the kidney bean mixture into a bowl and top with a piece of the crispy wonton wrapper.",
+    "Garnish with additional green onions if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "buddhist-friendly",
+    "delicate",
+    "japanese-cuisine",
+    "nabemono",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "airy-delicate-japanese-kidney-beans-nabemono",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-delicate-japanese-kidney-beans-nabemono",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T13:59:36Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "light",
+    "mood": "brunch-mood",
+    "technique": "lamination-puff",
+    "primaryIngredient": "kidney beans",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "kidney beans",
+    "descriptor": "Airy Delicate",
+    "dishForm": "Nabemono"
+  }
+}
