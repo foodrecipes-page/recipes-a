@@ -3,7 +3,6 @@
   "description": "A resinous and glassy-jelly French dish featuring flaxseed, perfect for a quick-fix dessert or snack, this galette is dairy-free-friendly and made in a classic French style, originating from the Burgundy region.",
   "cuisine": "French",
   "diet": [
-    "dairy-free",
     "vegetarian"
   ],
   "meal": "dessert",
@@ -60,7 +59,6 @@
   "servings": 8,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "flaxseed-recipe",
     "french-dessert",
     "glassy-jelly",
@@ -90,5 +88,9 @@
     "mainIngredient": "flaxseed",
     "descriptor": "Amazing Amber",
     "dishForm": "Galette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

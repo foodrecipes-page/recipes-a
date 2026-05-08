@@ -54,7 +54,8 @@
     "Season the chicken and sauce with salt and black pepper to taste.",
     "Serve the chicken and sauce over boiled potatoes and steamed rice.",
     "Garnish with chopped fresh cilantro and a sprinkle of toasted peanuts.",
-    "Refrigerate or freeze any leftovers for later use."
+    "Refrigerate or freeze any leftovers for later use.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 45,
   "cookTimeMin": 60,
@@ -92,5 +93,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Aromatic",
     "dishForm": "Aji De Gallina"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

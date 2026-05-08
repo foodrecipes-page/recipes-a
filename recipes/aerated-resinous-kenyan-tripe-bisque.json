@@ -3,7 +3,6 @@
   "description": "A post-workout Kenyan dish featuring tripe, deglazed fond, and a halal-friendly twist. This bisque is rich in protein and low in calories, making it an excellent choice for athletes.",
   "cuisine": "kenyan",
   "diet": [
-    "halal",
     "gluten-free"
   ],
   "meal": "snack",
@@ -79,7 +78,6 @@
   "difficulty": "medium",
   "tags": [
     "gluten-free",
-    "halal",
     "high-protein",
     "kenyan",
     "one-pan",
@@ -109,5 +107,9 @@
     "mainIngredient": "Tripe",
     "descriptor": "Aerated Resinous",
     "dishForm": "Bisque"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

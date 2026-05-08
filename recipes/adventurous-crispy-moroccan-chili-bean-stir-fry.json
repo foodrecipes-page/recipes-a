@@ -48,7 +48,8 @@
     "Add chopped crispy potatoes, reduce heat to low-medium, cover partially with a lid, and let simmer for about 15-20 minutes, stirring occasionally to prevent burning.",
     "If the sauce is too thin after this point, adjust seasoning and add water as needed. Taste test and adjust seasonings if necessary.",
     "Garnish with fresh herbs like cilantro or parsley before serving.",
-    "Serve hot over steamed rice or over grilled bread for a delightful Moroccan-themed meal."
+    "Serve hot over steamed rice or over grilled bread for a delightful Moroccan-themed meal.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -84,5 +85,9 @@
     "mainIngredient": "Chili Bean Paste",
     "descriptor": "Adventurous Crispy",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "This hearty Korean stew features chwinamul, a type of aster plant, and is perfect for a lazy Sunday, with a mediterranean-friendly twist and bain-marie cooking method, the dish is grassy and juicy.",
   "cuisine": "Korean",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "chwinamul",
     "descriptor": "aromatic savory",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

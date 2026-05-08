@@ -59,7 +59,8 @@
     "Fold the leaf over the filling to form a packet, and repeat with the remaining ingredients.",
     "Place the packets in a large baking dish and cover with foil.",
     "Bake for 2 hours, then remove the foil and bake for an additional 30 minutes.",
-    "Serve the tagine hot, garnished with fresh herbs if desired."
+    "Serve the tagine hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 150,
@@ -97,5 +98,9 @@
     "mainIngredient": "turkey neck",
     "descriptor": "Aromatic Steamed",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

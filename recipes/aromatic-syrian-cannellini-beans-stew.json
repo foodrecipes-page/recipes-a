@@ -3,7 +3,6 @@
   "description": "A buttery, molten stew bursting with pistachio, sumac, and tomato, perfect for a plant‑based Mediterranean feast.",
   "cuisine": "Syrian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "dinner",
@@ -105,5 +104,9 @@
     "mainIngredient": "cannellini beans",
     "descriptor": "Aromatic",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

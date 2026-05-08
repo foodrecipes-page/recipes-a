@@ -63,7 +63,8 @@
     "Add the sliced mushrooms and chilies to the cazuela and stir to combine.",
     "Simmer the tom yum for an additional 5 minutes, or until the flavors have melded together and the duck is heated through.",
     "Taste and adjust the seasoning as needed.",
-    "Serve the tom yum hot, garnished with additional kaffir lime leaves and chilies if desired."
+    "Serve the tom yum hot, garnished with additional kaffir lime leaves and chilies if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -101,5 +102,9 @@
     "mainIngredient": "duck",
     "descriptor": "Aromatic Spicy",
     "dishForm": "Tom Yum"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

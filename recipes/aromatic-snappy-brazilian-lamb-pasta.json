@@ -2,10 +2,7 @@
   "title": "Aromatic Snappy Brazilian Lamb Pasta",
   "description": "A flavorful and savory Brazilian dish featuring lamb, pasta, and a unique pasta-water emulsion, designed to cure hangovers and align with ayurvedic tamasic principles.",
   "cuisine": "Brazilian",
-  "diet": [
-    "gluten-free",
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -97,5 +94,10 @@
     "mainIngredient": "lamb",
     "descriptor": "aromatic snappy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "removed-diet-dairy-free"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Aromatic Ukrainian Chicken Leg Wrap",
   "description": "A buttery and crumbly Ukrainian dish featuring chicken legs wrapped in a corn husk, perfect for a comforting meal. This recipe is dairy-free-friendly.",
   "cuisine": "Ukrainian",
-  "diet": [
-    "dairy-free"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -67,7 +65,6 @@
     "chicken-recipes",
     "comfort-food",
     "corn-husk-recipes",
-    "dairy-free",
     "ukrainian-cuisine"
   ],
   "nutrition": {
@@ -93,5 +90,9 @@
     "mainIngredient": "chicken legs",
     "descriptor": "aromatic buttery",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

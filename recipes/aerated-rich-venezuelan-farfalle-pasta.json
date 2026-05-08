@@ -3,8 +3,7 @@
   "description": "A comforting and unique pasta dish from Venezuela, featuring aerated farfalle, binchotan charcoal, and a mix of flavors.",
   "cuisine": "venezuelan",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -98,7 +97,6 @@
   "difficulty": "medium",
   "tags": [
     "aerated",
-    "gluten-free",
     "smoked",
     "vegetarian",
     "venezuelan"
@@ -120,11 +118,16 @@
     "mood": "meal-prep",
     "technique": "binchotan-charcoal",
     "primaryIngredient": "farfalle",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Venezuelan",
     "mainIngredient": "Farfalle",
     "descriptor": "Aerated, Rich",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "aligned-axes-diet"
+  ]
 }

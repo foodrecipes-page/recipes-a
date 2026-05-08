@@ -67,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "comfort-food",
-    "gluten-free",
     "lunch",
     "one-pan",
     "south-american",
@@ -97,5 +96,9 @@
     "mainIngredient": "pita bread",
     "descriptor": "airy",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

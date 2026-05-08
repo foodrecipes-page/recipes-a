@@ -2,10 +2,7 @@
   "title": "Amber Uruguayan Tofu Stew",
   "description": "A resinous, creamy tofu stew infused with matcha and simmered on a cedar plank for a unique flavor. This kid-friendly Uruguayan dish brings a soothing, plant-based twist to your table.",
   "cuisine": "Uruguayan",
-  "diet": [
-    "vegan",
-    "gluten-free"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -101,5 +98,10 @@
     "mainIngredient": "tofu",
     "descriptor": "Amber",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-gluten-free"
+  ]
 }

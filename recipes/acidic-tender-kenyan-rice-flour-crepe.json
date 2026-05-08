@@ -3,7 +3,6 @@
   "description": "A midnight craving dessert that balances sour lemon, sweet rice flour, and umami miso into tender crepes.",
   "cuisine": "Kenyan",
   "diet": [
-    "gluten-free",
     "vegan"
   ],
   "meal": "dessert",
@@ -61,7 +60,6 @@
   "tags": [
     "crepe",
     "dessert",
-    "gluten-free",
     "quick",
     "rice-flour",
     "sour",
@@ -90,5 +88,9 @@
     "mainIngredient": "rice flour",
     "descriptor": "Acidic Tender",
     "dishForm": "Crepe"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

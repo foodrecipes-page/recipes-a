@@ -84,7 +84,8 @@
     "Stir in shio-koji and honey, then cover the pot and let it cook over low heat for 35 minutes until the chicken is tender and the sauce thickens.",
     "Add the carrot chunks and sliced olives, cover again, and cook for an additional 10 minutes so the vegetables absorb the flavors.",
     "Check that the internal temperature of the chicken reaches 165°F (74°C) before serving.",
-    "Serve the tagine hot over a smear of low-fat yogurt or a small portion of couscous if desired."
+    "Serve the tagine hot over a smear of low-fat yogurt or a small portion of couscous if desired.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "difficulty": "medium",
   "prepTimeMin": 15,
@@ -118,5 +119,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Aromatic",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

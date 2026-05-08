@@ -3,7 +3,6 @@
   "description": "A kid-friendly dish featuring cashews with a buttery and aerated finish, made vegan-friendly.",
   "cuisine": "Saudi-Arabian",
   "diet": [
-    "vegan",
     "gluten-free"
   ],
   "meal": "snack",
@@ -70,8 +69,7 @@
     "easy-to-make",
     "gluten-free",
     "kid-friendly",
-    "snack",
-    "vegan"
+    "snack"
   ],
   "nutrition": {
     "calories": 120,
@@ -96,5 +94,9 @@
     "mainIngredient": "cashews",
     "descriptor": "aerated",
     "dishForm": "buttery"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

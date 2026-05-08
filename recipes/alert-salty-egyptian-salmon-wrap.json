@@ -3,8 +3,7 @@
   "description": "A quick, salty Egyptian-inspired wrap featuring sashimi‑style salmon, wholegrain mustard, and fresh veggies for a dairy‑free crowd‑pleaser.",
   "cuisine": "Egyptian",
   "diet": [
-    "dairy-free",
-    "gluten-free"
+    "dairy-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -99,5 +98,9 @@
     "mainIngredient": "salmon",
     "descriptor": "Alert Salty",
     "dishForm": "Wrap"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

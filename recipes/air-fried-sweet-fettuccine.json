@@ -3,8 +3,7 @@
   "description": "A sweet and crumbly Peruvian dish featuring fettuccine thats perfect for a weeknight dinner with low-fat-friendly air-fry options.",
   "cuisine": "Peruvian",
   "diet": [
-    "low-fat",
-    "vegan"
+    "low-fat"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -46,7 +45,7 @@
     }
   ],
   "instructions": [
-    "Preheat your air fryer to 375\u00b0F (190\u00b0C).",
+    "Preheat your air fryer to 375°F (190°C).",
     "In a large bowl, mix the fettuccini pasta with unsweetened applesauce, coconut milk, shredded coconut, ginger paste, vanilla extract, cinnamon powder, and cocoa powder.",
     "Fold in the pumpkin puree until well combined.",
     "Divide the mixture into small portions and shape them into balls or logs for easier frying.",
@@ -82,5 +81,9 @@
     "primaryIngredient": "fettuccine",
     "diet": "low-fat",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

@@ -3,7 +3,6 @@
   "description": "Ayurvedic-friendly, tender shrimp and rice dish with a rich, garlicky flavor.",
   "cuisine": "spanish",
   "diet": [
-    "vegetarian",
     "pescatarian"
   ],
   "meal": "dinner",
@@ -104,5 +103,9 @@
     "mainIngredient": "Gambas",
     "descriptor": "Ayurvedic-friendly, Garlicky, Tender",
     "dishForm": "Al Ajillo Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

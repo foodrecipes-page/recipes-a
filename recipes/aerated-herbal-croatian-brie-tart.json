@@ -3,7 +3,6 @@
   "description": "A nostalgic Croatian dessert featuring brie cheese and sweet, aerated toppings. This tart is perfect for a weeknight treat.",
   "cuisine": "croatian",
   "diet": [
-    "gluten-free",
     "macrobiotic-friendly"
   ],
   "meal": "dessert",
@@ -152,5 +151,9 @@
     "mainIngredient": "brie",
     "descriptor": "aerated herbal",
     "dishForm": "tart"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

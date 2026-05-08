@@ -3,8 +3,6 @@
   "description": "Rich, creamy Portuguese one-pot dish featuring yuzu and smoked fish dumplings, cooked to perfection on a robata grill.",
   "cuisine": "Portuguese",
   "diet": [
-    "vegan",
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -99,5 +97,10 @@
     "mainIngredient": "fish dum",
     "descriptor": "Aromatic Smoked",
     "dishForm": "Paella"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Aromatic Dense Japanese Blackeye Peas Soup",
   "description": "A floral, dense and nostalgic Japanese soup featuring blackeye peas, kombu, and shiitake, perfectly suited for a halal-friendly meal.",
   "cuisine": "Japanese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -100,5 +98,9 @@
     "mainIngredient": "Blackeye Peas",
     "descriptor": "Aromatic Dense",
     "dishForm": "Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

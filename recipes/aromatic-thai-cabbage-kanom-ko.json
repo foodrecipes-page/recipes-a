@@ -3,8 +3,7 @@
   "description": "A sweet and fluffy Thai dish featuring cabbage leaves, served as a solo dinner in a kanom ko form, cooked on a binchotan grill with a nimono simmer method, low in sodium.",
   "cuisine": "Thai",
   "diet": [
-    "low-sodium",
-    "vegetarian"
+    "low-sodium"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,7 +70,6 @@
     "low-sodium",
     "one-pan",
     "thai-food",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -97,5 +95,9 @@
     "mainIngredient": "cabbage",
     "descriptor": "Aromatic Steamed",
     "dishForm": "Kanom Ko"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

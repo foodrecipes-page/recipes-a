@@ -45,7 +45,8 @@
     "Add sliced mushrooms and garlic, sauté for about 5 minutes until tender.",
     "Stir in pickle relish, red onion, thyme sprigs, and olive leaves.",
     "Pour in water, bring to a boil, then reduce heat and simmer for another 10 minutes.",
-    "Season with salt and pepper according to taste."
+    "Season with salt and pepper according to taste.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -79,5 +80,9 @@
     "primaryIngredient": "mushrooms",
     "diet": "low-fat",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

@@ -53,7 +53,8 @@
     "Gradually add the ground Bhuna Spice Mix, coconut milk, halal chicken stock, salt, and pepper while stirring continuously.",
     "Simmer on low heat for approximately 5 minutes. Stir occasionally to avoid burning.",
     "Stir in fresh basil leaves, remove from heat, and let cool slightly before serving.",
-    "Drizzle with additional olive oil for a luxurious finish if desired."
+    "Drizzle with additional olive oil for a luxurious finish if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -86,5 +87,9 @@
     "primaryIngredient": "almond butter",
     "diet": "halal",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

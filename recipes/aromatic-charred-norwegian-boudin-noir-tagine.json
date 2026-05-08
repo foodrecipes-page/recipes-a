@@ -65,7 +65,8 @@
     "Cover the tagine with a lid and transfer to the preheated oven.",
     "Bake for 20 minutes, then remove the lid and continue baking for an additional 10 minutes, or until the boudin noir is charred and crispy.",
     "Remove the tagine from the oven and carefully flambe the dish with the flambe liquor.",
-    "Serve the charred boudin noir hot, garnished with fresh herbs if desired."
+    "Serve the charred boudin noir hot, garnished with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -103,5 +104,9 @@
     "mainIngredient": "boudin noir",
     "descriptor": "Aromatic Charred",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

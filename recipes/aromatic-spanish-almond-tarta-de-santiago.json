@@ -3,8 +3,7 @@
   "description": "A traditional Catalan dish featuring crunchy almonds and a hint of garlic, perfect for a brunch gathering, this recipe is diabetic friendly and made in the form of a tarta de santiago.",
   "cuisine": "Spanish",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -70,7 +69,6 @@
     "almond-based",
     "brunch-ideas",
     "diabetic-friendly",
-    "gluten-free",
     "poached-eggs",
     "spanish-cuisine"
   ],
@@ -97,5 +95,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Aromatic Crunchy",
     "dishForm": "Tarta De Santiago"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

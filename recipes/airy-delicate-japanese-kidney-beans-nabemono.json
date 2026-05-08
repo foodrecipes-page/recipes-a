@@ -3,7 +3,6 @@
   "description": "A cultured and light Japanese dish featuring kidney beans in a nabemono style, perfect for a brunch mood. This recipe is friendly to Buddhist temple dietary preferences.",
   "cuisine": "Japanese",
   "diet": [
-    "vegetarian",
     "buddhist"
   ],
   "meal": "lunch",
@@ -80,8 +79,7 @@
     "buddhist-friendly",
     "delicate",
     "japanese-cuisine",
-    "nabemono",
-    "vegetarian"
+    "nabemono"
   ],
   "nutrition": {
     "calories": 420,
@@ -106,5 +104,9 @@
     "mainIngredient": "kidney beans",
     "descriptor": "Airy Delicate",
     "dishForm": "Nabemono"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

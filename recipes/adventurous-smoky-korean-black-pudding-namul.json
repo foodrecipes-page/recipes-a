@@ -3,7 +3,6 @@
   "description": "A sweet and savory Korean dish featuring black pudding, grilled to perfection and mixed with various namul ingredients, this adventurous recipe is FODMAP-friendly and offers a unique taste experience.",
   "cuisine": "Korean",
   "diet": [
-    "gluten-free",
     "low-fodmap"
   ],
   "meal": "dinner",
@@ -99,5 +98,9 @@
     "mainIngredient": "black pudding",
     "descriptor": "Adventurous Smoky",
     "dishForm": "Namul"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

@@ -67,7 +67,6 @@
   "difficulty": "medium",
   "tags": [
     "algerian-cuisine",
-    "gluten-free",
     "healthy-dinner",
     "one-pan",
     "paleo-friendly",
@@ -96,5 +95,9 @@
     "mainIngredient": "semolina",
     "descriptor": "Aromatic Flaky",
     "dishForm": "Grill"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

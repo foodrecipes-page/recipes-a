@@ -55,7 +55,8 @@
     "Dip each skewer into the KFC style breading mixture, shaking off any excess.",
     "Double fry the chicken skewers in hot oil until they are golden brown and crispy.",
     "Place the skewers in a ramekin and bake in the oven for 10 minutes.",
-    "Garnish with chopped fresh parsley and serve hot."
+    "Garnish with chopped fresh parsley and serve hot.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -93,5 +94,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Airy Crunchy",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

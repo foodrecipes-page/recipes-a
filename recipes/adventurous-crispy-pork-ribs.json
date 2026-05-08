@@ -2,9 +2,7 @@
   "title": "Adventurous Crispy Pork Ribs",
   "description": "A rich and adventurous Peruvian dish featuring vegan-friendly pork back ribs, seasoned with a unique tadka spice mix for an extra kick of flavor.",
   "cuisine": "Peruvian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -39,7 +37,7 @@
     }
   ],
   "instructions": [
-    "Preheat your oven to 250\u00b0F (120\u00b0C).",
+    "Preheat your oven to 250°F (120°C).",
     "Season the pork back ribs generously with the vegan tadka spice mix and garlic paste.",
     "Brush both sides of the ribs with olive oil.",
     "Wrap the lime leaves around each rib to infuse them with their aromatic essence.",
@@ -57,8 +55,7 @@
     "adventurous",
     "pork-ribs",
     "tadka",
-    "peruvian",
-    "vegan"
+    "peruvian"
   ],
   "nutrition": {
     "calories": 650,
@@ -79,5 +76,9 @@
     "primaryIngredient": "pork back ribs",
     "diet": "vegan",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

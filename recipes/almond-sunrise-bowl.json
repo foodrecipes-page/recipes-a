@@ -2,10 +2,7 @@
   "title": "Almond Sunrise Bowl",
   "description": "A tangy, fluffy meal-prep bowl featuring almond flour and dairy-free-friendly components, perfect for a healthy start to your day.",
   "cuisine": "jamaican",
-  "diet": [
-    "dairy-free",
-    "vegan"
-  ],
+  "diet": [],
   "meal": "breakfast",
   "ingredients": [
     {
@@ -74,5 +71,10 @@
     "primaryIngredient": "almond flour",
     "diet": "dairy-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-dairy-free"
+  ]
 }

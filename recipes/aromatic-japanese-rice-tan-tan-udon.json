@@ -2,9 +2,7 @@
   "title": "Aromatic Japanese Rice Tan Tan Udon",
   "description": "A comforting Kyushu noodle dish that blends fragrant cloves, fried ground rice, and a savory broth into a crunchy, herbal udon bowl, perfect for a halal-friendly meal.",
   "cuisine": "Japanese",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -114,5 +112,9 @@
     "mainIngredient": "Rice",
     "descriptor": "Aromatic",
     "dishForm": "Tan Tan Udon"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

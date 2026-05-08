@@ -3,8 +3,7 @@
   "description": "This nutty, tender mediterranean dish features flat rice noodles and is perfect for a cozy snack that's both halal-friendly and gluten-free.",
   "cuisine": "Mediterranean",
   "diet": [
-    "halal",
-    "gluten-free"
+    "halal"
   ],
   "meal": "snack",
   "ingredients": [
@@ -82,5 +81,9 @@
     "mainIngredient": "Cashews",
     "descriptor": "Air-Fried",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

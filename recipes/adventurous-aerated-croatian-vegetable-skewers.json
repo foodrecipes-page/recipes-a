@@ -3,8 +3,7 @@
   "description": "A buttery and aerated Croatian dish featuring white vinegar and wok-hei, made with ayurvedic-sattvic-friendly ingredients. This recipe is perfect for adventurous eaters looking to try something new.",
   "cuisine": "Croatian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -100,5 +99,9 @@
     "mainIngredient": "vegetables",
     "descriptor": "Adventurous Aerated",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

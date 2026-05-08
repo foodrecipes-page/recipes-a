@@ -71,7 +71,8 @@
     "add the curry powder, turmeric, cayenne pepper, and salt, and cook for 1 minute, until fragrant.",
     "add the coconut milk and blackcurrant jam, and bring to a simmer.",
     "reduce heat to low and let cook for 10 minutes, until the sauce has thickened.",
-    "taste and adjust seasoning as needed."
+    "taste and adjust seasoning as needed.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 20,
@@ -108,5 +109,9 @@
     "mainIngredient": "dishes",
     "descriptor": "adventurous molten",
     "dishForm": "curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

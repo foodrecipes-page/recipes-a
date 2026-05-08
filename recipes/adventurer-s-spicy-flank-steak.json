@@ -88,7 +88,11 @@
     "mood": "adventurous",
     "technique": "dum",
     "primaryIngredient": "beef flank steak",
-    "diet": "kosher",
+    "diet": "keto",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

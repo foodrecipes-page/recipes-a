@@ -93,11 +93,15 @@
     "mood": "one-pot",
     "technique": "rest",
     "primaryIngredient": "free-range eggs beaten",
-    "diet": "vegan",
+    "diet": "vegetarian",
     "region": "catalan",
     "cuisineAdjective": "Spanish",
     "mainIngredient": "Eggs",
     "descriptor": "Aromatic Stone",
     "dishForm": "Omelette"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

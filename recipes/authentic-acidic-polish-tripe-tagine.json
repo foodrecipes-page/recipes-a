@@ -3,8 +3,7 @@
   "description": "A sour and hearty Polish dish made with tripe, cooked in a tagine and flavored with traditional spices, this recipe is kid-friendly and easy to make.",
   "cuisine": "Polish",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,8 @@
     "Reduce the heat to low, cover the pot, and simmer for 1 1/2 hours, or until the tripe is tender.",
     "Stir in the sour cream and lemon juice.",
     "Simmer the tagine for an additional 10 minutes, or until the sauce has thickened slightly.",
-    "Serve the tagine hot, garnished with chopped fresh parsley or dill."
+    "Serve the tagine hot, garnished with chopped fresh parsley or dill.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 100,
@@ -70,7 +70,6 @@
   "servings": 6,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "gluten-free",
     "hearty-stew",
     "kid-friendly",
@@ -100,5 +99,10 @@
     "mainIngredient": "tripe",
     "descriptor": "Authentic Acidic",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

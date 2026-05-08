@@ -3,8 +3,7 @@
   "description": "A nutty and gooey Mediterranean dish perfect for a date night, featuring lamb kebabs, fries, and fermented elements, all while being low-glycemic-friendly.",
   "cuisine": "Mediterranean",
   "diet": [
-    "low-glycemic",
-    "gluten-free"
+    "low-glycemic"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -72,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "date-night",
-    "gluten-free",
     "kebabs",
     "lamb",
     "low-glycemic",
@@ -101,5 +99,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Amazingly aromatic",
     "dishForm": "Kebabs"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

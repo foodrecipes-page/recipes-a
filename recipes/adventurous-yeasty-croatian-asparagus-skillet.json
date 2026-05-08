@@ -62,7 +62,8 @@
     "Pour the yeast mixture over the asparagus and onion mixture in the tava griddle.",
     "Season with salt, black pepper, and paprika, and stir to combine.",
     "Reduce heat to low and simmer, covered, for 10 minutes, until the sauce has thickened and the yeast is activated.",
-    "Serve hot, garnished with chopped fresh herbs if desired."
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -100,5 +101,9 @@
     "mainIngredient": "asparagus",
     "descriptor": "Adventurous Yeasty",
     "dishForm": "Skillet"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -2,9 +2,7 @@
   "title": "Amazing Bouncy Mexican Pork Carnitas",
   "description": "A delicious and tender Mexican dish featuring pork, capers, and dashi extract, with a unique bouncy texture, inspired by the Jalisco style, and halal friendly.",
   "cuisine": "Mexican",
-  "diet": [
-    "halal"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -61,7 +59,8 @@
     "Using two forks, shred the pork into bite-sized pieces and return it to the pot.",
     "Continue to cook the pork for an additional 30 minutes, stirring occasionally, until it is crispy and golden brown.",
     "Remove the pot from the heat and let the carnitas cool to room temperature.",
-    "Serve the carnitas warm, garnished with additional capers and a sprinkle of oregano if desired."
+    "Serve the carnitas warm, garnished with additional capers and a sprinkle of oregano if desired.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 180,
@@ -99,5 +98,10 @@
     "mainIngredient": "pork",
     "descriptor": "Amazing Bouncy",
     "dishForm": "Carnitas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal",
+    "added-safety-pork_no_temp"
+  ]
 }

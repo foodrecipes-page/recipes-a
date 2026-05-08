@@ -78,7 +78,8 @@
     "Add the chicken stock cube, date syrup, rice vinegar, salt, and black pepper. Stir to combine.",
     "Add the egg whites and stir until the mixture starts to thicken, about 2 minutes.",
     "Add the toasted sesame seeds, chopped scallions, lemongrass, and cilantro. Stir to combine.",
-    "Transfer the mixture to a serving dish and garnish with additional sesame seeds and scallions if desired."
+    "Transfer the mixture to a serving dish and garnish with additional sesame seeds and scallions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -115,5 +116,9 @@
     "mainIngredient": "chicken",
     "descriptor": "aerated",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

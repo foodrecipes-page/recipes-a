@@ -2,9 +2,7 @@
   "title": "Aromatic Japanese Tofu Shio Ramen",
   "description": "A yeasty, molten ramen that fuels post-workout recovery with a vegan twist, enriched by vegetarian Worcestershire sauce and crispy tempeh lardons.",
   "cuisine": "Japanese",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "lunch",
   "ingredients": [
     {
@@ -80,8 +78,7 @@
     "high-protein",
     "post-workout",
     "quick",
-    "ramen",
-    "vegan"
+    "ramen"
   ],
   "nutrition": {
     "calories": 775,
@@ -106,5 +103,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Aromatic",
     "dishForm": "Shio Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

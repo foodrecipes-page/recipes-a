@@ -3,8 +3,7 @@
   "description": "A savory Filipino-inspired asparagus stew with a salty, cheese‑pull finish, perfect for meal prep.",
   "cuisine": "Filipino",
   "diet": [
-    "high-protein",
-    "vegetarian"
+    "high-protein"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -118,5 +117,9 @@
     "mainIngredient": "Asparagus",
     "descriptor": "Appetizing",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

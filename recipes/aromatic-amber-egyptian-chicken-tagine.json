@@ -65,7 +65,8 @@
     "Remove the pot from the heat and let it cool slightly",
     "Stir in the chopped fresh parsley and serve the tagine hot over rice or couscous",
     "Garnish with additional parsley, if desired",
-    "Serve immediately and enjoy"
+    "Serve immediately and enjoy",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -103,5 +104,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Aromatic Amber",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

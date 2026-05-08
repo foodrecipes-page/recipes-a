@@ -50,7 +50,8 @@
     "Pour the sauce mixture over the pork and scallions, and stir to combine.",
     "Add the gherkin relish and stir-fry for an additional 2 minutes.",
     "Warm the mu shu pancakes by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
-    "Assemble the mu shu by spooning the pork and relish mixture onto a pancake and serving immediately."
+    "Assemble the mu shu by spooning the pork and relish mixture onto a pancake and serving immediately.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 10,
@@ -88,5 +89,9 @@
     "mainIngredient": "pork",
     "descriptor": "Amazing Al Dente",
     "dishForm": "Mu Shu"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

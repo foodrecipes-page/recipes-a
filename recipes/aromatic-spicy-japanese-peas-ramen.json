@@ -61,7 +61,8 @@
     "Add the cooked noodles to the saucepan and stir to combine with the split peas and chili peppers.",
     "Pour the simmered broth over the noodles and split peas, and stir to combine.",
     "Garnish with toasted sesame seeds, scallions, and additional chili peppers if desired.",
-    "Serve hot, with a side of your favorite toppings, such as sliced green onions, grated ginger, or sesame seeds."
+    "Serve hot, with a side of your favorite toppings, such as sliced green onions, grated ginger, or sesame seeds.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -70,7 +71,6 @@
   "difficulty": "medium",
   "tags": [
     "easy-to-make",
-    "gluten-free",
     "high-protein",
     "meal-prep",
     "meatless",
@@ -94,11 +94,17 @@
     "mood": "meal-prep",
     "technique": "temper",
     "primaryIngredient": "split peas",
-    "diet": "pescatarian",
+    "diet": "pescatarian-friendly",
     "region": null,
     "cuisineAdjective": "Japanese",
     "mainIngredient": "peas",
     "descriptor": "Aromatic Spicy",
     "dishForm": "Ramen"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

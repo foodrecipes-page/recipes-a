@@ -2,9 +2,7 @@
   "title": "Aromatic Canadian Lentil Stew",
   "description": "A hearty and flavorful vegan-friendly stew featuring mustard seeds and lardons-render, perfect for a weeknight dinner",
   "cuisine": "Canadian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -89,5 +87,9 @@
     "mainIngredient": "lentils",
     "descriptor": "Aromatic Hearty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

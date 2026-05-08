@@ -63,7 +63,8 @@
     "Stir in the coconut cream and let the sauce simmer for an additional 5 minutes.",
     "Season the sauce with salt and black pepper to taste.",
     "Drain the cooked pasta and add it to the skillet, tossing to combine with the sauce.",
-    "Serve the pasta hot, garnished with chopped fresh parsley."
+    "Serve the pasta hot, garnished with chopped fresh parsley.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -72,7 +73,6 @@
   "difficulty": "medium",
   "tags": [
     "creamy-pasta",
-    "gluten-free",
     "meal-prep",
     "one-pot",
     "portuguese-cuisine",
@@ -101,5 +101,10 @@
     "mainIngredient": "farfalle",
     "descriptor": "Amazingly creamy",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

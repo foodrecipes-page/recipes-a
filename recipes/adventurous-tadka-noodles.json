@@ -63,7 +63,9 @@
     "Mix in soy sauce and fish sauce. Stir well to combine all ingredients.",
     "Increase heat to high, toss in tadka spices mix and the remaining sesame oil. Toss everything together quickly to avoid burning.",
     "Add soaked egg noodles directly from boiling water into the pan with the tadka sauce. Toss well until the noodles are evenly coated and heated through.",
-    "Serve hot, garnished with fresh coriander leaves if desired."
+    "Serve hot, garnished with fresh coriander leaves if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -97,5 +99,10 @@
     "primaryIngredient": "egg noodles",
     "diet": "whole30",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp",
+    "added-safety-ground_beef_no_temp"
+  ]
 }

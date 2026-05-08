@@ -58,7 +58,7 @@
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 0,
-  "totalTimeMin": 40,
+  "totalTimeMin": 10,
   "servings": 1,
   "difficulty": "easy",
   "tags": [
@@ -92,5 +92,9 @@
     "mainIngredient": "flaxseed",
     "descriptor": "Amazing Athletic",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "recomputed-totalTime"
+  ]
 }

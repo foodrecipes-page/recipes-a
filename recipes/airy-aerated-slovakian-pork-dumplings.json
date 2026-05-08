@@ -2,9 +2,7 @@
   "title": "Airy Aerated Slovakian Pork Dumplings",
   "description": "A traditional Slovakian dish with a twist, featuring aerated pork dumplings in a briny gochujang sauce, perfect for meal prep. This kosher-friendly recipe is a unique blend of flavors and textures.",
   "cuisine": "Slovakian",
-  "diet": [
-    "kosher"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -54,7 +52,8 @@
     "Divide the dough into 8 equal pieces and shape each piece into a ball.",
     "Heat the vegetable oil in a large pot over medium heat and fry the dumplings until they are golden brown.",
     "Remove the dumplings from the oil and place them on a paper towel-lined plate to drain excess oil.",
-    "Serve the dumplings hot with a side of steamed vegetables or a salad."
+    "Serve the dumplings hot with a side of steamed vegetables or a salad.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 30,
   "cookTimeMin": 20,
@@ -92,5 +91,10 @@
     "mainIngredient": "pork",
     "descriptor": "Airy Aerated",
     "dishForm": "Dumplings"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-kosher",
+    "added-safety-pork_no_temp"
+  ]
 }

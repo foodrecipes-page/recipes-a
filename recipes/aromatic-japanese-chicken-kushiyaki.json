@@ -81,7 +81,8 @@
     "During the last minute of grilling, brush the chicken with the nuka-milk mixture and continue grilling until caramelized.",
     "Transfer the chicken to a serving platter and brush with the sweet soy sauce glaze.",
     "Sprinkle with green onions and ginger, and serve hot.",
-    "Garnish with additional green onions and serve with steamed Japanese rice."
+    "Garnish with additional green onions and serve with steamed Japanese rice.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -118,5 +119,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Aromatic",
     "dishForm": "Kushiyaki"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

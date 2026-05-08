@@ -3,7 +3,6 @@
   "description": "A one-pot Thai soup featuring yellow masarepa and shio-cure chicken, cooked to perfection with an airy aerated touch.",
   "cuisine": "Thai",
   "diet": [
-    "vegetarian",
     "pescetarian"
   ],
   "meal": "lunch",
@@ -64,7 +63,8 @@
     "Add the sliced kaffir lime leaves and cook for an additional 2 minutes.",
     "Season with salt to taste.",
     "Stir in the yellow masarepa and cook for 2-3 minutes, or until it has absorbed most of the liquid.",
-    "Serve the soup hot, garnished with additional kaffir lime leaves and lemongrass if desired."
+    "Serve the soup hot, garnished with additional kaffir lime leaves and lemongrass if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -76,8 +76,7 @@
     "one-pot",
     "soup",
     "spicy",
-    "thai",
-    "vegetarian"
+    "thai"
   ],
   "nutrition": {
     "calories": 320,
@@ -102,5 +101,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Airy Aerated",
     "dishForm": "Tom Kha Soup"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp"
+  ]
 }

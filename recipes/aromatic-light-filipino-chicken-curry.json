@@ -3,8 +3,7 @@
   "description": "A mustardy and light Filipino dish featuring lime leaves, this curry is a cozy and ayurvedic-sattvic-friendly meal option, reduced to perfection for a delicious taste.",
   "cuisine": "Filipino",
   "diet": [
-    "gluten-free",
-    "dairy-free"
+    "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -62,7 +61,8 @@
     "Add the lime leaves and cook for 1 minute.",
     "Pour in the coconut milk and bring the mixture to a simmer.",
     "Reduce the heat to low and let the curry simmer for 20 minutes.",
-    "Serve the curry hot over rice or with some roti."
+    "Serve the curry hot over rice or with some roti.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -99,5 +99,10 @@
     "mainIngredient": "chicken",
     "descriptor": "Aromatic Light",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free",
+    "added-safety-poultry_no_temp"
+  ]
 }

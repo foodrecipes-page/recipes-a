@@ -3,8 +3,7 @@
   "description": "Spicy, aerated Venezuelan dish featuring vine leaves and dashi-extract, served in a tandoor clay pot.",
   "cuisine": "Venezuelan",
   "diet": [
-    "dairy-free",
-    "vegetarian"
+    "dairy-free"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -89,8 +88,7 @@
     "lunch",
     "south-american",
     "street-food",
-    "tacos",
-    "vegan"
+    "tacos"
   ],
   "nutrition": {
     "calories": 480,
@@ -115,5 +113,10 @@
     "mainIngredient": "vine leaves",
     "descriptor": "Aromatic Roasted",
     "dishForm": "Tacos"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan",
+    "removed-diet-vegetarian"
+  ]
 }

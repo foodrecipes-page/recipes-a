@@ -3,8 +3,7 @@
   "description": "A low-carb and romantic Thai dish featuring roasted tofu and soya milk, served on a cedar plank. This gaeng curry is a perfect dinner option for those looking for a flavorful and healthy meal.",
   "cuisine": "Thai",
   "diet": [
-    "low-carb",
-    "vegetarian"
+    "low-carb"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -71,8 +70,7 @@
     "healthy-meal",
     "low-carb",
     "romantic-dinner",
-    "thai-cuisine",
-    "vegetarian"
+    "thai-cuisine"
   ],
   "nutrition": {
     "calories": 320,
@@ -97,5 +95,9 @@
     "mainIngredient": "tofu",
     "descriptor": "Aromatic Roasted",
     "dishForm": "Gaeng Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian"
+  ]
 }

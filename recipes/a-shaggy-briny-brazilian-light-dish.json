@@ -3,7 +3,6 @@
   "description": "A light, refreshing soup originating from Brazil, perfect for a casual lunch.",
   "cuisine": "Brazilian",
   "diet": [
-    "vegetarian",
     "gluten-free"
   ],
   "meal": "lunch",
@@ -72,7 +71,6 @@
     "gluten-free",
     "light-meal",
     "soup",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
@@ -92,11 +90,17 @@
     "mood": "light",
     "technique": "nuka-pickle",
     "primaryIngredient": "cumin",
-    "diet": "nut-free",
+    "diet": "gluten-free",
     "region": null,
     "cuisineAdjective": "brazilian",
-    "mainIngredient": "light",
+    "mainIngredient": "cumin",
     "descriptor": "a shaggy briny",
     "dishForm": "dish"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "fixed-axes-main",
+    "aligned-axes-diet"
+  ]
 }

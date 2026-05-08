@@ -51,7 +51,8 @@
     "Add the cooked pasta to the skillet and toss with the olive oil",
     "Chop the fresh basil leaves and add them to the pasta",
     "Add the cooked chicken to the pasta and toss to combine",
-    "Top the pasta with grated parmesan cheese and serve hot"
+    "Top the pasta with grated parmesan cheese and serve hot",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 120,
@@ -89,5 +90,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Airy Light",
     "dishForm": "Pasta"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

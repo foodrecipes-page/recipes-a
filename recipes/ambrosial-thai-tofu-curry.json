@@ -2,9 +2,7 @@
   "title": "Ambrosial Thai Tofu Curry",
   "description": "A creamy, fragrant one-pot tofu curry that balances sweet, sour, and umami flavors, perfect for a quick shojin-friendly meal.",
   "cuisine": "thai",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "dinner",
   "ingredients": [
     {
@@ -92,5 +90,9 @@
     "mainIngredient": "Tofu",
     "descriptor": "Ambrosial",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

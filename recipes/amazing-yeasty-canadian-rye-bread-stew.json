@@ -60,7 +60,8 @@
     "Sprinkle the active dry yeast over the top of the stew and stir to combine.",
     "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
     "Remove the pot from the heat and let the stew cool slightly before serving.",
-    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+    "Serve the stew hot, garnished with chopped fresh herbs if desired.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -98,5 +99,9 @@
     "mainIngredient": "rye bread",
     "descriptor": "amazing yeasty",
     "dishForm": "Stew"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

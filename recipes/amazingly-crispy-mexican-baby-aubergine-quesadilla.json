@@ -3,7 +3,6 @@
   "description": "A rich and crispy weeknight Mexican dish featuring baby aubergine, this quesadilla is perfect for a flavorful dinner. It is made using a mortar and pestle to pound the ingredients and is FODMAP friendly.",
   "cuisine": "Mexican",
   "diet": [
-    "gluten-free",
     "FODMAP friendly"
   ],
   "meal": "dinner",
@@ -71,7 +70,6 @@
     "cheesy",
     "crispy",
     "fodmap-friendly",
-    "gluten-free",
     "mexican",
     "one-pan",
     "weeknight"
@@ -99,5 +97,9 @@
     "mainIngredient": "baby aubergine",
     "descriptor": "Amazingly Crispy",
     "dishForm": "Quesadilla"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

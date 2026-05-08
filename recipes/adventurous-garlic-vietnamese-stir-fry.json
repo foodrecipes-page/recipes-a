@@ -47,7 +47,8 @@
     "In the same pan, add garlic, green onions, fish sauce, tamarind paste, and cornstarch mixed with water to create a slurry. Stir well to combine.",
     "Pour in rice vinegar and bring it to a boil until the mixture thickens slightly, about 2 minutes.",
     "Return the chicken to the pan and stir until coated evenly with the sauce.",
-    "Serve hot as an adventurous and flavorful side dish or main course."
+    "Serve hot as an adventurous and flavorful side dish or main course.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -82,5 +83,9 @@
     "mainIngredient": "Garlic",
     "descriptor": "Adventurous",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

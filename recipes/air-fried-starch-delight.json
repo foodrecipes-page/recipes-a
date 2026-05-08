@@ -42,7 +42,8 @@
     "Heat vegetable oil in an air fryer basket according to manufacturer’s instructions (typically 350°F/175°C), ensuring it is hot but not smoking.",
     "Divide the prepared rice mixture into small portions. Carefully transfer portions into the preheated air fryer basket, making sure they do not touch each other.",
     "Air-fry in batches until golden brown and crispy on all sides, approximately 8-10 minutes per batch. Flip halfway through cooking for even browning.",
-    "Once done, remove from the air fryer basket and allow to cool slightly before serving with fresh herbs if desired."
+    "Once done, remove from the air fryer basket and allow to cool slightly before serving with fresh herbs if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 25,
   "cookTimeMin": 30,
@@ -76,5 +77,9 @@
     "primaryIngredient": "starch",
     "diet": "halal",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

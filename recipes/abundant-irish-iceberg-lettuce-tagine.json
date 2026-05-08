@@ -67,7 +67,8 @@
     "Pour in chicken broth, bring to a gentle simmer, cover, and cook for 20 minutes until vegetables are tender.",
     "Meanwhile, cut the iceberg lettuce head into wedges or large leaves.",
     "Gently fold the lettuce into the tagine, cover, and cook for an additional 5 minutes until just wilted.",
-    "Serve hot, optionally garnish with fresh parsley or mint."
+    "Serve hot, optionally garnish with fresh parsley or mint.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 30,
@@ -105,5 +106,9 @@
     "mainIngredient": "Iceberg Lettuce",
     "descriptor": "Abundant",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

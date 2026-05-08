@@ -67,7 +67,8 @@
     "Drizzle the clear honey over the top of each mini cocotte.",
     "Pour the chicken broth into the bottom of each mini cocotte.",
     "Cover the mini cocottes with foil and bake for 25 minutes.",
-    "Remove the foil and bake for an additional 10 minutes."
+    "Remove the foil and bake for an additional 10 minutes.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -105,5 +106,9 @@
     "mainIngredient": "chicken",
     "descriptor": "Amazingly Aromatic",
     "dishForm": "Causa Limena"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

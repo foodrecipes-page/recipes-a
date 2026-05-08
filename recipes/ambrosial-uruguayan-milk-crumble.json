@@ -96,11 +96,15 @@
     "mood": "festive",
     "technique": "saute",
     "primaryIngredient": "whole milk",
-    "diet": "dairy-free",
+    "diet": "dairy-free-friendly",
     "region": null,
     "cuisineAdjective": "Uruguayan",
     "mainIngredient": "milk",
     "descriptor": "Ambrosial",
     "dishForm": "Crumble"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "aligned-axes-diet"
+  ]
 }

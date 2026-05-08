@@ -31,7 +31,8 @@
     "Mix together a few drops of sweetener (if using) with spices to taste, then brush evenly over both sides of sliced potatoes.",
     "Place the seasoned potato slices and dill pickle slices in a single layer inside an air fryer basket. Ensure they are spread out for even cooking.",
     "Air-fry at 375°F for about 10 minutes until golden brown and crispy on one side, then flip over and air-fry for another 5-8 minutes or until desired crispiness is achieved.",
-    "Serve warm as a snack or meal accompaniment."
+    "Serve warm as a snack or meal accompaniment.",
+    "Note: this recipe is for refrigerator pickling/preserving only — store in the refrigerator and consume within 1 week. Do not water-bath can without an acid (vinegar or lemon juice)."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 15,
@@ -68,5 +69,9 @@
     "mainIngredient": "Potato",
     "descriptor": "Crunchy Air Fried",
     "dishForm": "Wraps"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-preserving_no_acid"
+  ]
 }

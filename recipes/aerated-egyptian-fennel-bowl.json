@@ -85,7 +85,8 @@
     "Drizzle with additional honey, if desired.",
     "Garnish with chopped parsley and serve warm.",
     "Refrigerate leftovers for up to 3 days.",
-    "To aerate the bulgur, use a whisk or fork to fluff it before serving."
+    "To aerate the bulgur, use a whisk or fork to fluff it before serving.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 20,
@@ -121,5 +122,9 @@
     "mainIngredient": "fennel",
     "descriptor": "Aerated",
     "dishForm": "Bowl"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A fresh and chewy Algerian dish featuring sesame butter, perfect for a midnight craving, cooked in a copper pot for a high-protein friendly meal.",
   "cuisine": "Algerian",
   "diet": [
-    "vegetarian",
-    "vegan"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -98,5 +97,9 @@
     "mainIngredient": "chickpeas",
     "descriptor": "Amazingly aromatic",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

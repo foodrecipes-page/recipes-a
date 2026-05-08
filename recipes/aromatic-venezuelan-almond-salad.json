@@ -72,7 +72,6 @@
     "diabetic-friendly",
     "easy",
     "romantic",
-    "vegan",
     "weeknight"
   ],
   "nutrition": {
@@ -98,5 +97,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Aromatic",
     "dishForm": "Salad"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

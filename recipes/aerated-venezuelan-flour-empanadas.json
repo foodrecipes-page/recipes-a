@@ -3,8 +3,6 @@
   "description": "Cultured, aerated version of Venezuelan empanadas ideal for a date-night dinner. Served hot with a dollop of cream.",
   "cuisine": "Venezuelan",
   "diet": [
-    "vegetarian",
-    "gluten-free",
     "nut-free"
   ],
   "meal": "dinner",
@@ -108,5 +106,10 @@
     "mainIngredient": "Flour",
     "descriptor": "Aerated",
     "dishForm": "Empanadas"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "removed-diet-gluten-free"
+  ]
 }

@@ -3,8 +3,7 @@
   "description": "A sweet and chewy Moroccan-inspired dish featuring avocado, a mild curry flavor, and packed with energy and nutrients.",
   "cuisine": "Moroccan",
   "diet": [
-    "sweet",
-    "vegetarian"
+    "sweet"
   ],
   "meal": "dessert",
   "ingredients": [
@@ -39,7 +38,8 @@
     "Stir in low-sodium chicken broth, adding more if needed for desired consistency.",
     "Mix minced garlic into the mixture until well combined.",
     "If using sweetener of choice, add it now to taste.",
-    "Serve immediately as a dessert or energy bar."
+    "Serve immediately as a dessert or energy bar.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 5,
@@ -69,7 +69,13 @@
     "mood": "energizing",
     "technique": "temper",
     "primaryIngredient": "avocado",
-    "diet": "low-sodium",
+    "diet": "sweet",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegetarian",
+    "added-safety-poultry_no_temp",
+    "aligned-axes-diet"
+  ]
 }

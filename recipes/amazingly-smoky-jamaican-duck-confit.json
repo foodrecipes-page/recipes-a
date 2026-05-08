@@ -61,7 +61,8 @@
     "Remove the Dutch oven from the oven and let it cool slightly.",
     "If using rum, carefully pour it over the duck legs and ignite it with a match, being cautious of the flames.",
     "Let the flames burn for about 30 seconds to 1 minute, or until the rum has almost completely evaporated.",
-    "Serve the duck confit legs hot, garnished with fresh thyme and scallions if desired."
+    "Serve the duck confit legs hot, garnished with fresh thyme and scallions if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 150,
@@ -99,5 +100,9 @@
     "mainIngredient": "duck",
     "descriptor": "Amazingly Smoky",
     "dishForm": "Confit"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

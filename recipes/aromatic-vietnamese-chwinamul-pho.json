@@ -3,7 +3,6 @@
   "description": "Savor the flavors of Vietnam with this aromatic and savory Pho dish featuring the unique chwinamul vegetable, a low-glycemic-friendly twist on the classic recipe.",
   "cuisine": "vietnamese",
   "diet": [
-    "gluten-free",
     "low-carb",
     "healthy"
   ],
@@ -117,5 +116,9 @@
     "mainIngredient": "chwinamul",
     "descriptor": "Aromatic",
     "dishForm": "Pho"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

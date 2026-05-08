@@ -51,7 +51,8 @@
     "Dot the top of the beef mixture with the butter.",
     "Cover the bowl with aluminum foil and bake for 30 minutes.",
     "Remove the foil and continue baking for an additional 20 minutes, or until the top is lightly browned.",
-    "Remove the bowl from the oven and let it rest for 10 minutes before serving."
+    "Remove the bowl from the oven and let it rest for 10 minutes before serving.",
+    "Cook ground beef to an internal temperature of 71°C / 160°F (no longer pink in the middle) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 50,
@@ -88,5 +89,9 @@
     "mainIngredient": "beef",
     "descriptor": "Aromatic Smoky",
     "dishForm": "Bake"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-ground_beef_no_temp"
+  ]
 }

@@ -49,7 +49,8 @@
     "Combine marinated pork, red bell peppers, onions, garlic, and allspice berries in an air fryer basket. Place inside your air fryer",
     "Air-fry at 200°C (392°F) for 15 minutes. Check doneness by pressing the meat; it should be firm but no longer pink.",
     "Remove pork from air fryer and let rest for about 5 minutes before slicing thinly across the grain. Slice peppers as well, if needed for presentation.",
-    "Serve hot with a side of tahini sauce or za'atar for added flavor and texture."
+    "Serve hot with a side of tahini sauce or za'atar for added flavor and texture.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -85,5 +86,9 @@
     "mainIngredient": "pork",
     "descriptor": "Air-Fried",
     "dishForm": "Stir-fry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

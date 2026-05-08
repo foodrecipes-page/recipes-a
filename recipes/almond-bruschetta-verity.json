@@ -3,8 +3,7 @@
   "description": "A peppery, tender Ukrainian brunch dish featuring almond paste and marinated bread slices with a light egg-free-friendly dressing.",
   "cuisine": "Ukrainian",
   "diet": [
-    "vegan",
-    "gluten-free"
+    "vegan"
   ],
   "meal": "snack",
   "ingredients": [
@@ -67,5 +66,9 @@
     "primaryIngredient": "almond paste",
     "diet": "egg-free",
     "region": null
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

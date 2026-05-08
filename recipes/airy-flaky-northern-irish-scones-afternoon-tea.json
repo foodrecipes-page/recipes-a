@@ -3,7 +3,6 @@
   "description": "A delicate and romantic Northern Irish dish featuring flaky scones with a floral twist, perfect for afternoon tea, made with malt vinegar and incorporating anti-inflammatory friendly ingredients through the use of mantecare emulsification.",
   "cuisine": "Northern Irish",
   "diet": [
-    "gluten-free",
     "vegetarian"
   ],
   "meal": "snack",
@@ -90,5 +89,9 @@
     "mainIngredient": "scones",
     "descriptor": "Airy Flaky",
     "dishForm": "Afternoon Tea"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-gluten-free"
+  ]
 }

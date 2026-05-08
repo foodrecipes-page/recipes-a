@@ -53,7 +53,8 @@
     "Add the soy sauce and stir to combine",
     "Add the chopped scallions and cook until wilted",
     "Cook the zha jiang mian noodles according to package instructions",
-    "Combine the cooked noodles and pork mixture and stir to combine"
+    "Combine the cooked noodles and pork mixture and stir to combine",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 25,
@@ -90,5 +91,9 @@
     "mainIngredient": "almonds",
     "descriptor": "Aromatic Dense",
     "dishForm": "Zha Jiang Mian"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

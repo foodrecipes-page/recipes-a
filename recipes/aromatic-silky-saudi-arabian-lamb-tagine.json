@@ -3,7 +3,6 @@
   "description": "Indulge in this rich and flavorful Saudi Arabian dish, featuring tender lamb and a blend of aromatic spices, all wrapped in a silky en-croute pastry, perfect for a special occasion, and made with buddhist-temple-friendly ingredients, avoiding any animal by-products and using garlic granules for added depth of flavor, while also incorporating a winey reduction to enhance the overall taste experience.",
   "cuisine": "saudi-arabian",
   "diet": [
-    "halal",
     "buddhist"
   ],
   "meal": "dinner",
@@ -113,5 +112,9 @@
     "mainIngredient": "lamb",
     "descriptor": "Aromatic Silky",
     "dishForm": "Tagine"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-halal"
+  ]
 }

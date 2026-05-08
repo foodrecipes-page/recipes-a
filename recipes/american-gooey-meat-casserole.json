@@ -80,7 +80,8 @@
     "Cover the dish with aluminum foil and bake for 20 minutes.",
     "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
     "Remove the dish from the oven and let it cool for a few minutes before serving.",
-    "Serve hot, garnished with additional cilantro if desired."
+    "Serve hot, garnished with additional cilantro if desired.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 30,
@@ -117,5 +118,9 @@
     "mainIngredient": "meat",
     "descriptor": "gooey",
     "dishForm": "casserole"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }

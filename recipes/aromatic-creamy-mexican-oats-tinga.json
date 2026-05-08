@@ -4,7 +4,6 @@
   "cuisine": "Mexican",
   "diet": [
     "vegetarian",
-    "dairy-free",
     "sattvic"
   ],
   "meal": "lunch",
@@ -76,7 +75,6 @@
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dairy-free",
     "high-protein",
     "mexican",
     "one-pot",
@@ -106,5 +104,9 @@
     "mainIngredient": "Oats",
     "descriptor": "Aromatic Creamy",
     "dishForm": "Tinga"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-dairy-free"
+  ]
 }

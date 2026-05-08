@@ -2,9 +2,7 @@
   "title": "Aromatic Slovakian Bread Toast",
   "description": "A pungent and snappy Slovakian dish featuring milk chocolate and double-rise bread, perfect for a cozy evening, and easily made vegan-friendly by substituting the chocolate.",
   "cuisine": "Slovakian",
-  "diet": [
-    "vegan"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -90,5 +88,9 @@
     "mainIngredient": "bread",
     "descriptor": "Aromatic",
     "dishForm": "Toast"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "removed-diet-vegan"
+  ]
 }

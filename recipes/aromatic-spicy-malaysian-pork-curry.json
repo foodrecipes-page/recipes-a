@@ -65,7 +65,8 @@
     "Add the tamarind paste, curry powder, cumin powder, cayenne pepper, salt, and black pepper, and stir to combine.",
     "Reduce heat to low and simmer, covered, for 30 minutes.",
     "Remove the lid and continue to simmer for an additional 10 minutes, or until the pork is tender and the sauce has thickened.",
-    "Serve hot over rice or with roti."
+    "Serve hot over rice or with roti.",
+    "Cook pork to an internal temperature of 63°C / 145°F and let it rest for 3 minutes before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,
@@ -102,5 +103,9 @@
     "mainIngredient": "pork",
     "descriptor": "Aromatic spicy",
     "dishForm": "Curry"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-pork_no_temp"
+  ]
 }

@@ -57,7 +57,8 @@
     "Thread each chicken drumstick onto a skewer, shaping it like nigiri, and place the skewers in the prepared terracotta dish.",
     "Broil the chicken skewers in the oven for an additional 5 minutes, or until lightly browned.",
     "Remove the chicken from the oven and sprinkle with chopped fresh parsley.",
-    "Serve the chicken skewers hot, directly from the terracotta dish."
+    "Serve the chicken skewers hot, directly from the terracotta dish.",
+    "Ensure poultry is cooked to an internal temperature of 74°C / 165°F (juices run clear, no pink remaining) before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 35,
@@ -95,5 +96,9 @@
     "mainIngredient": "chicken",
     "descriptor": "amazingly aromatic",
     "dishForm": "Skewers"
-  }
+  },
+  "validatedAt": "2026-05-08T23:14:05Z",
+  "fixesApplied": [
+    "added-safety-poultry_no_temp"
+  ]
 }
