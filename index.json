@@ -4169,6 +4169,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-peruvian-chicken-aji-de-gallina",
+    "title": "Aromatic Peruvian Chicken Aji De Gallina",
+    "tags": [
+      "chicken-recipes",
+      "comfort-food",
+      "dairy-free",
+      "gluten-free",
+      "peruvian-cuisine",
+      "south-american"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 105,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-peruvian-lamb-seco-de-cordero",
     "title": "Aromatic Peruvian Lamb Seco De Cordero",
     "tags": [

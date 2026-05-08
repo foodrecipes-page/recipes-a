@@ -1,0 +1,96 @@
+{
+  "title": "Aromatic Peruvian Chicken Aji De Gallina",
+  "description": "This Peruvian dish features shredded chicken in a creamy aji amarillo pepper sauce, served with rice and boiled potatoes, and is made satvik-friendly by substituting traditional heavy cream with a cashew cream alternative.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "satvik",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "aji amarillo peppers",
+      "amount": "4",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "yuzu kosho",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cashews",
+      "amount": "1 cup",
+      "notes": "soaked in water for 4 hours"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Roast the aji amarillo peppers in a 400 degree oven for 30 minutes, then peel and chop them.",
+    "In a blender, combine the roasted peppers, yuzu kosho, garlic, and onion, and blend until smooth.",
+    "In a large saucepan, combine the blended pepper mixture and cashew cream, and stir over low heat until warm and creamy.",
+    "Add the cooked chicken to the saucepan and stir to coat with the pepper sauce.",
+    "Season the chicken and sauce with salt and black pepper to taste.",
+    "Serve the chicken and sauce over boiled potatoes and steamed rice.",
+    "Garnish with chopped fresh cilantro and a sprinkle of toasted peanuts.",
+    "Refrigerate or freeze any leftovers for later use."
+  ],
+  "prepTimeMin": 45,
+  "cookTimeMin": 60,
+  "totalTimeMin": 105,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chicken-recipes",
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "peruvian-cuisine",
+    "south-american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "aromatic-peruvian-chicken-aji-de-gallina",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-peruvian-chicken-aji-de-gallina",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T22:46:39Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "cure",
+    "primaryIngredient": "yuzu-kosho",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic",
+    "dishForm": "Aji De Gallina"
+  }
+}
