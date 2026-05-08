@@ -1,0 +1,92 @@
+{
+  "title": "Ukrainian Egg Frittata",
+  "description": "A peppery and silky Ukrainian dish featuring amaretti and ferment-jang, perfect for a brunch mood, cooked in a kazan cauldron. This halal-friendly recipe is a unique twist on traditional frittatas.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "6 large",
+      "notes": "fresh"
+    },
+    {
+      "name": "amaretti cookies",
+      "amount": "1 cup crushed"
+    },
+    {
+      "name": "ferment-jang",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the kazan cauldron over medium heat.",
+    "In a large bowl, whisk together the eggs, salt, and black pepper until well combined.",
+    "Add the crushed amaretti cookies, ferment-jang, and grated cheddar cheese to the bowl and mix until smooth.",
+    "Melt the butter in the preheated kazan cauldron.",
+    "Pour the egg mixture into the kazan cauldron and cook for 5 minutes.",
+    "Use a spatula to gently lift and fold the edges of the frittata towards the center.",
+    "Continue cooking for an additional 10 minutes or until the eggs are almost set.",
+    "Sprinkle the chopped fresh parsley on top of the frittata and cook for a final 2 minutes.",
+    "Remove the kazan cauldron from the heat and let the frittata cool for a few minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 17,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "brunch",
+    "halal-friendly",
+    "high-protein",
+    "one-pan",
+    "ukrainian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "aromatic-airy-ukrainian-egg-frittata",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-airy-ukrainian-egg-frittata",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-08T16:12:51Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "silky",
+    "mood": "brunch-mood",
+    "technique": "ferment-jang",
+    "primaryIngredient": "amaretti",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "eggs",
+    "descriptor": "aromatic airy",
+    "dishForm": "Frittata"
+  }
+}

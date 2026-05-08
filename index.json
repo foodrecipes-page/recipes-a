@@ -2533,6 +2533,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-airy-ukrainian-egg-frittata",
+    "title": "Ukrainian Egg Frittata",
+    "tags": [
+      "brunch",
+      "halal-friendly",
+      "high-protein",
+      "one-pan",
+      "ukrainian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 32,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-algerian-lamb-tagine",
     "title": "Aromatic Algerian Lamb Tagine",
     "tags": [
