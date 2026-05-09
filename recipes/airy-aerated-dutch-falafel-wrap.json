@@ -1,0 +1,100 @@
+{
+  "title": "Airy Aerated Dutch Falafel Wrap",
+  "description": "A rich and nostalgic Dutch dish featuring crispy falafel, wrapped in a leaf and steamed to perfection, pescatarian friendly.",
+  "cuisine": "Dutch",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "falafel mix",
+      "amount": "1 cup",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "lettuce leaves",
+      "amount": "4 large",
+      "notes": "for wrapping"
+    },
+    {
+      "name": "pickled cucumber",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "hollandaise sauce",
+      "amount": "1/2 cup",
+      "notes": "store bought or homemade"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "4 slices",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "4",
+      "notes": "for serving"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the steamer to 200 degrees Fahrenheit.",
+    "Prepare the falafel mix according to the package instructions and shape into patties.",
+    "Place a falafel patty in the center of each lettuce leaf.",
+    "Add a slice of smoked salmon on top of the falafel, if using.",
+    "Add a spoonful of pickled cucumber on top of the salmon.",
+    "Drizzle hollandaise sauce over the cucumber.",
+    "Season with salt and pepper to taste.",
+    "Fold the lettuce leaves over the filling to create a wrap.",
+    "Place the wraps in the steamer and steam for 5 minutes.",
+    "Serve the wraps hot with lemon wedges on the side and garnish with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dutch-cuisine",
+    "easy-lunch",
+    "healthy-snack",
+    "pescatarian",
+    "quick-dinner",
+    "steamed-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "airy-aerated-dutch-falafel-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-aerated-dutch-falafel-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:33:27Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "aerated",
+    "mood": "nostalgic",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "falafel",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "falafel",
+    "descriptor": "Airy Aerated",
+    "dishForm": "Wrap"
+  }
+}

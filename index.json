@@ -1462,6 +1462,21 @@
     "shard": "a"
   },
   {
+    "slug": "airy-aerated-dutch-falafel-wrap",
+    "title": "Airy Aerated Dutch Falafel Wrap",
+    "tags": [
+      "dutch-cuisine",
+      "easy-lunch",
+      "healthy-snack",
+      "pescatarian",
+      "quick-dinner",
+      "steamed-food"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "airy-aerated-egyptian-lamb-pasta",
     "title": "Airy Aerated Egyptian Lamb Pasta",
     "tags": [
