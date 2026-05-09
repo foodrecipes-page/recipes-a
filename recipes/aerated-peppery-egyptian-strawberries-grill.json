@@ -1,0 +1,60 @@
+{
+  "title": "Aerated Peppery Egyptian Strawberries Grill",
+  "description": "A unique and refreshing dish featuring the sweetness of strawberries combined with the kick of pepper, perfect for a light dinner or snack. This recipe utilizes the raclette grill to create a delightful aerated texture.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fresh strawberries, hulled and sliced",
+      "amount": "12 oz",
+      "notes": "preferably organic"
+    }
+  ],
+  "instructions": [
+    "Prepare the raclette grill to medium heat, around 350°F (175°C).",
+    "In a small bowl, mix together 1 tablespoon of olive oil, 1 teaspoon of black pepper, and 1 teaspoon of lemon zest.",
+    "Brush the mixture evenly onto both sides of the sliced strawberries.",
+    "Place the strawberries on the raclette grill and cook for 3-4 minutes on each side, or until they start to caramelize.",
+    "Remove the strawberries from the grill and immediately plunge them into an ice bath to stop the cooking process and help preserve the aerated texture.",
+    "Once the strawberries have chilled, carefully remove them from the ice bath and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aerated-texture",
+    "high-protein",
+    "low-carb",
+    "raclette-grill",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "aerated-peppery-egyptian-strawberries-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-peppery-egyptian-strawberries-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:08:22Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "strawberries",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "Strawberries",
+    "descriptor": "Aerated, Peppery",
+    "dishForm": "Grill"
+  }
+}
