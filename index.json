@@ -1553,6 +1553,21 @@
     "shard": "a"
   },
   {
+    "slug": "airy-argentinian-chestnut-empanadas",
+    "title": "Airy Argentinian Chestnut Empanadas",
+    "tags": [
+      "argentinian-food",
+      "chestnuts",
+      "date-night",
+      "empanadas",
+      "infused-oil",
+      "vegetarian"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "airy-aromatic-ethiopian-chicken-kik-alisha",
     "title": "Airy Aromatic Ethiopian Chicken Kik Alisha",
     "tags": [

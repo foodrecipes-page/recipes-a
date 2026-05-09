@@ -1,0 +1,95 @@
+{
+  "title": "Airy Argentinian Chestnut Empanadas",
+  "description": "These empanadas are a delicious and airy Argentinian dish featuring chestnuts and infused oil, perfect for a date night. The ayurvedic tamasic friendly ingredients make it a great option for a relaxing evening.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnuts",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "infused oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "2 cups"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees.",
+    "In a bowl, mix together the mashed chestnuts, infused oil, red wine, onion, garlic, thyme, and salt.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the chestnut mixture onto the center of each dough circle.",
+    "Fold the dough over the filling to form a half moon shape and press the edges together to seal.",
+    "Brush the tops of the empanadas with a little bit of water.",
+    "Bake the empanadas in the preheated oven for 20 minutes, or until golden brown.",
+    "Serve the empanadas hot and enjoy."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian-food",
+    "chestnuts",
+    "date-night",
+    "empanadas",
+    "infused-oil",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "airy-argentinian-chestnut-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-argentinian-chestnut-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:48:12Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "date-night",
+    "technique": "infuse-oil",
+    "primaryIngredient": "chestnuts",
+    "diet": "ayurvedic-tamasic",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "chestnuts",
+    "descriptor": "Airy Aerated",
+    "dishForm": "Empanadas"
+  }
+}
