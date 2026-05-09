@@ -1,0 +1,101 @@
+{
+  "title": "Amazing Energizing Croatian Almond Pilaf",
+  "description": "This Croatian dish is a cultured and flaky pilaf featuring almond butter, reduced to bring out the best flavors, and is high-protein-friendly, making it perfect for a nutritious meal.",
+  "cuisine": "Croatian",
+  "diet": [
+    "high-protein",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almond butter",
+      "amount": "1/2 cup",
+      "notes": "creamy"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chopped almonds",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the basmati rice and cook for 2 minutes, stirring constantly.",
+    "Add the chicken broth, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes.",
+    "Stir in the almond butter until it is well combined.",
+    "Sprinkle the chopped almonds and dried parsley on top.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "almond-butter",
+    "croatian-cuisine",
+    "healthy-meal",
+    "high-protein",
+    "one-pot",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "amazing-energizing-croatian-almond-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-energizing-croatian-almond-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:47:01Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "flaky",
+    "mood": "energizing",
+    "technique": "reduce",
+    "primaryIngredient": "almond butter",
+    "diet": "high-protein",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "almonds",
+    "descriptor": "Amazing Energizing",
+    "dishForm": "Pilaf"
+  }
+}
