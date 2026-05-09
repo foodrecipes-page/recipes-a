@@ -1,0 +1,102 @@
+{
+  "title": "Aromatic Crisp Korean Turkey Ham Namul",
+  "description": "A bitter and crisp Korean dish featuring turkey ham, this namul is a show-off dish that is jain-friendly and perfect for special occasions. It is served on a wooden board and features deep-fry-tod for added crunch.",
+  "cuisine": "Korean",
+  "diet": [
+    "jain"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "toasted sesame seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "Deep-fry the diced turkey ham until it is crispy and golden brown.",
+    "Remove the turkey ham from the oil and place it on a paper towel-lined plate to drain excess oil.",
+    "In a small bowl, whisk together the sesame oil, soy sauce, garlic, and ginger.",
+    "Add the chopped green onions, toasted sesame seeds, salt, and black pepper to the bowl and stir to combine.",
+    "Add the crispy turkey ham to the bowl and toss to coat with the sauce.",
+    "Arrange the turkey ham namul on a wooden board in a decorative pattern.",
+    "Serve the namul immediately and enjoy.",
+    "Garnish with additional green onions and toasted sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "deep-fried",
+    "jain-friendly",
+    "korean-cuisine",
+    "special-occasion",
+    "wooden-board-presentation"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "aromatic-crisp-korean-turkey-ham-namul",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-crisp-korean-turkey-ham-namul",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:37:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "crisp",
+    "mood": "show-off",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "turkey ham",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Korean",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Aromatic Crisp",
+    "dishForm": "Namul"
+  }
+}
