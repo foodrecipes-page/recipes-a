@@ -2679,6 +2679,22 @@
     "shard": "a"
   },
   {
+    "slug": "amazingly-aromatic-portuguese-chicken-tagine",
+    "title": "Amazingly Aromatic Portuguese Chicken Tagine",
+    "tags": [
+      "chicken-recipes",
+      "dairy-free",
+      "gluten-free",
+      "lazy-sunday",
+      "one-pot",
+      "portuguese-cuisine",
+      "tagine-cooking"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-aromatic-russian-turkey-ham-kebabs",
     "title": "Amazingly Aromatic Russian Turkey Ham Kebabs",
     "tags": [
