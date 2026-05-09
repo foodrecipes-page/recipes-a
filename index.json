@@ -5767,6 +5767,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-spicy-malaysian-pineapple-curry",
+    "title": "Aromatic Spicy Malaysian Pineapple Curry",
+    "tags": [
+      "coconut-milk-recipe",
+      "curry-recipe",
+      "malaysian-cuisine",
+      "pineapple-dish",
+      "spicy-food"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-spicy-malaysian-pork-curry",
     "title": "Aromatic Spicy Malaysian Pork Curry",
     "tags": [
