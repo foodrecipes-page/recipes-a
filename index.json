@@ -5569,6 +5569,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-thai-vermicelli-pasta",
+    "title": "Aromatic Thai Vermicelli Pasta",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "thaifood",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-tunisian-cheese-lasagna",
     "title": "Aromatic Tunisian Cheese Lasagna",
     "tags": [

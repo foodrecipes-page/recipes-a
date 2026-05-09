@@ -1,0 +1,144 @@
+{
+  "title": "Aromatic Thai Vermicelli Pasta",
+  "description": "A flavorful and aromatic vegetarian dish featuring vermicelli pasta, grilled yakimono vegetables, and a creamy cheese pull.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vermicelli Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Yakimono Vegetables",
+      "amount": "1 cup",
+      "notes": "Bell peppers, carrots, mushrooms, and onions."
+    },
+    {
+      "name": "Gochujang Sauce",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste."
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thai Basil",
+      "amount": "1/4 cup",
+      "notes": "Chopped."
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Grated Parmesan Cheese",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Yakimono Skewers",
+      "amount": "8-10",
+      "notes": "For grilling vegetables."
+    },
+    {
+      "name": "Mozzarella Cheese",
+      "amount": "8 oz",
+      "notes": "For cheese pull."
+    },
+    {
+      "name": "Chopped Green Chilies",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Ginger Paste",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet over medium heat.",
+    "Add the gochujang sauce, soy sauce, sugar, and ginger paste. Cook for 1-2 minutes, until fragrant.",
+    "Add the vegetable broth and bring to a boil. Reduce the heat to low and simmer for 5-7 minutes, or until the sauce has thickened slightly.",
+    "While the sauce is simmering, prepare the yakimono skewers by threading bell peppers, carrots, mushrooms, and onions onto each skewer.",
+    "Grill the yakimono skewers for 2-3 minutes per side, or until tender and slightly charred.",
+    "Add the grilled skewers to the sauce and cook for an additional 1-2 minutes, until coated.",
+    "Cook the vermicelli pasta according to the package instructions. Drain and set aside.",
+    "In a separate saucepan, heat the remaining 1 tablespoon of coconut oil over medium heat.",
+    "Add the grated parmesan cheese and cook until melted and bubbly.",
+    "Add the chopped green chilies and cook for an additional 1 minute, until fragrant.",
+    "To assemble the dish, place a portion of the cooked vermicelli pasta onto a plate, followed by a portion of the grilled yakimono vegetables and a sprinkle of parmesan cheese.",
+    "Top with a slice of mozzarella cheese and place under the broiler until melted and bubbly.",
+    "Garnish with chopped fresh cilantro and serve hot.",
+    "Serve immediately, garnished with additional cilantro and green chilies if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "thaifood",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 24,
+    "carbs": 70,
+    "fat": 22
+  },
+  "slug": "aromatic-thai-vermicelli-pasta",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-thai-vermicelli-pasta",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:02:55Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "meal-prep",
+    "technique": "yakimono-grill",
+    "primaryIngredient": "vermicelli pasta",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "vermicelli",
+    "descriptor": "Aromatic",
+    "dishForm": "Pasta"
+  }
+}
