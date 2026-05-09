@@ -1,0 +1,104 @@
+{
+  "title": "Aromatic Crispy Ethiopian Sea Bass Shiro",
+  "description": "This peppery and crispy Ethiopian dish features sea bass in a flavorful shiro form, perfect for a crowd-pleasing dinner",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "low-glycemic",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sea bass fillets",
+      "amount": "4",
+      "notes": "fresh, skin removed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, ginger, berbere spice, salt, and black pepper",
+    "Add the sliced onion to the bowl and toss to coat with the marinade",
+    "Let the onion mixture sit for 10 minutes to allow the flavors to meld",
+    "Place the sea bass fillets on a baking sheet lined with parchment paper",
+    "Spoon the onion mixture over the sea bass fillets, making sure they are fully coated",
+    "Bake the sea bass in the preheated oven for 12 minutes or until cooked through",
+    "While the sea bass is baking, bring the chicken broth to a boil in a saucepan",
+    "Reduce the heat to low and let the broth simmer for 5 minutes",
+    "Serve the crispy sea bass with the flavorful shiro broth spooned over the top"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 17,
+  "totalTimeMin": 37,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "ethiopian-cuisine",
+    "flavorful",
+    "low-glycemic",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "aromatic-crispy-ethiopian-sea-bass-shiro",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-crispy-ethiopian-sea-bass-shiro",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:48:02Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "crispy",
+    "mood": "crowd-pleaser",
+    "technique": "blanch",
+    "primaryIngredient": "sea bass",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "sea bass",
+    "descriptor": "Aromatic Crispy",
+    "dishForm": "Shiro"
+  }
+}
