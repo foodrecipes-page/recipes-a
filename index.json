@@ -5824,6 +5824,21 @@
     "shard": "a"
   },
   {
+    "slug": "awesome-aromatic-turkish-lamb-stew",
+    "title": "Awesome Aromatic Turkish Lamb Stew",
+    "tags": [
+      "comfort-food",
+      "hearty-stew",
+      "jain-friendly",
+      "lamb-based",
+      "rye-bread",
+      "turkish-cuisine"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 180,
+    "shard": "a"
+  },
+  {
     "slug": "awesome-autumn-jamaican-beef-burger",
     "title": "Awesome Autumn Jamaican Beef Burger",
     "tags": [
