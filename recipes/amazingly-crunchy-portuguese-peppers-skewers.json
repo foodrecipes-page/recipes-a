@@ -1,0 +1,93 @@
+{
+  "title": "Amazingly Crunchy Portuguese Peppers Skewers",
+  "description": "A quick and easy Portuguese dish featuring sweet peppadew peppers with a crunchy lacquer glaze, perfect for a low calorie snack or appetizer.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "low-calorie",
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "peppadew peppers",
+      "amount": "1 cup",
+      "notes": "sweet and small"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Thread the peppadew peppers onto skewers.",
+    "In a small bowl, whisk together the olive oil, garlic powder, paprika, salt, and black pepper.",
+    "Brush the mixture onto the peppers.",
+    "Bake the peppers for 15 minutes.",
+    "While the peppers are baking, mix the lemon juice and honey in a small bowl.",
+    "After the peppers have baked for 15 minutes, brush the lacquer glaze onto the peppers.",
+    "Return the peppers to the oven and bake for an additional 5 minutes.",
+    "Remove the peppers from the oven and let them cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crunchy-snacks",
+    "low-calorie",
+    "portuguese-inspired",
+    "quick-fix",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "slug": "amazingly-crunchy-portuguese-peppers-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-crunchy-portuguese-peppers-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:36:05Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "crunchy",
+    "mood": "quick-fix",
+    "technique": "lacquer-glaze",
+    "primaryIngredient": "sweet peppadew peppers",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Portuguese",
+    "mainIngredient": "peppers",
+    "descriptor": "Amazingly Crunchy",
+    "dishForm": "Skewers"
+  }
+}
