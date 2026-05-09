@@ -1,0 +1,95 @@
+{
+  "title": "Aerated Funky Filipino Myeongnan-roe Boodle",
+  "description": "Cozy Filipino dish featuring myeongnan-roe and dashi-extract, perfect for a relaxing evening,",
+  "cuisine": "filipino",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dashi-extract",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Myeongnan-roe",
+      "amount": "1/2 cup",
+      "notes": "Korean fermented pollock roe"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "",
+      "},{": "-Chicken broth"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can",
+      "notes": "Full-fat coconut milk"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality fish sauce"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "Use a low-sodium soy sauce"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed lime juice"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "Fresh Thai basil leaves"
+    }
+  ],
+  "instructions": [
+    "Heat the dashi-extract in a saucepan over medium heat until warm and fragrant.",
+    "Add the myeongnan-roe and stir-fry until lightly toasted.",
+    "Add the chicken broth and bring to a simmer.",
+    "Stir in the coconut milk and fish sauce.",
+    "Add the cooked rice and stir-fry until the rice is well coated with the sauce.",
+    "Season with soy sauce and lime juice.",
+    "Garnish with Thai basil leaves."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cozy",
+    "filipino",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "aerated-funky-filipino-myeongnan-roe-boodle",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-funky-filipino-myeongnan-roe-boodle",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:00:02Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "aerated",
+    "mood": "cozy",
+    "technique": "dashi-extract",
+    "primaryIngredient": "myeongnan-roe",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "Myeongnan-roe",
+    "descriptor": "Aerated Funky",
+    "dishForm": "Boodle"
+  }
+}
