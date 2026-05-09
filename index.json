@@ -2441,6 +2441,20 @@
     "shard": "a"
   },
   {
+    "slug": "amazing-crunchy-mediterranean-banana-skewers",
+    "title": "Amazing Crunchy Mediterranean Banana Skewers",
+    "tags": [
+      "crunchy",
+      "mediterranean",
+      "satvik",
+      "snack",
+      "weeknight"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 27,
+    "shard": "a"
+  },
+  {
     "slug": "amazing-energizing-croatian-almond-pilaf",
     "title": "Amazing Energizing Croatian Almond Pilaf",
     "tags": [
@@ -3592,6 +3606,21 @@
     ],
     "cuisine": "Australian",
     "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-authentic-northern-thai-chicken-kao-mun-gai",
+    "title": "Aromatic Authentic Northern Thai Chicken Kao Mun Gai",
+    "tags": [
+      "coconut-milk-based",
+      "gluten-free",
+      "low-calorie",
+      "northern-thai",
+      "one-pot",
+      "weeknight"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {

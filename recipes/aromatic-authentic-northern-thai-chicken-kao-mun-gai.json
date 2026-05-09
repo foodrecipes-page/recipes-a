@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Authentic Northern Thai Chicken Kao Mun Gai",
+  "description": "This traditional Northern Thai dish features chicken cooked in unsweetened coconut milk, served with steamed rice and various toppings, creating a salty and nostalgic experience.",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "palm sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat and cook the curry paste until fragrant.",
+    "Add the chicken and cook until browned on all sides.",
+    "Pour in the coconut milk and add the fish sauce, lime juice, palm sugar, salt, and pepper.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "Prepare steamed rice according to package instructions.",
+    "Slice the cooked chicken into thin strips.",
+    "Assemble the dish by placing the chicken on top of the steamed rice and garnishing with chopped Thai basil leaves.",
+    "Serve immediately and enjoy.",
+    "Offer various toppings such as sliced chilies, diced cucumbers, and pickled ginger on the side.",
+    "Encourage guests to customize their own bowls."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk-based",
+    "gluten-free",
+    "low-calorie",
+    "northern-thai",
+    "one-pot",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "aromatic-authentic-northern-thai-chicken-kao-mun-gai",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-authentic-northern-thai-chicken-kao-mun-gai",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:48:15Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "nostalgic",
+    "technique": "rest-meat",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "low-calorie",
+    "region": "northern-thai",
+    "cuisineAdjective": "Northern Thai",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic Authentic",
+    "dishForm": "Kao Mun Gai"
+  }
+}
