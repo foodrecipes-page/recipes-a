@@ -1,0 +1,92 @@
+{
+  "title": "Aromatic Spanish Lamb Gambas Al Ajillo",
+  "description": "Rich and flaky Spanish dish featuring lamb stock and double rise bread, served in a salt block vessel, this recipe is a nostalgic and flavorful experience, and is also fodmap friendly.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb stock",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "double rise bread",
+      "amount": "1 loaf",
+      "notes": "gluten free"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Slice the double rise bread into 1 inch thick slices.",
+    "Place the bread slices on a baking sheet lined with parchment paper.",
+    "Drizzle the olive oil over the bread slices and sprinkle with salt and black pepper.",
+    "Bake the bread in the oven for 10 minutes or until lightly toasted.",
+    "In a large skillet, heat the lamb stock over medium heat.",
+    "Add the garlic, paprika, and shrimp to the skillet and cook until the shrimp are pink and fully cooked.",
+    "To serve, place a toasted bread slice on each salt block, spoon the shrimp and lamb stock mixture over the bread, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fodmap-friendly",
+    "gluten-free-recipes",
+    "lamb-stock-recipes",
+    "seafood-recipes",
+    "spanish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "aromatic-spanish-lamb-gambas-al-ajillo",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-spanish-lamb-gambas-al-ajillo",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:58:39Z",
+  "axes": {
+    "flavor": "rich",
+    "texture": "flaky",
+    "mood": "nostalgic",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "lamb stock",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "lamb",
+    "descriptor": "Aromatic Flaky",
+    "dishForm": "Gambas Al Ajillo"
+  }
+}
