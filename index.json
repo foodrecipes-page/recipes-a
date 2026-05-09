@@ -6640,6 +6640,21 @@
     "shard": "a"
   },
   {
+    "slug": "awesome-crunchy-italian-meat-torta-caprese",
+    "title": "Awesome Crunchy Italian Meat Torta Caprese",
+    "tags": [
+      "italian-food",
+      "low-fat",
+      "meat-lovers",
+      "puff-pastry",
+      "torta-caprese",
+      "weeknight-dinner"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "awesome-fluffy-american-cheddar-cheese-casserole",
     "title": "Awesome Fluffy American Cheddar Cheese Casserole",
     "tags": [
