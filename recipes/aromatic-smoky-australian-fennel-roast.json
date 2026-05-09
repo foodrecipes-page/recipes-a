@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Smoky Australian Fennel Roast",
+  "description": "A light and crispy Australian dish featuring fennel seeds and a smoky flavor, perfect for a low-calorie dinner option. This recipe is easy to make and requires minimal ingredients.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "fennel seeds",
+      "amount": "2 tablespoons",
+      "notes": "toasted"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "4 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 425 degrees Fahrenheit.",
+    "In a small bowl, mix together toasted fennel seeds, smoked paprika, garlic powder, salt, and black pepper.",
+    "Rub the spice mixture all over the chicken breast, making sure to coat it evenly.",
+    "Heat the olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and roast for 25-30 minutes, or until the chicken is cooked through.",
+    "Remove the skillet from the oven and let the chicken rest for 5 minutes before slicing.",
+    "Drizzle the lemon juice over the sliced chicken and sprinkle with chopped parsley.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "australian-cuisine",
+    "easy-dinner",
+    "gluten-free",
+    "healthy-recipe",
+    "low-calorie",
+    "smoky-flavor"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 12
+  },
+  "slug": "aromatic-smoky-australian-fennel-roast",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-smoky-australian-fennel-roast",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:03:44Z",
+  "axes": {
+    "flavor": "roasted",
+    "texture": "crisp",
+    "mood": "light",
+    "technique": "smoke",
+    "primaryIngredient": "fennel seeds",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "fennel",
+    "descriptor": "Aromatic Smoky",
+    "dishForm": "Roast"
+  }
+}
