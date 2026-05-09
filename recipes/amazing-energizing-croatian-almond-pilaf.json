@@ -3,8 +3,7 @@
   "description": "This Croatian dish is a cultured and flaky pilaf featuring almond butter, reduced to bring out the best flavors, and is high-protein-friendly, making it perfect for a nutritious meal.",
   "cuisine": "Croatian",
   "diet": [
-    "high-protein",
-    "vegetarian"
+    "high-protein"
   ],
   "meal": "lunch",
   "ingredients": [
@@ -59,7 +58,8 @@
     "Reduce the heat to low, cover, and simmer for 15 minutes.",
     "Stir in the almond butter until it is well combined.",
     "Sprinkle the chopped almonds and dried parsley on top.",
-    "Serve hot and enjoy."
+    "Serve hot and enjoy.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 20,

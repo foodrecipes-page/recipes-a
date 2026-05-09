@@ -3,8 +3,7 @@
   "description": "A light and flavorful Filipino dish featuring dark chocolate, perfect for a date night, this stew is a unique blend of Asian and European flavors, with a low calorie count to boot.",
   "cuisine": "Filipino",
   "diet": [
-    "low-calorie",
-    "gluten-free"
+    "low-calorie"
   ],
   "meal": "dinner",
   "ingredients": [
@@ -53,7 +52,8 @@
     "Reduce the heat to low and simmer, covered, for 30 minutes.",
     "Stir in the dark chocolate chips until melted and smooth.",
     "Season with salt and pepper to taste.",
-    "Serve hot over rice or noodles."
+    "Serve hot over rice or noodles.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 20,
   "cookTimeMin": 40,

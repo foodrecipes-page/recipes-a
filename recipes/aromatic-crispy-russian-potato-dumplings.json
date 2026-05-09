@@ -3,8 +3,7 @@
   "description": "Garlicky and crispy Russian potato dumplings infused with mustard seeds and nut-free-friendly ingredients, perfect for a hangover cure. This dish features a unique blend of flavors and textures.",
   "cuisine": "Russian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "snack",
   "ingredients": [
@@ -91,7 +90,7 @@
     "mood": "hangover-cure",
     "technique": "infuse-oil",
     "primaryIngredient": "mustard seeds",
-    "diet": "nut-free",
+    "diet": "vegetarian",
     "region": null,
     "cuisineAdjective": "Russian",
     "mainIngredient": "potatoes",

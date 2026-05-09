@@ -3,8 +3,7 @@
   "description": "A flavorful and aromatic vegetarian dish featuring vermicelli pasta, grilled yakimono vegetables, and a creamy cheese pull.",
   "cuisine": "thai",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [

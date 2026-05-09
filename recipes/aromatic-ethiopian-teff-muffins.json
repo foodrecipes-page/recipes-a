@@ -3,8 +3,7 @@
   "description": "These muffins are a delicious and diabetic-friendly Ethiopian dish featuring teff flour and a shio-koji cure, perfect for a cozy breakfast or snack, cooked to perfection on a comal.",
   "cuisine": "Ethiopian",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -69,7 +68,6 @@
     "breakfast-muffins",
     "comal-cooked",
     "diabetic-friendly",
-    "gluten-free",
     "high-fiber",
     "shio-koji-cure",
     "teff-flour"

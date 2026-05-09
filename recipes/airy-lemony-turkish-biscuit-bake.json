@@ -3,8 +3,7 @@
   "description": "A light and citrusy Turkish biscuit bake, featuring hot smoked paprika and perfect for a diabetic-friendly breakfast.",
   "cuisine": "Turkish",
   "diet": [
-    "diabetic-friendly",
-    "gluten-free"
+    "diabetic-friendly"
   ],
   "meal": "breakfast",
   "ingredients": [
@@ -62,7 +61,6 @@
     "breakfast",
     "coconut",
     "diabetic-friendly",
-    "gluten-free",
     "lemon",
     "one-pan",
     "weeknight"

@@ -2,10 +2,7 @@
   "title": "Satay",
   "description": "A flavorful and aromatic Malaysian dish made with skewers of marinated meat, grilled to perfection and served with a side of spicy peanut sauce. This recipe is inspired by the traditional street food of Malaysia and is halal-friendly.",
   "cuisine": "Malaysian",
-  "diet": [
-    "halal",
-    "vegetarian"
-  ],
+  "diet": [],
   "meal": "snack",
   "ingredients": [
     {
@@ -97,10 +94,8 @@
   "difficulty": "medium",
   "tags": [
     "grilled",
-    "halal",
     "malaysian",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {

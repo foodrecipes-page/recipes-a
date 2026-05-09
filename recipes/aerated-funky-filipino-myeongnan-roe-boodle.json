@@ -54,7 +54,8 @@
     "Stir in the coconut milk and fish sauce.",
     "Add the cooked rice and stir-fry until the rice is well coated with the sauce.",
     "Season with soy sauce and lime juice.",
-    "Garnish with Thai basil leaves."
+    "Garnish with Thai basil leaves.",
+    "Cook poultry to an internal temperature of 74°C / 165°F before serving."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -65,7 +66,6 @@
     "cozy",
     "filipino",
     "one-pan",
-    "vegetarian",
     "weeknight"
   ],
   "nutrition": {
