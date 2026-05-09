@@ -1,0 +1,94 @@
+{
+  "title": "Airy Lemon Turkish Biscuit Bake",
+  "description": "A light and citrusy Turkish biscuit bake, featuring hot smoked paprika and perfect for a diabetic-friendly breakfast.",
+  "cuisine": "Turkish",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "unsweetened almond milk",
+      "amount": "1/2 cup",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": "room temperature"
+    },
+    {
+      "name": "melted coconut oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated lemon zest",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "hot smoked paprika",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350 degrees Fahrenheit (175 degrees Celsius) and grease a 9x13 inch baking dish with coconut oil.",
+    "In a large bowl, whisk together almond flour, coconut sugar, and hot smoked paprika.",
+    "In a separate bowl, whisk together unsweetened almond milk, eggs, melted coconut oil, lemon zest, and lemon juice.",
+    "Pour the wet ingredients into the dry ingredients and mix until well combined.",
+    "Pour the batter into the prepared baking dish and smooth the top with a spatula.",
+    "Bake for 20 minutes, or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool for 5 minutes.",
+    "Cut into squares and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "coconut",
+    "diabetic-friendly",
+    "gluten-free",
+    "lemon",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 3,
+    "carbs": 12,
+    "fat": 10
+  },
+  "slug": "airy-lemony-turkish-biscuit-bake",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-lemony-turkish-biscuit-bake",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-09T09:07:52Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "fluffy",
+    "mood": "light",
+    "technique": "bake",
+    "primaryIngredient": "hot smoked paprika",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "turkish",
+    "mainIngredient": "biscuit",
+    "descriptor": "airy lemony",
+    "dishForm": "bake"
+  }
+}
