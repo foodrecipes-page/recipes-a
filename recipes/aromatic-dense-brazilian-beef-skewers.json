@@ -1,0 +1,104 @@
+{
+  "title": "Aromatic Dense Brazilian Beef Skewers",
+  "description": "Spicy Brazilian beef skewers featuring black cardamom pods, perfect for a keto-friendly dinner",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "black cardamom pods",
+      "amount": "4 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat",
+    "In a large bowl, combine beef, crushed black cardamom pods, garlic, ginger, cumin, smoked paprika, salt, and black pepper",
+    "Mix well to combine, making sure the beef is evenly coated",
+    "Thread the beef mixture onto skewers, leaving a small space between each piece",
+    "Brush the skewers with olive oil",
+    "Grill the skewers for 8-10 minutes, turning occasionally, or until the beef reaches an internal temperature of 130 degrees",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve hot, garnished with fresh cilantro if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-cuisine",
+    "grilled",
+    "high-protein",
+    "keto-friendly",
+    "low-carb",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "aromatic-dense-brazilian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-dense-brazilian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:33:34Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "dense",
+    "mood": "show-off",
+    "technique": "grill",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "brazilian",
+    "mainIngredient": "beef",
+    "descriptor": "aromatic dense",
+    "dishForm": "Skewers"
+  }
+}
