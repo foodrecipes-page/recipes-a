@@ -2995,6 +2995,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-airy-algerian-lamb-tagine",
+    "title": "Aromatic Airy Algerian Lamb Tagine",
+    "tags": [
+      "flavorful",
+      "lamb-based",
+      "north-african",
+      "one-pot",
+      "slow-cooked"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 120,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-airy-ukrainian-egg-frittata",
     "title": "Ukrainian Egg Frittata",
     "tags": [
