@@ -1,0 +1,94 @@
+{
+  "title": "Aromatic Braised Filipino Chicken Stew",
+  "description": "A light and flavorful Filipino dish featuring dark chocolate, perfect for a date night, this stew is a unique blend of Asian and European flavors, with a low calorie count to boot.",
+  "cuisine": "Filipino",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 1/2 inch pieces"
+    },
+    {
+      "name": "dark chocolate chips",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add the chicken to the pot and cook until browned on all sides.",
+    "Add the garlic and ginger to the pot and cook until fragrant.",
+    "Add the fish sauce, soy sauce, and brown sugar to the pot and stir to combine.",
+    "Add the chicken broth to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Stir in the dark chocolate chips until melted and smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "filipino-food",
+    "low-calorie",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 12
+  },
+  "slug": "aromatic-braised-filipino-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-braised-filipino-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:45:08Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "braise",
+    "primaryIngredient": "dark chocolate",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic Braised",
+    "dishForm": "Stew"
+  }
+}
