@@ -3357,6 +3357,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-amber-filipino-banana-pudding",
+    "title": "Aromatic Amber Filipino Banana Pudding",
+    "tags": [
+      "banana-pudding",
+      "coconut-milk",
+      "filipino-dessert",
+      "lazy-sunday",
+      "low-glycemic",
+      "slate-tile"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-american-shrimp-skewers",
     "title": "Aromatic American Shrimp Skewers",
     "tags": [
