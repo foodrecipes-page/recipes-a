@@ -1,0 +1,97 @@
+{
+  "title": "Aromatic Molten Italian Ricotta Cannoli",
+  "description": "A nostalgic Italian dish with a twist, featuring citrusy and spicy flavors, this flexitarian friendly dessert is a must try. The combination of ricotta cheese, thai red curry paste and citrus zest creates a unique taste experience.",
+  "cuisine": "Italian",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ricotta cheese",
+      "amount": "1 cup",
+      "notes": "drained and dried with paper towels"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Confectioners sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Orange zest",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cannoli shells",
+      "amount": "12 shells",
+      "notes": "dried in a low oven to crisp"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup",
+      "notes": "for brine"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees to dry the cannoli shells.",
+    "In a bowl, mix the ricotta cheese, thai red curry paste, confectioners sugar, lemon zest and orange zest until well combined.",
+    "In a separate bowl, beat the egg for the egg wash.",
+    "Brush the egg wash on the cannoli shells to seal them.",
+    "Fill a piping bag with the ricotta mixture and pipe into the cannoli shells.",
+    "Place the filled cannoli shells on a baking sheet lined with parchment paper.",
+    "Bake the cannoli shells in the preheated oven for 10 minutes to warm the filling.",
+    "While the cannoli is baking, prepare the brine by boiling the water and then letting it cool.",
+    "Once the cannoli is done, let it cool for a minute before serving.",
+    "Serve the cannoli with the brine on the side for dipping."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "citrusy",
+    "flexitarian-friendly",
+    "italian-desserts",
+    "molten",
+    "nostalgic",
+    "spicy",
+    "unique-flavors"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "aromatic-molten-italian-ricotta-cannoli",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-molten-italian-ricotta-cannoli",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:10:56Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "brine-dry",
+    "primaryIngredient": "thai red curry paste",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "ricotta",
+    "descriptor": "Aromatic Molten",
+    "dishForm": "Cannoli"
+  }
+}
