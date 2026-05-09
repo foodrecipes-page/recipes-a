@@ -1,0 +1,102 @@
+{
+  "title": "Aromatic Charred Tunisian Lamb Tagine",
+  "description": "A traditional Tunisian dish featuring charred lamb in a rich and aromatic sauce, served with crusty bread or over rice.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": "boneless, cut into 2 inch pieces"
+    },
+    {
+      "name": "garlic granules",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "prunes",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until it starts to caramelize, about 5 minutes.",
+    "Add the garlic granules, cumin, coriander, and cayenne pepper to the pot and cook for 1 minute.",
+    "Add the chicken broth, dried apricots, and prunes to the pot, stirring to combine.",
+    "Return the lamb to the pot and bring the mixture to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Braise the lamb for 2.5 hours, or until it is tender and the sauce has thickened."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "lamb-based",
+    "north-african",
+    "one-pot",
+    "rich-sauce",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 34
+  },
+  "slug": "aromatic-charred-tunisian-lamb-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-charred-tunisian-lamb-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:14:17Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "shaggy",
+    "mood": "romantic",
+    "technique": "en-croute",
+    "primaryIngredient": "garlic granules",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Tunisian",
+    "mainIngredient": "lamb",
+    "descriptor": "Aromatic charred",
+    "dishForm": "Tagine"
+  }
+}
