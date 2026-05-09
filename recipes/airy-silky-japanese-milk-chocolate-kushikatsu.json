@@ -1,0 +1,94 @@
+{
+  "title": "Airy Silky Japanese Milk Chocolate Kushikatsu",
+  "description": "A delicate Japanese dessert featuring milk chocolate in a silky and airy kushikatsu form, perfect for special occasions.",
+  "cuisine": "Japanese",
+  "diet": [
+    "high-protein"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "milk chocolate",
+      "amount": "200g",
+      "notes": "Hokkaido milk chocolate preferred"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "100g"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "20g"
+    },
+    {
+      "name": "egg whites",
+      "amount": "4 large"
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "50g"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "20g",
+      "notes": "melted"
+    },
+    {
+      "name": "whole milk",
+      "amount": "50ml"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "5ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180 degrees Celsius.",
+    "In a medium bowl, whisk together flour and cornstarch.",
+    "In a large bowl, whisk together egg whites and granulated sugar until stiff peaks form.",
+    "Melt the milk chocolate in a double boiler and let it cool slightly.",
+    "Add the melted chocolate, melted butter, whole milk, and vanilla extract to the egg mixture and whisk until smooth.",
+    "Gradually add the flour mixture to the chocolate mixture and whisk until just combined.",
+    "Pour the mixture into individual mini cocottes.",
+    "Bake for 12 minutes or until the edges are set and the centers are still slightly jiggly.",
+    "Let the kushikatsu cool in the cocottes for 5 minutes before serving.",
+    "Serve warm and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "airy-dessert",
+    "high-protein",
+    "hokkaido-milk-chocolate",
+    "japanese-dessert",
+    "silky-texture",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "airy-silky-japanese-milk-chocolate-kushikatsu",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-silky-japanese-milk-chocolate-kushikatsu",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:36:01Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "silky",
+    "mood": "show-off",
+    "technique": "bake",
+    "primaryIngredient": "milk chocolate",
+    "diet": "high-protein",
+    "region": "hokkaido",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "milk chocolate",
+    "descriptor": "Airy Silky",
+    "dishForm": "Kushikatsu"
+  }
+}
