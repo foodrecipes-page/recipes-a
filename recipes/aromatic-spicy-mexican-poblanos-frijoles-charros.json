@@ -1,0 +1,108 @@
+{
+  "title": "Aromatic Spicy Mexican Poblanos Frijoles Charros",
+  "description": "Spicy Mexican dish featuring roasted poblanos and charros beans, served in a dolsot stone bowl, perfect for a weeknight dinner",
+  "cuisine": "Mexican",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "poblano peppers",
+      "amount": "4",
+      "notes": "roasted"
+    },
+    {
+      "name": "apple juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "double rise bread",
+      "amount": "1 loaf",
+      "notes": "cut into cubes"
+    },
+    {
+      "name": "charros beans",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400 degrees Fahrenheit to roast the poblano peppers",
+    "Roast the poblano peppers in the oven for 30 minutes, then peel and chop them",
+    "Heat a large skillet over medium high heat and cook the ground beef until browned",
+    "Add the diced onion and minced garlic to the skillet and cook until the onion is translucent",
+    "Add the cumin, chili powder, salt, and pepper to the skillet and cook for 1 minute",
+    "Stir in the charros beans, apple juice, and chopped poblano peppers, and bring to a simmer",
+    "Reduce heat to low and let the mixture simmer for 10 minutes",
+    "Meanwhile, toast the cubed double rise bread in the oven for 5 minutes",
+    "To serve, place the bean and pepper mixture in a dolsot stone bowl and top with toasted bread",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "halal-friendly",
+    "mexican",
+    "one-pot",
+    "spicy",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 500,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "aromatic-spicy-mexican-poblanos-frijoles-charros",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-spicy-mexican-poblanos-frijoles-charros",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:17:16Z",
+  "axes": {
+    "flavor": "spicy",
+    "texture": "shattering",
+    "mood": "weeknight",
+    "technique": "double-rise-bread",
+    "primaryIngredient": "apple juice",
+    "diet": "halal",
+    "region": "poblano",
+    "cuisineAdjective": "Mexican",
+    "mainIngredient": "poblanos",
+    "descriptor": "Aromatic Spicy",
+    "dishForm": "Frijoles Charros"
+  }
+}
