@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Silky Saudi Arabian Salmon Pilaf",
+  "description": "A malty and silky Saudi Arabian dish featuring hot smoked flaked salmon, perfect for a sick day, and is dairy-free friendly.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "hot smoked salmon",
+      "amount": "1 pound",
+      "notes": "flaked"
+    },
+    {
+      "name": "saffron threads",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the saffron threads and cook for 1 minute, until fragrant.",
+    "Add the basmati rice and cook for 2 minutes, until lightly toasted.",
+    "Add the vegetable broth, salt, and black pepper, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 15 minutes, until the rice is cooked and the liquid is absorbed.",
+    "Flake the hot smoked salmon into the rice and stir to combine.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "dairy-free",
+    "gluten-free",
+    "one-pot",
+    "saudi-arabian",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "aromatic-silky-saudi-arabian-salmon-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-silky-saudi-arabian-salmon-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:31:58Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "silky",
+    "mood": "sick-day",
+    "technique": "cure",
+    "primaryIngredient": "hot smoked flaked salmon",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Saudi Arabian",
+    "mainIngredient": "salmon",
+    "descriptor": "Aromatic Silky",
+    "dishForm": "Pilaf"
+  }
+}
