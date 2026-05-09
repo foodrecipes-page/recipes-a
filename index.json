@@ -4648,6 +4648,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-herbal-turkish-fish-kebabs",
+    "title": "Aromatic Herbal Turkish Fish Kebabs",
+    "tags": [
+      "fish-kebabs",
+      "grilled-fish",
+      "herbal-flavors",
+      "pescatarian-friendly",
+      "turkish-cuisine",
+      "yakimono-grill"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-indian-chana-masala",
     "title": "Aromatic Indian Chana Masala",
     "tags": [
