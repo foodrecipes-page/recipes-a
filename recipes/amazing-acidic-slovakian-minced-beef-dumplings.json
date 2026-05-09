@@ -1,0 +1,94 @@
+{
+  "title": "Amazing Acidic Slovakian Minced Beef Dumplings",
+  "description": "A kid-friendly Slovakian dish featuring minced beef and a sour taste, made without onions or garlic, and cooked on a salt block. This recipe is perfect for a fun and unique dinner experience.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "kid-friendly",
+    "no-onion",
+    "no-garlic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced beef",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the salt block to 375 degrees Fahrenheit.",
+    "In a large mixing bowl, combine the minced beef, flour, eggs, sour cream, lemon juice, salt, and black pepper, and mix until just combined.",
+    "Do not overmix the mixture.",
+    "Using your hands, shape the mixture into small dumplings, about 1 1/2 inches in diameter.",
+    "Place the dumplings on the preheated salt block, leaving about 1 inch of space between each dumpling.",
+    "Cook the dumplings for 5 minutes on the first side, then flip them over and cook for an additional 5 minutes.",
+    "While the dumplings are cooking, melt the butter in a small saucepan over medium heat.",
+    "Once the dumplings are cooked, brush them with the melted butter and serve hot.",
+    "Serve the dumplings with your favorite sides, such as mashed potatoes or steamed vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dinner-ideas",
+    "kid-friendly",
+    "no-garlic",
+    "no-onion",
+    "salt-block-recipes",
+    "slovakian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "amazing-acidic-slovakian-minced-beef-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-acidic-slovakian-minced-beef-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:05:03Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "bouncy-qq",
+    "mood": "kid-friendly",
+    "technique": "reduce",
+    "primaryIngredient": "minced beef",
+    "diet": "no-onion-no-garlic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "minced beef",
+    "descriptor": "amazing acidic",
+    "dishForm": "Dumplings"
+  }
+}
