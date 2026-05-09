@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Smoke Hot Malaysian Bananas Fried Rice",
+  "description": "Savory Malaysian dish featuring fried ripe bananas and smoke hot spices, perfect for a solo dinner, vegan friendly and cooked to perfection in a wok.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day old rice"
+    },
+    {
+      "name": "ripe bananas",
+      "amount": "2",
+      "notes": "sliced into 1 inch pieces"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the wok over high heat and add 1 tablespoon of vegetable oil.",
+    "Add the diced onion and cook until it is translucent.",
+    "Add the minced garlic and cook for another minute, stirring constantly to prevent burning.",
+    "Add the sliced bananas and cook until they are golden brown, about 2-3 minutes.",
+    "Add the smoked paprika, soy sauce, salt, and black pepper, and stir to combine.",
+    "Add the cooked rice to the wok, breaking up any clumps with a spatula.",
+    "Stir fry the rice mixture for about 5 minutes, until everything is well combined and heated through.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer the fried rice to a serving platter and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian-cuisine",
+    "one-pan",
+    "quick-dinner",
+    "savory",
+    "smoke-hot",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "slug": "aromatic-smoke-hot-malaysian-bananas-fried-rice",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-smoke-hot-malaysian-bananas-fried-rice",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:30:54Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "shattering",
+    "mood": "solo-dinner",
+    "technique": "smoke-hot",
+    "primaryIngredient": "fried ripe bananas",
+    "diet": "vegan",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "bananas",
+    "descriptor": "Aromatic smoke hot",
+    "dishForm": "Fried Rice"
+  }
+}
