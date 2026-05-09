@@ -1,0 +1,99 @@
+{
+  "title": "Amazingly Aromatic Russian Turkey Ham Kebabs",
+  "description": "Tangy and juicy Russian dish featuring turkey ham, perfect for a date night, with a Mediterranean twist, cooked to perfection in a tandoor",
+  "cuisine": "Russian",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey ham",
+      "amount": "1 pound",
+      "notes": "diced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tandoor to 400 degrees Fahrenheit",
+    "Thread the diced turkey ham, onion, and bell pepper onto skewers",
+    "In a small bowl, whisk together olive oil, lemon juice, garlic, paprika, salt, and black pepper",
+    "Brush the mixture onto the skewers",
+    "Place the skewers in the tandoor and cook for 15 minutes",
+    "Turn the skewers and cook for an additional 10 minutes",
+    "Remove the skewers from the tandoor and let rest for 5 minutes",
+    "Serve hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "kebabs",
+    "mediterranean-friendly",
+    "russian-inspired",
+    "tandoor-cooked",
+    "turkey-ham"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "amazingly-aromatic-russian-turkey-ham-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-aromatic-russian-turkey-ham-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:03:14Z",
+  "axes": {
+    "flavor": "tangy",
+    "texture": "juicy",
+    "mood": "date-night",
+    "technique": "tandoor",
+    "primaryIngredient": "turkey ham",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "turkey ham",
+    "descriptor": "Amazingly aromatic",
+    "dishForm": "Kebabs"
+  }
+}
