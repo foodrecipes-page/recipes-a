@@ -1,0 +1,105 @@
+{
+  "title": "Amazing Energizing Jamaican Kimchi Bowl",
+  "description": "A fermented and energizing Jamaican dish featuring fresh basil and gluten-free friendly kimchi, this bowl is perfect for a healthy lunch option. It combines the spicy and sour flavors of kimchi with the freshness of basil.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "gluten-free",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kimchi",
+      "amount": "2 cups",
+      "notes": "fermented"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "brown rice",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "scotch bonnet pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cook the brown rice according to package instructions.",
+    "In a large bowl, combine the cooked brown rice, kimchi, and chopped fresh basil.",
+    "In a small bowl, mix together the jamaican jerk seasoning, lime juice, salt, and black pepper to make the dressing.",
+    "Add the diced red onion and scotch bonnet pepper to the bowl with the rice mixture.",
+    "Pour the dressing over the rice mixture and toss to combine.",
+    "Drizzle the olive oil over the top of the bowl and serve immediately.",
+    "Garnish with additional chopped fresh basil if desired.",
+    "Let it sit for a few minutes to allow the flavors to meld together.",
+    "Serve hot and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "jamaican",
+    "one-pan",
+    "vegan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "amazing-energizing-jamaican-kimchi-bowl",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-energizing-jamaican-kimchi-bowl",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:50:42Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "glassy-jelly",
+    "mood": "energizing",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "fresh basil",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "kimchi",
+    "descriptor": "Amazing Energizing",
+    "dishForm": "Bowl"
+  }
+}
