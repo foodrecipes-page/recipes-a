@@ -1,0 +1,85 @@
+{
+  "title": "Aromatic Smoky Vietnamese Red Peppers Lotus-Leaf-Wrapped Banh-Mi",
+  "description": "A smoky, springy, energizing Vietnamese dish featuring sweet red peppers wrapped in fragrant lotus leaves.",
+  "cuisine": "Vietnamese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lotus leaves",
+      "amount": "6",
+      "notes": ""
+    },
+    {
+      "name": "Red bell peppers",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1",
+      "notes": "boneless, skinless"
+    }
+  ],
+  "  notes": "",
+  "amount": "",
+  "      notes": "",
+  "notes": "optional",
+  "name": "Pickled ginger",
+  "\u0000": ",",
+  "  ": null,
+  "instructions": [
+    "Preheat a broiler.",
+    "Slice the red bell peppers and place them on a baking sheet.",
+    "Broil the red bell peppers for 3 minutes on each side.",
+    "Slice the chicken breast.",
+    "In a pan, melt 1 tablespoon of butter over medium heat.",
+    "Add 1 tablespoon of grated ginger and 1 tablespoon of fish sauce to the pan and stir until combined.",
+    "Add the sliced chicken breast to the pan and cook for 2 minutes on each side.",
+    "Add 1 tablespoon of lime juice and 1 tablespoon of chopped cilantro to the pan and stir until combined.",
+    "Slice the picked carrots and daikon radish.",
+    "Assemble the bánh mì by placing a slice of chicken breast, a slice of red bell pepper, a slice of picked carrot, and a slice of daikon radish on each bánh mì.",
+    "Serve the bánh mì immediately.",
+    "Optional: add a slice of pickled ginger on top of the bánh mì."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "energizing",
+    "form-banh-mi",
+    "kosher-friendly",
+    "one-pan",
+    "smoky",
+    "springy",
+    "vessel-lotus-leaf-wrap",
+    "vietnamese",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "aromatic-smoky-vietnamese-red-peppers-lotus-leaf-wrapped-banh-mi",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-smoky-vietnamese-red-peppers-lotus-leaf-wrapped-banh-mi",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:28:43Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "springy",
+    "mood": "energizing",
+    "technique": "broil",
+    "primaryIngredient": "sweet red peppers",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "red peppers",
+    "descriptor": "Aromatic Smoky",
+    "dishForm": "Lotus-Leaf-Wrapped Banh-Mi"
+  }
+}
