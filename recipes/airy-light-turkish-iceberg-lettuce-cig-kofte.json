@@ -1,0 +1,103 @@
+{
+  "title": "Airy Light Turkish Iceberg Lettuce Cig Kofte",
+  "description": "A plant-based Turkish dish featuring marinated iceberg lettuce, this recipe is a unique and refreshing twist on traditional cig kofte. It is cultured, dense, and light, making it perfect for a snack or lunch.",
+  "cuisine": "Turkish",
+  "diet": [
+    "plant-based",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "iceberg lettuce",
+      "amount": "2 heads",
+      "notes": "leaves separated and chopped"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "bulgur",
+      "amount": "1 cup",
+      "notes": "fine grind"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine chopped iceberg lettuce, diced red bell pepper, and finely chopped onion.",
+    "In a separate bowl, mix together bulgur, tomato paste, paprika, salt, and black pepper.",
+    "Add the bulgur mixture to the lettuce mixture and stir until well combined.",
+    "Drizzle olive oil and lemon juice over the mixture and toss to coat.",
+    "Using your hands, shape the mixture into small cylindrical shapes, similar to cig kofte.",
+    "Place the shaped mixture on a serving plate or tray.",
+    "Refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Serve chilled, garnished with additional lettuce leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 0,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "easy-to-make",
+    "healthy-snack",
+    "plant-based",
+    "refreshing",
+    "turkish-food",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "airy-light-turkish-iceberg-lettuce-cig-kofte",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-light-turkish-iceberg-lettuce-cig-kofte",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:56:45Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "dense",
+    "mood": "light",
+    "technique": "marinate",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "iceberg lettuce",
+    "descriptor": "Airy Light",
+    "dishForm": "Cig Kofte"
+  }
+}
