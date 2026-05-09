@@ -1,0 +1,95 @@
+{
+  "title": "Aromatic Chewy Indian Morbier Lassi",
+  "description": "A unique and romantic Indian dish featuring morbier cheese, this lassi is salty, chewy, and perfect for a special occasion. It is also Buddhist-temple-friendly and made using mushimono-steam method.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "morbier cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "yogurt",
+      "amount": "2 cups",
+      "notes": "plain"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "coriander seeds",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the water to a boil and then reduce the heat to a simmer.",
+    "Add the morbier cheese to the pot and let it melt, stirring occasionally.",
+    "In a blender, combine the yogurt, salt, ginger, cumin seeds, and coriander seeds, and blend until smooth.",
+    "Add the melted cheese to the blender and blend until well combined.",
+    "Strain the mixture into a large bowl to remove any excess cheese curds.",
+    "Add the honey to the bowl and stir until dissolved.",
+    "Let the mixture cool to room temperature.",
+    "Cover the bowl with a lid and refrigerate for at least 2 hours.",
+    "Just before serving, give the mixture a good stir and pour into individual glasses.",
+    "Serve chilled and garnished with a sprinkle of cumin seeds and coriander seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "indian-cuisine",
+    "romantic",
+    "snack",
+    "unique",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "slug": "aromatic-chewy-indian-morbier-lassi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-chewy-indian-morbier-lassi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:17:38Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "chewy",
+    "mood": "romantic",
+    "technique": "mushimono-steam",
+    "primaryIngredient": "morbier",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Indian",
+    "mainIngredient": "morbier",
+    "descriptor": "Aromatic Chewy",
+    "dishForm": "Lassi"
+  }
+}
