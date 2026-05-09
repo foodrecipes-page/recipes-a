@@ -4395,6 +4395,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-korean-doraji-bowl",
+    "title": "Aromatic Korean Doraji Bowl",
+    "tags": [
+      "halal-friendly",
+      "korean-food",
+      "molcajete-recipe",
+      "post-workout",
+      "stone-bowl",
+      "umami-rich"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-light-filipino-chicken-curry",
     "title": "Aromatic Light Filipino Chicken Curry",
     "tags": [
@@ -4700,6 +4715,21 @@
       "weeknight"
     ],
     "cuisine": "peruvian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-peruvian-shrimp-tiradito",
+    "title": "Aromatic Peruvian Shrimp Tiradito",
+    "tags": [
+      "diabetic-friendly",
+      "grilled-seafood",
+      "low-carb",
+      "peruvian-cuisine",
+      "shrimp-recipes",
+      "weeknight-dinners"
+    ],
+    "cuisine": "Peruvian",
     "totalTimeMin": 25,
     "shard": "a"
   },

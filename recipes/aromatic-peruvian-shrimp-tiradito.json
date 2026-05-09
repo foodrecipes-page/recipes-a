@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Peruvian Shrimp Tiradito",
+  "description": "A briny and springy weeknight Peruvian dish featuring panang curry paste, this diabetic-friendly recipe is perfect for a quick dinner, served in a raclette grill vessel as a tiradito.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "diabetic-friendly",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the raclette grill to medium-high heat.",
+    "In a large bowl, whisk together panang curry paste, lime juice, olive oil, garlic, ginger, salt, and black pepper.",
+    "Add the shrimp to the bowl and toss to coat with the curry mixture.",
+    "Thread the shrimp onto skewers, if desired, and place on the raclette grill.",
+    "Cook the shrimp for 2-3 minutes per side, or until pink and cooked through.",
+    "Transfer the cooked shrimp to a plate and garnish with chopped cilantro.",
+    "Serve immediately, with additional lime wedges on the side if desired.",
+    "Garnish with additional cilantro, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "diabetic-friendly",
+    "grilled-seafood",
+    "low-carb",
+    "peruvian-cuisine",
+    "shrimp-recipes",
+    "weeknight-dinners"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 30,
+    "carbs": 6,
+    "fat": 10
+  },
+  "slug": "aromatic-peruvian-shrimp-tiradito",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-peruvian-shrimp-tiradito",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T08:46:26Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "weeknight",
+    "technique": "grill",
+    "primaryIngredient": "panang curry paste",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Aromatic Asian",
+    "dishForm": "Tiradito"
+  }
+}
