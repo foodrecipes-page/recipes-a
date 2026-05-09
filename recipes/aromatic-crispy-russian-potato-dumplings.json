@@ -1,0 +1,101 @@
+{
+  "title": "Aromatic Crispy Russian Potato Dumplings",
+  "description": "Garlicky and crispy Russian potato dumplings infused with mustard seeds and nut-free-friendly ingredients, perfect for a hangover cure. This dish features a unique blend of flavors and textures.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mustard seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "infuse oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potatoes, chopped onion, minced garlic, mustard seeds, salt, and black pepper, and mix well.",
+    "Add the infuse oil to the potato mixture and stir until everything is well combined.",
+    "Gradually add the flour to the potato mixture, stirring with a fork until the dough comes together.",
+    "Add the beaten egg to the dough and mix until a sticky ball forms.",
+    "Knead the dough on a floured surface for about 5 minutes, until it becomes smooth and pliable.",
+    "Divide the dough into 8-10 equal pieces and shape each piece into a ball.",
+    "Flatten each ball into a disk shape and heat a non-stick skillet with a small amount of oil over medium heat.",
+    "Cook the dumplings in batches until they are crispy and golden brown, about 3-4 minutes per side.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "garlicky",
+    "hangover-cure",
+    "potato-dish",
+    "russian-cuisine",
+    "snack-ideas",
+    "vegetarian-friendly"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 9
+  },
+  "slug": "aromatic-crispy-russian-potato-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-crispy-russian-potato-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:09:17Z",
+  "axes": {
+    "flavor": "garlicky",
+    "texture": "crispy",
+    "mood": "hangover-cure",
+    "technique": "infuse-oil",
+    "primaryIngredient": "mustard seeds",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "potatoes",
+    "descriptor": "Aromatic Crispy",
+    "dishForm": "Dumplings"
+  }
+}
