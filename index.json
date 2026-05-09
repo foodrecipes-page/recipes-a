@@ -2409,6 +2409,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazing-auburn-mexican-peas-tacos",
+    "title": "Amazing Auburn Mexican Peas Tacos",
+    "tags": [
+      "low-calorie",
+      "mexican",
+      "one-pan",
+      "quick-fix",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "amazing-autumn-spanish-potatoes-hash",
     "title": "Amazing Autumn Spanish Potatoes Hash",
     "tags": [
