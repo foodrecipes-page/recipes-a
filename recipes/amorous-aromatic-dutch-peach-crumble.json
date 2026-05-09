@@ -1,0 +1,104 @@
+{
+  "title": "Amorous Aromatic Dutch Peach Crumble",
+  "description": "A romantic Dutch dessert featuring peaches, soffritto-base, and anti-inflammatory friendly ingredients, with a winey and gooey texture.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "peaches",
+      "amount": "4 cups",
+      "notes": "fresh, sliced"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 teaspoon",
+      "notes": "powdered"
+    },
+    {
+      "name": "oats",
+      "amount": "1 cup",
+      "notes": "rolled"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": "packed"
+    },
+    {
+      "name": "red wine",
+      "amount": "2 tablespoons",
+      "notes": "dry"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, melt the butter over medium heat and saute the onion, garlic, and ginger until softened.",
+    "Add the turmeric, peaches, and red wine to the skillet and cook for 5 minutes, stirring occasionally.",
+    "In a separate bowl, mix together the oats and brown sugar.",
+    "Transfer the peach mixture to a baking dish and top with the oat mixture.",
+    "Bake for 30 minutes, or until the topping is golden brown and the filling is bubbly.",
+    "Remove from the oven and let cool for 10 minutes before serving.",
+    "Serve warm, garnished with fresh peaches if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "anti-inflammatory",
+    "dutch-cuisine",
+    "gluten-free",
+    "peach-dessert",
+    "romantic-dinner",
+    "wine-infused"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "amorous-aromatic-dutch-peach-crumble",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amorous-aromatic-dutch-peach-crumble",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:50:43Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "gooey",
+    "mood": "romantic",
+    "technique": "soffritto-base",
+    "primaryIngredient": "peaches",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "peaches",
+    "descriptor": "amorous aromatic",
+    "dishForm": "Crumble"
+  }
+}
