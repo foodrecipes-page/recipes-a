@@ -2883,6 +2883,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazingly-aromatic-mexican-poblanos-quesadilla",
+    "title": "Amazingly Aromatic Mexican Poblanos Quesadilla",
+    "tags": [
+      "cheesy",
+      "kosher",
+      "mexican",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-aromatic-peruvian-chicken-causa-limena",
     "title": "Amazingly Aromatic Peruvian Chicken Causa Limena",
     "tags": [
