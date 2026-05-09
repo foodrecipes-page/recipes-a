@@ -1,0 +1,118 @@
+{
+  "title": "Aromatic Green Spanish Potato Empanada",
+  "description": "Bitter, chewy, comforting Galician empanada featuring green salsa and emulsified vegan-friendly filling, often served for lunch, steam-cooked in a bamboo steamer.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegan",
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "green salsa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "flaxseed meal",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Peel the potatoes and onion, and chop them into small pieces.",
+    "In a large pan, saut\u00178 the onion and garlic in olive oil over medium heat until softened.",
+    "Add the chopped potatoes, paprika, salt, and black pepper to the pan, and stir to combine.",
+    "Simmer the mixture for 10 minutes, stirring occasionally, until the potatoes are tender.",
+    "In a separate pan, heat the flaxseed meal in 1 cup of water over low heat, stirring constantly, until it forms a smooth emulsion.",
+    "Stir the emulsified mixture into the potato mixture, and cook for 2 minutes.",
+    "Stir in the green salsa and lemon juice, and cook for an additional 2 minutes.",
+    "Transfer the mixture to a bamboo steamer and steam for 10 minutes, or until heated through.",
+    "Cut the empanada into wedges and serve hot.",
+    "Adjust seasoning as needed"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 22,
+  "totalTimeMin": 52,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "empanada",
+    "galician",
+    "lunch",
+    "spanish",
+    "steamed",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 12
+  },
+  "slug": "aromatic-green-spanish-potato-empanada",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-green-spanish-potato-empanada",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:44:47Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "emulsify",
+    "primaryIngredient": "green salsa",
+    "diet": "vegan",
+    "region": "galician",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potato",
+    "descriptor": "Aromatic Green",
+    "dishForm": "empanada"
+  }
+}

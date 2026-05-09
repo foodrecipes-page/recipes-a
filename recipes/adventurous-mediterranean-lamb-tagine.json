@@ -1,0 +1,121 @@
+{
+  "title": "adventurous mediterranean lamb tagine",
+  "description": "peppery, shaggy, adventurous mediterranean dish featuring caramelized sugar sauce, brine-dry, gluten-free-friendly, vessel=tajine-clay",
+  "cuisine": "mediterranean",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "apricot jam",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "heat oil in the clay tajine over medium heat.",
+    "add onion and cook until browned, about 5 minutes.",
+    "add garlic and cook for 1 minute.",
+    "add cumin, coriander, cayenne pepper, salt, and black pepper. cook for 1 minute.",
+    "add lamb and cook until browned on all sides, about 5 minutes.",
+    "add sugar, chicken broth, and apricot jam. bring to a boil.",
+    "cover the tajine and transfer to the oven.",
+    "bake at 300f for 2 hours or until the lamb is tender.",
+    "garnish with parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "high-calorie",
+    "lamb",
+    "mediterranean",
+    "one-pan"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 60,
+    "fat": 90
+  },
+  "slug": "adventurous-mediterranean-lamb-tagine",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-mediterranean-lamb-tagine",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:44:34Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "shaggy",
+    "mood": "adventurous",
+    "technique": "brine-dry",
+    "primaryIngredient": "caramelized sugar sauce",
+    "diet": "gluten-free",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "Lamb",
+    "descriptor": "Adventurous",
+    "dishForm": "Tagine"
+  }
+}

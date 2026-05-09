@@ -450,6 +450,20 @@
     "shard": "a"
   },
   {
+    "slug": "adventurous-mediterranean-lamb-tagine",
+    "title": "adventurous mediterranean lamb tagine",
+    "tags": [
+      "gluten-free",
+      "high-calorie",
+      "lamb",
+      "mediterranean",
+      "one-pan"
+    ],
+    "cuisine": "mediterranean",
+    "totalTimeMin": 140,
+    "shard": "a"
+  },
+  {
     "slug": "adventurous-molten-malaysian-dishes-curry",
     "title": "adventurous molten malaysian dishes curry",
     "tags": [
@@ -933,6 +947,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-peppery-algerian-fish-tagine",
+    "title": "Aerated Peppery Algerian Fish Tagine",
+    "tags": [
+      "algerian",
+      "fish",
+      "gluten-free",
+      "one-pan",
+      "steamed",
+      "weeknight"
+    ],
+    "cuisine": "algerian",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
@@ -4838,6 +4867,22 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-green-spanish-potato-empanada",
+    "title": "Aromatic Green Spanish Potato Empanada",
+    "tags": [
+      "comfort-food",
+      "empanada",
+      "galician",
+      "lunch",
+      "spanish",
+      "steamed",
+      "vegan"
+    ],
+    "cuisine": "spanish",
+    "totalTimeMin": 52,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-grilled-british-lamb-satay",
     "title": "Aromatic Grilled British Lamb Satay",
     "tags": [
@@ -5281,6 +5326,23 @@
       "one-pot",
       "spiced",
       "weeknight"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-moroccan-chicken-khlea",
+    "title": "Aromatic Moroccan Chicken Khlea",
+    "tags": [
+      "casserole",
+      "chicken",
+      "dinner",
+      "meat",
+      "moroccan",
+      "one-pan",
+      "pescetarian",
+      "spicy"
     ],
     "cuisine": "Moroccan",
     "totalTimeMin": 60,
