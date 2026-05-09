@@ -3264,6 +3264,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-brazilian-chicken-skewers",
+    "title": "Aromatic Brazilian Chicken Skewers",
+    "tags": [
+      "brazilian-food",
+      "gluten-free",
+      "grilled-chicken",
+      "low-carb",
+      "weeknight"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-brazilian-rose-cake",
     "title": "Aromatic Brazilian Rose Cake",
     "tags": [

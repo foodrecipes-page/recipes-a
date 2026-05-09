@@ -1,0 +1,93 @@
+{
+  "title": "Aromatic Brazilian Chicken Skewers",
+  "description": "A peppery and molten weeknight Brazilian dish featuring sherry vinegar, this recipe is perfect for a quick dinner, and is FODMAP friendly.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "low-lactose"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "sherry vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "banana leaves",
+      "amount": "4-6 leaves"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium high heat.",
+    "In a large bowl, whisk together sherry vinegar, olive oil, garlic, black pepper, and salt.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken onto skewers, leaving a small space between each piece.",
+    "Wrap each skewer in a banana leaf, making sure to seal the edges.",
+    "Place the skewers on the grill and cook for 10-12 minutes, turning occasionally.",
+    "Steam the skewers over boiling water for an additional 5 minutes.",
+    "Serve the skewers hot, garnished with chopped parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "brazilian-food",
+    "gluten-free",
+    "grilled-chicken",
+    "low-carb",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 8,
+    "fat": 14
+  },
+  "slug": "aromatic-brazilian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-brazilian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T03:16:19Z",
+  "axes": {
+    "flavor": "peppery",
+    "texture": "molten",
+    "mood": "weeknight",
+    "technique": "leaf-wrap-steam",
+    "primaryIngredient": "sherry vinegar",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic",
+    "dishForm": "Skewers"
+  }
+}
