@@ -1,0 +1,108 @@
+{
+  "title": "Aromatic Charred Syrian Lentil Stew",
+  "description": "A comforting and flavorful Syrian lentil stew with a charred twist, featuring cranberries and a velvety texture, perfect for a sick day. This plant-based friendly dish is whisked to perfection.",
+  "cuisine": "Syrian",
+  "diet": [
+    "vegetarian",
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "cranberries",
+      "amount": "1/2 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Char the onion and garlic in a large Dutch oven over high heat for 5 minutes.",
+    "Add the carrots and cook for an additional 5 minutes, stirring occasionally.",
+    "Add the lentils, cumin, paprika, salt, and pepper, and stir to combine.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 30 minutes, then stir in the cranberries and olive oil.",
+    "Continue baking for an additional 10 minutes, or until the lentils are tender.",
+    "Remove the pot from the oven and whisk the stew to create a velvety texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "high-protein",
+    "lentil-stew",
+    "one-pan",
+    "syrian-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "aromatic-charred-syrian-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-charred-syrian-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:22:20Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "velvety",
+    "mood": "sick-day",
+    "technique": "whisk",
+    "primaryIngredient": "cranberry",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Syrian",
+    "mainIngredient": "lentils",
+    "descriptor": "aromatic charred",
+    "dishForm": "Stew"
+  }
+}

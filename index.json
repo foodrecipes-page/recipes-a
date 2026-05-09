@@ -3668,6 +3668,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-charred-syrian-lentil-stew",
+    "title": "Aromatic Charred Syrian Lentil Stew",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "lentil-stew",
+      "one-pan",
+      "syrian-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-charred-tunisian-lamb-tagine",
     "title": "Aromatic Charred Tunisian Lamb Tagine",
     "tags": [
