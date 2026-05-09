@@ -1,0 +1,99 @@
+{
+  "title": "Authentic Aromatic Italian Pork Lasagna",
+  "description": "A traditional Italian dish featuring layers of pasta, pork, and cheese, cooked to perfection in a ttukbaegi earthenware pot, halal friendly and made with cultured creme fraiche.",
+  "cuisine": "Italian",
+  "diet": [
+    "halal"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lasagna noodles",
+      "amount": "12 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "halal"
+    },
+    {
+      "name": "creme fraiche",
+      "amount": "1 cup",
+      "notes": "cultured"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "2 cups",
+      "notes": "grated"
+    },
+    {
+      "name": "mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "tomato sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for greasing the pot"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "Cook the lasagna noodles according to the package instructions and set aside.",
+    "In a large skillet, cook the ground pork over medium high heat until browned, breaking it up into small pieces as it cooks.",
+    "Stir in the tomato sauce and bring to a simmer, letting it cook for a few minutes until heated through.",
+    "In a large bowl, combine the creme fraiche, parmesan cheese, and a pinch of salt and pepper, mixing until smooth.",
+    "Grease the ttukbaegi earthenware pot with olive oil and begin building the lasagna by spreading a layer of the tomato sauce on the bottom.",
+    "Arrange 4 lasagna noodles on top of the sauce, followed by a layer of the pork mixture, a sprinkle of mozzarella cheese, and a spoonful of the creme fraiche mixture.",
+    "Repeat the layers two more times, finishing with a layer of mozzarella cheese on top.",
+    "Cover the pot with a lid and bake for 30 minutes, then remove the lid and continue baking for an additional 10 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "halal-recipes",
+    "italian-food",
+    "lasagna-recipes",
+    "one-pot-meals",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "authentic-aromatic-italian-pork-lasagna",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/authentic-aromatic-italian-pork-lasagna",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:55:41Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "molten",
+    "mood": "nostalgic",
+    "technique": "ttukbaegi-earthenware-cook",
+    "primaryIngredient": "cultured-creme-fraiche",
+    "diet": "halal",
+    "region": "emilia-romagna",
+    "cuisineAdjective": "Italian",
+    "mainIngredient": "pork",
+    "descriptor": "Authentic Aromatic",
+    "dishForm": "Lasagna"
+  }
+}
