@@ -1,0 +1,103 @@
+{
+  "title": "Aromatic Smoky Kenyan Savoy Cabbage Tagine",
+  "description": "This dish is a smoky and creamy Kenyan inspired tagine featuring savoy cabbage, with a unique wok-hei flavor, perfect for a plant-based dinner.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "plant-based",
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in the tagine pot over medium heat.",
+    "Add the grated ginger and cook for 1 minute, until fragrant.",
+    "Add the minced garlic and cook for another minute, until lightly browned.",
+    "Add the chopped savoy cabbage and cook for 5 minutes, until it starts to soften.",
+    "Add the smoked paprika, cumin, salt, and black pepper, and stir to combine.",
+    "Pour in the coconut milk and lemon juice, and stir to combine.",
+    "Bring the mixture to a simmer, then reduce the heat to low and cook, covered, for 20 minutes, until the cabbage is tender.",
+    "Serve the tagine hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-inspired",
+    "comfort-food",
+    "healthy",
+    "one-pot",
+    "plant-based",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "aromatic-smoky-kenyan-savoy-cabbage-tagine",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-smoky-kenyan-savoy-cabbage-tagine",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:50:35Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "creamy",
+    "mood": "light",
+    "technique": "wok-hei",
+    "primaryIngredient": "savoy cabbage",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "savoy cabbage",
+    "descriptor": "Aromatic Smoky",
+    "dishForm": "Tagine"
+  }
+}
