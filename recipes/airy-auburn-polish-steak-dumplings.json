@@ -1,0 +1,103 @@
+{
+  "title": "Airy Auburn Polish Steak Dumplings",
+  "description": "A traditional Polish dish featuring lean minced steak and a dairy-free friendly recipe, these dumplings are a delicious meal prep option. The briny and glassy-jelly texture is achieved through a lamination-puff process.",
+  "cuisine": "Polish",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced steak",
+      "amount": "1 pound",
+      "notes": "lean cut"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "egg replacement",
+      "amount": "1/4 cup",
+      "notes": "dairy-free"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "potato starch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Combine the minced steak, salt, black pepper, onion powder, and garlic powder in a bowl and mix well.",
+    "Add the egg replacement and mix until just combined.",
+    "Gradually add the flour and mix until a dough forms.",
+    "Knead the dough for 5 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 12 equal pieces and roll each piece into a ball.",
+    "Use a rolling pin to flatten each ball into a thin circle.",
+    "Place a tablespoon of the steak mixture in the center of each circle.",
+    "Fold the dough over the filling and press the edges together to seal the dumpling.",
+    "Bring a large pot of water to a boil and cook the dumplings for 10 minutes.",
+    "Remove the dumplings from the water and serve with a dairy-free friendly topping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "polish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "airy-auburn-polish-steak-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-auburn-polish-steak-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T14:30:33Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "glassy-jelly",
+    "mood": "meal-prep",
+    "technique": "lamination-puff",
+    "primaryIngredient": "lean minced steak",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "steak",
+    "descriptor": "Airy Auburn",
+    "dishForm": "Dumplings"
+  }
+}
