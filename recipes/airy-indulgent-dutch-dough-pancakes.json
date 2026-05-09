@@ -1,0 +1,97 @@
+{
+  "title": "Airy Indulgent Dutch Dough Pancakes",
+  "description": "A yeasty and fluffy Dutch dish featuring chili powder and shio-cure, perfect for a buddhist-temple-friendly meal",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian",
+    "buddhist"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "unbleached"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "shio-cure",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, salt, shio-cure, chili powder, and sugar",
+    "In a separate bowl, whisk together eggs, milk, and melted butter",
+    "Add the wet ingredients to the dry ingredients and mix until a smooth batter forms",
+    "Knead the dough for 5 minutes until it becomes elastic and smooth",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour",
+    "Preheat a non-stick skillet or griddle over medium heat",
+    "Drop the dough by 1/4 cupfuls onto the skillet or griddle",
+    "Cook the pancakes for 2-3 minutes on each side, until golden brown",
+    "Serve the pancakes hot with your favorite toppings"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "buddhist-friendly",
+    "dutch-pancakes",
+    "fluffy-pancakes",
+    "vegetarian-breakfast",
+    "yeasty-treats"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "slug": "airy-indulgent-dutch-dough-pancakes",
+  "source": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-indulgent-dutch-dough-pancakes",
+  "providerUsed": "sambanova-Meta-Llama-3.3-70B-Instruct",
+  "createdAt": "2026-05-09T07:46:07Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "fluffy",
+    "mood": "indulgent",
+    "technique": "shio-cure",
+    "primaryIngredient": "chili powder",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "dough",
+    "descriptor": "Airy Indulgent",
+    "dishForm": "Pancakes"
+  }
+}
