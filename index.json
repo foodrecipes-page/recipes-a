@@ -2441,6 +2441,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazing-bouncy-croatian-umeboshi-skillet",
+    "title": "Amazing Bouncy Croatian Umeboshi Skillet",
+    "tags": [
+      "bouncy-texture",
+      "croatian-cuisine",
+      "kosher-friendly",
+      "one-pan",
+      "special-occasion",
+      "umami-rich"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "amazing-bouncy-mexican-pork-carnitas",
     "title": "Amazing Bouncy Mexican Pork Carnitas",
     "tags": [
@@ -4124,6 +4139,20 @@
     ],
     "cuisine": "Malaysian",
     "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crisp-spanish-chicken-paella",
+    "title": "Aromatic Crisp Spanish Chicken Paella",
+    "tags": [
+      "egg-free",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
