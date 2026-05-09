@@ -1,0 +1,94 @@
+{
+  "title": "Amazingly Caramelized Jamaican Haddock Skewers",
+  "description": "A salty and silky meal prep dish featuring haddock, caramelized to perfection, served on a cedar plank, this Jamaican inspired recipe is a must try for seafood lovers, with a raw friendly option available",
+  "cuisine": "Jamaican",
+  "diet": [
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "haddock fillets",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "jerk seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cedar planks",
+      "amount": "4",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit",
+    "In a large bowl, whisk together brown sugar, soy sauce, lime juice, and olive oil",
+    "Add jerk seasoning and garlic powder to the bowl and whisk until combined",
+    "Add the haddock pieces to the bowl and toss to coat with the marinade",
+    "Thread the marinated haddock pieces onto the soaked cedar planks",
+    "Place the cedar planks on the grill and cook for 8-10 minutes per side",
+    "After flipping the haddock, brush with additional marinade if desired",
+    "Once cooked, let the haddock rest for 2 minutes before serving",
+    "Serve immediately, garnished with fresh parsley or scallions if desired"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cedar-plank",
+    "grilled",
+    "high-protein",
+    "jamaican",
+    "meal-prep",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "amazingly-caramelized-jamaican-haddock-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-caramelized-jamaican-haddock-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T11:55:11Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "silky",
+    "mood": "meal-prep",
+    "technique": "caramelize",
+    "primaryIngredient": "haddock",
+    "diet": "raw",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "haddock",
+    "descriptor": "amazingly caramelized",
+    "dishForm": "Skewers"
+  }
+}
