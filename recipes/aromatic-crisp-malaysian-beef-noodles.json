@@ -1,0 +1,107 @@
+{
+  "title": "Aromatic Crisp Malaysian Beef Noodles",
+  "description": "A sweet and crispy Malaysian dish featuring beef and tomatoes, perfect for a sick day, and is egg-free friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "gluten-free",
+    "egg-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "sirloin or ribeye"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomatoes",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "oyster sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the beef strips and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the skillet and set aside.",
+    "Add the sliced onions to the skillet and cook until they are lightly browned, about 3-4 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "Add the diced tomatoes to the skillet and cook until they start to soften, about 2 minutes.",
+    "Add the soy sauce and oyster sauce to the skillet and stir to combine.",
+    "Add the cooked beef back to the skillet and stir to combine with the sauce.",
+    "Cook the rice noodles according to the package instructions and set aside.",
+    "Add the cooked noodles to the skillet and stir to combine with the beef and sauce.",
+    "Transfer the noodle mixture to a serving platter and garnish with chopped scallions and a drizzle of sesame oil."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-food",
+    "beef-recipes",
+    "malaysian-cuisine",
+    "noodle-dishes",
+    "one-pan-meals"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "aromatic-crisp-malaysian-beef-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-crisp-malaysian-beef-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T12:48:57Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "crisp",
+    "mood": "sick-day",
+    "technique": "deglaze",
+    "primaryIngredient": "beef tomatoes",
+    "diet": "egg-free",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "beef",
+    "descriptor": "Aromatic Crisp",
+    "dishForm": "Noodles"
+  }
+}
