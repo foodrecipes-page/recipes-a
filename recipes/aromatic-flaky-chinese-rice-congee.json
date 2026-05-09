@@ -1,0 +1,93 @@
+{
+  "title": "Aromatic Flaky Chinese Rice Congee",
+  "description": "A traditional Cantonese dish featuring caramelized rice, bicarbonate of soda, and a floral aroma, perfect for a midnight craving, this recipe is FODMAP-friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "FODMAP-friendly",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "uncooked white rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "water",
+      "amount": "6 cups"
+    },
+    {
+      "name": "bicarbonate of soda",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch piece",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice thoroughly and drain well.",
+    "In a large pot, heat 2 tablespoons of vegetable oil over medium heat.",
+    "Add the grated ginger and cook, stirring constantly, until caramelized and fragrant.",
+    "Add the rice to the pot and stir to combine with the ginger and oil.",
+    "Add the water, bicarbonate of soda, and salt to the pot, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 1 hour, or until the rice is cooked and the liquid has been absorbed.",
+    "Stir in the sesame oil and chopped scallions.",
+    "Serve the congee hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "comfort-food",
+    "flaky-texture",
+    "midnight-cravings",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "aromatic-flaky-chinese-rice-congee",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-flaky-chinese-rice-congee",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:11:20Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "flaky",
+    "mood": "midnight-craving",
+    "technique": "caramelize",
+    "primaryIngredient": "bicarbonate of soda",
+    "diet": "fodmap",
+    "region": "cantonese",
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "rice",
+    "descriptor": "Aromatic Flaky",
+    "dishForm": "Congee"
+  }
+}
