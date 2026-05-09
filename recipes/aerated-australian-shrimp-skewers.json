@@ -1,0 +1,100 @@
+{
+  "title": "Aerated Australian Shrimp Skewers",
+  "description": "A cultured and adventurous Australian dish featuring black cardamom pods and a mother-sauce-base, this recipe is low-calorie-friendly and perfect for a special occasion. The combination of flavors and textures creates a unique and exciting culinary experience.",
+  "cuisine": "Australian",
+  "diet": [
+    "low-calorie",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "black cardamom pods",
+      "amount": "4 pods",
+      "notes": "crushed"
+    },
+    {
+      "name": "mother sauce",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "Thread the shrimp onto skewers, leaving a small space between each shrimp.",
+    "In a small bowl, mix together the crushed black cardamom pods, lemon juice, olive oil, garlic, and ginger.",
+    "Brush the mixture onto the shrimp, making sure they are fully coated.",
+    "Season the shrimp with salt and pepper.",
+    "Grill the shrimp for 8-10 minutes, or until they are pink and fully cooked.",
+    "While the shrimp are cooking, heat the mother sauce in a small saucepan over low heat.",
+    "Once the shrimp are done, serve them with the heated mother sauce.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "grilled",
+    "low-calorie",
+    "seafood",
+    "special-occasion"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 8
+  },
+  "slug": "aerated-australian-shrimp-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-australian-shrimp-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:06:55Z",
+  "axes": {
+    "flavor": "cultured",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "black cardamom pods",
+    "diet": "low-calorie",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "shrimp",
+    "descriptor": "Aerated Adventurous",
+    "dishForm": "Skewers"
+  }
+}
