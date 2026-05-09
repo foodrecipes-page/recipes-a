@@ -1,0 +1,98 @@
+{
+  "title": "Aromatic French Mushroom Bourguignon",
+  "description": "A buttery, tender, and indulgent French dish featuring passion fruit pulp and dum, perfect for a lacto-vegetarian diet. This recipe is a vegetarian twist on the classic boeuf bourguignon.",
+  "cuisine": "French",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 pound",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "butter",
+      "amount": "4 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "passion fruit pulp",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "dum",
+      "amount": "1 cup"
+    },
+    {
+      "name": "gruyere cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Melt 2 tablespoons of butter in a large Dutch oven over medium heat.",
+    "Add the sliced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the passion fruit pulp and cook for 1 minute.",
+    "Sprinkle the flour over the mixture and cook for 1 minute.",
+    "Gradually add the vegetable broth, whisking constantly.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Stir in the dum and cook for an additional 5 minutes.",
+    "Stir in the shredded gruyere cheese until melted and well combined.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "french-cuisine",
+    "indulgent",
+    "one-pot",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "aromatic-french-mushroom-bourguignon",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-french-mushroom-bourguignon",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T05:45:48Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "tender",
+    "mood": "indulgent",
+    "technique": "dum",
+    "primaryIngredient": "passion fruit pulp",
+    "diet": "lacto-vegetarian",
+    "region": "brittany",
+    "cuisineAdjective": "French",
+    "mainIngredient": "mushrooms",
+    "descriptor": "Aromatic Indulgent",
+    "dishForm": "Bourguignon"
+  }
+}

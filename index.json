@@ -3933,6 +3933,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-french-mushroom-bourguignon",
+    "title": "Aromatic French Mushroom Bourguignon",
+    "tags": [
+      "comfort-food",
+      "french-cuisine",
+      "indulgent",
+      "one-pot",
+      "vegetarian"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-fruity-algerian-lamb-tagine",
     "title": "aromatic-fruity-algerian-lamb-tagine",
     "tags": [
