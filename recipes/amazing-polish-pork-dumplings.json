@@ -1,0 +1,96 @@
+{
+  "title": "Amazing Polish Pork Dumplings",
+  "description": "Indulgent Polish dish featuring shiso-leaf and ferment-kimchi, perfect for a hearty dinner",
+  "cuisine": "Polish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground pork",
+      "amount": "1 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "shiso leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ferment kimchi",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": " farmer cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit",
+    "In a large mixing bowl combine ground pork, chopped shiso leaves, chopped ferment kimchi, crumbly farmer cheese, beaten egg, almond flour, salt, and black pepper",
+    "Mix all the ingredients together until just combined, being careful not to overmix",
+    "Use your hands to shape the mixture into small dumplings, about 1 1/2 inches in diameter",
+    "Place the dumplings on a baking sheet lined with parchment paper, leaving about 1 inch of space between each dumpling",
+    "Bake the dumplings in the preheated oven for 18 minutes, or until cooked through",
+    "While the dumplings are baking, melt 2 tablespoons of butter in a large skillet over medium heat",
+    "Once the dumplings are done, remove them from the oven and add them to the skillet with the melted butter",
+    "Toss the dumplings in the butter to coat, then serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 18,
+  "totalTimeMin": 38,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "indulgent",
+    "keto-friendly",
+    "one-pan",
+    "pork-lovers",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "amazing-polish-pork-dumplings",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-polish-pork-dumplings",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:09:18Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "cheese-pull",
+    "mood": "indulgent",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "shiso-leaf",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "pork",
+    "descriptor": "Authentic Amazing",
+    "dishForm": "Dumplings"
+  }
+}
