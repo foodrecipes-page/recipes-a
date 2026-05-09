@@ -1,0 +1,104 @@
+{
+  "title": "Aromatic Light Kenyan Meat Bake",
+  "description": "A malty and light Kenyan dish featuring sesame seed oil, this bake is a perfect blend of adventurous flavors, keto-friendly and cooked to perfection in a dolsot-stone-bowl.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "90% lean"
+    },
+    {
+      "name": "sesame seed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "malt extract",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large skillet, heat the sesame seed oil over medium-high heat.",
+    "Add the diced onion to the skillet and cook until it is translucent.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the ground beef to the skillet, breaking it up with a spoon as it cooks.",
+    "Once the ground beef is browned, add the cumin, paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Transfer the mixture to a dolsot-stone-bowl and stir in the malt extract.",
+    "Bake the mixture in the preheated oven for 20 minutes.",
+    "Remove the dish from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "dinner-ideas",
+    "keto-friendly",
+    "low-carb",
+    "one-pan",
+    "sesame-seed-oil"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 5,
+    "fat": 42
+  },
+  "slug": "aromatic-light-kenyan-meat-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-light-kenyan-meat-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T22:05:46Z",
+  "axes": {
+    "flavor": "malty",
+    "texture": "light",
+    "mood": "adventurous",
+    "technique": "bake",
+    "primaryIngredient": "sesame seed oil",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Kenyan",
+    "mainIngredient": "meat",
+    "descriptor": "Aromatic Light",
+    "dishForm": "Bake"
+  }
+}
