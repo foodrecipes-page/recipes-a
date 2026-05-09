@@ -3503,6 +3503,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-algerian-noodle-dish",
+    "title": "Aromatic Algerian Noodle Dish",
+    "tags": [
+      "comfort-food",
+      "gluten-free",
+      "middle-eastern",
+      "one-pot",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-algerian-quinoa-tagine",
     "title": "Aromatic Algerian Quinoa Tagine",
     "tags": [

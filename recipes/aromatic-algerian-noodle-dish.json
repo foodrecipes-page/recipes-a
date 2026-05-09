@@ -1,0 +1,105 @@
+{
+  "title": "Aromatic Algerian Noodle Dish",
+  "description": "A sweet and creamy Algerian dish featuring rice stick noodles and papillote, made with anti-inflammatory friendly ingredients, served on a wooden board.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "rice stick noodles",
+      "amount": "8 oz",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "papillote",
+      "amount": "2 cups",
+      "notes": "dried and rehydrated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "turmeric",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the turmeric, ginger, salt, and black pepper, and stir to combine.",
+    "Add the rehydrated papillote and cook for 2 minutes, stirring constantly.",
+    "Add the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let cook for 10 minutes, stirring occasionally.",
+    "Add the cooked rice stick noodles to the saucepan and stir to combine.",
+    "Serve the noodle dish hot on a wooden board, garnished with additional papillote if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "middle-eastern",
+    "one-pot",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "aromatic-algerian-noodle-dish",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-algerian-noodle-dish",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T15:55:41Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "creamy",
+    "mood": "comforting",
+    "technique": "papillote",
+    "primaryIngredient": "rice stick noodles",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Algerian",
+    "mainIngredient": "noodles",
+    "descriptor": "Aromatic Anti Inflammatory",
+    "dishForm": "Noodles"
+  }
+}
