@@ -1,0 +1,101 @@
+{
+  "title": "Aromatic Savory Chinese Pork Braise",
+  "description": "This dish features tender pork belly braised in a rich and creamy sauce, infused with the distinctive flavor of rapeseed oil and the subtle sweetness of Chinese angelica, making for a truly show-stopping Chinese culinary experience that is also FODMAP-friendly.",
+  "cuisine": "Chinese",
+  "diet": [
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 pound",
+      "notes": "skin removed, cut into 2-inch pieces"
+    },
+    {
+      "name": "rapeseed oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "peeled, sliced"
+    },
+    {
+      "name": "garlic-infused oil",
+      "amount": "1 tablespoon",
+      "notes": "for FODMAP-friendly substitute for garlic"
+    },
+    {
+      "name": "Chinese angelica",
+      "amount": "1 teaspoon",
+      "notes": "dried, ground"
+    },
+    {
+      "name": "star anise",
+      "amount": "1 whole"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1/2 cup",
+      "notes": "for creamy texture"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat the rapeseed oil in a large Dutch oven over medium heat.",
+    "Add the sliced ginger and cook, stirring occasionally, until fragrant and slightly caramelized.",
+    "Add the pork belly pieces and cook until browned on all sides, about 5 minutes.",
+    "Add the garlic-infused oil, Chinese angelica, and star anise, stirring to combine.",
+    "Pour in the soy sauce and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the pork is tender.",
+    "Stir in the coconut cream and continue to simmer for an additional 10 minutes, or until the sauce has thickened slightly.",
+    "Season the braise to taste, then garnish with chopped scallions.",
+    "Serve the braise hot, over steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 130,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "braised-meats",
+    "chinese-cuisine",
+    "comfort-food",
+    "fodmap-friendly",
+    "one-pot",
+    "pork-recipes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "aromatic-savory-chinese-pork-braise",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-savory-chinese-pork-braise",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:45:25Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "creamy",
+    "mood": "show-off",
+    "technique": "braise",
+    "primaryIngredient": "rapeseed oil",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "pork",
+    "descriptor": "aromatic savory",
+    "dishForm": "Braise"
+  }
+}
