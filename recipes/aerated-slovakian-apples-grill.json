@@ -1,0 +1,64 @@
+{
+  "title": "aerated slovakian apples grill",
+  "description": "a winey, aerated, solo-dinner slovakian dish featuring braeburn apples and a robata-grill, macrobiotic-friendly",
+  "cuisine": "slovakian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "braeburn apples",
+      "amount": 4,
+      "notes": ""
+    },
+    {
+      "name": "honey",
+      "amount": 4,
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": 2,
+      "notes": "filtered water"
+    }
+  ],
+  "instructions": [
+    "preheat the robata-grill to 160°C (320°F).",
+    "peel and core the braeburn apples, then cut them into 1 cm (0.4 in) thick slices.",
+    "in a small bowl, mix together honey and water to create a honey syrup.",
+    "brush the honey syrup onto both sides of the apple slices, making sure they are fully coated."
+  ],
+  "prepTimeMin": 8,
+  "cookTimeMin": 15,
+  "totalTimeMin": 23,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "macrobiotic",
+    "robata-grill"
+  ],
+  "nutrition": {
+    "calories": 110,
+    "protein": 0,
+    "carbs": 20,
+    "fat": 0
+  },
+  "slug": "aerated-slovakian-apples-grill",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aerated-slovakian-apples-grill",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:35Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "robata-grill",
+    "primaryIngredient": "braeburn apples",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "apples",
+    "descriptor": "aerated",
+    "dishForm": "Grill"
+  }
+}

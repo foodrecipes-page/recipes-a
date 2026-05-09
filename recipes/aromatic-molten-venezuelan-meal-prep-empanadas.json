@@ -1,0 +1,116 @@
+{
+  "title": "aromatic molten venezuelan meal-prep empanadas",
+  "description": "herbal, molten, meal-prep venezuelan dish featuring vanilla, mother-sauce-base, plant-based-friendly, vessel=cedar-plank",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp",
+      "notes": "high-quality, pure vanille extract from madagascar"
+    },
+    {
+      "name": "plant-based ground beef",
+      "amount": "1 cup",
+      "notes": "textured vegetable protein or plant-based ground beef alternative, drained and rinsed"
+    },
+    {
+      "name": "white rice",
+      "amount": "1/2 cup",
+      "notes": "cooked and cooled, then chopped into small grains"
+    },
+    {
+      "name": "chopped onions",
+      "amount": "1/4 cup",
+      "notes": "caramelized to bring out sweetness"
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": "minced to release flavor"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "2 tbsp",
+      "notes": "fresh, not dried"
+    },
+    {
+      "name": "mother-sauce-base (see notes)",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "liquid smoke",
+      "amount": "1 tsp",
+      "notes": "to give a smoky flavor"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to balance flavors"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp",
+      "notes": "freshly ground to release flavor"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp",
+      "notes": "to coat empanadas, use gluten-free if necessary"
+    }
+  ],
+  "instructions": [
+    "soak 12 cedar planks in water for at least 30 minutes before use",
+    "preheat oven to 400f (200c)",
+    "in a large pan, combine mother-sauce-base, chopped onions, minced garlic, and plant-based ground beef",
+    "cook over medium heat, stirring occasionally, until heated through",
+    "stir in chopped cilantro, salt, and black pepper",
+    "divide dough into 12 equal pieces and roll out into thin circles",
+    "place 1-2 tbsp of filling in center of each dough circle and brush edges with water",
+    "fold dough in half over filling and press edges to seal",
+    "brush tops of empanadas with melted coconut oil and sprinkle with liquid smoke",
+    "place empanadas on soaked cedar planks, 2-3 per plank",
+    "bake for 15-20 minutes or until golden brown and crispy"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 20
+  },
+  "slug": "aromatic-molten-venezuelan-meal-prep-empanadas",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-molten-venezuelan-meal-prep-empanadas",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T22:46:26Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "molten",
+    "mood": "meal-prep",
+    "technique": "mother-sauce-base",
+    "primaryIngredient": "vanilla",
+    "diet": "plant-based",
+    "region": null,
+    "cuisineAdjective": "venezuelan",
+    "mainIngredient": "meal-prep",
+    "descriptor": "aromatic molten",
+    "dishForm": "empanadas"
+  }
+}

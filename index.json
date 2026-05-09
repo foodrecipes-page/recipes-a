@@ -1066,6 +1066,18 @@
     "shard": "a"
   },
   {
+    "slug": "aerated-slovakian-apples-grill",
+    "title": "aerated slovakian apples grill",
+    "tags": [
+      "low-carb",
+      "macrobiotic",
+      "robata-grill"
+    ],
+    "cuisine": "slovakian",
+    "totalTimeMin": 23,
+    "shard": "a"
+  },
+  {
     "slug": "aerated-spicy-italian-cucumber-suppli",
     "title": "Aerated Spicy Italian Cucumber Suppli",
     "tags": [
@@ -5317,6 +5329,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-molten-venezuelan-meal-prep-empanadas",
+    "title": "aromatic molten venezuelan meal-prep empanadas",
+    "tags": [
+      "dessert",
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "vegan-friendly"
+    ],
+    "cuisine": "venezuelan",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-moroccan-carrots-tagine",
     "title": "Aromatic Moroccan Carrots Tagine",
     "tags": [
@@ -6134,6 +6160,20 @@
     ],
     "cuisine": "Polish",
     "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-thai-curry-khao-soy",
+    "title": "Aromatic Smoky Thai Curry Khao-Soy",
+    "tags": [
+      "comfort-food",
+      "high-protein",
+      "one-pan",
+      "thai",
+      "weeknight"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
