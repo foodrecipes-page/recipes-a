@@ -1,0 +1,101 @@
+{
+  "title": "Aromatic Ethiopian Teff Muffins",
+  "description": "These muffins are a delicious and diabetic-friendly Ethiopian dish featuring teff flour and a shio-koji cure, perfect for a cozy breakfast or snack, cooked to perfection on a comal.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "diabetic-friendly",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "teff flour",
+      "amount": "2 cups",
+      "notes": "make sure to use brown or ivory teff flour"
+    },
+    {
+      "name": "shio-koji",
+      "amount": "1/4 cup",
+      "notes": "use a homemade or store-bought shio-koji cure"
+    },
+    {
+      "name": "eggs",
+      "amount": "3 large",
+      "notes": "use room temperature eggs"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "use a non-dairy milk alternative if desired"
+    },
+    {
+      "name": "honey",
+      "amount": "1/4 cup",
+      "notes": "use a pure and raw honey"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "use a flaky sea salt"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": "make sure to use a gluten-free baking powder"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "1/4 cup",
+      "notes": "use a neutral-tasting oil or ghee"
+    }
+  ],
+  "instructions": [
+    "Preheat the comal or a non-stick skillet over medium heat.",
+    "Whisk together the teff flour, shio-koji, baking powder, and salt in a large bowl.",
+    "In a separate bowl, whisk together the eggs, milk, and honey until well combined.",
+    "Add the wet ingredients to the dry ingredients and stir until just combined, being careful not to overmix.",
+    "Add the ghee or oil and stir until the batter is smooth and free of lumps.",
+    "Using a 1/4 cup measuring cup, scoop the batter onto the preheated comal or skillet.",
+    "Cook the muffins for 3-4 minutes on the first side, or until the edges start to set and the surface is dry.",
+    "Flip the muffins and cook for an additional 2-3 minutes, or until golden brown and cooked through.",
+    "Remove the muffins from the comal or skillet and let cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast-muffins",
+    "comal-cooked",
+    "diabetic-friendly",
+    "gluten-free",
+    "high-fiber",
+    "shio-koji-cure",
+    "teff-flour"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "slug": "aromatic-ethiopian-teff-muffins",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-ethiopian-teff-muffins",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:22:23Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "bouncy-qq",
+    "mood": "cozy",
+    "technique": "shio-koji-cure",
+    "primaryIngredient": "muffins",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "teff",
+    "descriptor": "Aromatic Authentic",
+    "dishForm": "Muffins"
+  }
+}
