@@ -1,0 +1,104 @@
+{
+  "title": "Aromatic Turkish Lentil Stew",
+  "description": "This hearty Turkish lentil stew is a comforting and flavorful dish, featuring the unique taste of tamarind paste and a hint of mustard, perfect for a sick day. It is an ovo-vegetarian friendly recipe that combines sautéed vegetables and red lentils in a rich and aromatic broth.",
+  "cuisine": "Turkish",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mustard",
+      "amount": "1 teaspoon",
+      "notes": "prepared"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "egg",
+      "amount": "2 large",
+      "notes": "beaten"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the chopped onion and minced garlic in a little bit of oil over medium heat until they are softened.",
+    "Add the chopped carrots to the pot and continue to cook for a few minutes until they start to tenderize.",
+    "Stir in the tamarind paste, mustard, salt, and black pepper, and cook for 1 minute.",
+    "Add the rinsed and drained red lentils to the pot, along with the vegetable broth, and bring the mixture to a boil.",
+    "Reduce the heat to low, cover the pot, and let the stew simmer for 30 minutes, or until the lentils are tender.",
+    "Stir in the beaten eggs and continue to cook for an additional 5 minutes, or until the eggs are fully incorporated and the stew has thickened slightly.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the stew hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "lentil-stew",
+    "one-pot",
+    "ovo-vegetarian",
+    "turkish-cuisine",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "slug": "aromatic-turkish-lentil-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-turkish-lentil-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T06:51:43Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "fluffy",
+    "mood": "sick-day",
+    "technique": "saute",
+    "primaryIngredient": "tamarind paste",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lentils",
+    "descriptor": "aromatic fluffy",
+    "dishForm": "Stew"
+  }
+}

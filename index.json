@@ -5505,6 +5505,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-turkish-lentil-stew",
+    "title": "Aromatic Turkish Lentil Stew",
+    "tags": [
+      "comfort-food",
+      "lentil-stew",
+      "one-pot",
+      "ovo-vegetarian",
+      "turkish-cuisine",
+      "weeknight"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-ukrainian-chicken-leg-wrap",
     "title": "Aromatic Ukrainian Chicken Leg Wrap",
     "tags": [
