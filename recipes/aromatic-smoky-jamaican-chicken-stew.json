@@ -1,0 +1,103 @@
+{
+  "title": "Aromatic Smoky Jamaican Chicken Stew",
+  "description": "A dense and adventurous Jamaican dish featuring smoky flavors and red wine vinegar, cooked in a papillote for a unique twist, this stew is perfect for those looking for a nut-free friendly meal option.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "nut-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "red wine vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "scotch bonnet peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large bowl, whisk together soy sauce, brown sugar, smoked paprika, and thyme.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Heat a large Dutch oven over medium high heat and sear the chicken until browned on all sides.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent.",
+    "Add the scotch bonnet peppers, red wine vinegar, and chicken broth to the pot and stir to combine.",
+    "Cover the pot with a piece of parchment paper, creating a papillote, and transfer to the preheated oven.",
+    "Bake for 30 minutes, then remove the parchment paper and continue baking for an additional 20 minutes.",
+    "Remove the pot from the oven and let it cool slightly before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean-inspired",
+    "comfort-food",
+    "one-pot",
+    "smoky",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 24
+  },
+  "slug": "aromatic-smoky-jamaican-chicken-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-smoky-jamaican-chicken-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T07:02:44Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "dense",
+    "mood": "adventurous",
+    "technique": "papillote",
+    "primaryIngredient": "red wine vinegar",
+    "diet": "nut-free",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic Smoky",
+    "dishForm": "Stew"
+  }
+}

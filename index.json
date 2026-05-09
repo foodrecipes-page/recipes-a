@@ -5063,6 +5063,20 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-smoky-jamaican-chicken-stew",
+    "title": "Aromatic Smoky Jamaican Chicken Stew",
+    "tags": [
+      "caribbean-inspired",
+      "comfort-food",
+      "one-pot",
+      "smoky",
+      "weeknight"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 70,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-smoky-kenyan-savoy-cabbage-tagine",
     "title": "Aromatic Smoky Kenyan Savoy Cabbage Tagine",
     "tags": [
