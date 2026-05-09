@@ -1,0 +1,135 @@
+{
+  "title": "adventurous aerated thai pak koi noodles",
+  "description": "umami, aerated, adventurous thai dish featuring baby pak koi, beurre-monte, keto-friendly",
+  "cuisine": "thai",
+  "diet": [
+    "keto",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "baby pak koi",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "shallots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "red chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "fresh ground black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 can (14 ounces)",
+      "notes": ""
+    },
+    {
+      "name": "keto-friendly oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat oil in a wok over medium-high heat until almost smoking.",
+    "add shallots, garlic, and red chili flakes, and stir-fry for 2 minutes, until fragrant.",
+    "add fish sauce, lime juice, and coconut sugar, and stir-fry for 1 minute, until sugar dissolves.",
+    "push vegetables to one side of the wok.",
+    "add beurre-monte to the other side, and stir constantly for 2 minutes, until mixture starts to thicken.",
+    "add water, and stir constantly for 2 minutes, until mixture doubles in volume.",
+    "add coconut milk, and stir to combine.",
+    "return vegetables to the wok, and stir-fry for 1 minute, until heated through.",
+    "season with salt, black pepper, and additional fish sauce if needed.",
+    "garnish with chopped cilantro, and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "aerated",
+    "bangkok-street",
+    "coconut-milk",
+    "fish-sauce",
+    "gluten-free",
+    "keto",
+    "one-pan",
+    "quick-recipe",
+    "thai",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 640,
+    "protein": 24,
+    "carbs": 12,
+    "fat": 52
+  },
+  "slug": "adventurous-aerated-thai-pak-koi-noodles",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-aerated-thai-pak-koi-noodles",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:01:33Z",
+  "axes": {
+    "flavor": "umami",
+    "texture": "aerated",
+    "mood": "adventurous",
+    "technique": "beurre-monte",
+    "primaryIngredient": "baby pak koi",
+    "diet": "keto",
+    "region": "bangkok-street",
+    "cuisineAdjective": "thai",
+    "mainIngredient": "pak koi",
+    "descriptor": "adventurous aerated",
+    "dishForm": "noodles"
+  }
+}
