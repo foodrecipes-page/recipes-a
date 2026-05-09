@@ -1,0 +1,97 @@
+{
+  "title": "Adventurous Aromatic Turkish Lamb Kebabs",
+  "description": "A winey and chewy Turkish dish featuring lamb, iceberg lettuce, and a macrobiotic-friendly approach, all steamed to perfection in a bamboo steamer. This recipe brings a unique blend of flavors and textures to the table.",
+  "cuisine": "Turkish",
+  "diet": [
+    "macrobiotic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "iceberg lettuce",
+      "amount": "1 head",
+      "notes": "leaves separated"
+    },
+    {
+      "name": "red wine",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together red wine, olive oil, garlic, paprika, salt, and black pepper to make the marinade.",
+    "Add the lamb cubes to the marinade and mix well to coat, then cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Prepare the bamboo steamer by filling the bottom with 2 inches of water and bringing it to a boil.",
+    "Reduce the heat to medium-low and place the lamb cubes in the steamer basket, reserving the marinade.",
+    "Steam the lamb for 10 minutes, then add the separated iceberg lettuce leaves on top and continue steaming for another 5 minutes.",
+    "While the lamb and lettuce are steaming, mix the reserved marinade with lemon juice in a small saucepan and bring to a boil over high heat.",
+    "Reduce the heat to medium-low and simmer the sauce for 5 minutes or until slightly thickened.",
+    "Remove the lamb and lettuce from the steamer and serve hot, drizzled with the sauce and garnished with additional lettuce leaves if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bamboo-steamer",
+    "healthy-dinner",
+    "lamb-recipes",
+    "macrobiotic",
+    "turkish-food",
+    "wine-based-sauce"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "adventurous-aromatic-turkish-lamb-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/adventurous-aromatic-turkish-lamb-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:25:05Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "chewy",
+    "mood": "adventurous",
+    "technique": "boil",
+    "primaryIngredient": "iceberg lettuce",
+    "diet": "macrobiotic",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "adventurous aromatic",
+    "dishForm": "Kebabs"
+  }
+}
