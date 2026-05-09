@@ -1,0 +1,94 @@
+{
+  "title": "Amazingly Crunchy Greek Chicken Kebabs",
+  "description": "A Whole30-friendly Greek dish featuring panang curry paste and a salt-bake crust, this recipe is perfect for a comforting dinner, with a briny and crunchy texture that will leave you wanting more.",
+  "cuisine": "Greek",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "panang curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 cup",
+      "notes": "for salt-bake crust"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together panang curry paste, lemon juice, olive oil, black pepper, garlic powder, and paprika.",
+    "Add the chicken pieces to the bowl and toss to coat with the curry paste mixture.",
+    "Line a baking sheet with parchment paper and arrange the chicken pieces in a single layer.",
+    "Sprinkle the salt evenly over the chicken pieces to form a crust.",
+    "Bake the chicken in the preheated oven for 25 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 5 minutes, or until the crust is golden brown and crunchy.",
+    "Remove the chicken from the oven and let it rest for 5 minutes before serving.",
+    "Serve the chicken kebabs hot, garnished with fresh parsley or dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight",
+    "whole30-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 6,
+    "fat": 18
+  },
+  "slug": "amazingly-crunchy-greek-chicken-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-crunchy-greek-chicken-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:22:52Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "crunchy",
+    "mood": "comforting",
+    "technique": "salt-bake",
+    "primaryIngredient": "panang curry paste",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Greek",
+    "mainIngredient": "chicken",
+    "descriptor": "Amazingly crunchy",
+    "dishForm": "Kebabs"
+  }
+}

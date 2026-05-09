@@ -2950,6 +2950,20 @@
     "shard": "a"
   },
   {
+    "slug": "amazingly-crunchy-greek-chicken-kebabs",
+    "title": "Amazingly Crunchy Greek Chicken Kebabs",
+    "tags": [
+      "gluten-free",
+      "high-protein",
+      "one-pan",
+      "weeknight",
+      "whole30-friendly"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-crunchy-portuguese-peppers-skewers",
     "title": "Amazingly Crunchy Portuguese Peppers Skewers",
     "tags": [
@@ -5393,6 +5407,20 @@
     ],
     "cuisine": "Russian",
     "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-russian-comte-pilaf",
+    "title": "Aromatic Russian Comte Pilaf",
+    "tags": [
+      "comfort-food",
+      "monsoon-recipe",
+      "one-pot-meal",
+      "russian-cuisine",
+      "vegetarian-dish"
+    ],
+    "cuisine": "Russian",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {

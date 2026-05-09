@@ -1,0 +1,101 @@
+{
+  "title": "Aromatic Russian Comte Pilaf",
+  "description": "This earthy Russian dish features Comte cheese and deep-fry-tod, made with ayurvedic-sattvic-friendly ingredients, perfect for a monsoon evening",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "1 cup grated",
+      "notes": "aged for at least 4 months"
+    },
+    {
+      "name": "deep-fry-tod",
+      "amount": "1 cup cooked",
+      "notes": "ayurvedic-sattvic-friendly"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "2 cups uncooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "mushroom",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large saucepan over medium heat",
+    "Add chopped onion and cook until translucent",
+    "Add minced garlic and cook for 1 minute",
+    "Add sliced mushroom and cook until tender",
+    "Add basmati rice and cook for 2 minutes",
+    "Add cooked deep-fry-tod, Comte cheese, salt, and black pepper, and stir well",
+    "Reduce heat to low and cover the saucepan",
+    "Simmer for 20 minutes or until the rice is cooked and the liquid is absorbed",
+    "Garnish with chopped fresh parsley and serve hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "monsoon-recipe",
+    "one-pot-meal",
+    "russian-cuisine",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "aromatic-russian-comte-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-russian-comte-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T18:23:06Z",
+  "axes": {
+    "flavor": "earthy",
+    "texture": "shattering",
+    "mood": "monsoon",
+    "technique": "deep-fry-tod",
+    "primaryIngredient": "comte",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "Comte",
+    "descriptor": "Aromatic",
+    "dishForm": "Pilaf"
+  }
+}
