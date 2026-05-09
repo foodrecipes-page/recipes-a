@@ -1,0 +1,91 @@
+{
+  "title": "Amazingly Crunchy Argentinian Meat Skewers",
+  "description": "Charred and crunchy Argentinian dish featuring tahini and rest meat, perfect for a low sodium diet",
+  "cuisine": "Argentinian",
+  "diet": [
+    "low sodium"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": "rest meat"
+    },
+    {
+      "name": "tahini",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt free seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit",
+    "In a bowl, mix together tahini, olive oil, garlic, paprika, salt free seasoning, and black pepper",
+    "Add the beef strips to the bowl and toss to coat with the tahini mixture",
+    "Thread the beef strips onto skewers",
+    "Grill the skewers for 10 minutes per side",
+    "Brush the skewers with lemon juice during the last 2 minutes of grilling",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve the skewers hot and enjoy"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "crunchy",
+    "grilled",
+    "low-sodium",
+    "meat",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "amazingly-crunchy-argentinian-meat-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-crunchy-argentinian-meat-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:25:35Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "nostalgic",
+    "technique": "rest-meat",
+    "primaryIngredient": "tahini",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "meat",
+    "descriptor": "amazingly crunchy",
+    "dishForm": "Skewers"
+  }
+}

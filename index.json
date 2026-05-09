@@ -2979,6 +2979,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazingly-crunchy-argentinian-meat-skewers",
+    "title": "Amazingly Crunchy Argentinian Meat Skewers",
+    "tags": [
+      "argentinian",
+      "crunchy",
+      "grilled",
+      "low-sodium",
+      "meat",
+      "skewers"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-crunchy-greek-chicken-kebabs",
     "title": "Amazingly Crunchy Greek Chicken Kebabs",
     "tags": [
