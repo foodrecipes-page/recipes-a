@@ -1,0 +1,110 @@
+{
+  "title": "Aromatic Sardinian Pork Tagliatelle",
+  "description": "A salty and snappy Sardinian dish featuring slow-cooked pork and egg rolls, perfect for a date night, with a focus on ayurvedic tamasic friendly ingredients. This dish combines the rich flavors of Italy with the warmth of a slow-cooked meal.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "boneless"
+    },
+    {
+      "name": "egg roll wrappers",
+      "amount": "12 sheets"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tagliatelle",
+      "amount": "12 ounces"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300 degrees Fahrenheit.",
+    "In a large Dutch oven, heat the olive oil over medium heat.",
+    "Add the garlic, onion, carrots, and celery and cook until the vegetables are tender.",
+    "Add the pork shoulder and cook until browned on all sides.",
+    "Add the tomato paste, red wine, and beef broth, and bring to a boil.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the pork for 2 1/2 hours, or until tender.",
+    "While the pork is cooking, prepare the egg roll wrappers according to package instructions.",
+    "After the pork has finished cooking, shred it with two forks and stir in any accumulated juices.",
+    "Cook the tagliatelle according to package instructions and serve with the shredded pork and egg rolls."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "date-night",
+    "homemade-pasta",
+    "italian-food",
+    "pork-recipes",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 70
+  },
+  "slug": "aromatic-sardinian-pork-tagliatelle",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-sardinian-pork-tagliatelle",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:37:18Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "snappy",
+    "mood": "date-night",
+    "technique": "slow-cook",
+    "primaryIngredient": "egg rolls",
+    "diet": "ayurvedic-tamasic",
+    "region": "sardinian",
+    "cuisineAdjective": "Sardinian",
+    "mainIngredient": "pork",
+    "descriptor": "Aromatic Slow Cooked",
+    "dishForm": "Tagliatelle"
+  }
+}
