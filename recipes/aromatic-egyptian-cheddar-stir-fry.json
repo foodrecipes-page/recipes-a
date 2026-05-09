@@ -1,0 +1,97 @@
+{
+  "title": "Aromatic Egyptian Cheddar Stir fry",
+  "description": "A nutty and creamy Egyptian dish featuring mature cheddar, perfect for midnight cravings, served in a traditional lotus-leaf-wrap, this kosher-friendly recipe is sure to delight.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "kosher"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "mature cheddar cheese",
+      "amount": "1 cup shredded",
+      "notes": "sharp or extra sharp work best"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon grated"
+    },
+    {
+      "name": "egyptian spice mix",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "lotus leaves",
+      "amount": "4 large leaves",
+      "notes": "for wrapping"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and grated ginger and cook for an additional 1 minute.",
+    "Stir in the egyptian spice mix, salt, and black pepper and cook for 1 minute.",
+    "Add the shredded mature cheddar cheese and stir until melted and smooth.",
+    "Reduce heat to low and simmer the cheese mixture for 2 minutes.",
+    "Prepare the lotus leaves by rinsing them in cold water and cutting off the stem.",
+    "Spoon the cheese mixture onto the center of each lotus leaf and fold the leaves to form a wrap.",
+    "Serve the aromatic egyptian cheddar stir fry hot in the lotus-leaf-wrap."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheesy",
+    "egyptian-cuisine",
+    "kosher-friendly",
+    "lotus-leaf-wrap",
+    "midnight-cravings",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 22
+  },
+  "slug": "aromatic-egyptian-cheddar-stir-fry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-egyptian-cheddar-stir-fry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:59:24Z",
+  "axes": {
+    "flavor": "nutty",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "stir-fry",
+    "primaryIngredient": "mature cheddar",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "cheddar",
+    "descriptor": "aromatic nutty",
+    "dishForm": "Stir-fry"
+  }
+}

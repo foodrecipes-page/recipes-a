@@ -4468,6 +4468,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-egyptian-cheddar-stir-fry",
+    "title": "Aromatic Egyptian Cheddar Stir fry",
+    "tags": [
+      "cheesy",
+      "egyptian-cuisine",
+      "kosher-friendly",
+      "lotus-leaf-wrap",
+      "midnight-cravings",
+      "spicy"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-egyptian-chicken-roast",
     "title": "Aromatic Egyptian Chicken Roast",
     "tags": [
