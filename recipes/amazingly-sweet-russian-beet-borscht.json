@@ -1,0 +1,99 @@
+{
+  "title": "Amazingly Sweet Russian Beet Borscht",
+  "description": "A sweet and comforting Russian soup featuring beets and onion salt, perfect for a sick day. This ayurvedic-sattvic-friendly dish is easy to make and delicious to eat.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beets",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "onion salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "carrots",
+      "amount": "1 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "dill",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "In a large pot, bring the vegetable broth to a boil.",
+    "Add the grated beets, carrots, and celery to the pot and blanch for 5 minutes.",
+    "Reduce the heat to low and simmer for 20 minutes.",
+    "Stir in the onion salt and lemon juice.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Strain the soup through a fine-mesh sieve to remove any solids.",
+    "Serve the soup hot, topped with a dollop of sour cream and a sprinkle of chopped dill if desired.",
+    "Let the soup cool to room temperature, then refrigerate until chilled.",
+    "Once chilled, the soup will have a glassy-jelly texture.",
+    "Serve the soup cold, garnished with additional chopped dill if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "one-pot",
+    "russian",
+    "sick-day",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "slug": "amazingly-sweet-russian-beet-borscht",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-sweet-russian-beet-borscht",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T17:42:38Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "glassy-jelly",
+    "mood": "sick-day",
+    "technique": "blanch",
+    "primaryIngredient": "onion salt",
+    "diet": "ayurvedic-sattvic",
+    "region": null,
+    "cuisineAdjective": "Russian",
+    "mainIngredient": "beets",
+    "descriptor": "amazingly sweet",
+    "dishForm": "Borscht"
+  }
+}
