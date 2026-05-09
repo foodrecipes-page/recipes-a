@@ -1,0 +1,104 @@
+{
+  "title": "Amazing Autumn Spanish Potatoes Hash",
+  "description": "A funky and springy Spanish dish featuring floury potatoes, ferment kimchi, and ayurvedic sattvic friendly ingredients, perfect for a brunch mood. This dish combines the flavors of Basque cuisine with the health benefits of sattvic food.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "floury potatoes like Russet or Idaho"
+    },
+    {
+      "name": "kimchi",
+      "amount": "1 cup",
+      "notes": "ferment kimchi with Korean chili flakes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Peel and dice the potatoes into 1-inch cubes and boil them in salted water until they are slightly tender.",
+    "Drain the potatoes and set them aside to cool.",
+    "In a large skillet, heat the olive oil over medium heat and saute the sliced onion until it is translucent.",
+    "Add the minced garlic and cook for 1 minute, until fragrant.",
+    "Add the cooked potatoes, smoked paprika, salt, and black pepper to the skillet and stir to combine.",
+    "Add the ferment kimchi to the skillet and stir to combine.",
+    "Transfer the potato mixture to a baking dish and bake in the preheated oven for 20 minutes, until the potatoes are golden brown.",
+    "Remove the dish from the oven and sprinkle the chopped parsley on top.",
+    "Serve the Amazing Autumn Spanish Potatoes Hash hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "autumn-recipe",
+    "basque-cuisine",
+    "brunch-idea",
+    "gluten-free",
+    "potato-dish",
+    "sattvic-food",
+    "spanish-recipe",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "amazing-autumn-spanish-potatoes-hash",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-autumn-spanish-potatoes-hash",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T10:06:49Z",
+  "axes": {
+    "flavor": "funky",
+    "texture": "springy",
+    "mood": "brunch-mood",
+    "technique": "ferment-kimchi",
+    "primaryIngredient": "floury potatoes",
+    "diet": "ayurvedic-sattvic",
+    "region": "basque",
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "potatoes",
+    "descriptor": "Amazing Autumn",
+    "dishForm": "Hash"
+  }
+}
