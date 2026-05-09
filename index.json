@@ -2456,6 +2456,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazing-buttery-argentinian-grape-nuts-pilaf",
+    "title": "Amazing Buttery Argentinian Grape Nuts Pilaf",
+    "tags": [
+      "argentinian",
+      "comfort-food",
+      "midnight-cravings",
+      "one-pan",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "amazing-buttery-uruguayan-tripe-gratin",
     "title": "Amazing Buttery Uruguayan Tripe Gratin",
     "tags": [

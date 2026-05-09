@@ -1,0 +1,99 @@
+{
+  "title": "Amazing Buttery Argentinian Grape Nuts Pilaf",
+  "description": "A buttery and creamy Argentinian dish featuring grape nut cereal, perfect for midnight cravings, and a vegetarian friendly option served in a scallop shell.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Grape Nuts cereal",
+      "amount": "2 cups",
+      "notes": "crushed"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Argentinian chimichurri sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the melted butter in a large wok over medium heat.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the crushed Grape Nuts cereal and cook for 2 minutes, stirring constantly.",
+    "Add the Argentinian chimichurri sauce and stir to combine.",
+    "Pour in the heavy cream and bring to a simmer.",
+    "Reduce the heat to low and stir in the grated cheddar cheese until melted.",
+    "Season with salt and black pepper to taste.",
+    "Spoon the pilaf into scallop shells and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "comfort-food",
+    "midnight-cravings",
+    "one-pan",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 25
+  },
+  "slug": "amazing-buttery-argentinian-grape-nuts-pilaf",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-buttery-argentinian-grape-nuts-pilaf",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T16:33:32Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "creamy",
+    "mood": "midnight-craving",
+    "technique": "wok-hei",
+    "primaryIngredient": "grape nut cereal",
+    "diet": "vegetarian",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "Grape Nuts",
+    "descriptor": "Amazing Buttery",
+    "dishForm": "Pilaf"
+  }
+}
