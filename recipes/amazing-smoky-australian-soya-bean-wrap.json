@@ -1,0 +1,104 @@
+{
+  "title": "Amazing Smoky Australian Soya Bean Wrap",
+  "description": "A smoky and shattering date-night Australian dish featuring soya bean and ssam-wrap, perfect for a kosher-friendly dinner",
+  "cuisine": "Australian",
+  "diet": [
+    "kosher",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "soya beans",
+      "amount": "1 cup",
+      "notes": "cooked and mashed"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "ssam wrap",
+      "amount": "4 sheets"
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1",
+      "notes": "sliced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit",
+    "Mix the mashed soya beans with smoked paprika, salt, and black pepper in a bowl",
+    "Layout the ssam wrap sheets on a flat surface",
+    "Spread a quarter of the soya bean mixture onto each ssam wrap sheet",
+    "Top the soya bean mixture with sliced avocado, red onion, and cucumber on each sheet",
+    "Drizzle lemon juice and olive oil over the toppings on each sheet",
+    "Fold the bottom half of each ssam wrap sheet over the filling",
+    "Fold in the sides and roll up the sheets to form tight cylinders",
+    "Place the rolls on a baking sheet lined with parchment paper and bake for 10 minutes"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "date-night",
+    "kosher-friendly",
+    "smoky",
+    "soya-bean",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "slug": "amazing-smoky-australian-soya-bean-wrap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-smoky-australian-soya-bean-wrap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T02:12:46Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "shattering",
+    "mood": "date-night",
+    "technique": "ssam-wrap",
+    "primaryIngredient": "soya bean",
+    "diet": "kosher",
+    "region": null,
+    "cuisineAdjective": "Australian",
+    "mainIngredient": "soya bean",
+    "descriptor": "Amazing Smoky",
+    "dishForm": "Wrap"
+  }
+}

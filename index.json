@@ -2227,6 +2227,21 @@
     "shard": "a"
   },
   {
+    "slug": "amazing-smoky-australian-soya-bean-wrap",
+    "title": "Amazing Smoky Australian Soya Bean Wrap",
+    "tags": [
+      "australian",
+      "date-night",
+      "kosher-friendly",
+      "smoky",
+      "soya-bean",
+      "vegetarian"
+    ],
+    "cuisine": "Australian",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "amazing-yeasty-canadian-rye-bread-stew",
     "title": "Amazing Yeasty Canadian Rye Bread Stew",
     "tags": [
