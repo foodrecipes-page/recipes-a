@@ -1,0 +1,91 @@
+{
+  "title": "Amazingly Comforting Japanese Potatoes Agedashi",
+  "description": "A comforting Japanese dish featuring charlotte potatoes in a crispy agedashi form, served with a rich coconut cream crack sauce, perfect for a cold evening.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "charlotte potatoes",
+      "amount": "4 large",
+      "notes": "peeled and cut into large chunks"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "coconut cream",
+      "amount": "1 can"
+    },
+    {
+      "name": "vegan panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat the sesame oil in a deep frying pan to 350 degrees Fahrenheit.",
+    "In a large bowl, combine the flour, cornstarch, and a pinch of salt.",
+    "Toss the potato chunks in the flour mixture to coat, shaking off excess.",
+    "Carefully add the coated potatoes to the hot oil and fry until golden brown, about 3-4 minutes.",
+    "Using a slotted spoon, remove the potatoes from the oil and place on a paper towel lined plate to drain excess oil.",
+    "In a small bowl, whisk together the coconut cream, soy sauce, and rice vinegar to make the crack sauce.",
+    "To assemble, place a few pieces of the fried potato in a raclette grill vessel, top with a spoonful of the coconut cream crack sauce, and serve immediately.",
+    "Garnish with toasted sesame seeds and chopped scallions, if desired.",
+    "Repeat the process with the remaining potato chunks and sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "crispy",
+    "japanese-cuisine",
+    "potato-dish",
+    "vegan-friendly"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "amazingly-comforting-japanese-potatoes-agedashi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-comforting-japanese-potatoes-agedashi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:32:09Z",
+  "axes": {
+    "flavor": "grassy",
+    "texture": "flaky",
+    "mood": "comforting",
+    "technique": "coconut-cream-crack",
+    "primaryIngredient": "charlotte potatoes",
+    "diet": "vegan",
+    "region": "kanto",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "potatoes",
+    "descriptor": "Amazingly Comforting",
+    "dishForm": "Agedashi"
+  }
+}
