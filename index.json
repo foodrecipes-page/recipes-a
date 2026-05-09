@@ -4112,6 +4112,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-crisp-algerian-lamb-kebabs",
+    "title": "Aromatic Crisp Algerian Lamb Kebabs",
+    "tags": [
+      "algerian",
+      "grilled",
+      "high-protein",
+      "lamb",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 32,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-crisp-croatian-pork-skewers",
     "title": "Aromatic Crisp Croatian Pork Skewers",
     "tags": [
