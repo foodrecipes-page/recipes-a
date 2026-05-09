@@ -760,6 +760,23 @@
     "shard": "a"
   },
   {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka",
+    "title": "Aerated Floral Ukrainian Jersey Royal Potatoes Babka",
+    "tags": [
+      "breakfast-option",
+      "casserole",
+      "comfort-food",
+      "kitchen-basics",
+      "spring-vegetable",
+      "sunday-dinner",
+      "ukrainian",
+      "weeknight-meal"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 65,
+    "shard": "a"
+  },
+  {
     "slug": "aerated-french-polish-puff-pastry",
     "title": "Aerated French Polish Puff Pastry",
     "tags": [
@@ -5853,6 +5870,21 @@
     ],
     "cuisine": "Norwegian",
     "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "asian-style-aromatic-malaysian-herbal-springy-dish-satay",
+    "title": "Satay",
+    "tags": [
+      "grilled",
+      "halal",
+      "malaysian",
+      "one-pan",
+      "vegetarian",
+      "weeknight"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {

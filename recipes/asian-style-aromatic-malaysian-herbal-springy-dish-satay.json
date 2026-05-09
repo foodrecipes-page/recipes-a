@@ -1,0 +1,130 @@
+{
+  "title": "Satay",
+  "description": "A flavorful and aromatic Malaysian dish made with skewers of marinated meat, grilled to perfection and served with a side of spicy peanut sauce. This recipe is inspired by the traditional street food of Malaysia and is halal-friendly.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "halal",
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Semi-skimmed milk",
+      "amount": "250ml",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml",
+      "notes": ""
+    },
+    {
+      "name": "Peanut oil",
+      "amount": "30ml",
+      "notes": ""
+    },
+    {
+      "name": "Scallop shells",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "20g",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3g",
+      "notes": ""
+    },
+    {
+      "name": "Thai red chili",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Coriander",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1g",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "5g",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "2g",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "20g",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the chicken breast, semi-skimmed milk, coconut milk, peanut oil, brown sugar, ginger, garlic, Thai red chili, coriander, cumin, salt, and black pepper. Mix well to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Soak the scallop shells in water for at least 30 minutes. Drain and dry them with a paper towel.",
+    "Thread 4-5 pieces of marinated chicken onto each scallop shell, leaving a small space between each piece.",
+    "Preheat a grill or grill pan to medium-high heat. Grill the satay for 8-10 minutes, turning occasionally, until cooked through.",
+    "Meanwhile, prepare the spicy peanut sauce by blending together 250g of peanuts, 100g of peanut oil, 20g of brown sugar, 10g of grated ginger, and 5g of Thai red chili. Season with salt to taste.",
+    "Serve the satay with the spicy peanut sauce, garnished with fresh cilantro and toasted peanuts.",
+    "Heat the remaining peanut sauce in a saucepan over low heat, stirring constantly, until warmed through.",
+    "Serve the satay with the warmed peanut sauce and a side of steamed vegetables, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "halal",
+    "malaysian",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "slug": "asian-style-aromatic-malaysian-herbal-springy-dish-satay",
+  "source": "cerebras-llama3.1-8b",
+  "canonicalUrl": "https://foodrecipes.page/r/asian-style-aromatic-malaysian-herbal-springy-dish-satay",
+  "providerUsed": "cerebras-llama3.1-8b",
+  "createdAt": "2026-05-09T08:11:20Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "blanch",
+    "primaryIngredient": "semi-skimmed milk",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "Malaysian",
+    "mainIngredient": "herbal springy dish",
+    "descriptor": "Asian-style aromatic",
+    "dishForm": "Satay"
+  }
+}
