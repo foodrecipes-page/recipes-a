@@ -1,0 +1,96 @@
+{
+  "title": "Aromatic Silky Japanese Peas Inari Zushi",
+  "description": "A comforting and bitter Japanese dish featuring peas and bonito flakes, served in a sweet and silky inari zushi form, suitable for a low FODMAP diet. This recipe is carefully crafted to provide a soothing and aromatic experience.",
+  "cuisine": "Japanese",
+  "diet": [
+    "low-fodmap",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "1 cup",
+      "notes": "preferably Koshihikari or Akita Komachi"
+    },
+    {
+      "name": "water",
+      "amount": "1 1/4 cups"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "frozen peas",
+      "amount": "1 cup",
+      "notes": "thawed and drained"
+    },
+    {
+      "name": "bonito flakes",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "aburaage",
+      "amount": "4 pieces",
+      "notes": "Japanese fried tofu pouches"
+    }
+  ],
+  "instructions": [
+    "Rinse the Japanese short grain rice thoroughly and cook it with water in a medium saucepan over high heat.",
+    "Reduce the heat to low when the water boils, cover the saucepan with a tight-fitting lid, and simmer for 15 minutes.",
+    "In a small saucepan, combine rice vinegar, sugar, and salt, and bring to a boil over medium heat, stirring until the sugar and salt dissolve.",
+    "Allow the vinegar mixture to cool, then stir it into the cooked rice.",
+    "In a separate pan, heat the bonito flakes over low heat, stirring constantly, until fragrant.",
+    "Combine the cooked peas and bonito flakes in a bowl and stir to combine.",
+    "Cut the aburaage into triangles and cook them in boiling water for 2 minutes to remove excess oil.",
+    "Fill the cooked aburaage triangles with the pea and bonito flake mixture, and serve with the Japanese short grain rice.",
+    "Garnish with grated daikon and shiso leaves if desired.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "gluten-free",
+    "japanese-cuisine",
+    "low-fodmap",
+    "silky-texture",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 8
+  },
+  "slug": "aromatic-silky-japanese-peas-inari-zushi",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-silky-japanese-peas-inari-zushi",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T04:12:14Z",
+  "axes": {
+    "flavor": "bitter",
+    "texture": "silky",
+    "mood": "comforting",
+    "technique": "bonito-shave",
+    "primaryIngredient": "peas",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "peas",
+    "descriptor": "aromatic silky",
+    "dishForm": "Inari Zushi"
+  }
+}
