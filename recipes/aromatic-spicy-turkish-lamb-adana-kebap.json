@@ -1,0 +1,97 @@
+{
+  "title": "Aromatic Spicy Turkish Lamb Adana Kebap",
+  "description": "Sour and shaggy Turkish dish perfect for a date night, featuring ginger paste and kombu cold extract, made dairy free friendly in the form of Adana kebap.",
+  "cuisine": "Turkish",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "500g",
+      "notes": "preferably with some fat content"
+    },
+    {
+      "name": "ginger paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kombu cold extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "red pepper flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium high heat.",
+    "In a large bowl, combine lamb mince, ginger paste, kombu cold extract, red pepper flakes, paprika, garlic powder, salt, and black pepper, and mix well with your hands until just combined.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Thread the lamb mixture onto skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with a small amount of oil to prevent sticking.",
+    "Grill the kebaps for 8-10 minutes, turning frequently, until they are cooked through and slightly charred.",
+    "Serve the kebaps hot with a squeeze of lemon juice.",
+    "Garnish with fresh parsley or cilantro, if desired.",
+    "Serve with your choice of sides, such as rice or roasted vegetables."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "dairy-free",
+    "date-night",
+    "grilled-meats",
+    "lamb-recipes",
+    "middle-eastern",
+    "turkish-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "aromatic-spicy-turkish-lamb-adana-kebap",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-spicy-turkish-lamb-adana-kebap",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T19:55:43Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "shaggy",
+    "mood": "date-night",
+    "technique": "kombu-cold-extract",
+    "primaryIngredient": "ginger paste",
+    "diet": "dairy-free",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "lamb",
+    "descriptor": "Aromatic Spicy",
+    "dishForm": "Adana Kebap"
+  }
+}
