@@ -1,0 +1,94 @@
+{
+  "title": "Awesome Aromatic British Pecan Nuts Onigiri",
+  "description": "A fermented and silky British dish featuring pecan nuts, shaped like nigiri, and suitable for halal diets as a hangover cure.",
+  "cuisine": "British",
+  "diet": [
+    "halal"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese short grain rice",
+      "amount": "2 cups",
+      "notes": "preferably Koshihikari or Akita Komachi"
+    },
+    {
+      "name": "water",
+      "amount": "2 1/4 cups"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "pecan nuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried seaweed sheets",
+      "amount": "1 package"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice thoroughly and soak it in water for 30 minutes.",
+    "Drain the water and cook the rice according to the package instructions.",
+    "In a small saucepan, combine the rice vinegar, sugar, and salt, and bring to a boil over medium heat.",
+    "Reduce the heat to low and simmer for 5 minutes, then let it cool.",
+    "In a large bowl, combine the cooked rice, cooled vinegar mixture, and chopped pecan nuts, and mix well.",
+    "Add the miso paste to the rice mixture and mix until the paste is fully incorporated.",
+    "Cut the dried seaweed sheets into small squares, about 2 inches per side.",
+    "Using wet hands, shape the rice mixture into small triangular or oval shapes, and wrap each shape with a seaweed sheet.",
+    "Serve the onigiri immediately, or store them in an airtight container in the refrigerator for up to a day."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british-cuisine",
+    "fermented-food",
+    "halal-friendly",
+    "hangover-cure",
+    "nigiri-inspired",
+    "pecan-nuts",
+    "silky-texture"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "slug": "awesome-aromatic-british-pecan-nuts-onigiri",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/awesome-aromatic-british-pecan-nuts-onigiri",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T09:19:28Z",
+  "axes": {
+    "flavor": "fermented",
+    "texture": "silky",
+    "mood": "hangover-cure",
+    "technique": "nigiri-shaping",
+    "primaryIngredient": "pecan nuts",
+    "diet": "halal",
+    "region": null,
+    "cuisineAdjective": "British",
+    "mainIngredient": "pecan nuts",
+    "descriptor": "awesome aromatic",
+    "dishForm": "Onigiri"
+  }
+}
