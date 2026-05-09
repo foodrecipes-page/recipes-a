@@ -1,0 +1,97 @@
+{
+  "title": "Aromatic Citrusy Vietnamese Spinach Canh Chua",
+  "description": "A refreshing and citrusy Vietnamese soup featuring spinach, perfect for a light meal, this dish is keto-friendly and can be prepared in advance for meal prep.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "2 cups",
+      "notes": "fresh"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "shallots",
+      "amount": "1 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat the chicken broth over medium heat.",
+    "Add the grated ginger and garlic and cook for 2 minutes.",
+    "Add the shallots and cook until they are translucent.",
+    "Add the spinach and cook until it is wilted.",
+    "Stir in the lemon juice and fish sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve the soup hot, garnished with additional spinach if desired.",
+    "Let the soup cool, then refrigerate or freeze for later use."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "keto-friendly",
+    "low-carb",
+    "meal-prep",
+    "spring-inspired",
+    "vietnamese-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 15
+  },
+  "slug": "aromatic-citrusy-vietnamese-spinach-canh-chua",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-citrusy-vietnamese-spinach-canh-chua",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T01:27:22Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "springy",
+    "mood": "meal-prep",
+    "technique": "temper",
+    "primaryIngredient": "spinach",
+    "diet": "keto",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "spinach",
+    "descriptor": "Aromatic Citrusy",
+    "dishForm": "Canh Chua"
+  }
+}
