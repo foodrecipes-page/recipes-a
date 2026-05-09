@@ -1,0 +1,92 @@
+{
+  "title": "Aromatic Vietnamese Pork Noodles",
+  "description": "A yeasty, shaggy, low-carb Vietnamese dish featuring lard and beurre-monte, perfect for meal prep.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into thin slices"
+    },
+    {
+      "name": "lard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beurre-monte",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "lime juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "shirataki noodles",
+      "amount": "8 ounces"
+    }
+  ],
+  "instructions": [
+    "Heat the lard in a wok over medium-high heat.",
+    "Add the pork slices and cook until browned, about 5 minutes.",
+    "Add the beurre-monte, fish sauce, lime juice, garlic, and ginger to the wok and stir to combine.",
+    "Cook for an additional 2 minutes, until the sauce is fragrant.",
+    "Add the shirataki noodles to the wok and stir to combine with the pork and sauce.",
+    "Cook for an additional 2 minutes, until the noodles are well coated.",
+    "Serve the noodles hot, garnished with chopped cilantro and scallions.",
+    "Refrigerate or freeze any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "low-carb",
+    "meal-prep",
+    "noodle-dish",
+    "one-pan",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "aromatic-vietnamese-pork-noodles",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-vietnamese-pork-noodles",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T20:49:35Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "shaggy",
+    "mood": "meal-prep",
+    "technique": "beurre-monte",
+    "primaryIngredient": "lard",
+    "diet": "low-carb",
+    "region": null,
+    "cuisineAdjective": "Vietnamese",
+    "mainIngredient": "pork",
+    "descriptor": "aromatic savory",
+    "dishForm": "Noodles"
+  }
+}
