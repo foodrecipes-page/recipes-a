@@ -1,0 +1,104 @@
+{
+  "title": "Aromatic Amazing Peruvian Chicken Skewers",
+  "description": "This Peruvian dish is a flavorful and crunchy meal prep option, featuring sriracha and lardons-render for a pungent taste, and is satvik-friendly.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "satvik"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "sriracha sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lardons",
+      "amount": "6 slices",
+      "notes": "rendered and crumbled"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "peruvian aji amarillo pepper",
+      "amount": "1",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together sriracha sauce, olive oil, salt, and black pepper.",
+    "Add the chicken, red onion, red bell pepper, zucchini, and aji amarillo pepper to the bowl and toss to coat.",
+    "Thread the marinated ingredients onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "While the skewers are grilling, cook the lardons in a pan over medium heat until crispy.",
+    "Once the skewers are done, brush them with the rendered lardon fat.",
+    "Serve the skewers hot, garnished with chopped fresh cilantro and crispy lardons."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-chicken",
+    "high-protein",
+    "meal-prep",
+    "one-pan",
+    "peruvian-cuisine",
+    "satvik-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 18
+  },
+  "slug": "aromatic-amazing-peruvian-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-amazing-peruvian-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-09T13:01:57Z",
+  "axes": {
+    "flavor": "pungent",
+    "texture": "crunchy",
+    "mood": "meal-prep",
+    "technique": "lardons-render",
+    "primaryIngredient": "sriracha",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Peruvian",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic Amazing",
+    "dishForm": "Skewers"
+  }
+}
