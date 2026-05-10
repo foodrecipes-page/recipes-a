@@ -6472,6 +6472,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-smoky-thai-bacon-curry",
+    "title": "Aromatic Smoky Thai Bacon Curry",
+    "tags": [
+      "date-night",
+      "hot-pot",
+      "low-calorie",
+      "one-pot",
+      "smoky",
+      "thai-curry"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-smoky-thai-curry-khao-soy",
     "title": "Aromatic Smoky Thai Curry Khao-Soy",
     "tags": [

@@ -1,0 +1,104 @@
+{
+  "title": "Aromatic Smoky Thai Bacon Curry",
+  "description": "A smoky and light Thai curry dish featuring streaky bacon and a mirepoix base, perfect for a date night dinner",
+  "cuisine": "Thai",
+  "diet": [
+    "low-calorie"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "streaky bacon",
+      "amount": "6 slices",
+      "notes": "preferably smoked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "diced"
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a hot pot vessel over medium heat and add the streaky bacon to cook until crispy",
+    "Remove the cooked bacon from the vessel and set aside",
+    "Add the diced onion, carrot, and celery to the vessel and cook until the vegetables are tender",
+    "Add the Thai red curry paste to the vessel and cook for 1 minute, stirring constantly",
+    "Pour in the coconut milk and bring the mixture to a simmer",
+    "Add the fish sauce, brown sugar, and lime juice to the vessel and stir to combine",
+    "Add the cooked bacon back to the vessel and stir to combine",
+    "Reduce the heat to low and let the curry simmer for 10 minutes",
+    "Stir in the chopped Thai basil and serve the curry hot"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "date-night",
+    "hot-pot",
+    "low-calorie",
+    "one-pot",
+    "smoky",
+    "thai-curry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 18
+  },
+  "slug": "aromatic-smoky-thai-bacon-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-smoky-thai-bacon-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:11:00Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "light",
+    "mood": "date-night",
+    "technique": "mirepoix-base",
+    "primaryIngredient": "streaky bacon",
+    "diet": "low-calorie",
+    "region": "central-thai",
+    "cuisineAdjective": "Thai",
+    "mainIngredient": "bacon",
+    "descriptor": "Aromatic Smoky",
+    "dishForm": "Curry"
+  }
+}
