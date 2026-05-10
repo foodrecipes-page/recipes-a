@@ -1758,6 +1758,21 @@
     "shard": "a"
   },
   {
+    "slug": "airy-crunchy-spanish-coconut-croquetas",
+    "title": "Airy Crunchy Spanish Coconut Croquetas",
+    "tags": [
+      "coconut-milk",
+      "crunchy-snacks",
+      "low-sodium",
+      "one-pot",
+      "spanish-food",
+      "weeknight"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
     "slug": "airy-delicate-greek-spinach-spanakopita",
     "title": "Airy Delicate Greek Spinach Spanakopita",
     "tags": [

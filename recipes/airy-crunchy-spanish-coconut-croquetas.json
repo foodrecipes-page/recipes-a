@@ -1,0 +1,95 @@
+{
+  "title": "Airy Crunchy Spanish Coconut Croquetas",
+  "description": "A crunchy and floral Spanish dish featuring unsweetened coconut milk and long-fermentation-dough, formed into croquetas.",
+  "cuisine": "Spanish",
+  "diet": [
+    "low-sodium"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "unsweetened coconut milk",
+      "amount": "1 cup",
+      "notes": "full fat"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, yeast, and salt.",
+    "Gradually add olive oil and mix until a dough forms.",
+    "Knead the dough for 10 minutes until smooth and elastic.",
+    "Let the dough ferment for 2 hours in a warm place.",
+    "Divide the dough into small pieces and shape into balls.",
+    "Flatten each ball into a disk shape and fill with a spoonful of coconut milk mixture.",
+    "Fold the dough over the filling to form a croqueta and seal the edges.",
+    "Heat about 2-3 inches of olive oil in a deep frying pan over medium heat.",
+    "Fry the croquetas until golden brown and crispy.",
+    "Drain the croquetas on paper towels and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-milk",
+    "crunchy-snacks",
+    "low-sodium",
+    "one-pot",
+    "spanish-food",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "slug": "airy-crunchy-spanish-coconut-croquetas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-crunchy-spanish-coconut-croquetas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:39:23Z",
+  "axes": {
+    "flavor": "floral",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "long-fermentation-dough",
+    "primaryIngredient": "unsweetened coconut milk",
+    "diet": "low-sodium",
+    "region": null,
+    "cuisineAdjective": "Spanish",
+    "mainIngredient": "coconut",
+    "descriptor": "Airy Crunchy",
+    "dishForm": "Croquetas"
+  }
+}
