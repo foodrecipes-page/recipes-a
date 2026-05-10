@@ -1,0 +1,104 @@
+{
+  "title": "aromatic rice croatian pickle pilaf",
+  "description": "a flavorful and aromatic pilaf dish made with elderflower, pickle, and satvik-friendly ingredients, perfect as a solo dinner",
+  "cuisine": "croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "elderflower syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "croatian pickle juice",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 small",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "heat vegetable oil in a large saucepan over medium heat",
+    "add diced onion and sauté until translucent, about 5 minutes",
+    "add minced garlic and sauté for another minute",
+    "add diced carrots and cook for 5 minutes, or until they start to soften",
+    "add basmati rice and cook for 2-3 minutes, stirring constantly",
+    "add elderflower syrup, pickle juice, salt, and black pepper",
+    "stir well and bring to a boil",
+    "reduce heat to low, cover, and simmer for 15-20 minutes, or until the rice is cooked and the liquid has been absorbed",
+    "fluff the pilaf with a fork and serve hot"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "easy-meal",
+    "gluten-free",
+    "one-pan",
+    "vegetarian",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 65,
+    "fat": 14
+  },
+  "slug": "aromatic-rice-croatian-pickle-pilaf",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-rice-croatian-pickle-pilaf",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:45:39Z",
+  "axes": {
+    "flavor": "sweet",
+    "texture": "aerated",
+    "mood": "solo-dinner",
+    "technique": "pickle",
+    "primaryIngredient": "elderflower",
+    "diet": "satvik",
+    "region": null,
+    "cuisineAdjective": "Croatian",
+    "mainIngredient": "Pickle",
+    "descriptor": "Aromatic Rice",
+    "dishForm": "Pilaf"
+  }
+}
