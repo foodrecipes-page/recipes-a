@@ -1,0 +1,88 @@
+{
+  "title": "Awesome Buttery Brazilian Flour Pancakes",
+  "description": "A delicious and kid-friendly Brazilian dish featuring plain flour, these pancakes are buttery and dense, perfect for a paleo-friendly meal. They are easy to make and fun to eat.",
+  "cuisine": "brazilian",
+  "diet": [
+    "paleo"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "plain flour",
+      "amount": "2 cups",
+      "notes": "preferably unbleached"
+    },
+    {
+      "name": "eggs",
+      "amount": "4 large",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "melted butter",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, eggs, milk, melted butter, salt, and sugar until smooth.",
+    "Let the batter rest for 30 minutes to allow the flour to absorb the liquid.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook the pancakes for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for another 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with your favorite toppings, such as maple syrup, honey, or fresh fruit.",
+    "Repeat the cooking process until all the batter is used up.",
+    "Keep the cooked pancakes warm in a low-temperature oven while cooking the remaining batter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian-cuisine",
+    "breakfast-ideas",
+    "brunch-recipes",
+    "kid-friendly",
+    "paleo-friendly"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "awesome-buttery-brazilian-flour-pancakes",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/awesome-buttery-brazilian-flour-pancakes",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:05:17Z",
+  "axes": {
+    "flavor": "buttery",
+    "texture": "dense",
+    "mood": "kid-friendly",
+    "technique": "rest",
+    "primaryIngredient": "plain flour",
+    "diet": "paleo",
+    "region": null,
+    "cuisineAdjective": "Brazilian",
+    "mainIngredient": "flour",
+    "descriptor": "Awesome Buttery",
+    "dishForm": "Pancakes"
+  }
+}
