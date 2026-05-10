@@ -1,0 +1,95 @@
+{
+  "title": "Aromatic Smoky Chinese Radish Xiaolongbao",
+  "description": "Smoky and snappy xiaolongbao featuring radish and bhuna, perfect for a pescatarian-friendly dinner",
+  "cuisine": "Chinese",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chinese radish",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "bhuna sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "wonton wrappers",
+      "amount": "20 sheets"
+    },
+    {
+      "name": "smoked salmon",
+      "amount": "1/2 cup",
+      "notes": "flaked"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 tablespoons",
+      "notes": "grated"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated radish, bhuna sauce, smoked salmon, green onion, and ginger, and mix well.",
+    " Lay a wonton wrapper on a clean surface and place a tablespoon of the radish mixture in the center of the wrapper.",
+    "Dip your finger in a small amount of water and run it along the edges of the wrapper.",
+    "Fold the wrapper into a triangle by bringing the two opposite corners together to form a point, and press the edges together to seal the xiaolongbao.",
+    "Repeat with the remaining wrappers and filling.",
+    "In a large steamer basket, arrange the xiaolongbao in a single layer, leaving some space between each one.",
+    "Steam the xiaolongbao over boiling water for 10 minutes.",
+    "In a small bowl, whisk together sesame oil and soy sauce.",
+    "Serve the xiaolongbao with the sesame oil and soy sauce mixture for dipping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian-inspired",
+    "handmade",
+    "pescatarian-friendly",
+    "seafood",
+    "smoky",
+    "steamed"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 12
+  },
+  "slug": "aromatic-smoky-chinese-radish-xiaolongbao",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-smoky-chinese-radish-xiaolongbao",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:25:21Z",
+  "axes": {
+    "flavor": "smoky",
+    "texture": "snappy",
+    "mood": "show-off",
+    "technique": "bhuna",
+    "primaryIngredient": "radish",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Chinese",
+    "mainIngredient": "radish",
+    "descriptor": "Aromatic Smoky",
+    "dishForm": "Xiaolongbao"
+  }
+}
