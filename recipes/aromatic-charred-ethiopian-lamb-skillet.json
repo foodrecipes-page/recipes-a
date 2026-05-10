@@ -1,0 +1,105 @@
+{
+  "title": "Aromatic Charred Ethiopian Lamb Skillet",
+  "description": "A one-pot Ethiopian dish featuring charred lamb, crunchy vegetables, and a sweet glaze, all made easy with mayonnaise and simple spices.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "mayonnaise",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "berbere spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat a large cast iron skillet over medium high heat.",
+    "Add the lamb pieces and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until it starts to caramelize, about 5 minutes.",
+    "Add the chopped bell pepper to the skillet and cook until it starts to soften, about 3 minutes.",
+    "Add the minced garlic to the skillet and cook for 1 minute.",
+    "In a small bowl, whisk together the mayonnaise, berbere spice, honey, and apple cider vinegar.",
+    "Add the cooked lamb back to the skillet and pour the mayonnaise mixture over the top.",
+    "Season with salt and black pepper to taste.",
+    "Cook for an additional 2 minutes, until the lamb is coated in the glaze and the vegetables are tender."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "african-cuisine",
+    "dairy-free",
+    "gluten-free",
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "slug": "aromatic-charred-ethiopian-lamb-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-charred-ethiopian-lamb-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:54:20Z",
+  "axes": {
+    "flavor": "charred",
+    "texture": "crunchy",
+    "mood": "one-pot",
+    "technique": "glaze",
+    "primaryIngredient": "mayonnaise",
+    "diet": "dash",
+    "region": null,
+    "cuisineAdjective": "Ethiopian",
+    "mainIngredient": "lamb",
+    "descriptor": "Aromatic charred",
+    "dishForm": "Skillet"
+  }
+}
