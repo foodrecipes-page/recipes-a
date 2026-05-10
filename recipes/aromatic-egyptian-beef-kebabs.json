@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Egyptian Beef Kebabs",
+  "description": "A winey, cheese-pull, brunch-mood Egyptian dish featuring lean minced beef, char-grill-yang, and Jain-friendly ingredients, served in a hot-pot vessel.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "Jain"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lean minced beef",
+      "amount": "500g",
+      "notes": "90% lean"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "red wine",
+      "amount": "125ml"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "60ml"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "200g",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "Preheat a char-grill or grill pan to medium-high heat.",
+    "In a large bowl, combine the minced beef, chopped onion, minced garlic, salt, black pepper, and paprika, and mix well.",
+    "Thread the beef mixture onto skewers, leaving a small space between each piece.",
+    "Brush the skewers with vegetable oil and cook for 8-10 minutes, turning occasionally.",
+    "In a small saucepan, heat the red wine over low heat until warm.",
+    "Serve the beef kebabs in a hot-pot vessel with the warm red wine and shredded cheddar cheese.",
+    "Let each guest assemble their own kebabs by dipping the beef into the wine and then the cheese.",
+    "Serve immediately and enjoy.",
+    "Garnish with fresh parsley or cilantro, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "cheese-pull",
+    "high-protein",
+    "jain-friendly",
+    "one-pan",
+    "weeknight",
+    "wine-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "aromatic-egyptian-beef-kebabs",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-egyptian-beef-kebabs",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:59:02Z",
+  "axes": {
+    "flavor": "winey",
+    "texture": "cheese-pull",
+    "mood": "brunch-mood",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "lean minced beef",
+    "diet": "jain",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "beef",
+    "descriptor": "Aromatic Char Grilled",
+    "dishForm": "Kebabs"
+  }
+}

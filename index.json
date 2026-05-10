@@ -4881,6 +4881,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-egyptian-beef-kebabs",
+    "title": "Aromatic Egyptian Beef Kebabs",
+    "tags": [
+      "cheese-pull",
+      "high-protein",
+      "jain-friendly",
+      "one-pan",
+      "weeknight",
+      "wine-based"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-egyptian-cheddar-stir-fry",
     "title": "Aromatic Egyptian Cheddar Stir fry",
     "tags": [
