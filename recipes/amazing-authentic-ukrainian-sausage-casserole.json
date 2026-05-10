@@ -1,0 +1,99 @@
+{
+  "title": "Amazing Authentic Ukrainian Sausage Casserole",
+  "description": "A fresh and cozy Ukrainian dish featuring Italian fennel sausages in a miso marinade, perfect for a low-glycemic friendly meal. This casserole is filled with gooey cheese and savory sausage.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "low-glycemic"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Italian fennel sausages",
+      "amount": "1 pound",
+      "notes": "sliced"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cauliflower",
+      "amount": "1 head",
+      "notes": "broken into florets"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste and olive oil to make the marinade.",
+    "Add sliced Italian fennel sausages to the marinade and mix well to coat.",
+    "In a large skillet, cook the sausage over medium heat until browned, about 5 minutes.",
+    "Add chopped onion and minced garlic to the skillet and cook until the onion is translucent.",
+    "Add broken cauliflower florets to the skillet and cook until tender, about 5 minutes.",
+    "In a large casserole dish, combine cooked sausage, onion, garlic, and cauliflower mixture.",
+    "Top the casserole with shredded mozzarella cheese and season with salt and black pepper.",
+    "Bake the casserole in the preheated oven for 25 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "cheesy",
+    "low-glycemic",
+    "one-pan",
+    "sausage",
+    "ukrainian-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "slug": "amazing-authentic-ukrainian-sausage-casserole",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-authentic-ukrainian-sausage-casserole",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:57:28Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "gooey",
+    "mood": "cozy",
+    "technique": "miso-marinate",
+    "primaryIngredient": "italian fennel sausages",
+    "diet": "low-glycemic",
+    "region": null,
+    "cuisineAdjective": "Ukrainian",
+    "mainIngredient": "sausages",
+    "descriptor": "Authentic Amazing",
+    "dishForm": "Casserole"
+  }
+}
