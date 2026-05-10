@@ -1,0 +1,95 @@
+{
+  "title": "Amazing Char Grilled Filipino Tofu Skewers",
+  "description": "A briny and snappy Filipino dish featuring oat milk, perfect for a crowd, this recipe is a delicious and buddhist-temple-friendly option served on a tagliere",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "extra firm tofu",
+      "amount": "1 block",
+      "notes": "drained and cut into 1 inch cubes"
+    },
+    {
+      "name": "oat milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "calamansi juice",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "20 pieces"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together oat milk, soy sauce, calamansi juice, and brown sugar to make the marinade.",
+    "Add the minced garlic and grated ginger to the marinade and stir well.",
+    "Add the cubed tofu to the marinade and mix until the tofu is well coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the tofu to marinate.",
+    "Preheat a grill or grill pan to medium high heat.",
+    "Thread the marinated tofu onto the bamboo skewers, leaving a small space between each piece.",
+    "Brush the grill or grill pan with a small amount of oil to prevent sticking.",
+    "Grill the tofu skewers for 3-4 minutes per side, or until they are golden brown and slightly charred.",
+    "Serve the grilled tofu skewers hot on a tagliere, garnished with chopped green onions and a sprinkle of sesame seeds."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "filipino-food",
+    "grilled-food",
+    "snack-ideas",
+    "tofu-recipes",
+    "vegan-friendly",
+    "vegetarian-options"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "amazing-char-grilled-filipino-tofu-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-char-grilled-filipino-tofu-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T05:48:42Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "snappy",
+    "mood": "crowd-pleaser",
+    "technique": "char-grill-yang",
+    "primaryIngredient": "oat milk",
+    "diet": "buddhist-temple",
+    "region": null,
+    "cuisineAdjective": "Filipino",
+    "mainIngredient": "tofu",
+    "descriptor": "Amazing Char Grilled",
+    "dishForm": "Skewers"
+  }
+}
