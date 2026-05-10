@@ -1,0 +1,97 @@
+{
+  "title": "Amazingly Aromatic Venezuelan Cheese Curds Empanadas",
+  "description": "Briny and springy empanadas filled with miso marinated cheese curds, perfect for a date night, and made with FODMAP friendly ingredients.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "gluten-free",
+    "low-fodmap"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cheese curds",
+      "amount": "1 cup",
+      "notes": "fresh and crumbled"
+    },
+    {
+      "name": "miso paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store bought"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "eggs",
+      "amount": "1",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "water",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, whisk together miso paste and olive oil to make the marinade.",
+    "Add the crumbled cheese curds to the marinade and mix until well coated.",
+    "Let the cheese curds marinate for at least 30 minutes.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the marinated cheese curds in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg mixed with water.",
+    "Fold the dough in half over the filling and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper and brush with the remaining egg wash.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 25,
+  "totalTimeMin": 55,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "baked-empanadas",
+    "cheese-empanadas",
+    "date-night",
+    "fodmap-friendly",
+    "gluten-free",
+    "venezuelan-cuisine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 24,
+    "fat": 16
+  },
+  "slug": "amazingly-aromatic-venezuelan-cheese-curds-empanadas",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-aromatic-venezuelan-cheese-curds-empanadas",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:15:02Z",
+  "axes": {
+    "flavor": "briny",
+    "texture": "springy",
+    "mood": "date-night",
+    "technique": "miso-marinate",
+    "primaryIngredient": "cheese curds",
+    "diet": "fodmap",
+    "region": null,
+    "cuisineAdjective": "Venezuelan",
+    "mainIngredient": "cheese curds",
+    "descriptor": "Amazingly aromatic",
+    "dishForm": "Empanadas"
+  }
+}
