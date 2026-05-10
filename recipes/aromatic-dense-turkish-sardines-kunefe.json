@@ -1,0 +1,103 @@
+{
+  "title": "Aromatic Dense Turkish Sardines Kunefe",
+  "description": "A herbal and dense Turkish dish featuring sardines in a kunefe form, wrapped in ti leaves, perfect for a comforting meal. It combines Mediterranean flavors with the richness of sardines and the crunch of kunefe.",
+  "cuisine": "Turkish",
+  "diet": [
+    "pescatarian",
+    "mediterranean"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned sardines",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "kunefe dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "ti leaves",
+      "amount": "4 leaves",
+      "notes": "fresh"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "extra virgin"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chopped parsley",
+      "amount": "1/4 cup",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375 degrees Fahrenheit.",
+    "In a large bowl, mix together the chopped sardines, minced garlic, lemon juice, chopped parsley, salt, and black pepper.",
+    "Lay a ti leaf flat on a work surface and place a quarter of the kunefe dough in the center of the leaf.",
+    "Spoon a quarter of the sardine mixture onto the center of the kunefe dough.",
+    "Fold the ti leaf over the filling to form a square package and repeat with the remaining ingredients.",
+    "Brush the tops of the ti leaf packages with olive oil.",
+    "Place the packages in a baking dish and bake for 25 minutes or until the kunefe dough is golden brown.",
+    "Serve the Aromatic Dense Turkish Sardines Kunefe hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "baked-goods",
+    "comfort-food",
+    "mediterranean-diet",
+    "seafood-lovers",
+    "turkish-cuisine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "slug": "aromatic-dense-turkish-sardines-kunefe",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-dense-turkish-sardines-kunefe",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:39:15Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "sardines",
+    "diet": "mediterranean",
+    "region": null,
+    "cuisineAdjective": "Turkish",
+    "mainIngredient": "sardines",
+    "descriptor": "Aromatic Dense",
+    "dishForm": "Kunefe"
+  }
+}
