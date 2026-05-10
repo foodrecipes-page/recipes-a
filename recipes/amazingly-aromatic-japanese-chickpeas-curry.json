@@ -1,0 +1,104 @@
+{
+  "title": "Amazingly Aromatic Japanese Chickpeas Curry",
+  "description": "A sour and creamy Japanese Kyushu dish featuring canned chickpeas, this curry is a crowd-pleaser with Mediterranean-friendly flavors. It is a braised dish that combines the richness of coconut milk with the tanginess of vinegar.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "canned chickpeas",
+      "amount": "1 15-ounce can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 14-ounce can",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "apple cider vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the chopped onion and cook until it is translucent.",
+    "Add the minced garlic and grated ginger and cook for 1 minute.",
+    "Stir in the curry powder and cook for 1 minute.",
+    "Add the canned chickpeas, coconut milk, apple cider vinegar, and soy sauce.",
+    "Bring the mixture to a simmer.",
+    "Reduce the heat to low and braise the curry for 20 minutes.",
+    "Season the curry with salt and pepper to taste.",
+    "Serve the curry hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chickpea-recipes",
+    "curry-lovers",
+    "japanese-cuisine",
+    "one-pot-wonders",
+    "weeknight-meals"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "slug": "amazingly-aromatic-japanese-chickpeas-curry",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-aromatic-japanese-chickpeas-curry",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:29:23Z",
+  "axes": {
+    "flavor": "sour",
+    "texture": "creamy",
+    "mood": "crowd-pleaser",
+    "technique": "braise",
+    "primaryIngredient": "can of chickpeas",
+    "diet": "mediterranean",
+    "region": "kyushu",
+    "cuisineAdjective": "Japanese",
+    "mainIngredient": "chickpeas",
+    "descriptor": "Amazingly aromatic",
+    "dishForm": "Curry"
+  }
+}
