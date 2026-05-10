@@ -1,0 +1,100 @@
+{
+  "title": "Amazingly Dense Mediterranean Steak Skewers",
+  "description": "A fresh and comforting Mediterranean dish featuring sirloin steak tips, this recipe is Whole30-friendly and perfect for a weeknight dinner. The mantecare-emulsify technique used adds a rich and creamy element to the dish.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "whole30",
+    "paleo",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sirloin steak tips",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "oregano",
+      "amount": "1 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch slices"
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch pieces"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+    "Add the steak tips to the bowl and toss to coat with the marinade.",
+    "Thread the steak tips, zucchini, and red onion onto skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, or until the steak reaches an internal temperature of 135 degrees Fahrenheit.",
+    "Let the skewers rest for 5 minutes before serving.",
+    "Serve hot and enjoy.",
+    "Garnish with fresh parsley or oregano, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "high-protein",
+    "mediterranean-inspired",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "slug": "amazingly-dense-mediterranean-steak-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-dense-mediterranean-steak-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:09:18Z",
+  "axes": {
+    "flavor": "fresh",
+    "texture": "dense",
+    "mood": "comforting",
+    "technique": "mantecare-emulsify",
+    "primaryIngredient": "sirloin steak tips",
+    "diet": "whole30",
+    "region": null,
+    "cuisineAdjective": "Mediterranean",
+    "mainIngredient": "steak",
+    "descriptor": "Amazingly dense",
+    "dishForm": "Skewers"
+  }
+}
