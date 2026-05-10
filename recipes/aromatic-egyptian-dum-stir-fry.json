@@ -1,0 +1,117 @@
+{
+  "title": "Aromatic Egyptian Dum Stir-fry",
+  "description": "A savory and bouncy Egyptian dish featuring stir-fry vegetables and dumplings.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "diabetic-friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": "Grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "8-10",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Spinach",
+      "amount": "1 cup",
+      "notes": "Fresh and chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 cup",
+      "notes": "Diced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil in a large ramekin over medium heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the grated ginger and minced garlic and cook for another minute.",
+    "Add the dumplings and cook for 2-3 minutes, until they start to brown.",
+    "Add the chopped spinach, diced carrots, bell pepper, and diced tomato.",
+    "Stir-fry the vegetables and dumplings for 4-5 minutes, until the vegetables are tender.",
+    "Add the cumin, paprika, salt, and black pepper, and stir to combine.",
+    "Continue cooking for another 2-3 minutes, until the flavors are well combined.",
+    "Serve the Aromatic Egyptian Dum Stir-fry hot, garnished with chopped fresh parsley or cilantro if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "high-protein",
+    "one-pan",
+    "weeknight"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 12
+  },
+  "slug": "aromatic-egyptian-dum-stir-fry",
+  "source": "groq-llama-3.1-8b-instant",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-egyptian-dum-stir-fry",
+  "providerUsed": "groq-llama-3.1-8b-instant",
+  "createdAt": "2026-05-10T04:03:59Z",
+  "axes": {
+    "flavor": "savory",
+    "texture": "bouncy-qq",
+    "mood": "monsoon",
+    "technique": "dum",
+    "primaryIngredient": "stir-fry vegetables",
+    "diet": "diabetic-friendly",
+    "region": null,
+    "cuisineAdjective": "Egyptian",
+    "mainIngredient": "dum",
+    "descriptor": "Aromatic",
+    "dishForm": "Stir-fry"
+  }
+}

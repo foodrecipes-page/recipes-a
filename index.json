@@ -4838,6 +4838,18 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-egyptian-dum-stir-fry",
+    "title": "Aromatic Egyptian Dum Stir-fry",
+    "tags": [
+      "high-protein",
+      "one-pan",
+      "weeknight"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-egyptian-navy-beans-tagine",
     "title": "Aromatic Egyptian Navy Beans Tagine",
     "tags": [
