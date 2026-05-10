@@ -1,0 +1,93 @@
+{
+  "title": "Amazing Dutch Coconut Pudding",
+  "description": "A traditional Dutch dessert featuring coconut flakes and a unique ice-bath-shock technique, this lacto-vegetarian-friendly pudding is a show-stopping treat with a jammy and springy texture.",
+  "cuisine": "Dutch",
+  "diet": [
+    "lacto-vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 1/2 cups",
+      "notes": "full-fat"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": "plain"
+    },
+    {
+      "name": "unsweetened coconut flakes",
+      "amount": "1/2 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "large egg yolks",
+      "amount": "4",
+      "notes": "room temperature"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": "pure"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": "kosher"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, whisk together coconut milk, sugar, and cornstarch.",
+    "Cook over medium heat, whisking constantly, until the mixture thickens and comes to a boil.",
+    "Remove the saucepan from the heat and stir in toasted coconut flakes, egg yolks, vanilla extract, and salt.",
+    "Strain the mixture into a clean bowl and place it in an ice bath to stop the cooking process.",
+    "Let the pudding cool to room temperature, stirring occasionally, then cover and refrigerate for at least 2 hours.",
+    "Just before serving, whip the pudding with a fork to create a light and airy texture.",
+    "Spoon the pudding into individual serving cups and garnish with additional toasted coconut flakes if desired.",
+    "Serve chilled and enjoy.",
+    "Store any leftovers in an airtight container in the refrigerator for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "coconut-based",
+    "dessert-recipes",
+    "dutch-cuisine",
+    "easy-to-make",
+    "lacto-vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "amazing-dutch-coconut-pudding",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazing-dutch-coconut-pudding",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:01:45Z",
+  "axes": {
+    "flavor": "jammy",
+    "texture": "springy",
+    "mood": "show-off",
+    "technique": "ice-bath-shock",
+    "primaryIngredient": "coconut flakes",
+    "diet": "lacto-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Dutch",
+    "mainIngredient": "coconut",
+    "descriptor": "Airy Amazing",
+    "dishForm": "Pudding"
+  }
+}

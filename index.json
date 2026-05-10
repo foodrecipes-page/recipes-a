@@ -2659,6 +2659,20 @@
     "shard": "a"
   },
   {
+    "slug": "amazing-dutch-coconut-pudding",
+    "title": "Amazing Dutch Coconut Pudding",
+    "tags": [
+      "coconut-based",
+      "dessert-recipes",
+      "dutch-cuisine",
+      "easy-to-make",
+      "lacto-vegetarian"
+    ],
+    "cuisine": "Dutch",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
     "slug": "amazing-energizing-croatian-almond-pilaf",
     "title": "Amazing Energizing Croatian Almond Pilaf",
     "tags": [
