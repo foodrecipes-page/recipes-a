@@ -1834,6 +1834,21 @@
     "shard": "a"
   },
   {
+    "slug": "airy-flaky-norwegian-lamb-puff",
+    "title": "Airy Flaky Norwegian Lamb Puff",
+    "tags": [
+      "lamb-dishes",
+      "norwegian-cuisine",
+      "one-pan",
+      "ovo-vegetarian",
+      "weeknight",
+      "yeasty-pastry"
+    ],
+    "cuisine": "Norwegian",
+    "totalTimeMin": 55,
+    "shard": "a"
+  },
+  {
     "slug": "airy-french-carnaroli-rice-mille-feuille",
     "title": "Airy French Carnaroli Rice Mille Feuille",
     "tags": [

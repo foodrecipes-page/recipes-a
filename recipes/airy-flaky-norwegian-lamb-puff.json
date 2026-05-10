@@ -1,0 +1,94 @@
+{
+  "title": "Airy Flaky Norwegian Lamb Puff",
+  "description": "A yeasty and tender Norwegian dish featuring lamb mince and lamination puff, perfect for a solo dinner, and ovo-vegetarian friendly.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "ovo-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb mince",
+      "amount": "250g",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "all purpose flour",
+      "amount": "200g"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "100g"
+    },
+    {
+      "name": "active dry yeast",
+      "amount": "10g"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "salt",
+      "amount": "5g"
+    },
+    {
+      "name": "black pepper",
+      "amount": "2g"
+    },
+    {
+      "name": "milk",
+      "amount": "50ml"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200 degrees Celsius.",
+    "Combine the flour, yeast, and salt in a large mixing bowl.",
+    "Add the cold butter to the flour mixture and use a pastry blender to work it into a crumbly mixture.",
+    "Gradually add the milk to the mixture, stirring with a fork until the dough comes together.",
+    "Turn the dough out onto a floured surface and knead for 5 minutes.",
+    "Roll the dough out into a large rectangle, about 1/2 cm thick.",
+    "Spread the lamb mince evenly over the center of the dough, leaving a 1 inch border around the edges.",
+    "Fold the edges of the dough up over the lamb mince, pressing gently to seal.",
+    "Place the puff on a baking sheet lined with parchment paper, brush with beaten egg, and cut a few slits in the top.",
+    "Bake the puff in the preheated oven for 35 minutes, or until golden brown.",
+    "Remove the puff from the oven and let it cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "lamb-dishes",
+    "norwegian-cuisine",
+    "one-pan",
+    "ovo-vegetarian",
+    "weeknight",
+    "yeasty-pastry"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "slug": "airy-flaky-norwegian-lamb-puff",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/airy-flaky-norwegian-lamb-puff",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T02:47:26Z",
+  "axes": {
+    "flavor": "yeasty",
+    "texture": "tender",
+    "mood": "solo-dinner",
+    "technique": "lamination-puff",
+    "primaryIngredient": "lamb mince",
+    "diet": "ovo-vegetarian",
+    "region": null,
+    "cuisineAdjective": "Norwegian",
+    "mainIngredient": "lamb",
+    "descriptor": "Airy Flaky",
+    "dishForm": "Puff"
+  }
+}
