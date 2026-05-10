@@ -4613,6 +4613,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-dense-slovakian-pork-stew",
+    "title": "Aromatic Dense Slovakian Pork Stew",
+    "tags": [
+      "comfort-food",
+      "one-pot",
+      "pork-recipes",
+      "slovakian-cuisine",
+      "stew-recipes",
+      "winter-meals"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 70,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-dense-uruguayan-beef-stew",
     "title": "Aromatic Dense Uruguayan Beef Stew",
     "tags": [

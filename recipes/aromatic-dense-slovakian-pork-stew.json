@@ -1,0 +1,95 @@
+{
+  "title": "Aromatic Dense Slovakian Pork Stew",
+  "description": "A hearty and flavorful stew featuring pork, pickle juice, and a blend of spices, perfect for satisfying midnight cravings. This dish is also anti-inflammatory friendly.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "pickle juice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "yellow mustard",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    }
+  ],
+  "instructions": [
+    "Heat a Korean brass bowl or a large Dutch oven over medium-high heat.",
+    "Add the pork cubes and cook until browned on all sides, about 5 minutes.",
+    "Add the chopped onion and cook until it starts to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute, stirring constantly.",
+    "Add the pickle juice, yellow mustard, caraway seeds, and black pepper, stirring to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 30 minutes.",
+    "Add the cubed potatoes and continue to simmer, covered, for an additional 20 minutes, or until the potatoes are tender.",
+    "Serve the stew hot, garnished with chopped fresh parsley or dill, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "comfort-food",
+    "one-pot",
+    "pork-recipes",
+    "slovakian-cuisine",
+    "stew-recipes",
+    "winter-meals"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 30,
+    "fat": 34
+  },
+  "slug": "aromatic-dense-slovakian-pork-stew",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-dense-slovakian-pork-stew",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:08:38Z",
+  "axes": {
+    "flavor": "mustardy",
+    "texture": "dense",
+    "mood": "midnight-craving",
+    "technique": "wok-hei",
+    "primaryIngredient": "pickle juice",
+    "diet": "anti-inflammatory",
+    "region": null,
+    "cuisineAdjective": "Slovakian",
+    "mainIngredient": "pork",
+    "descriptor": "aromatic dense",
+    "dishForm": "Stew"
+  }
+}
