@@ -1,0 +1,97 @@
+{
+  "title": "Aromatic Dense Polish Barramundi Skillet",
+  "description": "A citrusy and dense one-pot Polish dish featuring barramundi, this recipe is perfect for pescatarians, combining the flavors of Poland with the freshness of the sea. The dish is prepared by dehydrating certain ingredients to enhance the aroma and texture.",
+  "cuisine": "Polish",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "barramundi fillets",
+      "amount": "4 fillets",
+      "notes": "fresh"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "dried dill weed",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "dehydrated parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "polish sausage",
+      "amount": "1 sausage",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400 degrees Fahrenheit.",
+    "Season the barramundi fillets with salt, black pepper, and garlic powder.",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Add the sliced polish sausage to the skillet and cook until browned.",
+    "Add the barramundi fillets to the skillet, skin side up, and cook for 3 minutes.",
+    "Flip the barramundi fillets and cook for an additional 3 minutes.",
+    "Remove the skillet from the heat and stir in the lemon juice and dried dill weed.",
+    "Sprinkle the dehydrated parsley over the top of the barramundi fillets.",
+    "Transfer the skillet to the preheated oven and bake for 10 minutes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aromatic",
+    "dehydrated-ingredients",
+    "one-pan",
+    "pescatarian",
+    "polish-cuisine",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "slug": "aromatic-dense-polish-barramundi-skillet",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-dense-polish-barramundi-skillet",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:26:55Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "dense",
+    "mood": "one-pot",
+    "technique": "dehydrate",
+    "primaryIngredient": "barramundi",
+    "diet": "pescatarian",
+    "region": null,
+    "cuisineAdjective": "Polish",
+    "mainIngredient": "barramundi",
+    "descriptor": "Aromatic Dense",
+    "dishForm": "Skillet"
+  }
+}
