@@ -1,0 +1,96 @@
+{
+  "title": "Aromatic Argentinian Beef Skewers",
+  "description": "Salty beef skewers with a cheese pull, perfect for a post-workout meal, featuring thai bird chili and confit tomato, sugar free friendly.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "sugar-free",
+    "high-protein"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef sirloin",
+      "amount": "1 pound",
+      "notes": "cut into 1 inch cubes"
+    },
+    {
+      "name": "thai bird chili",
+      "amount": "2",
+      "notes": "minced"
+    },
+    {
+      "name": "confit tomato",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "provolone cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, garlic, salt, and black pepper.",
+    "Add the beef cubes to the bowl and toss to coat with the marinade.",
+    "Thread the beef cubes onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10 minutes, turning occasionally, until the beef is cooked to 135 degrees Fahrenheit.",
+    "While the beef is cooking, mix the confit tomato and thai bird chili in a small bowl.",
+    "After the beef is cooked, brush the confit tomato mixture onto the skewers.",
+    "Top each skewer with shredded provolone cheese and return to the grill for an additional 1-2 minutes, until the cheese is melted and slightly browned."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "beef-skewers",
+    "cheese-pull",
+    "high-protein",
+    "post-workout",
+    "sugar-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "slug": "aromatic-argentinian-beef-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-argentinian-beef-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T04:11:00Z",
+  "axes": {
+    "flavor": "salty",
+    "texture": "cheese-pull",
+    "mood": "post-workout",
+    "technique": "confit-tomato",
+    "primaryIngredient": "thai-bird-chili",
+    "diet": "sugar-free",
+    "region": null,
+    "cuisineAdjective": "Argentinian",
+    "mainIngredient": "beef",
+    "descriptor": "Aromatic Savory",
+    "dishForm": "Skewers"
+  }
+}
