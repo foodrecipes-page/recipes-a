@@ -5136,6 +5136,21 @@
     "shard": "a"
   },
   {
+    "slug": "aromatic-jamaican-chicken-skewers",
+    "title": "Aromatic Jamaican Chicken Skewers",
+    "tags": [
+      "citrusy",
+      "flexitarian",
+      "grilled-chicken",
+      "high-heat",
+      "jamaican-cuisine",
+      "quick-meal"
+    ],
+    "cuisine": "Jamaican",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
     "slug": "aromatic-jamaican-goat-stew",
     "title": "Aromatic Jamaican Goat Stew",
     "tags": [

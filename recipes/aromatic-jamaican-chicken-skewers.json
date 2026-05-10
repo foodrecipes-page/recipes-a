@@ -1,0 +1,99 @@
+{
+  "title": "Aromatic Jamaican Chicken Skewers",
+  "description": "A citrusy and snappy Jamaican dish featuring chicken skewers, perfect for a light and refreshing meal. This flexitarian-friendly recipe uses high heat cooking oil to bring out the flavors.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "flexitarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat, about 400 degrees Fahrenheit.",
+    "In a large bowl, whisk together olive oil, lime juice, soy sauce, brown sugar, grated ginger, garlic powder, paprika, salt, and black pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the marinated chicken pieces onto skewers, leaving a small space between each piece.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through.",
+    "Let the skewers rest for 2-3 minutes before serving.",
+    "Serve the skewers hot, garnished with chopped fresh cilantro or scallions if desired.",
+    "Reduce the marinade by cooking it in a saucepan over medium heat until thickened, about 5 minutes, and serve alongside the skewers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "citrusy",
+    "flexitarian",
+    "grilled-chicken",
+    "high-heat",
+    "jamaican-cuisine",
+    "quick-meal"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 37,
+    "carbs": 12,
+    "fat": 14
+  },
+  "slug": "aromatic-jamaican-chicken-skewers",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/aromatic-jamaican-chicken-skewers",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T00:42:53Z",
+  "axes": {
+    "flavor": "citrusy",
+    "texture": "snappy",
+    "mood": "light",
+    "technique": "reduce",
+    "primaryIngredient": "high heat cooking oil",
+    "diet": "flexitarian",
+    "region": null,
+    "cuisineAdjective": "Jamaican",
+    "mainIngredient": "chicken",
+    "descriptor": "Aromatic",
+    "dishForm": "Skewers"
+  }
+}
