@@ -1,0 +1,93 @@
+{
+  "title": "Amazingly Aromatic Canadian Chocolate Bake",
+  "description": "A comforting Canadian dish featuring lemon zest and tempering chocolate, this herbal and chewy bake is perfect for a cold evening, and is shojin-friendly.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian",
+    "shojin"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "dark chocolate",
+      "amount": "1 cup",
+      "notes": "tempered"
+    },
+    {
+      "name": "lemon zest",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rolled oats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "dried cranberries",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "chopped walnuts",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350 degrees Fahrenheit.",
+    "In a large bowl, mix together the rolled oats, brown sugar, dried cranberries, and chopped walnuts.",
+    "In a separate bowl, melt the coconut oil and tempered dark chocolate in the microwave or over a double boiler.",
+    "Add the vanilla extract and lemon zest to the melted chocolate mixture and stir until combined.",
+    "Pour the chocolate mixture over the oat mixture and stir until everything is well combined.",
+    "Press the mixture into a 9x9 inch baking dish lined with parchment paper.",
+    "Bake for 25 minutes or until the edges are lightly golden brown.",
+    "Remove from the oven and let cool completely before cutting into squares."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 9,
+  "difficulty": "medium",
+  "tags": [
+    "canadian-dish",
+    "chewy-bake",
+    "herbal-dessert",
+    "lemon-zest",
+    "shojin-friendly",
+    "tempering-chocolate",
+    "vegetarian-diet"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "slug": "amazingly-aromatic-canadian-chocolate-bake",
+  "source": "nvidia-meta/llama-3.3-70b-instruct",
+  "canonicalUrl": "https://foodrecipes.page/r/amazingly-aromatic-canadian-chocolate-bake",
+  "providerUsed": "nvidia-meta/llama-3.3-70b-instruct",
+  "createdAt": "2026-05-10T01:45:45Z",
+  "axes": {
+    "flavor": "herbal",
+    "texture": "chewy",
+    "mood": "comforting",
+    "technique": "tempering-chocolate",
+    "primaryIngredient": "lemon zest",
+    "diet": "shojin",
+    "region": null,
+    "cuisineAdjective": "Canadian",
+    "mainIngredient": "chocolate",
+    "descriptor": "Amazingly aromatic",
+    "dishForm": "Bake"
+  }
+}

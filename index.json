@@ -2823,6 +2823,22 @@
     "shard": "a"
   },
   {
+    "slug": "amazingly-aromatic-canadian-chocolate-bake",
+    "title": "Amazingly Aromatic Canadian Chocolate Bake",
+    "tags": [
+      "canadian-dish",
+      "chewy-bake",
+      "herbal-dessert",
+      "lemon-zest",
+      "shojin-friendly",
+      "tempering-chocolate",
+      "vegetarian-diet"
+    ],
+    "cuisine": "Canadian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
     "slug": "amazingly-aromatic-dutch-apple-wrap",
     "title": "Amazingly Aromatic Dutch Apple Wrap",
     "tags": [
