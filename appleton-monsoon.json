@@ -1,0 +1,74 @@
+{
+  "slug": "appleton-monsoon",
+  "title": "Appleton Smoked Tea Chai",
+  "description": "A unique and aromatic tea blend combining apples and smoky spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Appleton Estate Rum",
+      "amount": "2 oz",
+      "notes": ""
+    },
+    {
+      "name": "Monsoon Malabar Black Tea",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 slice",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cardamom",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Add the ginger and cinnamon to a saucepan.",
+    "Heat over medium heat until fragrant, about 1 minute.",
+    "Add the Monsoon Malabar Black Tea and 2 oz of water.",
+    "Stir to combine, then add the Appleton Estate Rum.",
+    "Reduce heat to low and simmer for 5 minutes.",
+    "Strain the tea mixture into a cup.",
+    "Add honey to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "rum",
+    "chai",
+    "tea",
+    "spices",
+    "apples"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 0,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/appleton-monsoon",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:31:43.618Z"
+}
