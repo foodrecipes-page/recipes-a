@@ -1,7 +1,7 @@
 {
   "slug": "avocado-banana-coconut-nutty-paneer-sweet",
-  "title": "Coconut Banana Bites",
-  "description": "A sweet and nutty snack filled with creamy paneer and fresh banana, topped with coconut flakes.",
+  "title": "Coconut Banana Paneer Bites",
+  "description": "A sweet and nutty snack made with paneer, banana, and coconut. Perfect for a quick energy boost.",
   "cuisine": "indian",
   "diet": [
     "vegetarian"
@@ -9,57 +9,57 @@
   "meal": "snack",
   "ingredients": [
     {
-      "name": "banana",
-      "amount": "2 ripe",
-      "notes": "mashed"
-    },
-    {
       "name": "paneer",
-      "amount": "1/2 cup",
+      "amount": "200g",
       "notes": "crumbled"
     },
     {
+      "name": "banana",
+      "amount": "2",
+      "notes": "ripe"
+    },
+    {
       "name": "coconut",
-      "amount": "1/4 cup",
+      "amount": "1/2 cup",
       "notes": "shredded"
     },
     {
       "name": "avocado",
-      "amount": "1 ripe",
+      "amount": "1",
       "notes": "mashed"
     },
     {
-      "name": "nutty spread",
-      "amount": "2 tbsp",
-      "notes": "such as peanut butter"
+      "name": "nutty topping",
+      "amount": "1 tablespoon",
+      "notes": "chopped nuts"
     }
   ],
   "instructions": [
-    "In a large bowl, mix together mashed banana and crumbled paneer.",
-    "Add mashed avocado and nutty spread to the bowl and mix well.",
-    "Cover the bowl with plastic wrap and refrigerate for 10 minutes.",
-    "Divide the mixture into 6 equal parts and shape each part into a ball.",
-    "Roll each ball in shredded coconut to coat.",
+    "In a bowl, mix together crumbled paneer, mashed avocado, and shredded coconut.",
+    "Slice the ripe bananas into 1-inch pieces.",
+    "Add the banana pieces to the paneer mixture and mix gently.",
+    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Just before serving, sprinkle the nutty topping over the paneer mixture.",
     "Serve chilled and enjoy!"
   ],
-  "prepTimeMin": 10,
+  "prepTimeMin": 15,
   "cookTimeMin": 0,
-  "totalTimeMin": 10,
-  "servings": 6,
+  "totalTimeMin": 45,
+  "servings": 4,
   "difficulty": "easy",
   "tags": [
     "indian-snacks",
-    "vegetarian-recipes",
-    "coconut-recipes"
+    "paneer-recipes",
+    "healthy-snacks"
   ],
   "nutrition": {
-    "calories": 150,
-    "protein": 5,
+    "calories": 250,
+    "protein": 15,
     "carbs": 20,
-    "fat": 8
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/avocado-banana-coconut-nutty-paneer-sweet",
   "providerUsed": "groq",
-  "createdAt": "2026-05-30T12:22:32.626Z"
+  "createdAt": "2026-05-30T12:22:33.887Z"
 }
