@@ -1,73 +1,65 @@
 {
   "slug": "avocado-banana-coconut-nutty-paneer-sweet",
-  "title": "Paneer and Avocado Coconut Curry",
-  "description": "A creamy and sweet curry made with paneer, avocado, and coconut, featuring a nutty flavor and hints of banana sweetness.",
+  "title": "Coconut Banana Bites",
+  "description": "A sweet and nutty snack filled with creamy paneer and fresh banana, topped with coconut flakes.",
   "cuisine": "indian",
   "diet": [
-    "vegetarian",
-    "gluten-free"
+    "vegetarian"
   ],
-  "meal": "dinner",
+  "meal": "snack",
   "ingredients": [
     {
+      "name": "banana",
+      "amount": "2 ripe",
+      "notes": "mashed"
+    },
+    {
       "name": "paneer",
-      "amount": "200g",
-      "notes": "cut into cubes"
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "coconut",
+      "amount": "1/4 cup",
+      "notes": "shredded"
     },
     {
       "name": "avocado",
       "amount": "1 ripe",
-      "notes": "diced"
+      "notes": "mashed"
     },
     {
-      "name": "coconut milk",
-      "amount": "1 cup",
-      "notes": "full-fat"
-    },
-    {
-      "name": "banana",
-      "amount": "1 ripe",
-      "notes": "sliced"
-    },
-    {
-      "name": "coconut oil",
+      "name": "nutty spread",
       "amount": "2 tbsp",
-      "notes": "for cooking"
-    },
-    {
-      "name": "nutty spice mix",
-      "amount": "1 tsp",
-      "notes": "containing cinnamon, cardamom, and nutmeg"
+      "notes": "such as peanut butter"
     }
   ],
   "instructions": [
-    "Heat coconut oil in a large pan over medium heat.",
-    "Add the nutty spice mix and cook for 1 minute, until fragrant.",
-    "Add the paneer cubes and cook until golden brown, about 5 minutes.",
-    "Add the diced avocado and cook for another 2 minutes.",
-    "Pour in the coconut milk and bring to a simmer.",
-    "Reduce heat to low and let cook for 10 minutes, until the sauce thickens.",
-    "Stir in the sliced banana and cook for an additional 2 minutes.",
-    "Season with salt to taste, then serve hot."
+    "In a large bowl, mix together mashed banana and crumbled paneer.",
+    "Add mashed avocado and nutty spread to the bowl and mix well.",
+    "Cover the bowl with plastic wrap and refrigerate for 10 minutes.",
+    "Divide the mixture into 6 equal parts and shape each part into a ball.",
+    "Roll each ball in shredded coconut to coat.",
+    "Serve chilled and enjoy!"
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
-  "servings": 4,
-  "difficulty": "medium",
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 6,
+  "difficulty": "easy",
   "tags": [
-    "indian-cuisine",
-    "coconut-based",
-    "vegetarian-dishes"
+    "indian-snacks",
+    "vegetarian-recipes",
+    "coconut-recipes"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 20,
-    "carbs": 30,
-    "fat": 25
+    "calories": 150,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 8
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/avocado-banana-coconut-nutty-paneer-sweet",
   "providerUsed": "groq",
-  "createdAt": "2026-05-30T12:22:17.717Z"
+  "createdAt": "2026-05-30T12:22:32.626Z"
 }
