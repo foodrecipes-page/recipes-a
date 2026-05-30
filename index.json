@@ -2384,13 +2384,14 @@
   },
   {
     "slug": "almond-star-steamie",
-    "title": "Almond Star Steamie",
+    "title": "Almond Steamie Cake",
     "tags": [
-      "moroccan",
-      "almond_star",
-      "sugar_free"
+      "cake",
+      "almond",
+      "steamie",
+      "dessert"
     ],
-    "cuisine": "Moroccan",
+    "cuisine": "dessert",
     "totalTimeMin": 35,
     "shard": "a"
   },
