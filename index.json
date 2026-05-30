@@ -5973,17 +5973,14 @@
   },
   {
     "slug": "aromatic-roasted-kenyan-meat-stew",
-    "title": "Aromatic Roasted Kenyan Meat Stew",
+    "title": "Kenyan Beef Stew",
     "tags": [
-      "kenyan-cuisine",
-      "keto-friendly",
-      "low-carb",
-      "one-pot",
-      "roasted",
-      "stew"
+      "beef",
+      "stew",
+      "kenyan"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 110,
     "shard": "a"
   },
   {
