@@ -1,0 +1,84 @@
+{
+  "slug": "aromatic-authentic-northern-thai-chicken-kao-mun-gai",
+  "title": "Chicken and Northern Thai Spice Stir Fry",
+  "description": "A flavorful and aromatic dish that combines the bold flavors of Northern Thailand with the simplicity of a stir fry.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken breast"
+    },
+    {
+      "name": "northern thai spice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "mun (bamboo shoots)",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "kao (sticky rice)",
+      "amount": "1 cup cooked"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 cloves garlic, minced"
+    },
+    {
+      "name": "oils",
+      "amount": "2 tablespoons vegetable oil"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the chicken to the skillet and cook until browned and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of vegetable oil.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the mushrooms and bamboo shoots to the skillet and cook until the vegetables are tender, about 3-4 minutes.",
+    "Add the Northern Thai spice, fish sauce, and sugar to the skillet and stir to combine.",
+    "Return the chicken to the skillet and stir to combine with the sauce.",
+    "Serve the chicken and vegetables over sticky rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai-cuisine",
+    "stir-fry",
+    "chicken",
+    "northern-thai-spice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-authentic-northern-thai-chicken-kao-mun-gai",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T14:37:27.106Z"
+}
