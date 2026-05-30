@@ -6411,17 +6411,16 @@
   },
   {
     "slug": "aromatic-smoky-australian-fennel-roast",
-    "title": "Aromatic Smoky Australian Fennel Roast",
+    "title": "Smoky Roast Chicken with Fennel",
     "tags": [
-      "australian-cuisine",
-      "easy-dinner",
-      "gluten-free",
-      "healthy-recipe",
-      "low-calorie",
-      "smoky-flavor"
+      "australian",
+      "chicken",
+      "roast",
+      "fennel",
+      "dinner"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 70,
     "shard": "a"
   },
   {
@@ -7779,6 +7778,19 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 16,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-authentic-northern-thai-chicken-kao-mun-gai--german",
+    "title": "Classic German Chicken Schnitzel",
+    "tags": [
+      "chicken",
+      "german",
+      "breaded",
+      "fried"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 23,
     "shard": "a"
   }
 ]
