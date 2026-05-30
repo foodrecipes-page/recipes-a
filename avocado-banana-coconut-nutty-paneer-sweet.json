@@ -1,7 +1,7 @@
 {
   "slug": "avocado-banana-coconut-nutty-paneer-sweet",
   "title": "Coconut Banana Paneer Bites",
-  "description": "A sweet and nutty snack made with paneer, banana, and coconut. Perfect for a quick energy boost.",
+  "description": "A sweet and savory snack made with paneer, banana, and coconut. Perfect for a quick energy boost.",
   "cuisine": "indian",
   "diet": [
     "vegetarian"
@@ -29,37 +29,38 @@
       "notes": "mashed"
     },
     {
-      "name": "nutty topping",
-      "amount": "1 tablespoon",
-      "notes": "chopped nuts"
+      "name": "nutty",
+      "amount": "1 tsp",
+      "notes": "any nut butter"
     }
   ],
   "instructions": [
-    "In a bowl, mix together crumbled paneer, mashed avocado, and shredded coconut.",
-    "Slice the ripe bananas into 1-inch pieces.",
-    "Add the banana pieces to the paneer mixture and mix gently.",
-    "Cover and refrigerate for at least 30 minutes to allow the flavors to meld.",
-    "Just before serving, sprinkle the nutty topping over the paneer mixture.",
-    "Serve chilled and enjoy!"
+    "Preheat a non-stick pan over medium heat.",
+    "Mix crumbled paneer, mashed avocado, and nutty in a bowl.",
+    "Add shredded coconut to the bowl and mix well.",
+    "Slice the bananas into 1-inch pieces.",
+    "Stuff each banana piece with the paneer mixture.",
+    "Cook the stuffed bananas in the non-stick pan for 2-3 minutes on each side.",
+    "Serve warm and enjoy!"
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 0,
-  "totalTimeMin": 45,
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
     "indian-snacks",
-    "paneer-recipes",
-    "healthy-snacks"
+    "vegetarian-recipes",
+    "quick-bites"
   ],
   "nutrition": {
     "calories": 250,
     "protein": 15,
-    "carbs": 20,
-    "fat": 15
+    "carbs": 25,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/avocado-banana-coconut-nutty-paneer-sweet",
   "providerUsed": "groq",
-  "createdAt": "2026-05-30T12:22:33.887Z"
+  "createdAt": "2026-05-30T12:22:37.514Z"
 }
