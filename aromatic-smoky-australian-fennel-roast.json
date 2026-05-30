@@ -1,0 +1,82 @@
+{
+  "slug": "aromatic-smoky-australian-fennel-roast",
+  "title": "Smoky Roast Chicken with Fennel",
+  "description": "A classic Australian-inspired dish featuring smoky flavors and a hint of anise from the fennel. Perfect for a weeknight dinner.",
+  "cuisine": "Australian",
+  "diet": [
+    "gluten-free",
+    "paleo"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "whole chicken",
+      "amount": "1.5kg",
+      "notes": "preferably with the giblets removed"
+    },
+    {
+      "name": "fennel",
+      "amount": "2 bulbs",
+      "notes": "sliced into wedges"
+    },
+    {
+      "name": "smoky paprika",
+      "amount": "2 tsp",
+      "notes": "or more to taste"
+    },
+    {
+      "name": "aromatic oil",
+      "amount": "2 tbsp",
+      "notes": "such as olive or avocado oil"
+    },
+    {
+      "name": "roast vegetables",
+      "amount": "2-3",
+      "notes": "such as carrots, potatoes, or parsnips"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "preferably kosher salt"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "preferably freshly ground black pepper"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 220°C (425°F).",
+    "Season the chicken with smoky paprika and a pinch of salt and pepper.",
+    "Heat the aromatic oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken on both sides until browned, about 5 minutes per side.",
+    "Transfer the skillet to the preheated oven and roast the chicken for 45-50 minutes, or until it reaches an internal temperature of 74°C (165°F).",
+    "Toss the sliced fennel with a pinch of salt and pepper, and spread it out in a single layer on a baking sheet.",
+    "Roast the fennel in the oven for 20-25 minutes, or until it's tender and lightly caramelized.",
+    "Toss the roast vegetables with a pinch of salt and pepper, and spread them out in a single layer on a baking sheet.",
+    "Roast the vegetables in the oven for 25-30 minutes, or until they're tender and lightly browned.",
+    "Let the chicken rest for 10-15 minutes before carving and serving with the roasted fennel and vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "chicken",
+    "roast",
+    "fennel",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "43g",
+    "carbs": "10g",
+    "fat": "34g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-australian-fennel-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:01:20.697Z"
+}
