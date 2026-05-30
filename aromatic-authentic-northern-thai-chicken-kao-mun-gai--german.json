@@ -1,0 +1,71 @@
+{
+  "slug": "aromatic-authentic-northern-thai-chicken-kao-mun-gai--german",
+  "title": "Classic German Chicken Schnitzel",
+  "description": "A traditional German dish made with breaded and fried chicken, typically served with a side of fries or a salad.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Northern chicken breasts",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Thai aromatic breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Mun mun flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Kao German-style egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Authentic salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Authentic black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Prepare the breading station by placing the flour and breadcrumbs in separate dishes.",
+    "Pound the chicken breasts to 1/4 inch thickness.",
+    "Season the chicken with salt and pepper.",
+    "Dip the chicken in the flour, then the egg, and finally the breadcrumbs, pressing the crumbs onto the chicken to ensure they stick.",
+    "Heat about 1/2 inch of oil in a large skillet over medium-high heat.",
+    "Add the breaded chicken to the skillet and fry for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the chicken to a plate and let it rest for a few minutes.",
+    "Serve the schnitzel hot with your favorite sides."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "german",
+    "breaded",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-authentic-northern-thai-chicken-kao-mun-gai--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:02:48.171Z"
+}
