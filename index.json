@@ -3803,15 +3803,16 @@
   },
   {
     "slug": "appleton-monsoon",
-    "title": "Appleton Monsoon",
+    "title": "Appleton Smoked Tea Chai",
     "tags": [
-      "appleton-rum",
-      "monsoon",
-      "light",
-      "smoky"
+      "rum",
+      "chai",
+      "tea",
+      "spices",
+      "apples"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 10,
     "shard": "a"
   },
   {
@@ -4188,17 +4189,15 @@
   },
   {
     "slug": "aromatic-authentic-northern-thai-chicken-kao-mun-gai",
-    "title": "Aromatic Authentic Northern Thai Chicken Kao Mun Gai",
+    "title": "Chicken and Northern Thai Spice Stir Fry",
     "tags": [
-      "coconut-milk-based",
-      "gluten-free",
-      "low-calorie",
-      "northern-thai",
-      "one-pot",
-      "weeknight"
+      "thai-cuisine",
+      "stir-fry",
+      "chicken",
+      "northern-thai-spice"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
