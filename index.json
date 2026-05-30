@@ -7719,5 +7719,69 @@
     "cuisine": "spanish",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "avocado-nutty-paneer-sweet",
+    "title": "Avocado and Paneer Salad",
+    "tags": [
+      "indian-cuisine",
+      "vegetarian",
+      "healthy",
+      "salad"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "avocado-coconut-nutty-paneer-sweet",
+    "title": "Coconut Paneer Bites with Avocado Salsa",
+    "tags": [
+      "indian-food",
+      "mexican-food",
+      "vegetarian-recipes",
+      "gluten-free-snacks"
+    ],
+    "cuisine": "indian-mexican fusion",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "avocado-coconut-nutty-paneer-sweet-watermelon",
+    "title": "Watermelon and Avocado Salad with Paneer",
+    "tags": [
+      "indian-cuisine",
+      "summer-salad",
+      "vegetarian-dish"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "avocado-banana-nutty-paneer-sweet-watermelon",
+    "title": "Paneer and Avocado Salad",
+    "tags": [
+      "salad",
+      "indian-cuisine",
+      "vegetarian",
+      "gluten-free",
+      "healthy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "avocado-banana-coconut-nutty-paneer-sweet",
+    "title": "Coconut Banana Paneer Bites",
+    "tags": [
+      "indian-snacks",
+      "vegetarian-recipes",
+      "quick-bites"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 16,
+    "shard": "a"
   }
 ]
