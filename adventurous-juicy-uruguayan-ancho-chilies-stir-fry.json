@@ -1,0 +1,91 @@
+{
+  "slug": "adventurous-juicy-uruguayan-ancho-chilies-stir-fry",
+  "title": "Uruguayan Ancho Chili Stir Fry",
+  "description": "A spicy and flavorful stir fry inspired by Uruguayan cuisine, featuring juicy ancho chilies and savory adventurous ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ancho chilies",
+      "amount": "4",
+      "notes": "dried, stemmed, and seeded"
+    },
+    {
+      "name": "Adventure oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Uruguayan paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Juicy tomatoes",
+      "amount": "2 cups",
+      "notes": "fresh, diced"
+    },
+    {
+      "name": "Stir fry vegetables",
+      "amount": "1 cup",
+      "notes": "such as bell peppers, carrots, and broccoli"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped, for garnish",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the adventure oil in a large skillet over medium-high heat.",
+    "Add the onion and cook until translucent, about 3-4 minutes.",
+    "Add the garlic and cook for an additional minute, until fragrant.",
+    "Add the ancho chilies and cook for 1-2 minutes, until fragrant.",
+    "Add the uruguayan paprika and stir to combine.",
+    "Add the juicy tomatoes and stir fry vegetables, and cook until the vegetables are tender-crisp, about 4-5 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh cilantro.",
+    "Serve with your choice of sides, such as rice, beans, or crusty bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "ancho-chili",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-juicy-uruguayan-ancho-chilies-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:04:30.285Z"
+}
