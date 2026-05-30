@@ -1,0 +1,70 @@
+{
+  "slug": "avocado-coconut-nutty-paneer-sweet-watermelon",
+  "title": "Watermelon and Avocado Salad with Paneer",
+  "description": "A refreshing salad with the sweetness of watermelon, creaminess of avocado, and the crunch of toasted coconut, paired with nutty flavored paneer.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "watermelon",
+      "amount": "2 cups diced",
+      "notes": "seedless"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe, diced"
+    },
+    {
+      "name": "paneer",
+      "amount": "8 oz, cubed",
+      "notes": "marinated in nutty flavor"
+    },
+    {
+      "name": "coconut",
+      "amount": "1/4 cup shredded",
+      "notes": "toasted"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add the shredded coconut and toast until lightly browned.",
+    "In a large bowl, combine the diced watermelon and avocado.",
+    "In the same non-stick pan, add the marinated paneer cubes and cook until golden brown on all sides.",
+    "Add the cooked paneer to the bowl with watermelon and avocado.",
+    "Sprinkle the toasted coconut over the top of the salad.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-cuisine",
+    "summer-salad",
+    "vegetarian-dish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/avocado-coconut-nutty-paneer-sweet-watermelon",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T12:22:13.088Z"
+}
