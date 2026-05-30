@@ -1,0 +1,65 @@
+{
+  "slug": "avocado-coconut-nutty-paneer-sweet",
+  "title": "Coconut Paneer Bites with Avocado Salsa",
+  "description": "A unique fusion of Indian and Mexican flavors, with crispy coconut paneer bites served with a creamy avocado salsa. Perfect as a snack or appetizer.",
+  "cuisine": "indian-mexican fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g",
+      "notes": "Indian cheese"
+    },
+    {
+      "name": "coconut flakes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "avocado",
+      "amount": "2 ripe",
+      "notes": "for salsa"
+    },
+    {
+      "name": "nutty spice blend",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sweet chili sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Cut the paneer into small cubes and set aside.",
+    "In a bowl, mix together coconut flakes and nutty spice blend.",
+    "Dip each paneer cube into the coconut mixture, coating evenly.",
+    "Heat oil in a pan and fry the coated paneer cubes until golden brown.",
+    "Meanwhile, mash the avocados in a bowl and mix with sweet chili sauce.",
+    "Serve the crispy paneer bites with the creamy avocado salsa.",
+    "Garnish with additional coconut flakes and nutty spice blend if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian-food",
+    "mexican-food",
+    "vegetarian-recipes",
+    "gluten-free-snacks"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 25,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/avocado-coconut-nutty-paneer-sweet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T12:22:08.692Z"
+}
