@@ -1,0 +1,81 @@
+{
+  "slug": "aromatic-roasted-kenyan-meat-stew",
+  "title": "Kenyan Beef Stew",
+  "description": "A hearty stew with tender beef and aromatic spices, inspired by Kenyan cuisine. Perfect for a cold evening.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "roasted",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes. Remove from pot.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add aromatic and roasted, cooking for 1 minute.",
+    "Stir in tomato paste, cooking for 1 minute.",
+    "Add beef broth and water, scraping up browned bits.",
+    "Return beef to pot, cover, and bring to a boil.",
+    "Simmer, covered, until beef is tender, about 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 38,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-roasted-kenyan-meat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T15:43:15.657Z"
+}
