@@ -693,16 +693,16 @@
   },
   {
     "slug": "aerated-adventurous-filipino-bread-halo-halo",
-    "title": "Aerated Adventurous Filipino Bread Halo Halo",
+    "title": "Filipino-Style Halo-Halo",
     "tags": [
-      "filipino-dessert",
-      "halal-friendly",
-      "lotus-leaf-wrap",
-      "stale-bread-recipe",
-      "unique-dessert"
+      "filipino",
+      "dessert",
+      "ice-cream",
+      "ube-halaya",
+      "halo-halo"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 30,
+    "totalTimeMin": 15,
     "shard": "a"
   },
   {
@@ -4614,17 +4614,15 @@
   },
   {
     "slug": "aromatic-crispy-indian-vegetable-vada",
-    "title": "Aromatic Crispy Indian Vegetable Vada",
+    "title": "Crispy Vegetable Vada",
     "tags": [
-      "fermented-food",
-      "high-protein",
-      "indian-food",
-      "macrobiotic",
-      "snack-time",
-      "vegetarian"
+      "indian",
+      "snack",
+      "vegetarian",
+      "street-food"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -6559,17 +6557,12 @@
   },
   {
     "slug": "aromatic-smoky-vietnamese-red-peppers-lotus-leaf-wrapped-banh-mi",
-    "title": "Aromatic Smoky Vietnamese Red Peppers Lotus-Leaf-Wrapped Banh-Mi",
+    "title": "Banh Mi Sandwich",
     "tags": [
-      "energizing",
-      "form-banh-mi",
-      "kosher-friendly",
-      "one-pan",
-      "smoky",
-      "springy",
-      "vessel-lotus-leaf-wrap",
-      "vietnamese",
-      "weeknight"
+      "vietnamese-cuisine",
+      "grilled-pork",
+      "pickled-veggies",
+      "banh-mi"
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 25,
