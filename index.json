@@ -2454,14 +2454,12 @@
   },
   {
     "slug": "amazing-al-dente-chinese-pork-mu-shu",
-    "title": "Amazing Al Dente Chinese Pork Mu Shu",
+    "title": "Pan-Seared Pork Chops with Stir-Fried Mu Shu Vegetables",
     "tags": [
-      "al-dente",
-      "chinese-food",
-      "high-protein",
-      "mu-shu",
-      "one-pan",
-      "weeknight"
+      "chinese",
+      "pork",
+      "stir-fry",
+      "noodles"
     ],
     "cuisine": "Chinese",
     "totalTimeMin": 25,
@@ -7789,6 +7787,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "appleton-monsoon--italian",
+    "title": "Appleton and Monsoon Pasta",
+    "tags": [
+      "italian",
+      "pasta",
+      "appleton",
+      "monsoon"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
     "shard": "a"
   }
 ]
