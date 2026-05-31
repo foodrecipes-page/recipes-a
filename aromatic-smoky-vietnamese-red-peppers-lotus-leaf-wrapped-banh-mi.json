@@ -1,0 +1,84 @@
+{
+  "slug": "aromatic-smoky-vietnamese-red-peppers-lotus-leaf-wrapped-banh-mi",
+  "title": "Banh Mi Sandwich",
+  "description": "A fusion of Vietnamese flavors in a crispy baguette filled with pickled vegetables and grilled pork.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Banh Mi Bread",
+      "amount": "4-6 baguettes"
+    },
+    {
+      "name": "Pork Belly",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Lotus Leaf Wrapped Pickles",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Red Peppers",
+      "amount": "2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Vietnamese-Style Chili Sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Aromatic Spices",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Smoky Chili Powder",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Grill the pork belly for 2-3 minutes per side or until cooked through.",
+    "Meanwhile, toast the baguettes by grilling them for 1-2 minutes or until crispy.",
+    "Spread a layer of mayonnaise on each baguette half.",
+    "Add a layer of pickled vegetables, followed by a few slices of pork belly.",
+    "Top with sliced red peppers, a sprinkle of cilantro, and a drizzle of chili sauce.",
+    "Assemble the sandwiches by placing the top baguette half on each.",
+    "Cut the sandwiches in half and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese-cuisine",
+    "grilled-pork",
+    "pickled-veggies",
+    "banh-mi"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-vietnamese-red-peppers-lotus-leaf-wrapped-banh-mi",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:49:00.992Z"
+}
