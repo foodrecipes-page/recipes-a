@@ -1,0 +1,78 @@
+{
+  "slug": "air-fried-creamy-date-night-argentinian-dish",
+  "title": "Date Night Fried Dish",
+  "description": "A delicious Argentinian-inspired dish made with a crispy fried exterior and a creamy center, perfect for a romantic evening.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "Peel and slice the sweet potatoes into 1/2-inch thick rounds.",
+    "In a bowl, mix together the cream cheese, garlic, salt, and black pepper.",
+    "Dip each sweet potato round into the cream cheese mixture, coating both sides evenly.",
+    "Carefully place the coated sweet potato rounds into the hot oil.",
+    "Fry for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Remove the fried sweet potatoes from the oil with a slotted spoon and place on paper towels to drain excess oil.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "date-night",
+    "fried",
+    "creamy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-creamy-date-night-argentinian-dish",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:17:28.748Z"
+}
