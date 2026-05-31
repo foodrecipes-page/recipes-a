@@ -1,0 +1,67 @@
+{
+  "slug": "aromatic-smoky-polish-beef-bake",
+  "title": "Polish Smoked Beef Bake",
+  "description": "A hearty and flavorful Polish-inspired beef bake with a smoky twist. Perfect for a cold evening.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1.5 lbs",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1 lb",
+      "notes": " sliced"
+    },
+    {
+      "name": "Aromatic Onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "Smoky Paprika",
+      "amount": "2 tsp",
+      "notes": "smoked"
+    },
+    {
+      "name": "Bake Rub",
+      "amount": "2 tbsp",
+      "notes": "homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine sliced beef, sliced Polish sausage, chopped onion, smoked paprika, and bake rub. Toss until evenly coated.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the beef is cooked through.",
+    "Let the dish rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "polish",
+    "smoked",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-polish-beef-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:06:32.380Z"
+}
