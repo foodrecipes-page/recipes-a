@@ -7216,16 +7216,14 @@
   },
   {
     "slug": "aromatic-vietnamese-pork-noodles",
-    "title": "Aromatic Vietnamese Pork Noodles",
+    "title": "Vietnamese Pork Noodle Soup",
     "tags": [
-      "low-carb",
-      "meal-prep",
-      "noodle-dish",
-      "one-pan",
-      "vietnamese"
+      "vietnamese",
+      "pork",
+      "noodle-soup"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 65,
     "shard": "a"
   },
   {
