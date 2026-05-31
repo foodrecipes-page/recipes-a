@@ -1,0 +1,95 @@
+{
+  "slug": "appleton-monsoon--french",
+  "title": "Creamy Appleton Chicken",
+  "description": "A French-inspired dish featuring tender chicken cooked in a rich and creamy Appleton-infused sauce, served with a side of steamed vegetables.",
+  "cuisine": "french",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Appleton",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Monsoon",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "heavy cream",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Season the chicken breast with salt and pepper.",
+    "Melt 1 tablespoon of butter in a large skillet over medium-high heat. Add the chicken and cook until browned, about 5-6 minutes per side. Remove the chicken from the skillet and set aside.",
+    "Add the remaining 1 tablespoon of butter to the skillet. Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Sprinkle the flour over the onion and garlic mixture, and cook for 1 minute.",
+    "Gradually pour in the chicken broth, whisking continuously to avoid lumps.",
+    "Bring the mixture to a simmer and cook for 2-3 minutes, or until it thickens.",
+    "Stir in the Appleton and Monsoon. Reduce the heat to low and let simmer for 2-3 minutes.",
+    "Return the chicken to the skillet and spoon some of the sauce over the top. Simmer for an additional 2-3 minutes, or until the chicken is cooked through.",
+    "Serve the chicken hot, garnished with chopped parsley and a side of steamed vegetables.",
+    "Let the dish rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "chicken",
+    "appleton"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 22,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/appleton-monsoon--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T22:20:58.053Z"
+}
