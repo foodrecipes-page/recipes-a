@@ -1,0 +1,59 @@
+{
+  "slug": "amazing-buttery-argentinian-grape-nuts-pilaf",
+  "title": "Grape Pilaf with Toasted Nuts",
+  "description": "A flavorful and healthy side dish made with argentinian pilaf, toasted nuts, and sweet grapes.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Argentinian Pilaf",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grapes",
+      "amount": "1 cup, halved"
+    },
+    {
+      "name": "Toasted Nuts",
+      "amount": "1/4 cup, chopped",
+      "notes": "almonds or walnuts work well"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a medium saucepan over medium heat.",
+    "Add the argentinian pilaf and cook, stirring occasionally, for 5 minutes.",
+    "Add the halved grapes and cook for an additional 2-3 minutes.",
+    "Stir in the toasted nuts and cook for 1 minute.",
+    "Season with salt to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "vegetarian",
+    "healthy",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-buttery-argentinian-grape-nuts-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:07:55.026Z"
+}
