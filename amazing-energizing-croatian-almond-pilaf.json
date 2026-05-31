@@ -1,0 +1,83 @@
+{
+  "slug": "amazing-energizing-croatian-almond-pilaf",
+  "title": "Energizing Croatian Pilaf with Almond Crunch",
+  "description": "A flavorful and nutritious Croatian-inspired pilaf dish topped with crunchy almond slivers, perfect for a quick and energizing meal",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Croatian Pilaf Mix",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 medium, peeled and diced"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium heat.",
+    "Add the diced onion and sauté until translucent, about 3-4 minutes.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the diced carrots and zucchini, and cook until they start to soften, about 4-5 minutes.",
+    "Add the pilaf mix and vegetable broth to the saucepan, and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for about 15-20 minutes, or until the liquid has been absorbed.",
+    "Stir in the sliced almonds and season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Optional: Add some chopped fresh parsley or dill on top for extra flavor and color."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian",
+    "pilaf",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-energizing-croatian-almond-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T19:54:25.870Z"
+}
