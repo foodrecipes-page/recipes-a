@@ -7778,5 +7778,17 @@
     "cuisine": "german",
     "totalTimeMin": 23,
     "shard": "a"
+  },
+  {
+    "slug": "appleton-monsoon--french",
+    "title": "Creamy Appleton Chicken",
+    "tags": [
+      "french",
+      "chicken",
+      "appleton"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "a"
   }
 ]
