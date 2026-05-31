@@ -1,0 +1,60 @@
+{
+  "slug": "amazing-energizing-croatian-almond-pilaf--vegan",
+  "title": "Croatian Almond Pilaf",
+  "description": "A flavorful and energizing vegan pilaf dish made with Croatian ingredients",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup slivered",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Amazing",
+      "amount": "2 tbsp",
+      "notes": "optional, for extra flavor"
+    },
+    {
+      "name": "Energizing",
+      "amount": "1 tsp",
+      "notes": "optional, for extra kick"
+    }
+  ],
+  "instructions": [
+    "1. Heat 2 tbsp oil in a pan over medium heat",
+    "2. Add 1 tsp Amazing and 1 tsp Energizing. Saute for 1 min",
+    "3. Add 1 cup Pilaf and cook according to package instructions",
+    "4. Stir in 1 cup slivered Almonds",
+    "5. Season with salt and pepper to taste",
+    "6. Serve hot"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "lunch",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-energizing-croatian-almond-pilaf--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T05:10:01.940Z"
+}
