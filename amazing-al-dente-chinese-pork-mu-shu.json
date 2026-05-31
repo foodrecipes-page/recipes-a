@@ -1,0 +1,80 @@
+{
+  "slug": "amazing-al-dente-chinese-pork-mu-shu",
+  "title": "Pan-Seared Pork Chops with Stir-Fried Mu Shu Vegetables",
+  "description": "A delicious and easy-to-make dish that combines the flavors of pork chops with the crunch of stir-fried mu shu vegetables.",
+  "cuisine": "Chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4",
+      "notes": "1.5 pounds total"
+    },
+    {
+      "name": "mu shu vegetables",
+      "amount": "1 package",
+      "notes": "found in most Chinese grocery stores"
+    },
+    {
+      "name": "amazing al dente noodles",
+      "amount": "8 oz",
+      "notes": "use to serve with the pork and vegetables"
+    },
+    {
+      "name": "chinese soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinating the pork"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying the pork and vegetables"
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": "for seasoning the pork and vegetables"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet or wok over medium-high heat.",
+    "Season the pork chops with salt and pepper.",
+    "Add 1 tablespoon of vegetable oil to the skillet and sear the pork chops for 2-3 minutes on each side.",
+    "Transfer the pork chops to a plate and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the skillet.",
+    "Add the mu shu vegetables and stir-fry for 2-3 minutes.",
+    "Add the amazing al dente noodles to the skillet and stir-fry for an additional 2 minutes.",
+    "Return the pork chops to the skillet and stir-fry everything together for 1-2 minutes.",
+    "Serve the pork and vegetables over the noodles and garnish with green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pork",
+    "stir-fry",
+    "noodles"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-al-dente-chinese-pork-mu-shu",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T23:26:25.554Z"
+}
