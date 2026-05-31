@@ -1,0 +1,84 @@
+{
+  "slug": "aromatic-smoky-polish-beef-bake--mexican",
+  "title": "Carne Asada Tacos",
+  "description": "A classic carne asada recipe from Mexico, featuring grilled beef and a blend of aromatic spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 lb flank steak",
+      "notes": "preferably at room temperature"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tbsp chili powder",
+      "notes": "or to taste"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 tsp chipotle powder",
+      "notes": "optional"
+    },
+    {
+      "name": "bake",
+      "amount": "4 corn tortillas",
+      "notes": "or to taste"
+    },
+    {
+      "name": "polish",
+      "amount": "1/2 cup chopped fresh cilantro",
+      "notes": "optional, for garnish"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "limes",
+      "amount": "2",
+      "notes": "cut into wedges, for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the beef with chili powder, chipotle powder, salt, and black pepper.",
+    "Grill the beef for 5-7 minutes per side, or until it reaches an internal temperature of 135°F.",
+    "Transfer the beef to a cutting board and let it rest for 5 minutes.",
+    "Slice the beef against the grain into thin strips.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a few slices of beef onto a tortilla, followed by a sprinkle of cilantro and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "carne-asada",
+    "tacos",
+    "mexican",
+    "beef",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-polish-beef-bake--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T04:24:33.650Z"
+}
