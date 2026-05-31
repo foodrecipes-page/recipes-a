@@ -1,0 +1,93 @@
+{
+  "slug": "aromatic-vietnamese-pork-noodles",
+  "title": "Vietnamese Pork Noodle Soup",
+  "description": "A hearty and comforting Vietnamese-inspired noodle soup made with tender pork, aromatic spices, and fresh herbs.",
+  "cuisine": "Vietnamese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Rice noodles",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Vietnamese chili sauce (optional)",
+      "amount": "1-2 teaspoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the rice noodles according to the package instructions. Drain and set aside.",
+    "In a large Dutch oven or pot, heat 2 tablespoons of oil over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger to the pot and cook for an additional 1-2 minutes, until fragrant.",
+    "Add the pork shoulder to the pot and cook until browned on all sides, about 5-7 minutes.",
+    "Add the fish sauce, soy sauce, and brown sugar to the pot and stir to combine.",
+    "Add 4 cups of chicken broth to the pot and bring to a boil. Reduce the heat to low and simmer for 20-25 minutes, or until the pork is tender.",
+    "Remove the pork from the pot and shred or chop it into bite-sized pieces. Return the pork to the pot and stir to combine.",
+    "Add the cooked noodles to the pot and stir to combine.",
+    "Taste and adjust the seasoning as needed. If desired, add 1-2 teaspoons of Vietnamese chili sauce for added heat.",
+    "Serve the soup hot, garnished with cilantro and additional chili sauce if desired.",
+    "Optional: Serve with sliced fresh chilies, lime wedges, and pickled carrots for added flavor and texture."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "pork",
+    "noodle-soup"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-vietnamese-pork-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T17:05:46.029Z"
+}
