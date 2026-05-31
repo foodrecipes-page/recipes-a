@@ -1,0 +1,98 @@
+{
+  "slug": "airy-aerated-thai-chicken-tom-kha-soup",
+  "title": "Thai Chicken Tom Kha Soup",
+  "description": "A spicy and sour Thai soup made with chicken, lemongrass, and a variety of aromatics. Serve hot over steamed rice.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Thai tom kha paste",
+      "amount": "2 tablespoons",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat for best flavor"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chili peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "kaffir lime leaves",
+      "amount": "2",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the chicken broth in a large pot over medium-high heat.",
+    "Add the sliced chili peppers and cook for 1-2 minutes.",
+    "Add the Thai tom kha paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the chicken to the pot and cook until browned on all sides.",
+    "Add the coconut milk, fish sauce, sugar, and lemon juice to the pot.",
+    "Stir to combine and bring the mixture to a simmer.",
+    "Reduce the heat to low and add the kaffir lime leaves.",
+    "Simmer the soup for 10-15 minutes, or until the chicken is cooked through.",
+    "Season the soup with salt and pepper to taste.",
+    "Serve the soup hot, garnished with chopped cilantro."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "thai",
+    "soup",
+    "spicy",
+    "coconut",
+    "lemongrass"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-aerated-thai-chicken-tom-kha-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:58:28.048Z"
+}
