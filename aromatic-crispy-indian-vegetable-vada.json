@@ -1,0 +1,85 @@
+{
+  "slug": "aromatic-crispy-indian-vegetable-vada",
+  "title": "Crispy Vegetable Vada",
+  "description": "A delicious Indian street food-style snack made with crispy fried vadas and a variety of sautéed vegetables.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "vada",
+      "amount": "250g",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1L",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 inch",
+      "notes": "grated"
+    },
+    {
+      "name": "aromatic spice mix",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a deep frying pan over medium heat.",
+    "Fry vadas until golden brown, about 3-4 minutes per side.",
+    "Drain excess oil on paper towels.",
+    "In a large pan, heat 2 tsp of oil over medium heat.",
+    "Add sliced onions and cook until translucent, about 5 minutes.",
+    "Add minced garlic and grated ginger and cook for another minute.",
+    "Add the aromatic spice mix and salt and stir well.",
+    "Add the fried vadas to the pan and toss to coat with the spice mixture.",
+    "Garnish with crispy fried onions, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian",
+    "street-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-indian-vegetable-vada",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-30T16:49:51.294Z"
+}
