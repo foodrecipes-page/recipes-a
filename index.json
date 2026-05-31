@@ -2650,17 +2650,15 @@
   },
   {
     "slug": "amazing-buttery-argentinian-grape-nuts-pilaf",
-    "title": "Amazing Buttery Argentinian Grape Nuts Pilaf",
+    "title": "Grape Pilaf with Toasted Nuts",
     "tags": [
-      "argentinian",
-      "comfort-food",
-      "midnight-cravings",
-      "one-pan",
-      "snack",
-      "vegetarian"
+      "gluten-free",
+      "vegetarian",
+      "healthy",
+      "side-dish"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 35,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 20,
     "shard": "a"
   },
   {
@@ -6498,13 +6496,12 @@
   },
   {
     "slug": "aromatic-smoky-polish-beef-bake",
-    "title": "Aromatic Smoky Polish Beef Bake",
+    "title": "Polish Smoked Beef Bake",
     "tags": [
-      "comfort-food",
-      "hearty-dish",
-      "one-bowl-meal",
-      "polish-cuisine",
-      "smoky-flavor"
+      "beef",
+      "polish",
+      "smoked",
+      "bake"
     ],
     "cuisine": "Polish",
     "totalTimeMin": 70,
