@@ -665,17 +665,16 @@
   },
   {
     "slug": "adventurous-yeasty-croatian-asparagus-skillet",
-    "title": "Adventurous Yeasty Croatian Asparagus Skillet",
+    "title": "Croatian-Style Skillet Asparagus",
     "tags": [
-      "asparagus-recipes",
-      "croatian-cuisine",
-      "gluten-free",
-      "low-carb",
-      "one-pan",
-      "yeasty-dishes"
+      "asparagus",
+      "croatian",
+      "skillet",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 18,
     "shard": "a"
   },
   {
@@ -2482,16 +2481,16 @@
   },
   {
     "slug": "amazing-aromatic-filipino-tofu-casserole",
-    "title": "Amazing Aromatic Filipino Tofu Casserole",
+    "title": "Filipino-Style Tofu Casserole",
     "tags": [
-      "brandy-infused",
+      "filipino",
+      "vegan",
       "casserole",
-      "filipino-food",
-      "vegetarian-friendly",
-      "yeast-based"
+      "tofu",
+      "vegetarian"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 55,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
