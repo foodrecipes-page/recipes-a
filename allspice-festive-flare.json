@@ -1,0 +1,77 @@
+{
+  "slug": "allspice-festive-flare",
+  "title": "Festive Flare Spice Cakes",
+  "description": "Moist and flavorful spice cakes with a hint of festive flair, perfect for special occasions.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "allspice",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "flare",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C). Grease a 12-cup muffin tin.",
+    "In a medium bowl, whisk together flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together eggs, milk, and melted butter.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined.",
+    "Stir in allspice, flare, and sugar.",
+    "Divide the batter evenly among the muffin cups.",
+    "Bake for 20-25 minutes, or until a toothpick inserted into the center of a cake comes out clean.",
+    "Allow the cakes to cool in the pan for 5 minutes, then transfer to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "cake",
+    "spice",
+    "festive"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/allspice-festive-flare",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:00:04.250Z"
+}
