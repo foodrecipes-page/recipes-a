@@ -1,0 +1,83 @@
+{
+  "slug": "aromatic-spicy-thai-duck-tom-yum",
+  "title": "Thai Duck Curry",
+  "description": "A flavorful and aromatic Thai curry made with tender duck and a blend of spices. Serve with steamed rice or noodles for a delicious and satisfying meal.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "duck breast",
+      "amount": "1 lb (450g)",
+      "notes": ""
+    },
+    {
+      "name": "aromatic curry paste",
+      "amount": "2 tbsp (30g)",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz/400ml)",
+      "notes": ""
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp (30g)",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp (5g)",
+      "notes": ""
+    },
+    {
+      "name": "tom yum soup paste",
+      "amount": "1 tsp (5g)",
+      "notes": "optional"
+    },
+    {
+      "name": "spicy chilies",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup (15g)",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "1. Cut the duck breast into bite-sized pieces and season with salt.",
+    "2. Heat 2 tablespoons of oil in a large pan over medium-high heat.",
+    "3. Add the duck to the pan and cook until browned, about 5 minutes.",
+    "4. Remove the duck from the pan and set aside.",
+    "5. Add the curry paste to the pan and cook, stirring constantly, for 1-2 minutes.",
+    "6. Add the coconut milk, fish sauce, sugar, and tom yum paste (if using) to the pan.",
+    "7. Stir to combine and bring to a simmer.",
+    "8. Return the duck to the pan and cook, stirring occasionally, until the sauce has thickened and the duck is cooked through, about 10-15 minutes.",
+    "9. Taste and adjust the seasoning as needed.",
+    "10. Garnish with chopped cilantro and serve over steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicurry",
+    "duck",
+    "aromatic",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-spicy-thai-duck-tom-yum",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T10:59:25.067Z"
+}
