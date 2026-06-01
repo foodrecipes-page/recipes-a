@@ -2237,14 +2237,13 @@
   },
   {
     "slug": "allspice-festive-flare",
-    "title": "Allspice Festive Flare",
+    "title": "Festive Flare Spice Cakes",
     "tags": [
-      "allspice-festive-flare",
-      "floral-gooey-dessert",
-      "vegetarian-friendly",
-      "french-dish"
+      "cake",
+      "spice",
+      "festive"
     ],
-    "cuisine": "French",
+    "cuisine": null,
     "totalTimeMin": 35,
     "shard": "a"
   },
