@@ -1,0 +1,78 @@
+{
+  "slug": "adventurous-yeasty-croatian-asparagus-skillet",
+  "title": "Croatian-Style Skillet Asparagus",
+  "description": "A flavorful and easy-to-make skillet dish featuring asparagus, inspired by Croatian cuisine. Perfect for a quick dinner or lunch.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Asparagus",
+      "amount": "1 pound",
+      "notes": "Fresh and trimmed"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "Extra virgin"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "Freshly squeezed"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Skillet",
+      "amount": "",
+      "notes": "Large and preheated"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the skillet over medium-high heat.",
+    "2. Add the olive oil and swirl to coat the pan.",
+    "3. Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "4. Add the asparagus and cook for 3-4 minutes, until tender.",
+    "5. Squeeze the lemon juice over the asparagus and season with salt and pepper to taste.",
+    "6. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asparagus",
+    "croatian",
+    "skillet",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-yeasty-croatian-asparagus-skillet",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T09:20:48.259Z"
+}
