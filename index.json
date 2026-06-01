@@ -6780,17 +6780,15 @@
   },
   {
     "slug": "aromatic-spicy-thai-duck-tom-yum",
-    "title": "Aromatic Spicy Thai Duck Tom Yum",
+    "title": "Thai Duck Curry",
     "tags": [
-      "coconut-milk-based",
-      "duck-recipes",
-      "keto-friendly",
-      "one-pot",
-      "spicy",
-      "thai-cuisine"
+      "thaicurry",
+      "duck",
+      "aromatic",
+      "spicy"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
