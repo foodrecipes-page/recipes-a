@@ -1,0 +1,88 @@
+{
+  "slug": "adventurous-juicy-uruguayan-ancho-chilies-stir-fry--vegan",
+  "title": "Uruguayan Vegan Stir Fry",
+  "description": "A spicy and flavorful stir fry recipe from Uruguay, made with ancho chilies and vegan ingredients.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ancho Chilies",
+      "amount": "3-4",
+      "notes": "stemmed and seeded"
+    },
+    {
+      "name": "Juicy Bell Peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Adventurous Mushrooms",
+      "amount": "1 cup",
+      "notes": "such as shiitake or cremini"
+    },
+    {
+      "name": "Vegan Stir-Fry Sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cooking Oil",
+      "amount": "2 tbsp",
+      "notes": "such as canola or avocado oil"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add garlic and sauté for 1 minute.",
+    "Add ancho chilies and stir-fry for 2 minutes.",
+    "Add bell peppers and mushrooms and stir-fry for 3-4 minutes.",
+    "Add vegan stir-fry sauce and stir-fry for 1-2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Garnish with chopped cilantro.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "stir-fry",
+    "uruguayan",
+    "chili"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-juicy-uruguayan-ancho-chilies-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T06:44:46.068Z"
+}
