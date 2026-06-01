@@ -1,0 +1,89 @@
+{
+  "slug": "amazing-aromatic-filipino-tofu-casserole",
+  "title": "Filipino-Style Tofu Casserole",
+  "description": "A fusion of Asian flavors and Western casserole comfort food, featuring crispy tofu and aromatic spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "pressed and drained"
+    },
+    {
+      "name": "Aromatic Filipino Rice",
+      "amount": "2 cups cooked",
+      "notes": "preferably jasmine or basmati"
+    },
+    {
+      "name": "Filipino Seasoning Blend",
+      "amount": "2 tsp",
+      "notes": "containing garlic, onion, and bay leaves"
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tbsp",
+      "notes": "canned or fresh"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/4 cup",
+      "notes": "for frying the tofu"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Filipino-Style Hot Sauce",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the tofu into 1-inch cubes and coat with Filipino seasoning blend.",
+    "Fry the tofu in vegetable oil until golden brown.",
+    "In a separate pan, sauté the onion, garlic, and bell pepper until softened.",
+    "Add the tomato paste and cook for 2 minutes.",
+    "Combine the cooked rice, fried tofu, and vegetable mixture in a baking dish.",
+    "Top with additional Filipino seasoning blend and Filipino-Style Hot Sauce (if using).",
+    "Bake for 25-30 minutes or until the top is golden brown and the casserole is heated through.",
+    "Serve hot and garnish with chopped green onions or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "vegan",
+    "casserole",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-aromatic-filipino-tofu-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T08:26:28.919Z"
+}
