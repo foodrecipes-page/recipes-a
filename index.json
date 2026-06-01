@@ -7824,5 +7824,18 @@
     "cuisine": "Croatian",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "adventurous-juicy-uruguayan-ancho-chilies-stir-fry--vegan",
+    "title": "Uruguayan Vegan Stir Fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "uruguayan",
+      "chili"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
