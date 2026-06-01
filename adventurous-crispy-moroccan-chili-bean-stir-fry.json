@@ -1,0 +1,96 @@
+{
+  "slug": "adventurous-crispy-moroccan-chili-bean-stir-fry",
+  "title": "Spicy Moroccan Chili Bean Stir Fry",
+  "description": "A flavorful and spicy stir fry made with the bold flavors of Morocco, featuring chili peppers and beans. Serve over rice or with some crusty bread.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bean (canned black beans)",
+      "amount": "1 can (15 oz)",
+      "notes": null
+    },
+    {
+      "name": "Chili (dried red chili peppers)",
+      "amount": "2-3 peppers",
+      "notes": "crushed or chopped"
+    },
+    {
+      "name": "Crispy (crispy fried onions)",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Adventurous (adventurous spice blend)",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook until softened, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the crushed or chopped dried red chili peppers and cook for 1-2 minutes.",
+    "Add the diced tomato and cook until the mixture is heated through.",
+    "Stir in the adventurous spice blend.",
+    "Add the canned black beans and cook for an additional 2-3 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve the Spicy Moroccan Chili Bean Stir Fry over rice or with some crusty bread.",
+    "Garnish with crispy fried onions and additional chili peppers if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "chili",
+    "bean",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-moroccan-chili-bean-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T07:12:08.994Z"
+}
