@@ -1,0 +1,89 @@
+{
+  "slug": "amazingly-aromatic-russian-turkey-ham-kebabs",
+  "title": "Russian-Style Turkey Kebabs",
+  "description": "A flavorful and hearty dish featuring marinated turkey kebabs served with a side of aromatic Russian-style potatoes.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat-lovers"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "turkey breast",
+      "amount": "500g",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "ham",
+      "amount": "200g",
+      "notes": "diced"
+    },
+    {
+      "name": "kebab skewers",
+      "amount": "10",
+      "notes": ""
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 bunch",
+      "notes": "fresh parsley"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to 375°F (190°C).",
+    "In a large bowl, whisk together olive oil, salt, pepper, and garlic.",
+    "Add the turkey, ham, and onion to the bowl. Toss to coat with the marinade.",
+    "Thread the marinated turkey and ham mixture onto the kebab skewers.",
+    "Grill the kebabs for 12-15 minutes, turning occasionally.",
+    "While the kebabs are cooking, boil diced potatoes in salted water until tender.",
+    "Drain the potatoes and toss with chopped parsley.",
+    "Serve the kebabs with the Russian-style potatoes and a side of your favorite sauce."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "russian",
+    "kebabs",
+    "turkey",
+    "ham",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-aromatic-russian-turkey-ham-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T14:50:33.065Z"
+}
