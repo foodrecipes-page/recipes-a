@@ -1,0 +1,90 @@
+{
+  "slug": "aromatic-indian-squid-dosa",
+  "title": "Squid Dosa",
+  "description": "A spicy seafood twist on traditional Indian dosas. Crispy dosa wraps filled with tender squid.",
+  "cuisine": "indian",
+  "diet": [
+    " seafood",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice flour",
+      "amount": "2 cups",
+      "notes": "For the dosa batter"
+    },
+    {
+      "name": "Urad dal",
+      "amount": "1 cup",
+      "notes": "For the dosa batter"
+    },
+    {
+      "name": "Squid",
+      "amount": "1 lb",
+      "notes": "Cleaned and cut into small pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Aromatic curry leaves",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Ginger paste"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Soak the rice flour and urad dal in water for 4 hours.",
+    "Drain and grind the mixture into a smooth batter.",
+    "Heat a non-stick pan and brush with oil.",
+    "Pour a ladleful of the dosa batter and spread into a circle.",
+    "Cook for 1 minute, then flip and cook for another minute.",
+    "In a separate pan, heat oil and sauté the squid until cooked through.",
+    "Add the chopped onion, curry leaves, ginger paste, and garlic to the pan and sauté for 2 minutes.",
+    "Add the chili powder and mix well.",
+    "To assemble the dosa, place a cooked dosa on a plate, add a spoonful of the squid mixture, and roll up.",
+    "Serve with lemon juice and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "seafood",
+    "dosas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-indian-squid-dosa",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:38:09.028Z"
+}
