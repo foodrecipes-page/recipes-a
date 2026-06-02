@@ -5296,16 +5296,14 @@
   },
   {
     "slug": "aromatic-indian-squid-dosa",
-    "title": "Aromatic Indian Squid Dosa",
+    "title": "Squid Dosa",
     "tags": [
-      "deglaze",
-      "dosa",
-      "pescatarian",
-      "quick",
-      "weeknight"
+      "indian",
+      "seafood",
+      "dosas"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 30,
+    "cuisine": "indian",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
@@ -5560,18 +5558,14 @@
   },
   {
     "slug": "aromatic-light-slovakian-sun-dried-tomato-tagine",
-    "title": "Aromatic Light Slovakian Sun Dried Tomato Tagine",
+    "title": "Slovakian Sun Tagine Stew",
     "tags": [
-      "buddhist-friendly",
+      "slow-cooker",
       "one-pot",
-      "slovakian",
-      "solodinner",
-      "tagine",
-      "vegan",
-      "vegetarian"
+      "winter"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
