@@ -1,0 +1,74 @@
+{
+  "slug": "avocado-berber",
+  "title": "Berber Chicken and Avocado Salad",
+  "description": "A flavorful and refreshing salad made with Berber-spiced chicken, crispy avocado, and mixed greens.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Berber spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Avocados",
+      "amount": "3",
+      "notes": "ripe and sliced"
+    },
+    {
+      "name": "Mixed greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Cherry tomatoes",
+      "amount": "1 pint",
+      "notes": "halved"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Berber spice blend and olive oil.",
+    "Brush the spice mixture on both sides of the chicken breasts.",
+    "Grill the chicken for 6-8 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing it thinly.",
+    "In a large bowl, combine mixed greens, sliced avocado, red onion, and cherry tomatoes.",
+    "Add the sliced chicken to the bowl and toss to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "salad",
+    "gluten-free",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/avocado-berber",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T21:15:38.725Z"
+}
