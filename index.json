@@ -7471,15 +7471,15 @@
   },
   {
     "slug": "avocado-berber",
-    "title": "Avocado Berber",
+    "title": "Berber Chicken and Avocado Salad",
     "tags": [
-      "avocado",
-      "moroccan",
-      "sweet",
-      "energizing"
+      "chicken",
+      "salad",
+      "gluten-free",
+      "healthy"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 15,
+    "cuisine": null,
+    "totalTimeMin": 27,
     "shard": "a"
   },
   {
