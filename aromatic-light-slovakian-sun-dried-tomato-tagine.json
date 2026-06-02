@@ -1,0 +1,95 @@
+{
+  "slug": "aromatic-light-slovakian-sun-dried-tomato-tagine",
+  "title": "Slovakian Sun Tagine Stew",
+  "description": "A hearty and flavorful stew inspired by Slovakian and North African cuisine, featuring sun-dried tomatoes and aromatic spices.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "slovakian sausage",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "sun-dried tomatoes",
+      "amount": "1 cup, chopped",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large, chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 teaspoons",
+      "notes": "caraway seeds or similar"
+    },
+    {
+      "name": "light broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "dried parsley",
+      "amount": "1 tablespoon, chopped",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in large pot over medium heat.",
+    "Add sliced sausage and cook until browned, about 5 minutes.",
+    "Add chopped onion and cook until softened, about 5 minutes.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add chopped sun-dried tomatoes, tagine spice mix, caraway seeds, and light broth.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Stir in chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Cooking time should be approximately 35-40 minutes."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slow-cooker",
+    "one-pot",
+    "winter"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-light-slovakian-sun-dried-tomato-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T22:28:51.293Z"
+}
