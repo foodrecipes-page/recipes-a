@@ -3570,17 +3570,15 @@
   },
   {
     "slug": "amber-american-drumsticks-bowl",
-    "title": "Amber American Drumsticks Bowl",
+    "title": "Baked Drumsticks with Honey Amber Glaze",
     "tags": [
-      "american-drumsticks",
-      "dinner",
-      "glassy-jelly",
-      "korean-brass-bowl",
-      "peppery",
-      "show-off"
+      "chicken",
+      "fried",
+      "baked",
+      "glaze"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
@@ -4952,16 +4950,14 @@
   },
   {
     "slug": "aromatic-egyptian-oysters-bake",
-    "title": "Aromatic Egyptian Oysters Bake",
+    "title": "Egyptian-Style Baked Oysters",
     "tags": [
-      "egyptian",
-      "fondue-pot",
-      "garlic",
-      "halal-friendly",
+      "oysters",
+      "middle-eastern",
       "seafood"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 20,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 22,
     "shard": "a"
   },
   {
@@ -7528,18 +7524,16 @@
   },
   {
     "slug": "awesome-aromatic-british-pecan-nuts-onigiri",
-    "title": "Awesome Aromatic British Pecan Nuts Onigiri",
+    "title": "Pecan Onigiri",
     "tags": [
-      "british-cuisine",
-      "fermented-food",
-      "halal-friendly",
-      "hangover-cure",
-      "nigiri-inspired",
-      "pecan-nuts",
-      "silky-texture"
+      "pecan",
+      "onigiri",
+      "japanese",
+      "american",
+      "snack"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 50,
+    "cuisine": "Japanese-American",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
