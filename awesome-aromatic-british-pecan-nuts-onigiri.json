@@ -1,0 +1,75 @@
+{
+  "slug": "awesome-aromatic-british-pecan-nuts-onigiri",
+  "title": "Pecan Onigiri",
+  "description": "A unique fusion of Japanese and American flavors, featuring crispy pecans and aromatic fillings.",
+  "cuisine": "Japanese-American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Japanese short-grain rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Pecans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Miso paste",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice thoroughly and cook according to the package instructions.",
+    "In a pan, toast the pecans over medium heat until fragrant and lightly browned.",
+    "In a small bowl, whisk together sesame oil, soy sauce, sugar, and miso paste (if using).",
+    "Once the rice is cooked, allow it to cool slightly before handling.",
+    "Shape the cooked rice into small triangular shapes and flatten slightly.",
+    "Place a small amount of the toasted pecans in the center of each rice triangle.",
+    "Drizzle the sesame oil mixture over the pecans.",
+    "Fold the rice over the filling to form a triangle and press gently to seal.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pecan",
+    "onigiri",
+    "japanese",
+    "american",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/awesome-aromatic-british-pecan-nuts-onigiri",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T15:46:32.448Z"
+}
