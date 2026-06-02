@@ -1,0 +1,95 @@
+{
+  "slug": "aromatic-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers with Aromatic Flair",
+  "description": "Grilled chicken skewers marinated in a zesty Brazilian-inspired mix of spices and herbs, served with a side of aromatic vegetables.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Aromatic",
+      "amount": "2 tablespoons",
+      "notes": "such as thyme and oregano"
+    },
+    {
+      "name": "Brazilian",
+      "amount": "2 tablespoons",
+      "notes": "such as chili powder and cumin"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color, cut into 1-inch pieces"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 medium",
+      "notes": "cut into 1-inch slices"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together aromatic and Brazilian spice mixes, olive oil, salt, and pepper.",
+    "Add chicken to the bowl and toss to coat with marinade.",
+    "Thread chicken and vegetables onto skewers, leaving a little space between each piece.",
+    "Brush skewers with remaining marinade and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes per side, or until chicken is cooked through and vegetables are tender.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "skewers",
+    "brazilian",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T19:59:52.823Z"
+}
