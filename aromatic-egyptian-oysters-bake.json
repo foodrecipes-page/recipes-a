@@ -1,0 +1,84 @@
+{
+  "slug": "aromatic-egyptian-oysters-bake",
+  "title": "Egyptian-Style Baked Oysters",
+  "description": "A flavorful twist on traditional baked oysters, infused with Egyptian spices and herbs.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "oysters",
+      "amount": "1 dozen"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 tsp",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the oysters and pat them dry with paper towels.",
+    "In a small bowl, mix together minced garlic, ground cumin, salt, and black pepper.",
+    "Place the oysters on a baking sheet lined with parchment paper.",
+    "Drizzle the oysters with olive oil and sprinkle the garlic-cumin mixture evenly over the top.",
+    "Squeeze the lemon juice over the oysters.",
+    "Bake the oysters in the preheated oven for 12-15 minutes, or until they are cooked through and the edges are slightly golden brown.",
+    "Garnish with chopped parsley, if desired.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "oysters",
+    "middle-eastern",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 12,
+    "carbs": 4,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-egyptian-oysters-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-05-31T16:55:26.554Z"
+}
