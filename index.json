@@ -849,17 +849,16 @@
   },
   {
     "slug": "aerated-herbal-croatian-brie-tart",
-    "title": "Aerated Herbal Croatian Brie Tart",
+    "title": "Herbal Tart with Brie and Croation Crostini",
     "tags": [
-      "cheesecake",
-      "crustless",
-      "european",
-      "macrobiotic-friendly",
+      "herbal",
+      "brie",
+      "croatian",
       "tart",
-      "weeknight"
+      "dessert"
     ],
-    "cuisine": "croatian",
-    "totalTimeMin": 60,
+    "cuisine": "French",
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -6651,17 +6650,15 @@
   },
   {
     "slug": "aromatic-spicy-filipino-beef-kaldereta",
-    "title": "Aromatic Spicy Filipino Beef Kaldereta",
+    "title": "Filipino Beef Kaldereta",
     "tags": [
-      "egg-free",
-      "filipino-cuisine",
-      "gluten-free",
-      "one-pan",
-      "quick-dinner",
-      "spicy-food"
+      "beef",
+      "stew",
+      "filipino",
+      "spicy"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 45,
+    "totalTimeMin": 170,
     "shard": "a"
   },
   {
