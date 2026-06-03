@@ -1,0 +1,91 @@
+{
+  "slug": "aromatic-dense-japanese-blackeye-peas-soup",
+  "title": "Japanese Blackeye Pea Soup",
+  "description": "A hearty and flavorful soup made with Japanese ingredients and blackeye peas, perfect for a cold winter day.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "onion, diced",
+      "amount": "1 medium",
+      "notes": "Aromatic"
+    },
+    {
+      "name": "garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Aromatic"
+    },
+    {
+      "name": "blackeye peas, drained and rinsed",
+      "amount": "1 cup",
+      "notes": "Dense"
+    },
+    {
+      "name": "japanese dashi broth",
+      "amount": "4 cups",
+      "notes": "Japanese"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "Japanese"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "green peas, frozen",
+      "amount": "1 cup",
+      "notes": "Peas"
+    },
+    {
+      "name": "soup noodles",
+      "amount": "1 package",
+      "notes": "Soup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add dashi broth, soy sauce, and sugar. Bring to a boil.",
+    "Reduce heat and simmer for 10 minutes.",
+    "Add blackeye peas and cook for 5 minutes.",
+    "Stir in frozen peas and cook until thawed.",
+    "Add soup noodles and cook according to package instructions.",
+    "Season with black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vegetarian",
+    "soup",
+    "peas",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-dense-japanese-blackeye-peas-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T01:29:32.454Z"
+}
