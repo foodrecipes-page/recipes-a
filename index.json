@@ -7421,17 +7421,15 @@
   },
   {
     "slug": "authentic-roasted-italian-emmentaler-cheese-paccheri-pasta",
-    "title": "Authentic Roasted Italian Emmentaler Cheese Paccheri Pasta",
+    "title": "Creamy Paccheri Pasta Bake",
     "tags": [
-      "comfort-food",
-      "italian-cuisine",
-      "one-pan",
-      "roasted",
-      "vegetarian",
-      "weeknight"
+      "italian",
+      "pasta",
+      "cheesy",
+      "comfort-food"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 45,
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -7668,17 +7666,14 @@
   },
   {
     "slug": "ayurvedic-friendly-garlicky-tender-spanish-gambas-al-ajillo-paella",
-    "title": "Garlicky Spanish Gambas Al Ajillo Paella",
+    "title": "Spanish Gambas Paella",
     "tags": [
-      "easy-to-make",
-      "low-maintenance",
-      "one-pan",
-      "shrimp",
       "spanish",
-      "weeknight"
+      "seafood",
+      "paella"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 35,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
