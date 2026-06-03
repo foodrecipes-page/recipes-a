@@ -1454,14 +1454,15 @@
   },
   {
     "slug": "air-fried-sweet-fettuccine",
-    "title": "Air-Fried Sweet Fettuccine",
+    "title": "Sweet Fettuccine with Sweet Twist",
     "tags": [
-      "air-fried",
       "sweet",
-      "peruvian"
+      "fettuccine",
+      "dessert",
+      "unique"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "cuisine": "Italian",
+    "totalTimeMin": 22,
     "shard": "a"
   },
   {
@@ -4778,16 +4779,16 @@
   },
   {
     "slug": "aromatic-dense-japanese-blackeye-peas-soup",
-    "title": "Aromatic Dense Japanese Blackeye Peas Soup",
+    "title": "Japanese Blackeye Pea Soup",
     "tags": [
-      "dense",
-      "floral",
-      "halal-friendly",
-      "japanese-soup",
-      "nostalgic"
+      "vegan",
+      "vegetarian",
+      "soup",
+      "peas",
+      "japanese"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 70,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
