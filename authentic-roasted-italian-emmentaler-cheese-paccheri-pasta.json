@@ -1,0 +1,79 @@
+{
+  "slug": "authentic-roasted-italian-emmentaler-cheese-paccheri-pasta",
+  "title": "Creamy Paccheri Pasta Bake",
+  "description": "A comforting, cheesy pasta bake with roasted Italian flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paccheri pasta",
+      "amount": "8 oz",
+      "notes": "whole wheat or regular"
+    },
+    {
+      "name": "roasted tomatoes",
+      "amount": "1 can (14.5 oz)",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "emmentaler cheese",
+      "amount": "1 cup (shredded)",
+      "notes": "or other mild cheese"
+    },
+    {
+      "name": "italian seasoning",
+      "amount": "1 tsp",
+      "notes": "dried basil, oregano, thyme"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing baking dish"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves (minced)",
+      "notes": "optional"
+    },
+    {
+      "name": "parmesan cheese (optional)",
+      "amount": "1/2 cup (shredded)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the paccheri pasta according to package directions until al dente.",
+    "In a large saucepan, combine roasted tomatoes, emmentaler cheese, italian seasoning, and garlic (if using).",
+    "Stir over low heat until cheese is melted and sauce is smooth.",
+    "In a greased 9x13-inch baking dish, combine cooked pasta and tomato sauce.",
+    "Toss to coat pasta evenly.",
+    "Top with additional parmesan cheese (if using).",
+    "Cover with aluminum foil and bake for 20 minutes.",
+    "Remove foil and bake for an additional 5-10 minutes, or until top is lightly golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "cheesy",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 22,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/authentic-roasted-italian-emmentaler-cheese-paccheri-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:11:05.232Z"
+}
