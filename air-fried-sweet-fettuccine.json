@@ -1,0 +1,57 @@
+{
+  "slug": "air-fried-sweet-fettuccine",
+  "title": "Sweet Fettuccine with Sweet Twist",
+  "description": "A creative take on traditional fettuccine with a sweet twist. Perfect for dessert or a unique dinner option.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "fettuccine",
+      "amount": "8 oz"
+    },
+    {
+      "name": "sweet",
+      "amount": "1 cup",
+      "notes": "honey"
+    },
+    {
+      "name": "air",
+      "amount": "1 cup",
+      "notes": "whipped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook fettuccine according to package instructions.",
+    "In a separate bowl, whip 1 cup of air until it becomes 1 cup of sweet whipped air.",
+    "Combine cooked fettuccine with the sweet whipped air.",
+    "Transfer the mixture to a baking dish and bake for 10-12 minutes.",
+    "Remove from oven and let it cool for a few minutes.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "sweet",
+    "fettuccine",
+    "dessert",
+    "unique"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-sweet-fettuccine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T00:41:18.044Z"
+}
