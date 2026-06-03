@@ -1,0 +1,86 @@
+{
+  "slug": "aromatic-spicy-filipino-beef-kaldereta",
+  "title": "Filipino Beef Kaldereta",
+  "description": "A spicy beef stew originating from the Philippines, characterized by its rich and savory flavor. This recipe is a classic take on the traditional dish.",
+  "cuisine": "Filipino",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound beef brisket or beef shank, cut into 2-inch pieces"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons vegetable oil",
+      "notes": "for browning the beef"
+    },
+    {
+      "name": "spicy",
+      "amount": "2 tablespoons patis (fish sauce) or salt"
+    },
+    {
+      "name": "kaldereta",
+      "amount": "2 cups beef broth"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion, chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "4 cloves garlic, minced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 large bell pepper, chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large tomato, diced"
+    },
+    {
+      "name": "bay leaf",
+      "amount": "2 bay leaves"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef until browned on all sides, about 5 minutes.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add more oil if needed, then sauté the onion, garlic, and bell pepper until softened, about 5 minutes.",
+    "Add the tomato and cook for an additional 2 minutes.",
+    "Add the beef broth, patis or salt, and bay leaves. Stir to combine.",
+    "Return the browned beef to the pot and bring the mixture to a simmer.",
+    "Cover the pot and transfer it to the oven. Braise the beef for 2 1/2 to 3 hours, or until the meat is tender.",
+    "Season with black pepper to taste.",
+    "Serve the kaldereta hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "filipino",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-spicy-filipino-beef-kaldereta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T03:23:00.984Z"
+}
