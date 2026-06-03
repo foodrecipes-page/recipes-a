@@ -1,0 +1,90 @@
+{
+  "slug": "ayurvedic-friendly-garlicky-tender-spanish-gambas-al-ajillo-paella",
+  "title": "Spanish Gambas Paella",
+  "description": "A traditional Spanish dish made with succulent gambas, flavorful spices, and a hint of garlic.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Gambas (Spanish prawns)",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Ayurvedic basmati rice",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Friendly olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Garlicky minced garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Spanish smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Tender chopped tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Paella seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the minced garlic and sauté for 1-2 minutes until fragrant.",
+    "Add the smoked paprika and stir for 1 minute.",
+    "Add the chopped tomatoes and cook for 3-4 minutes until they start to break down.",
+    "Add the gambas and cook for 2-3 minutes until they start to turn pink.",
+    "Add the paella seasoning and stir to combine.",
+    "Add the basmati rice and stir to coat the rice with the oil and spice mixture.",
+    "Add 2 cups of water to the paella pan and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20-25 minutes until the rice is cooked and the liquid has been absorbed.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "seafood",
+    "paella"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ayurvedic-friendly-garlicky-tender-spanish-gambas-al-ajillo-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T02:32:11.978Z"
+}
