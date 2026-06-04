@@ -7850,5 +7850,18 @@
     "cuisine": "german",
     "totalTimeMin": 27,
     "shard": "a"
+  },
+  {
+    "slug": "almond-date-delight--french",
+    "title": "Almond and Date French Delight",
+    "tags": [
+      "french",
+      "almond",
+      "date",
+      "dessert"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
