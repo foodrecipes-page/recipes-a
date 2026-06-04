@@ -1,0 +1,61 @@
+{
+  "slug": "air-fried-sweet-fettuccine--gluten-free",
+  "title": "Sweet Fettuccine with Fried Glaze",
+  "description": "A gluten-free dessert made with fettuccine, a sweet fried glaze, and a touch of fun.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Fettuccine",
+      "amount": "1 package (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Sweet",
+      "amount": "1 cup granulated sugar",
+      "notes": ""
+    },
+    {
+      "name": "Fried",
+      "amount": "1/4 cup vegetable oil",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cook fettuccine according to package instructions. Drain and set aside.",
+    "In a saucepan, combine sugar and 1/4 cup water. Heat over medium heat, stirring until sugar dissolves.",
+    "Increase heat to medium-high and bring to a boil. Cook for 5 minutes or until the mixture turns a deep amber color.",
+    "Remove from heat and carefully pour in vegetable oil. The mixture will bubble up and steam vigorously, so be careful.",
+    "Return the saucepan to medium heat and cook for an additional 2-3 minutes or until the glaze has thickened slightly.",
+    "Add cooked fettuccine to the saucepan and toss to coat with the sweet fried glaze.",
+    "Serve warm and enjoy!",
+    "Note: This recipe is a fun twist on traditional desserts. The fried glaze adds a unique texture and flavor.",
+    "Optional: Top with sprinkles, whipped cream, or chopped nuts for added fun."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "gluten-free",
+    "sugar",
+    "sweet",
+    "fettuccine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-sweet-fettuccine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T12:06:39.736Z"
+}
