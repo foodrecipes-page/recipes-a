@@ -4348,16 +4348,15 @@
   },
   {
     "slug": "aromatic-charred-tunisian-lamb-tagine",
-    "title": "Aromatic Charred Tunisian Lamb Tagine",
+    "title": "Tunisian Charred Lamb Tagine",
     "tags": [
-      "lamb-based",
       "north-african",
-      "one-pot",
-      "rich-sauce",
-      "slow-cooked"
+      "lamb",
+      "stew",
+      "tagine"
     ],
-    "cuisine": "Tunisian",
-    "totalTimeMin": 180,
+    "cuisine": "North African",
+    "totalTimeMin": 140,
     "shard": "a"
   },
   {
@@ -6836,17 +6835,15 @@
   },
   {
     "slug": "aromatic-syrian-beetroot-soup",
-    "title": "Aromatic Syrian Beetroot Soup",
+    "title": "Beetroot and Aromatic Soup",
     "tags": [
-      "energizing",
-      "gluten-free",
-      "high-protein",
-      "roasted-beetroot",
-      "syrian",
-      "vegan"
+      "beetroot",
+      "soup",
+      "aromatic",
+      "comforting"
     ],
-    "cuisine": "syrian",
-    "totalTimeMin": 75,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 65,
     "shard": "a"
   },
   {
