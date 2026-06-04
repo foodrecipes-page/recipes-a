@@ -7813,5 +7813,19 @@
     "cuisine": "Uruguayan",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "air-fried-sweet-fettuccine--gluten-free",
+    "title": "Sweet Fettuccine with Fried Glaze",
+    "tags": [
+      "dessert",
+      "gluten-free",
+      "sugar",
+      "sweet",
+      "fettuccine"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
