@@ -1,0 +1,81 @@
+{
+  "slug": "amazingly-salty-ukrainian-butternut-squash-pilaf",
+  "title": "Squash and Pilaf Ukrainian Stew",
+  "description": "A hearty and comforting stew made with roasted butternut squash and pilaf, inspired by Ukrainian cuisine.",
+  "cuisine": "Ukrainian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "butternut squash",
+      "amount": "1 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked according to package instructions"
+    },
+    {
+      "name": "salty",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "ukrainian",
+      "amount": "2 tbsp",
+      "notes": "chopped fresh dill"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for roasting"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss the cubed butternut squash with olive oil, salt, and pepper. Roast in the oven for 20-25 minutes, or until tender.",
+    "In a large pot, sauté the chopped onion and minced garlic in a little bit of oil until softened.",
+    "Add the cooked pilaf, roasted butternut squash, chicken broth, and chopped fresh dill to the pot.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the flavors have melded together.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "stew",
+    "squash",
+    "pilaf",
+    "vegetarian",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-salty-ukrainian-butternut-squash-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T09:57:56.701Z"
+}
