@@ -1,0 +1,86 @@
+{
+  "slug": "aromatic-spicy-filipino-beef-kaldereta--indian",
+  "title": "Beef Kaldereta Indian-Style",
+  "description": "A flavorful and spicy beef curry dish inspired by the Filipino classic, but with an Indian twist.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef (1.2 kg)",
+      "amount": "1.2 kg",
+      "notes": "Cut into 2-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Grated"
+    },
+    {
+      "name": "Spicy (1/4 cup)",
+      "amount": "1/4 cup",
+      "notes": "Sliced jalapeños"
+    },
+    {
+      "name": "Aromatic (1 tsp)",
+      "amount": "1 tsp",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 cups",
+      "notes": "Canned"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1/2 cup",
+      "notes": "Plain, full-fat"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add beef and cook until browned, about 5 minutes.",
+    "Remove beef from pot and set aside.",
+    "Add onion, garlic, ginger, and spicy to pot and cook until onion is translucent.",
+    "Add aromatic, tomato, beef broth, and browned beef to pot.",
+    "Bring to a boil, then reduce heat to low and simmer for 1.5 hours.",
+    "Stir in yogurt and cook for an additional 10 minutes.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "beef",
+    "curry",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 37,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-spicy-filipino-beef-kaldereta--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T13:13:04.867Z"
+}
