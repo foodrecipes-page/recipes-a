@@ -7827,5 +7827,18 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-spicy-filipino-beef-kaldereta--indian",
+    "title": "Beef Kaldereta Indian-Style",
+    "tags": [
+      "indian",
+      "beef",
+      "curry",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 110,
+    "shard": "a"
   }
 ]
