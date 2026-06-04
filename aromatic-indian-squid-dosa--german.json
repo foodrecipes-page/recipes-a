@@ -1,0 +1,90 @@
+{
+  "slug": "aromatic-indian-squid-dosa--german",
+  "title": "German-Style Squid Dosa",
+  "description": "A unique fusion of German and Indian flavors, featuring tender squid in a crispy dosa.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Squid",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Dosa Batter",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Caper",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "Mustard",
+      "amount": "1 teaspoon",
+      "notes": "German mustard"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": "sweet"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "German-style blend (e.g., salt, pepper, coriander)"
+    }
+  ],
+  "instructions": [
+    "Heat a skillet over medium-high heat.",
+    "Add 1 tablespoon of oil and cook the squid until browned, about 3-4 minutes.",
+    "Remove the squid from the skillet and set aside.",
+    "Add another tablespoon of oil to the skillet and cook the chopped onion until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped caper and cook for another minute.",
+    "Add the squid back into the skillet and stir to combine with the onion and garlic mixture.",
+    "Add the mustard, paprika, salt, and aromatic spice blend to the skillet and stir to combine.",
+    "Using a ladle, pour the dosa batter into the skillet and spread it evenly to form a dosa.",
+    "Cook the dosa for 2-3 minutes on the first side, until the edges start to curl.",
+    "Flip the dosa over and cook for another 2-3 minutes, until crispy and golden brown."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "indian",
+    "fusion",
+    "seafood",
+    "dosas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-indian-squid-dosa--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T14:02:11.647Z"
+}
