@@ -1,0 +1,93 @@
+{
+  "slug": "airy-light-turkish-iceberg-lettuce-cig-kofte",
+  "title": "Turkish Kofte Lettuce Wraps",
+  "description": "A refreshing and flavorful Turkish-inspired dish featuring kofte patties wrapped in crisp lettuce leaves.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Cig (Turkish bread)",
+      "amount": "2 slices",
+      "notes": "crushed"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "4 leaves",
+      "notes": ""
+    },
+    {
+      "name": "Iceberg lettuce",
+      "amount": "1 head",
+      "notes": "chopped"
+    },
+    {
+      "name": "Kofte spice mix",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Turkish yogurt",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a large bowl, combine ground beef, onion, crushed cig, kofte spice mix, salt, and black pepper. Mix well with your hands until just combined.",
+    "Divide the mixture into 4 equal parts and shape into patties.",
+    "Grill the kofte patties for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toast the lettuce leaves by grilling them for 30 seconds on each side.",
+    "Assemble the wraps by placing a kofte patty onto a toasted lettuce leaf, followed by a dollop of Turkish yogurt and a sprinkle of parsley.",
+    "Serve immediately and enjoy!",
+    "Chill any leftovers in an airtight container for up to 24 hours."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "kofte",
+    "lettuce",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-light-turkish-iceberg-lettuce-cig-kofte",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T17:45:59.420Z"
+}
