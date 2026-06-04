@@ -1,0 +1,78 @@
+{
+  "slug": "almond-date-delight--french",
+  "title": "Almond and Date French Delight",
+  "description": "A classic French dessert with the sweetness of dates and crunch of almonds. Perfect for a sweet treat after dinner.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almonds",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "Dates",
+      "amount": "6 pitted"
+    },
+    {
+      "name": "Delight",
+      "amount": "1/2 cup confectioners' sugar",
+      "notes": "Assuming Delight is confectioners' sugar"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    },
+    {
+      "name": "Vanilla Extract",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Confectioners' Sugar",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a food processor, grind the almonds until coarsely chopped.",
+    "In a large bowl, whisk together the flour, confectioners' sugar, and egg.",
+    "Add the ground almonds, melted butter, and vanilla extract to the bowl. Mix until a dough forms.",
+    "Roll out the dough between two sheets of parchment paper to a thickness of 1/4 inch.",
+    "Cut out desired shapes using a cookie cutter.",
+    "Bake for 15-20 minutes, or until lightly golden.",
+    "Allow the cookies to cool on a wire rack.",
+    "Dip the tops of the cookies in melted butter, then roll in confectioners' sugar.",
+    "Place a date in the center of each cookie. Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "almond",
+    "date",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-date-delight--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T20:24:26.875Z"
+}
