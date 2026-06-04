@@ -7840,5 +7840,19 @@
     "cuisine": "indian",
     "totalTimeMin": 110,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-indian-squid-dosa--german",
+    "title": "German-Style Squid Dosa",
+    "tags": [
+      "german",
+      "indian",
+      "fusion",
+      "seafood",
+      "dosas"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 27,
+    "shard": "a"
   }
 ]
