@@ -2358,14 +2358,15 @@
   },
   {
     "slug": "almond-date-delight",
-    "title": "Almond Date Delight",
+    "title": "Date Delight Bars",
     "tags": [
-      "almond-date",
-      "egg-free",
-      "middle-eastern"
+      "healthy",
+      "no-bake",
+      "bars",
+      "energy"
     ],
-    "cuisine": "Middle Eastern",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "a"
   },
   {
