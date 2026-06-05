@@ -1,0 +1,56 @@
+{
+  "slug": "adventurous-pepper-salad--italian",
+  "title": "Pepper and Salad Italian Adventure",
+  "description": "A delicious and easy to make Italian-inspired dish that combines the flavors of pepper and salad with a hint of adventure.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "adventurous",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Cut the pepper into bite-sized pieces and place on a baking sheet.",
+    "Drizzle the adventurous with olive oil and season with salt and pepper.",
+    "Roast the pepper in the oven for 20-25 minutes, or until tender.",
+    "In a large bowl, combine the salad and roasted pepper.",
+    "Toss to combine and serve immediately.",
+    "Garnish with additional adventurous if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "easy",
+    "lunch",
+    "pepper",
+    "salad"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pepper-salad--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T08:49:05.907Z"
+}
