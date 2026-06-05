@@ -1,0 +1,96 @@
+{
+  "slug": "aromatic-charred-tunisian-lamb-tagine--mexican",
+  "title": "Lamb Tagine Tacos",
+  "description": "A fusion twist on traditional Mexican tacos, infused with the rich flavors of a Tunisian-inspired lamb tagine.",
+  "cuisine": "Mexican",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the lamb with Tunisian Spice Blend, salt, and black pepper.",
+    "Heat a large Dutch oven over medium-high heat. Sear the lamb until browned on all sides, about 5 minutes.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Transfer the pot to the preheated oven and cook the lamb for 2-3 hours, or until tender.",
+    "Shred the lamb with two forks and stir in the cumin and chili powder.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the lamb mixture onto a tortilla, topping with cilantro and a squeeze of lime juice.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 180,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tacos",
+    "lamb",
+    "tagine",
+    "mexican",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-charred-tunisian-lamb-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T01:24:49.190Z"
+}
