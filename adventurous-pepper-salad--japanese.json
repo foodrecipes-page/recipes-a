@@ -1,0 +1,53 @@
+{
+  "slug": "adventurous-pepper-salad--japanese",
+  "title": "Japanese Pepper Steak",
+  "description": "A simple and flavorful Japanese-inspired pepper steak recipe with a sweet and savory sauce. Serve with steamed vegetables or a side of rice for a complete meal.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pepper",
+      "amount": "2 large bell peppers, sliced"
+    },
+    {
+      "name": "adventurous",
+      "amount": "1 cup steak (such as ribeye or sirloin), sliced into thin strips",
+      "notes": "Use a high-quality steak for the best flavor"
+    },
+    {
+      "name": "salad",
+      "amount": "1/4 cup soy sauce",
+      "notes": "Note: 'salad' is used for the sauce, not as a salad"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, whisk together soy sauce, sugar, and rice vinegar to make the sauce.",
+    "2. Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "3. Add the sliced pepper and cook for 3-4 minutes, or until tender.",
+    "4. Add the sliced steak to the skillet and cook for an additional 4-5 minutes, or until cooked to your desired level of doneness.",
+    "5. In the last minute of cooking, pour the sauce over the steak and pepper, and stir to coat.",
+    "6. Serve the steak and pepper hot, garnished with sesame seeds and chopped green onions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "beef",
+    "pepper",
+    "sauce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pepper-salad--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T10:18:43.765Z"
+}
