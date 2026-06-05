@@ -7910,5 +7910,18 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "adventurous-pepper-salad--japanese",
+    "title": "Japanese Pepper Steak",
+    "tags": [
+      "japanese",
+      "beef",
+      "pepper",
+      "sauce"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
