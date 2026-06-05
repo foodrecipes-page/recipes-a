@@ -1,0 +1,74 @@
+{
+  "slug": "airy-light-turkish-iceberg-lettuce-cig-kofte--keto",
+  "title": "Turkish-Style Keto Kofte Meatballs",
+  "description": "A low-carb twist on traditional Turkish kofte, made with ground meat and spices, served with a side of fresh lettuce.",
+  "cuisine": "Turkish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Cig Sausage",
+      "amount": "1 pound",
+      "notes": "Make sure to choose a low-carb sausage option"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "For serving"
+    },
+    {
+      "name": "Airy Feta Cheese",
+      "amount": "1/2 cup, crumbled",
+      "notes": "Optional but recommended for added flavor"
+    },
+    {
+      "name": "Light Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Cig Spice Mix",
+      "amount": "1 teaspoon",
+      "notes": "Available at most Middle Eastern grocery stores"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, combine the ground sausage, feta cheese (if using), and spice mix.",
+    "3. Mix well with your hands until just combined. Be careful not to overmix.",
+    "4. Use your hands to shape the mixture into small meatballs, about 1 1/2 inches (3.8 cm) in diameter.",
+    "5. Place the meatballs on a baking sheet lined with parchment paper.",
+    "6. Drizzle with olive oil and gently roll to coat evenly.",
+    "7. Bake in the preheated oven for 18-20 minutes, or until cooked through.",
+    "8. While the meatballs are baking, prepare the lettuce by washing and drying it.",
+    "9. Serve the meatballs hot on top of a bed of fresh lettuce.",
+    "10. Optional: drizzle with additional olive oil and serve with your favorite sides, such as a side salad or roasted vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "turkish",
+    "meatballs",
+    "lettuce"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-light-turkish-iceberg-lettuce-cig-kofte--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T05:13:59.058Z"
+}
