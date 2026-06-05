@@ -1,0 +1,59 @@
+{
+  "slug": "adventurous-pepper-salad",
+  "title": "Adventurous Salad with Spicy Kick",
+  "description": "A simple yet flavorful salad recipe that combines the crunch of adventurous and the spiciness of pepper.",
+  "cuisine": "International",
+  "diet": [
+    "Vegetarian",
+    "Vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "adventurous",
+      "amount": "2 cups",
+      "notes": "use a mix of different colors"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 cup",
+      "notes": "any type of pepper will do"
+    },
+    {
+      "name": "salad",
+      "amount": "4 cups",
+      "notes": "iceberg or romaine work well"
+    }
+  ],
+  "instructions": [
+    "Chop the adventurous into bite-sized pieces.",
+    "Dice the pepper into small pieces.",
+    "In a large bowl, combine the chopped adventurous, diced pepper, and salad.",
+    "Toss all the ingredients together until well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "adventurous",
+    "pepper",
+    "salad",
+    "easy",
+    "vegan",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 50,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pepper-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T06:04:52.602Z"
+}
