@@ -7861,5 +7861,19 @@
     "cuisine": "french",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-charred-tunisian-lamb-tagine--mexican",
+    "title": "Lamb Tagine Tacos",
+    "tags": [
+      "tacos",
+      "lamb",
+      "tagine",
+      "mexican",
+      "fusion"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 195,
+    "shard": "a"
   }
 ]
