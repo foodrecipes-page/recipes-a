@@ -493,15 +493,17 @@
   },
   {
     "slug": "adventurous-pepper-salad",
-    "title": "Adventurous Pepper Salad",
+    "title": "Adventurous Salad with Spicy Kick",
     "tags": [
-      "adventurous-pepper-salad",
-      "vinaigrette-dressing",
-      "caramelized-peppers",
-      "fluffy"
+      "adventurous",
+      "pepper",
+      "salad",
+      "easy",
+      "vegan",
+      "vegetarian"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": "International",
+    "totalTimeMin": 10,
     "shard": "a"
   },
   {
@@ -3170,15 +3172,12 @@
   },
   {
     "slug": "amazingly-crisp-ethiopian-padron-peppers-gomen",
-    "title": "Amazingly Crisp Ethiopian Padron Peppers Gomen",
+    "title": "Spicy Ethiopian Gomen Stew with Padron Peppers",
     "tags": [
-      "brunch",
-      "easy-brunch",
       "ethiopian",
-      "one-pan",
-      "satvik",
-      "vegan",
-      "vegetarian"
+      "stew",
+      "veggie",
+      "padron-peppers"
     ],
     "cuisine": "Ethiopian",
     "totalTimeMin": 40,
