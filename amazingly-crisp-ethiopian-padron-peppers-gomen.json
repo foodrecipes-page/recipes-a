@@ -1,0 +1,75 @@
+{
+  "slug": "amazingly-crisp-ethiopian-padron-peppers-gomen",
+  "title": "Spicy Ethiopian Gomen Stew with Padron Peppers",
+  "description": "A flavorful and spicy Ethiopian stew made with sautéed gomen, padron peppers and other aromatics. Serve hot with injera bread.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Gomen",
+      "amount": "1 bunch",
+      "notes": "Collard greens"
+    },
+    {
+      "name": "Padron Peppers",
+      "amount": "6-8 peppers",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Spice Blend (berbere)",
+      "amount": "2 tsp",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": "For stewing"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and sauté until translucent.",
+    "Add garlic and sauté for another minute.",
+    "Add gomen and sauté until wilted.",
+    "Add padron peppers and cook until slightly tender.",
+    "Mix in spice blend and cook for 1 minute.",
+    "Add water and bring to a boil.",
+    "Reduce heat and simmer for 20-25 minutes.",
+    "Season with salt to taste.",
+    "Serve hot with injera bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "stew",
+    "veggie",
+    "padron-peppers"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-crisp-ethiopian-padron-peppers-gomen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T07:11:20.635Z"
+}
