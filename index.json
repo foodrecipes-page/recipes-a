@@ -6904,18 +6904,14 @@
   },
   {
     "slug": "aromatic-syrian-sweet-red-pepper-stew",
-    "title": "Aromatic Syrian Sweet Red Pepper Stew",
+    "title": "Slow Cooker Beef Stew",
     "tags": [
-      "copper-pot",
-      "dinner",
-      "easy",
-      "light",
-      "low-ghee",
-      "one-pan",
-      "syrian"
+      "beef",
+      "stew",
+      "slow-cooker"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 500,
     "shard": "a"
   },
   {
@@ -7887,6 +7883,19 @@
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "airy-light-turkish-iceberg-lettuce-cig-kofte--keto",
+    "title": "Turkish-Style Keto Kofte Meatballs",
+    "tags": [
+      "keto",
+      "turkish",
+      "meatballs",
+      "lettuce"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 30,
     "shard": "a"
   }
 ]
