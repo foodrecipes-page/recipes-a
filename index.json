@@ -7875,5 +7875,18 @@
     "cuisine": "Mexican",
     "totalTimeMin": 195,
     "shard": "a"
+  },
+  {
+    "slug": "airy-light-turkish-iceberg-lettuce-cig-kofte--vegan",
+    "title": "Turkish-Style Lettuce Wraps",
+    "tags": [
+      "vegan",
+      "turkish",
+      "snack",
+      "wraps"
+    ],
+    "cuisine": "Turkish",
+    "totalTimeMin": 20,
+    "shard": "a"
   }
 ]
