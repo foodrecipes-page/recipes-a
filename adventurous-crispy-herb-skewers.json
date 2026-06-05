@@ -1,0 +1,79 @@
+{
+  "slug": "adventurous-crispy-herb-skewers",
+  "title": "Herb-Crusted Skewers",
+  "description": "Delicious herb-crusted skewers with a crispy texture and a flavorful twist. Perfect for adventurous eaters.",
+  "cuisine": "Asian-inspired",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "firm, drained"
+    },
+    {
+      "name": "herb-crusted seasoning blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tbsp",
+      "notes": "packed"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "bamboo or metal"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Cut the tofu into 1-inch cubes.",
+    "Thread the tofu, herb-crusted seasoning blend, and green onions onto the skewers.",
+    "Brush the coconut oil evenly over the skewers.",
+    "In a small bowl, whisk together soy sauce and brown sugar.",
+    "Brush the soy sauce mixture evenly over the skewers.",
+    "Place the skewers on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the skewers are crispy and golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian-inspired",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-herb-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-01T23:42:57.126Z"
+}
