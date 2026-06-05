@@ -7896,5 +7896,19 @@
     "cuisine": "Turkish",
     "totalTimeMin": 30,
     "shard": "a"
+  },
+  {
+    "slug": "adventurous-pepper-salad--italian",
+    "title": "Pepper and Salad Italian Adventure",
+    "tags": [
+      "italian",
+      "easy",
+      "lunch",
+      "pepper",
+      "salad"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
