@@ -1,0 +1,72 @@
+{
+  "slug": "airy-light-turkish-iceberg-lettuce-cig-kofte--vegan",
+  "title": "Turkish-Style Lettuce Wraps",
+  "description": "A vegan twist on traditional Turkish street food, using crispy lettuce leaves as wraps.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Iceberg Lettuce",
+      "amount": "4 heads",
+      "notes": "crisp and fresh"
+    },
+    {
+      "name": "Light Turkish Bread",
+      "amount": "1 loaf",
+      "notes": "toasted and crumbled"
+    },
+    {
+      "name": "Cig Kofte Mix",
+      "amount": "1 package",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Airy Feta Alternative",
+      "amount": "1 block",
+      "notes": "made from tofu or cashew cream"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Turkish Spice Blend",
+      "amount": "1 tsp",
+      "notes": "for flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 375°F (190°C).",
+    "Cut the iceberg lettuce into large leaves.",
+    "Toast the Turkish bread and crumble it into small pieces.",
+    "Mix the Cig Kofte mix with the Airy Feta Alternative and Turkish Spice Blend.",
+    "Scoop a small amount of the mix onto each lettuce leaf.",
+    "Top with toasted bread crumbs and a sprinkle of lettuce.",
+    "Garnish with a fresh iceberg lettuce leaf and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 5,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "turkish",
+    "snack",
+    "wraps"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-light-turkish-iceberg-lettuce-cig-kofte--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T04:01:08.179Z"
+}
