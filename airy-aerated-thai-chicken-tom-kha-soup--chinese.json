@@ -1,0 +1,82 @@
+{
+  "slug": "airy-aerated-thai-chicken-tom-kha-soup--chinese",
+  "title": "Thai Chicken Soup",
+  "description": "A spicy and comforting Chinese-inspired soup made with tender chicken and aromatic spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "aerated soup base",
+      "amount": "2 cups",
+      "notes": "chicken or vegetable broth"
+    },
+    {
+      "name": "thai tom kha paste",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "kha",
+      "amount": "2 stalks",
+      "notes": "lemon grass"
+    },
+    {
+      "name": "airy",
+      "amount": "2 cups",
+      "notes": "chopped fresh cilantro"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the aerated soup base, tom kha paste, and chicken broth.",
+    "Bring to a boil, then reduce heat to medium-low and simmer for 10 minutes.",
+    "Add the coconut milk and kha, and simmer for another 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Stir in the airy (chopped cilantro) and serve hot.",
+    "Serve with steamed rice or noodles, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaichicken",
+    "souprecipes",
+    "chineserecipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-aerated-thai-chicken-tom-kha-soup--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:35:10.098Z"
+}
