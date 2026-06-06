@@ -1,0 +1,70 @@
+{
+  "slug": "avocado-coconut-nutty-paneer-sweet-watermelon--vegan",
+  "title": "Summer Paneer and Coconut Salad",
+  "description": "A refreshing and vegan summer salad made with paneer, coconut, and watermelon.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "8 ounces",
+      "notes": "extra-firm, drained and cubed"
+    },
+    {
+      "name": "coconut",
+      "amount": "1 cup",
+      "notes": "shredded, unsweetened"
+    },
+    {
+      "name": "watermelon",
+      "amount": "2 cups",
+      "notes": "seedless, cubed"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe",
+      "notes": "diced"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tablespoons",
+      "notes": "hemp seeds or chopped nuts"
+    },
+    {
+      "name": "sweet",
+      "amount": "1 tablespoon",
+      "notes": "honey or maple syrup (optional)"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine the paneer, coconut, watermelon, and avocado.",
+    "In a small bowl, whisk together the nutty and sweet ingredients (if using).",
+    "Pour the dressing over the salad and toss to combine.",
+    "Adjust the seasoning to taste and serve immediately.",
+    "Garnish with additional nutty or coconut flakes, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "summer",
+    "salad",
+    "vegan",
+    "indian-inspired"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/avocado-coconut-nutty-paneer-sweet-watermelon--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:18:29.507Z"
+}
