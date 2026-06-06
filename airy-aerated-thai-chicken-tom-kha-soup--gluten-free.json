@@ -1,0 +1,92 @@
+{
+  "slug": "airy-aerated-thai-chicken-tom-kha-soup--gluten-free",
+  "title": "Spicy Thai Chicken Soup",
+  "description": "A flavorful and spicy Thai-inspired chicken soup that's perfect for a chilly evening. This recipe is gluten-free and can be adjusted to suit your taste.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Thai tom kha soup paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "aerated chicken broth",
+      "amount": "2 cups",
+      "notes": "for adding extra flavor"
+    },
+    {
+      "name": "air-dried kaffir lime leaves",
+      "amount": "4-6 leaves",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sliced chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sliced lime",
+      "amount": "1",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the sliced chicken breast and cook until browned, about 5 minutes.",
+    "Add the Thai tom kha soup paste and cook for 1-2 minutes.",
+    "Add the chicken broth, coconut milk, and aerated chicken broth.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10-15 minutes.",
+    "Add the fish sauce (if using) and stir to combine.",
+    "Serve the soup hot, garnished with chopped cilantro, air-dried kaffir lime leaves, and a squeeze of lime juice.",
+    "Adjust the seasoning to taste."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaicuisine",
+    "chickensoup",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-aerated-thai-chicken-tom-kha-soup--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:30:39.395Z"
+}
