@@ -7936,5 +7936,45 @@
     "cuisine": null,
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "airy-aerated-thai-chicken-tom-kha-soup--keto",
+    "title": "Thai Chicken and Tom Kha Soup",
+    "tags": [
+      "thai",
+      "chicken",
+      "soup",
+      "keto",
+      "low-carb"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "airy-aerated-thai-chicken-tom-kha-soup--chinese",
+    "title": "Thai Chicken Soup",
+    "tags": [
+      "thaichicken",
+      "souprecipes",
+      "chineserecipes"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-spicy-thai-duck-tom-yum--gluten-free",
+    "title": "Thai Duck with Yum Sauce",
+    "tags": [
+      "thai",
+      "duck",
+      "yum-sauce",
+      "aromatic",
+      "spicy"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 30,
+    "shard": "a"
   }
 ]
