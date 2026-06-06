@@ -1,0 +1,58 @@
+{
+  "slug": "adventurous-pepper-salad--keto",
+  "title": "Grilled Pepper and Salad",
+  "description": "A simple keto dish featuring grilled peppers and fresh salad, great for a quick meal.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Adventurous",
+      "amount": "1 lb",
+      "notes": "You can use any type of adventurous (e.g. chicken, steak, fish)"
+    },
+    {
+      "name": "Pepper",
+      "amount": "2 medium",
+      "notes": "You can use any color pepper, e.g. red, green, yellow"
+    },
+    {
+      "name": "Salad",
+      "amount": "4 cups mixed greens",
+      "notes": "You can use any type of salad mix"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season the adventurous with salt and pepper.",
+    "Grill the adventurous for 5-6 minutes per side, or until cooked through.",
+    "Slice the peppers into strips.",
+    "Grill the peppers for 3-4 minutes per side, or until slightly charred.",
+    "In a large bowl, combine the grilled adventurous and peppers.",
+    "Add the salad on top of the adventurous and peppers.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "grilled",
+    "salad",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pepper-salad--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:11:17.174Z"
+}
