@@ -1,0 +1,58 @@
+{
+  "slug": "almond-bhuna-pesto",
+  "title": "Pesto Chicken with Almonds",
+  "description": "A flavorful and healthy dish made with grilled chicken, pesto sauce, and toasted almonds.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breasts",
+      "amount": "4",
+      "notes": "1.5 lbs total"
+    },
+    {
+      "name": "pesto",
+      "amount": "1/4 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "almonds",
+      "amount": "1/4 cup",
+      "notes": "sliced or slivered"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season chicken breasts with salt and pepper.",
+    "Grill chicken for 5-6 minutes per side, or until cooked through.",
+    "Meanwhile, toast almonds in a dry skillet over medium heat for 2-3 minutes, or until fragrant.",
+    "Stir pesto into almonds and cook for 1 minute.",
+    "Serve chicken with pesto-almond sauce spooned over the top.",
+    "Garnish with additional almonds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "gluten-free",
+    "dairy-free",
+    "grilled-chicken"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 4,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-bhuna-pesto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T21:06:43.674Z"
+}
