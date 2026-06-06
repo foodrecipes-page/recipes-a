@@ -7923,5 +7923,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "adventurous-pepper-salad--keto",
+    "title": "Grilled Pepper and Salad",
+    "tags": [
+      "keto",
+      "grilled",
+      "salad",
+      "adventurous"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
