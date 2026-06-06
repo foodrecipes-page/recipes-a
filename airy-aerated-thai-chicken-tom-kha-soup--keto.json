@@ -1,0 +1,80 @@
+{
+  "slug": "airy-aerated-thai-chicken-tom-kha-soup--keto",
+  "title": "Thai Chicken and Tom Kha Soup",
+  "description": "A low-carb, keto-friendly version of the popular Thai soup.",
+  "cuisine": "Thai",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "tom kha paste",
+      "amount": "2 tbsp",
+      "notes": "make sure it's low-carb"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "make sure it's low-sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "make sure it's low-carb"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, heat 2 tbsp of oil over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-6 minutes.",
+    "Add the tom kha paste and cook for 1 minute, stirring constantly.",
+    "Pour in the chicken broth and bring to a boil.",
+    "Reduce the heat to medium-low and simmer for 10-12 minutes.",
+    "Stir in the coconut milk, fish sauce, and chili flakes.",
+    "Cook for an additional 2-3 minutes, or until the soup has thickened slightly.",
+    "Stir in the lime juice and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro or basil if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "soup",
+    "keto",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 8,
+    "fat": 41
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-aerated-thai-chicken-tom-kha-soup--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-02T17:33:01.124Z"
+}
