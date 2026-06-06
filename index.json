@@ -2303,16 +2303,15 @@
   },
   {
     "slug": "almond-bhuna-pesto",
-    "title": "Almond Bhuna Pesto",
+    "title": "Pesto Chicken with Almonds",
     "tags": [
-      "almond-butter",
-      "bhuna-spice",
-      "halal-friendly",
-      "italian-dish",
-      "velvety"
+      "italian",
+      "gluten-free",
+      "dairy-free",
+      "grilled-chicken"
     ],
-    "cuisine": "Italian",
-    "totalTimeMin": 25,
+    "cuisine": "italian",
+    "totalTimeMin": 22,
     "shard": "a"
   },
   {
@@ -7975,6 +7974,31 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "avocado-coconut-nutty-paneer-sweet-watermelon--vegan",
+    "title": "Summer Paneer and Coconut Salad",
+    "tags": [
+      "summer",
+      "salad",
+      "vegan",
+      "indian-inspired"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "airy-aerated-thai-chicken-tom-kha-soup--gluten-free",
+    "title": "Spicy Thai Chicken Soup",
+    "tags": [
+      "thaicuisine",
+      "chickensoup",
+      "spicy"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 45,
     "shard": "a"
   }
 ]
