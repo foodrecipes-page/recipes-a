@@ -6238,17 +6238,15 @@
   },
   {
     "slug": "aromatic-silky-portuguese-peanut-stew",
-    "title": "Aromatic Silky Portuguese Peanut Stew",
+    "title": "Portuguese Stew",
     "tags": [
-      "ayurvedic-friendly",
-      "hangover-cure",
-      "peanut-based",
+      "beef",
+      "pork",
       "portuguese-cuisine",
-      "salt-block-cooking",
-      "vegetarian-option"
+      "stew"
     ],
     "cuisine": "Portuguese",
-    "totalTimeMin": 50,
+    "totalTimeMin": 165,
     "shard": "a"
   },
   {
