@@ -4140,17 +4140,20 @@
   },
   {
     "slug": "aromatic-australian-fennel-wrap",
-    "title": "Aromatic Australian Fennel Wrap",
+    "title": "Australian Fennel Wrap",
     "tags": [
-      "australian-cuisine",
-      "easy-lunch",
-      "grilled-wrap",
-      "healthy-snack",
-      "kid-friendly",
-      "ovo-vegetarian"
+      "australian",
+      "easy",
+      "fennel",
+      "gluten-free",
+      "lunch",
+      "quick",
+      "snack",
+      "vegetarian",
+      "wrap"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 15,
     "shard": "a"
   },
   {
