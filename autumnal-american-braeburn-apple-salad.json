@@ -1,0 +1,63 @@
+{
+  "slug": "autumnal-american-braeburn-apple-salad",
+  "title": "Autumnal American Apple Salad",
+  "description": "A refreshing autumnal salad featuring crisp apples, mixed greens, and a hint of sweetness.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Autumnal Greens",
+      "amount": "4 cups",
+      "notes": "Mixed greens with kale, spinach, and arugula"
+    },
+    {
+      "name": "Braeburn Apples",
+      "amount": "2 medium",
+      "notes": "Sliced into thin wedges"
+    },
+    {
+      "name": "Crisp Bacon",
+      "amount": "6 slices",
+      "notes": "Diced and cooked until crispy"
+    },
+    {
+      "name": "Apple Cider Vinaigrette",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine the autumnal greens.",
+    "2. Arrange the braeburn apple slices on top of the greens.",
+    "3. Sprinkle the diced crispy bacon over the apples.",
+    "4. Drizzle the apple cider vinaigrette over the salad.",
+    "5. Toss the salad gently to combine.",
+    "6. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "autumnal",
+    "american",
+    "salad",
+    "fall",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/autumnal-american-braeburn-apple-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:51:51.836Z"
+}
