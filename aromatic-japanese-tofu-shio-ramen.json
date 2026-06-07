@@ -1,0 +1,91 @@
+{
+  "slug": "aromatic-japanese-tofu-shio-ramen",
+  "title": "Shio Ramen with Tofu and Aromatic Vegetables",
+  "description": "A hearty and comforting Japanese-inspired bowl of noodles, topped with crispy tofu and aromatic vegetables.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ramen noodles",
+      "amount": "200g",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "200g",
+      "notes": "extra-firm, drained and cut into small cubes"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Shio Ramen seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced carrots",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced bok choy",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sliced shiitake mushrooms",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cook the ramen noodles according to the package instructions.",
+    "In a large pan or wok, heat 1 tablespoon of vegetable oil over medium-high heat.",
+    "Add the diced carrots and cook for 2-3 minutes, or until they start to soften.",
+    "Add the diced bok choy and cook for an additional 2-3 minutes, or until it starts to wilt.",
+    "Add the sliced scallions and cook for 1 minute, or until they are slightly softened.",
+    "Add the cubed tofu and cook for 2-3 minutes, or until it is golden brown on all sides.",
+    "Add the sliced shiitake mushrooms (if using) and cook for an additional 2 minutes.",
+    "Add the cooked ramen noodles to the pan and stir to combine with the vegetables and tofu.",
+    "Add the Shio Ramen seasoning and stir to combine.",
+    "Divide the noodles among four bowls and top with sesame seeds.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "ramen",
+    "tofu",
+    "vegetarian",
+    "japanese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 55,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-japanese-tofu-shio-ramen",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:26:51.755Z"
+}
