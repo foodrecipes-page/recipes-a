@@ -1,0 +1,77 @@
+{
+  "slug": "aromatic-light-jamaican-macaroni-pasta",
+  "title": "Jamaican Pasta Bake",
+  "description": "A flavorful twist on traditional pasta bake, infused with the bold flavors of Jamaica. Perfect for a weeknight dinner.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "macaroni",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "pasta",
+      "amount": "1 cup",
+      "notes": "broken into smaller pieces"
+    },
+    {
+      "name": "aromatic oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "light cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "jamaican seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "shredded cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook macaroni according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, heat aromatic oil over medium heat. Add broken pasta and cook for 2-3 minutes, until lightly toasted.",
+    "In a large mixing bowl, combine cooked macaroni, pasta, light cream, jamaican seasoning, and shredded cheese. Mix well to combine.",
+    "Transfer the mixture to a baking dish and top with chopped scallions.",
+    "Bake in the preheated oven for 20-25 minutes, until the top is golden brown and the cheese is melted.",
+    "Remove from the oven and let it cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "pasta",
+    "caribbean",
+    "creamy",
+    "cheesy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-light-jamaican-macaroni-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:54:41.896Z"
+}
