@@ -1,0 +1,85 @@
+{
+  "slug": "aromatic-grilled-british-lamb-satay",
+  "title": "Grilled Lamb Satay",
+  "description": "A traditional British dish with a twist, featuring marinated grilled lamb served with a side of aromatic peanut sauce.",
+  "cuisine": "british",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Peanut butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Peanuts",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine coconut milk, peanut butter, honey, soy sauce, ginger, and garlic. Blend until smooth.",
+    "Grill the lamb shoulder to an internal temperature of 145°F (63°C) for medium-rare.",
+    "Let the lamb rest for 5 minutes before slicing it into thin strips.",
+    "In a pan over medium heat, toast the peanuts until fragrant.",
+    "Add the peanut sauce to the pan and stir to combine with the peanuts.",
+    "Add the sliced lamb to the pan and toss to coat with the peanut sauce.",
+    "Serve the lamb satay with additional peanut sauce for dipping.",
+    "Garnish with toasted peanuts and a sprinkle of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled-lamb",
+    "lamb-satay",
+    "british-cuisine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 15,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-grilled-british-lamb-satay",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:46:12.638Z"
+}
