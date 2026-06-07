@@ -2952,17 +2952,15 @@
   },
   {
     "slug": "amazingly-aromatic-dutch-chicken-stew",
-    "title": "Amazingly Aromatic Dutch Chicken Stew",
+    "title": "Aromatic Chicken Stew",
     "tags": [
-      "chicken-recipe",
-      "comfort-food",
-      "dutch-cuisine",
-      "kosher-friendly",
-      "spicy",
-      "stone-bowl"
+      "chicken",
+      "stew",
+      "dutch",
+      "comfort-food"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
