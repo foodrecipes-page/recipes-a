@@ -1,0 +1,76 @@
+{
+  "slug": "amazingly-dense-chinese-baked-beans-scallion-pancake",
+  "title": "Crunchy Scallion Pancake",
+  "description": "A crispy, savory pancake originating from Chinese cuisine, typically served as a side dish or appetizer.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "Make sure to use gluten-free flour if necessary"
+    },
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "Finely chopped"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour and salt.",
+    "Gradually pour in water while stirring the flour with a fork until a dough forms.",
+    "Add chopped scallions and mix until well combined.",
+    "Knead the dough for about 10 minutes until smooth.",
+    "Divide the dough into 4-6 equal pieces, depending on the desired pancake size.",
+    "Roll out each piece into a thin circle, about 1/8 inch thick.",
+    "Heat a non-stick skillet or wok over medium-high heat.",
+    "Brush the surface with sesame oil and cook the pancake for 1-2 minutes on each side, until crispy and golden brown.",
+    "Brush with vegetable oil and serve hot.",
+    "For extra crispy pancakes, you can deep-fry them at 350°F (175°C) for 2-3 minutes on each side."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "pancake",
+    "snack",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-dense-chinese-baked-beans-scallion-pancake",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T11:41:30.879Z"
+}
