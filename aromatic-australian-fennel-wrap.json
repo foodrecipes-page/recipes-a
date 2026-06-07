@@ -1,0 +1,63 @@
+{
+  "slug": "aromatic-australian-fennel-wrap",
+  "title": "Australian Fennel Wrap",
+  "description": "A flavorful and crunchy wrap filled with the sweet taste of fennel, perfect for a quick snack or lunch.",
+  "cuisine": "Australian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Wrap",
+      "amount": "1"
+    },
+    {
+      "name": "Fennel",
+      "amount": "1/2 cup, thinly sliced"
+    },
+    {
+      "name": "Australian",
+      "amount": "1/4 cup, chopped fresh herbs"
+    },
+    {
+      "name": "Aromatic",
+      "amount": "2 cloves, minced garlic"
+    }
+  ],
+  "instructions": [
+    "Preheat a pan over medium heat.",
+    "Add the garlic and cook for 1 minute until fragrant.",
+    "Add the sliced fennel and cook for 3-4 minutes until tender.",
+    "Warm the wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spreading the cooked fennel mixture on the wrap, followed by the chopped herbs.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "australian",
+    "easy",
+    "fennel",
+    "gluten-free",
+    "lunch",
+    "quick",
+    "snack",
+    "vegetarian",
+    "wrap"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-australian-fennel-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T10:05:25.707Z"
+}
