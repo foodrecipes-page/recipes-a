@@ -1,0 +1,85 @@
+{
+  "slug": "authentic-dense-italian-eggplant-lasagna",
+  "title": "Classic Italian Eggplant Lasagna",
+  "description": "A traditional Italian dish featuring layers of eggplant, lasagna, and rich tomato sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "eggplant",
+      "amount": "2 medium",
+      "notes": "sliced into 1/4-inch thick rounds"
+    },
+    {
+      "name": "lasagna noodles",
+      "amount": "8-10 sheets",
+      "notes": "dried"
+    },
+    {
+      "name": "ricotta cheese",
+      "amount": "1 cup",
+      "notes": "whole milk"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "marinara sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing eggplant"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Brush eggplant slices with olive oil and season with salt. Roast in the oven for 20-25 minutes or until tender.",
+    "Cook lasagna noodles according to package instructions. Drain and set aside.",
+    "In a large bowl, combine ricotta cheese, parmesan cheese, and a pinch of salt. Mix well.",
+    "Spread a thin layer of marinara sauce on the bottom of a 9x13-inch baking dish. Arrange 4 lasagna noodles on top.",
+    "Spread half of the ricotta mixture over the noodles, followed by half of the roasted eggplant slices.",
+    "Repeat the layers: marinara sauce, noodles, ricotta mixture, and eggplant slices.",
+    "Top with the remaining marinara sauce and sprinkle with parmesan cheese.",
+    "Cover the baking dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes or until the cheese is melted and bubbly.",
+    "Let the lasagna rest for 10-15 minutes before slicing and serving. Garnish with chopped fresh basil."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "eggplant",
+    "lasagna"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/authentic-dense-italian-eggplant-lasagna",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:53:36.074Z"
+}
