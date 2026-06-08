@@ -1339,16 +1339,15 @@
   },
   {
     "slug": "air-fried-crunchy-canadian-potato-wraps",
-    "title": "Air Fried Crunchy Canadian Potato Wraps",
+    "title": "Canadian Poutine Wraps",
     "tags": [
-      "air-fried",
       "canadian",
-      "crunchy",
-      "spicy",
-      "diabetic-friendly"
+      "poutine",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
