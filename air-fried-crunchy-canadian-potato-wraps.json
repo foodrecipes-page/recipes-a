@@ -1,0 +1,52 @@
+{
+  "slug": "air-fried-crunchy-canadian-potato-wraps",
+  "title": "Canadian Poutine Wraps",
+  "description": "A delicious twist on traditional poutine, served in crispy wraps.",
+  "cuisine": "Canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "Canadian wraps",
+      "amount": "4-6",
+      "notes": "crispy"
+    },
+    {
+      "name": "Fried",
+      "amount": "2 tablespoons vegetable oil"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "2. Cut the potatoes into 1-inch (2.5 cm) cubes and fry until golden brown.",
+    "3. Warm the Canadian wraps by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "4. Assemble the poutine by placing the fried potatoes on the warmed wrap, followed by your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "poutine",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crunchy-canadian-potato-wraps",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T13:28:23.687Z"
+}
