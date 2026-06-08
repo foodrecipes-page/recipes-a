@@ -6045,17 +6045,15 @@
   },
   {
     "slug": "aromatic-saudi-water-chestnut-tagine",
-    "title": "Aromatic Saudi Water Chestnut Tagine",
+    "title": "Saudi Chestnut Tagine",
     "tags": [
-      "citrus",
-      "hangover-cure",
       "saudi",
+      "chestnut",
       "tagine",
-      "vegetarian",
-      "whole30"
+      "vegetarian"
     ],
-    "cuisine": "saudi",
-    "totalTimeMin": 70,
+    "cuisine": "Saudi",
+    "totalTimeMin": 60,
     "shard": "a"
   },
   {
