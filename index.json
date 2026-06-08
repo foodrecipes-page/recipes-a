@@ -1139,17 +1139,14 @@
   },
   {
     "slug": "aerated-winey-jamaican-chickpeas-bowl",
-    "title": "Aerated Winey Jamaican Chickpeas Bowl",
+    "title": "Caribbean Chickpea Bowl",
     "tags": [
-      "comfort-food",
-      "hangover-cure",
-      "high-protein",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight"
+      "vegan",
+      "gluten-free",
+      "jamaican"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "jamaican",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -7353,14 +7350,11 @@
   },
   {
     "slug": "authentic-dense-italian-eggplant-lasagna",
-    "title": "Authentic Dense Italian Eggplant Lasagna",
+    "title": "Classic Italian Eggplant Lasagna",
     "tags": [
-      "comfort-food",
-      "crowd-pleaser",
-      "italian-food",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "italian",
+      "eggplant",
+      "lasagna"
     ],
     "cuisine": "Italian",
     "totalTimeMin": 75,
