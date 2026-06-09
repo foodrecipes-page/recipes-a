@@ -1,0 +1,58 @@
+{
+  "slug": "air-fried-air-pan-avocado-wrap",
+  "title": "Avocado Wrap",
+  "description": "A simple and delicious wrap filled with mashed avocado and pan-fried to perfection. Serve immediately and enjoy!",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ripe Avocado",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Tortilla Wrap",
+      "amount": "1",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "pan",
+      "amount": "",
+      "notes": "for pan-frying"
+    }
+  ],
+  "instructions": [
+    "1. Cut the avocado in half and remove the pit.",
+    "2. Mash the avocado in a bowl with a fork until it reaches your desired consistency.",
+    "3. Heat a small amount of oil in the pan over medium heat.",
+    "4. Place the tortilla wrap in the pan and cook for 30 seconds on each side.",
+    "5. Fill the tortilla wrap with the mashed avocado and fold it in half to enclose.",
+    "6. Cook the wrap for an additional 30 seconds to melt the avocado slightly.",
+    "7. Remove the wrap from the pan and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 2,
+  "totalTimeMin": 7,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "avocado",
+    "mexican",
+    "snack",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-air-pan-avocado-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T03:16:39.142Z"
+}
