@@ -1,0 +1,87 @@
+{
+  "slug": "adventurous-slovakian-buckwheat-bowl",
+  "title": "Slovakian Buckwheat Bowl with Adrenaline",
+  "description": "A hearty bowl of Slovakian-style buckwheat with a spicy kick, perfect for adventurous eaters.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buckwheat groats",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Hot sauce",
+      "amount": "1-2 teaspoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Sliced red pepper",
+      "amount": "1 medium"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the chopped onion and cook for 5 minutes, or until softened.",
+    "Add the buckwheat groats and cook for 2-3 minutes, stirring frequently.",
+    "Add the caraway seeds, salt, and pepper, and stir to combine.",
+    "Reduce the heat to medium-low and cover the skillet with a lid.",
+    "Cook for 20-25 minutes, or until the buckwheat is tender and the liquid has been absorbed.",
+    "Serve the buckwheat hot, topped with a dollop of sour cream, a sprinkle of parsley, and a few slices of red pepper.",
+    "If desired, add a few dashes of hot sauce for an extra kick."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "buckwheat",
+    "slovakian",
+    "adventurous",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-slovakian-buckwheat-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T19:53:14.208Z"
+}
