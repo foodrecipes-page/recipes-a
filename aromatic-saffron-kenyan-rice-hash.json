@@ -1,0 +1,73 @@
+{
+  "slug": "aromatic-saffron-kenyan-rice-hash",
+  "title": "Kenyan Saffron Rice Bowl",
+  "description": "A flavorful and aromatic rice bowl dish inspired by Kenyan cuisine, featuring saffron-infused rice and a hint of spices.",
+  "cuisine": "kenyan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan rice",
+      "amount": "1 cup",
+      "notes": "short-grain rice"
+    },
+    {
+      "name": "Saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 2 tablespoons hot water"
+    },
+    {
+      "name": "Aromatic",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin and coriander mix"
+    },
+    {
+      "name": "Hash",
+      "amount": "1/2 cup",
+      "notes": "diced and fried"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Rinse the rice in a fine-mesh sieve until the water runs clear.",
+    "In a medium saucepan, combine the rice and 2 cups of water.",
+    "Add the soaked saffron and its liquid to the saucepan.",
+    "Bring to a boil, then reduce the heat to low, cover, and simmer for 15-20 minutes.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the diced hash and cook until golden brown, breaking it up with a spoon as it cooks.",
+    "Stir in the aromatic spice mix and cook for 1 minute.",
+    "Fluff the cooked rice with a fork and stir in the cooked hash mixture.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "saffron",
+    "rice",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-saffron-kenyan-rice-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T05:30:53.122Z"
+}
