@@ -1,0 +1,73 @@
+{
+  "slug": "aerated-peppery-algerian-fish-tagine",
+  "title": "Tagine of Fish with Algerian Spices",
+  "description": "A flavorful and aromatic North African dish made with fish, algerian spices, and a hint of peppery heat.",
+  "cuisine": "North African",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Fish (such as Cod or Tilapia)",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Algerian spices (including cumin, coriander, and cinnamon)",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Peppercorns",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Aerated water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)"
+    }
+  ],
+  "instructions": [
+    "Rinse the fish and pat it dry with paper towels.",
+    "Heat the olive oil in a large skillet or Dutch oven over medium heat.",
+    "Add the Algerian spices and peppercorns and stir for 1-2 minutes.",
+    "Add the fish and cook for 2-3 minutes on each side, or until it's cooked through.",
+    "Add the aerated water to the pan and bring to a simmer.",
+    "Reduce the heat to low and cook for an additional 5-7 minutes, or until the fish is cooked through and the sauce has thickened.",
+    "Season with salt to taste.",
+    "Garnish with chopped fresh parsley, if desired.",
+    "Serve hot over rice or couscous."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "fish",
+    "spicy",
+    "easy-weeknight-dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-peppery-algerian-fish-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-07T20:17:36.790Z"
+}
