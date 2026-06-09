@@ -1786,17 +1786,15 @@
   },
   {
     "slug": "airy-crunchy-spanish-coconut-croquetas",
-    "title": "Airy Crunchy Spanish Coconut Croquetas",
+    "title": "Spanish Coconut Croquetas",
     "tags": [
-      "coconut-milk",
-      "crunchy-snacks",
-      "low-sodium",
-      "one-pot",
-      "spanish-food",
-      "weeknight"
+      "spanish",
+      "coconut",
+      "croquetas",
+      "snack"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 23,
     "shard": "a"
   },
   {
