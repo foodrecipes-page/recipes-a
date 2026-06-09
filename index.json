@@ -548,16 +548,15 @@
   },
   {
     "slug": "adventurous-slovakian-buckwheat-bowl",
-    "title": "Adventurous Slovakian Buckwheat Bowl",
+    "title": "Slovakian Buckwheat Bowl with Adrenaline",
     "tags": [
-      "buckwheat-bowl",
-      "date-night",
-      "gluten-free",
-      "pescatarian",
-      "slovakian"
+      "buckwheat",
+      "slovakian",
+      "adventurous",
+      "breakfast"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -966,17 +965,15 @@
   },
   {
     "slug": "aerated-peppery-algerian-fish-tagine",
-    "title": "Aerated Peppery Algerian Fish Tagine",
+    "title": "Tagine of Fish with Algerian Spices",
     "tags": [
-      "algerian",
+      "north-african",
       "fish",
-      "gluten-free",
-      "one-pan",
-      "steamed",
-      "weeknight"
+      "spicy",
+      "easy-weeknight-dinner"
     ],
-    "cuisine": "algerian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -7223,17 +7220,16 @@
   },
   {
     "slug": "asian-style-aromatic-malaysian-herbal-springy-dish-satay",
-    "title": "Satay",
+    "title": "Malaysian Satay with Peanut Sauce",
     "tags": [
-      "grilled",
-      "halal",
+      "asian",
       "malaysian",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "grilled",
+      "peanut-sauce",
+      "satay"
     ],
     "cuisine": "Malaysian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
