@@ -1,0 +1,70 @@
+{
+  "slug": "ackee-umami-bliss",
+  "title": "Ackee and Umami Omelette",
+  "description": "A simple and flavorful omelette made with ackee, umami, and a hint of bliss.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Umami",
+      "amount": "1 teaspoon",
+      "notes": "can be substituted with soy sauce"
+    },
+    {
+      "name": "Bliss",
+      "amount": "1 tablespoon",
+      "notes": "can be omitted for a more traditional omelette"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together. Add a pinch of salt and pepper to taste.",
+    "Heat a small non-stick pan over medium heat and add 1 teaspoon of umami.",
+    "Once the umami is fragrant, add the ackee to the pan and sauté for 2-3 minutes.",
+    "Pour the whisked eggs over the ackee and cook until the eggs start to set.",
+    "Sprinkle the bliss over the eggs and use a spatula to fold the omelette in half.",
+    "Cook for another minute and serve hot."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "caribbean",
+    "omelette"
+  ],
+  "nutrition": {
+    "calories": 140,
+    "protein": 12,
+    "carbs": 4,
+    "fat": 7
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ackee-umami-bliss",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:10:22.434Z"
+}
