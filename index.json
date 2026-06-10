@@ -773,15 +773,14 @@
   },
   {
     "slug": "aerated-egyptian-fennel-bowl",
-    "title": "Aerated Egyptian Fennel Bowl",
+    "title": "Egyptian Fennel Stir-Fry",
     "tags": [
-      "egyptian",
-      "halal-friendly",
-      "high-fiber",
-      "weeknight"
+      "vegetarian",
+      "easy",
+      "stir-fry"
     ],
-    "cuisine": "egyptian",
-    "totalTimeMin": 35,
+    "cuisine": "Egyptian",
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
@@ -6322,15 +6321,15 @@
   },
   {
     "slug": "aromatic-smoked-portuguese-fish-dum-paella",
-    "title": "Aromatic Smoked Portuguese Fish Dum Paella",
+    "title": "Smoked Paella with Fish and Dum",
     "tags": [
-      "fish-dumplings",
-      "one-pot",
-      "portuguese",
-      "robata-grill"
+      "fusion",
+      "seafood",
+      "spanish",
+      "asian"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 35,
+    "cuisine": "Spanish-Asian Fusion",
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -6670,16 +6669,15 @@
   },
   {
     "slug": "aromatic-spicy-mexican-poblanos-frijoles-charros",
-    "title": "Aromatic Spicy Mexican Poblanos Frijoles Charros",
+    "title": "Charros Frijoles",
     "tags": [
-      "halal-friendly",
       "mexican",
-      "one-pot",
-      "spicy",
-      "weeknight"
+      "lunch",
+      "dinner",
+      "vegetarian"
     ],
     "cuisine": "Mexican",
-    "totalTimeMin": 60,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
