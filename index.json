@@ -135,16 +135,14 @@
   },
   {
     "slug": "ackee-umami-bliss",
-    "title": "Ackee Umami Bliss",
+    "title": "Ackee and Umami Omelette",
     "tags": [
-      "ackee",
-      "umami",
-      "grilled",
-      "meal-prep",
-      "chinese"
+      "breakfast",
+      "caribbean",
+      "omelette"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 15,
     "shard": "a"
   },
   {
@@ -396,14 +394,13 @@
   },
   {
     "slug": "adventurous-earth",
-    "title": "Adventurous Earth",
+    "title": "Pan-Seared Earthy Delight",
     "tags": [
-      "adventurous-earth",
-      "light-canadian-dish",
-      "ancho-chili",
-      "low-fat-friendly"
+      "mushrooms",
+      "earth",
+      "vegetarian"
     ],
-    "cuisine": "Canadian",
+    "cuisine": "vegetarian",
     "totalTimeMin": 35,
     "shard": "a"
   },
