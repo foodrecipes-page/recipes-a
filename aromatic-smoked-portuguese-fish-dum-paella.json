@@ -1,0 +1,88 @@
+{
+  "slug": "aromatic-smoked-portuguese-fish-dum-paella",
+  "title": "Smoked Paella with Fish and Dum",
+  "description": "A unique fusion dish combining the flavors of Spanish paella with the Asian dum and a smoky twist.",
+  "cuisine": "Spanish-Asian Fusion",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Dum",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Portuguese Sausage",
+      "amount": "1 lb",
+      "notes": "sliced"
+    },
+    {
+      "name": "Fish (such as cod or tilapia)",
+      "amount": "1 lb",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Paella Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dum Broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic Spices (such as cumin and coriander)",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the sliced Portuguese sausage and cook until browned, about 5 minutes.",
+    "Add the fish pieces and cook until opaque, about 5 minutes.",
+    "Add the paella rice and stir to combine with the sausage and fish.",
+    "Add the smoked paprika, aromatic spices, and dum broth.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Add the dum to the pan and continue to simmer for another 5 minutes.",
+    "Remove the pan from the heat and let it rest, covered, for 5 minutes before serving.",
+    "Serve hot and enjoy!",
+    "Note: If using a gas stovetop, cook the paella over high heat to achieve the characteristic crispy crust at the bottom.",
+    "If using an electric stovetop, cook the paella over medium-high heat to prevent the rice from burning.",
+    "If using a grill, cook the paella over medium-high heat, rotating the pan every 5 minutes to achieve even cooking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fusion",
+    "seafood",
+    "spanish",
+    "asian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoked-portuguese-fish-dum-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:27:39.272Z"
+}
