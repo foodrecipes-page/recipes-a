@@ -1,0 +1,88 @@
+{
+  "slug": "aromatic-spicy-mexican-poblanos-frijoles-charros",
+  "title": "Charros Frijoles",
+  "description": "A flavorful and spicy Mexican dish made with charros, frijoles, and a blend of aromatic spices. Perfect for a hearty lunch or dinner.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "charros",
+      "amount": "2 cups",
+      "notes": "dried or cooked"
+    },
+    {
+      "name": "frijoles",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "poblanos",
+      "amount": "2",
+      "notes": "roasted, chopped"
+    },
+    {
+      "name": "aromatic spice blend",
+      "amount": "2 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "or broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Saute onion until softened, about 5 minutes.",
+    "Add charros, cumin, chili powder, and salt. Cook for 1 minute.",
+    "Add roasted poblanos, cooked frijoles, and aromatic spice blend. Stir to combine.",
+    "Add water or broth, and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20-25 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "lunch",
+    "dinner",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-spicy-mexican-poblanos-frijoles-charros",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T15:19:11.449Z"
+}
