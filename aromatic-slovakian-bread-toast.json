@@ -1,0 +1,65 @@
+{
+  "slug": "aromatic-slovakian-bread-toast",
+  "title": "Slovakian Toast",
+  "description": "A simple Slovakian-inspired dish featuring toasted bread topped with aromatic ingredients.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Slovakian Aromatic Spice Blend",
+      "amount": "1 tsp",
+      "notes": "available at most European grocery stores or online"
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Fresh Chives",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or griddle to medium heat.",
+    "Toast the bread slices until lightly browned on both sides.",
+    "Mix the Slovakian Aromatic Spice Blend, butter, and sour cream in a small bowl.",
+    "Spread the spice blend mixture evenly over the toasted bread slices.",
+    "Top with chopped fresh chives and a pinch of salt.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "slovakian",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-slovakian-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T08:22:19.287Z"
+}
