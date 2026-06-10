@@ -6267,16 +6267,14 @@
   },
   {
     "slug": "aromatic-slovakian-bread-toast",
-    "title": "Aromatic Slovakian Bread Toast",
+    "title": "Slovakian Toast",
     "tags": [
-      "chocolate-lover",
-      "comfort-food",
-      "quick-snack",
-      "slovakian-cuisine",
-      "vegan-friendly"
+      "breakfast",
+      "slovakian",
+      "aromatic"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 10,
     "shard": "a"
   },
   {
