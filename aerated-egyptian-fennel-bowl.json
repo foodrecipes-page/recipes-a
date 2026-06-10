@@ -1,0 +1,54 @@
+{
+  "slug": "aerated-egyptian-fennel-bowl",
+  "title": "Egyptian Fennel Stir-Fry",
+  "description": "A simple and flavorful stir-fry recipe from Egypt, featuring fennel as the main ingredient. This dish is perfect for a quick and easy dinner.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fennel",
+      "amount": "2 bulbs"
+    },
+    {
+      "name": "Aerated water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "1. Slice the fennel into thin wedges.",
+    "2. Heat a large skillet over medium-high heat.",
+    "3. Add 2 tablespoons of oil to the skillet and swirl to coat.",
+    "4. Add the sliced fennel to the skillet and cook for 5 minutes.",
+    "5. Add 1 cup of aerated water to the skillet and bring to a boil.",
+    "6. Reduce the heat to medium-low and simmer for 10 minutes.",
+    "7. Serve the fennel hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "easy",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-egyptian-fennel-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T14:13:34.564Z"
+}
