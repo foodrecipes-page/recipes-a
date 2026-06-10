@@ -1,0 +1,79 @@
+{
+  "slug": "adventurous-earth",
+  "title": "Pan-Seared Earthy Delight",
+  "description": "A hearty dish featuring the earthy flavors of mushrooms and the crunch of crispy vegetables.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "Assorted types"
+    },
+    {
+      "name": "Earth",
+      "amount": "2 tablespoons",
+      "notes": "Crushed and toasted"
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1/2 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the earth and sauté for 1-2 minutes until fragrant.",
+    "Add the sliced onions and cook for 3-4 minutes until they start to caramelize.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the sliced carrots and mushrooms, and cook for 5-6 minutes until the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional earth if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mushrooms",
+    "earth",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-earth",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T07:24:32.350Z"
+}
