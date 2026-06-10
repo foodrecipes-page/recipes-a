@@ -7566,17 +7566,14 @@
   },
   {
     "slug": "awesome-fluffy-american-cheddar-cheese-casserole",
-    "title": "Awesome Fluffy American Cheddar Cheese Casserole",
+    "title": "Cheesy Casserole",
     "tags": [
-      "american-classic",
-      "casserole",
       "comfort-food",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "cheesy",
+      "casserole"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 55,
+    "cuisine": null,
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
