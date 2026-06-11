@@ -1451,15 +1451,16 @@
   },
   {
     "slug": "air-fried-syrian-pork-stir-fry",
-    "title": "Air-Fried Syrian Pork Stir-fry",
+    "title": "Syrian-Style Fried Pork Chops",
     "tags": [
+      "syrian",
+      "fried",
       "pork",
-      "stir-fry",
-      "air-fried",
-      "syrian"
+      "chops",
+      "easy-dinner"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 32,
     "shard": "a"
   },
   {
