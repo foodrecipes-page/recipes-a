@@ -1,0 +1,91 @@
+{
+  "slug": "aromatic-egyptian-chicken-roast",
+  "title": "Egyptian Roast Chicken",
+  "description": "A flavorful roast chicken dish inspired by Egyptian cuisine. Aromatic spices and herbs add a rich, exotic flavor to this classic meal.",
+  "cuisine": "egyptian",
+  "diet": [
+    "pork-free",
+    "lamb-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 whole chicken (1.5 kg)",
+      "notes": "preferably organic"
+    },
+    {
+      "name": "aromatic spices",
+      "amount": "1 tsp",
+      "notes": "a mix of cumin, coriander, and paprika"
+    },
+    {
+      "name": "egyptian cumin",
+      "amount": "1 tsp",
+      "notes": "available at most middle eastern grocery stores"
+    },
+    {
+      "name": "roast potatoes",
+      "amount": "3-4 medium potatoes",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "to drizzle over the chicken"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large onion",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "to season"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "to season"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 220°C (425°F).",
+    "Rinse the chicken and pat dry with paper towels.",
+    "Season the chicken with salt, black pepper, and aromatic spices.",
+    "Heat 1 tbsp of olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken until golden brown on all sides, about 5-7 minutes.",
+    "Transfer the skillet to the preheated oven and roast for 45-50 minutes, or until the chicken reaches an internal temperature of 75°C (165°F).",
+    "While the chicken is roasting, toss the chopped potatoes with 1 tbsp of olive oil, salt, and pepper in a separate bowl.",
+    "Spread the potatoes out in a single layer on a baking sheet and roast in the oven for 20-25 minutes, or until golden brown.",
+    "Remove the chicken and potatoes from the oven and let rest for 10 minutes before serving.",
+    "Drizzle the juices from the skillet over the chicken and serve with the roasted potatoes."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "egyptian-cuisine",
+    "roast-chicken",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "44g",
+    "carbs": "40g",
+    "fat": "28g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-egyptian-chicken-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T22:19:59.734Z"
+}
