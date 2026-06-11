@@ -1,0 +1,75 @@
+{
+  "slug": "air-fried-syrian-pork-stir-fry",
+  "title": "Syrian-Style Fried Pork Chops",
+  "description": "A delicious and flavorful dish that marries traditional Syrian spices with the crispy goodness of fried pork. Serve with a side of rice or vegetables for a hearty meal.",
+  "cuisine": "Syrian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork Chops",
+      "amount": "4",
+      "notes": "1-1.5 pounds"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "beaten"
+    },
+    {
+      "name": "Syrian Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "Panko Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together flour, Syrian spice blend, and a pinch of salt.",
+    "2. Dip each pork chop into the flour mixture, coating both sides evenly.",
+    "3. Dip the floured pork chop into the beaten egg, making sure to coat completely.",
+    "4. Roll the egg-coated pork chop in the panko breadcrumbs to coat.",
+    "5. Heat about 1/2 inch of vegetable oil in a large skillet over medium-high heat.",
+    "6. When the oil is hot, add 2-3 coated pork chops to the skillet.",
+    "7. Fry the pork chops for 3-4 minutes on each side, or until golden brown and cooked through.",
+    "8. Repeat with the remaining pork chops.",
+    "9. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "syrian",
+    "fried",
+    "pork",
+    "chops",
+    "easy-dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-syrian-pork-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T23:42:22.392Z"
+}
