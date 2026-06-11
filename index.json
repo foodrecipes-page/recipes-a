@@ -3609,17 +3609,14 @@
   },
   {
     "slug": "ambrosial-uruguayan-milk-crumble",
-    "title": "Ambrosial Uruguayan Milk Crumble",
+    "title": "Uruguayan Ambrosial Crumble",
     "tags": [
-      "child-friendly",
-      "crumble",
-      "dairy-free-friendly",
-      "festive",
-      "kazan-cauldron",
+      "dessert",
       "sweet",
-      "uruguayan"
+      "crumble",
+      "ambrosial"
     ],
-    "cuisine": "Uruguayan",
+    "cuisine": "Latin American",
     "totalTimeMin": 40,
     "shard": "a"
   },
