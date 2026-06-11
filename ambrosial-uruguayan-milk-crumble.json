@@ -1,0 +1,58 @@
+{
+  "slug": "ambrosial-uruguayan-milk-crumble",
+  "title": "Uruguayan Ambrosial Crumble",
+  "description": "A sweet and crunchy dessert made with ambrosial and crumble, perfect for satisfying your sweet tooth.",
+  "cuisine": "Latin American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ambrosial",
+      "amount": "1 cup"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "crumble",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Mix ambrosial and uruguayan in a bowl.",
+    "Add milk and mix until smooth.",
+    "Transfer the mixture to a baking dish.",
+    "Top with crumble.",
+    "Bake for 25-30 minutes or until the crumble is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "sweet",
+    "crumble",
+    "ambrosial"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ambrosial-uruguayan-milk-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-08T21:04:38.148Z"
+}
