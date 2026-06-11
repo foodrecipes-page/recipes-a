@@ -4884,18 +4884,15 @@
   },
   {
     "slug": "aromatic-egyptian-chicken-roast",
-    "title": "Aromatic Egyptian Chicken Roast",
+    "title": "Egyptian Roast Chicken",
     "tags": [
-      "citrus",
-      "comfort-food",
-      "egyptian",
-      "low-sodium",
-      "one-pan",
-      "roast",
-      "rum-infused"
+      "chicken",
+      "egyptian-cuisine",
+      "roast-chicken",
+      "potatoes"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 70,
+    "cuisine": "egyptian",
+    "totalTimeMin": 80,
     "shard": "a"
   },
   {
