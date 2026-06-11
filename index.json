@@ -3052,17 +3052,15 @@
   },
   {
     "slug": "amazingly-aromatic-uruguayan-rice-pilaf",
-    "title": "Amazingly Aromatic Uruguayan Rice Pilaf",
+    "title": "Uruguayan Rice Pilaf",
     "tags": [
-      "aromatic",
-      "gluten-free",
-      "one-pot",
       "uruguayan",
-      "vegetarian",
-      "weeknight"
+      "rice-pilaf",
+      "aromatic-spices",
+      "vegetarian"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
