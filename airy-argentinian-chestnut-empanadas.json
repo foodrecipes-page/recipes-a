@@ -1,0 +1,76 @@
+{
+  "slug": "airy-argentinian-chestnut-empanadas",
+  "title": "Argentinian Empanadas with Airy Filling",
+  "description": "A classic South American dish, these empanadas are filled with a light and airy mixture of cheese, meat, and spices.",
+  "cuisine": "Argentinian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "lard or vegetable shortening",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "water",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "shredded beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large mixing bowl, combine flour and salt. Gradually add lard or shortening, and mix until dough is formed.",
+    "Knead dough for 5 minutes until smooth. Wrap in plastic and refrigerate for 30 minutes.",
+    "In a separate bowl, mix shredded beef, chopped onion, salt, and black pepper.",
+    "Divide dough into 8 equal pieces. Roll out each piece into a thin circle.",
+    "Place 1-2 tablespoons of beef mixture onto one half of each circle. Top with grated cheese.",
+    "Fold dough in half and press edges together to seal. Use a fork to crimp edges.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-argentinian-chestnut-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T12:27:12.107Z"
+}
