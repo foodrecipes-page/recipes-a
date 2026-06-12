@@ -1,0 +1,82 @@
+{
+  "slug": "amazingly-sweet-russian-beet-borscht",
+  "title": "Russian Beet Borscht",
+  "description": "A traditional Russian beet soup, served with a dollop of sour cream. Perfect for a cold day.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beets",
+      "amount": "2 large"
+    },
+    {
+      "name": "Russian beet soup mix",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Sour cream",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped fresh dill",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "Peel and dice the beets.",
+    "In a large pot, combine the beets, vegetable broth, Russian beet soup mix, sugar, salt, and black pepper. Bring to a boil.",
+    "Reduce the heat and simmer for 20 minutes.",
+    "Use an immersion blender or a regular blender to puree the soup until smooth.",
+    "Return the pot to the stovetop and add the sour cream. Stir over low heat until the soup is heated through.",
+    "Crack the egg into the pot and stir constantly until the egg is fully incorporated and the soup has thickened.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve the borscht hot, garnished with chopped fresh dill.",
+    "Refrigerate any leftovers for up to 3 days."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beet",
+    "soup",
+    "russian",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-sweet-russian-beet-borscht",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T07:51:47.837Z"
+}
