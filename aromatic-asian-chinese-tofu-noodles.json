@@ -1,0 +1,92 @@
+{
+  "slug": "aromatic-asian-chinese-tofu-noodles",
+  "title": "Soy-Glazed Tofu Stir Fry",
+  "description": "A classic Asian-inspired dish made with pan-seared tofu, savory soy sauce, and crunchy noodles. Quick, easy, and nutritious, this meal is perfect for a weeknight dinner.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Chinese",
+      "amount": "1 tsp",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "Oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add tofu and cook until golden brown, about 3-4 minutes per side.",
+    "Remove tofu from the skillet and set aside.",
+    "Add aromatic and chinese to the skillet and cook for 1 minute.",
+    "Add noodles to the skillet and cook for 2-3 minutes, or until slightly tender.",
+    "In a small bowl, whisk together soy sauce, water, salt, and sugar.",
+    "Pour the sauce over the noodles and toss to coat.",
+    "Return tofu to the skillet and toss to coat with the sauce.",
+    "Cook for an additional 1-2 minutes, or until the sauce has thickened.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "tofu",
+    "noodles",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-asian-chinese-tofu-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T09:31:46.218Z"
+}
