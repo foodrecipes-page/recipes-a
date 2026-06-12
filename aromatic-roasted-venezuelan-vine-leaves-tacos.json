@@ -1,0 +1,83 @@
+{
+  "slug": "aromatic-roasted-venezuelan-vine-leaves-tacos",
+  "title": "Venezuelan Tacos",
+  "description": "A flavorful twist on traditional tacos, featuring roasted Venezuelan-style beef and topped with fresh leaves and a hint of aromatic spices.",
+  "cuisine": "Latin American",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "aromatic spices",
+      "amount": "1 tsp",
+      "notes": "such as cumin and chili powder"
+    },
+    {
+      "name": "roasted peppers",
+      "amount": "2 medium",
+      "notes": "such as bell peppers or poblano"
+    },
+    {
+      "name": "venezuelan cheese",
+      "amount": "1 cup shredded",
+      "notes": "such as queso fresco or mozzarella"
+    },
+    {
+      "name": "vine-ripened tomatoes",
+      "amount": "1 cup diced",
+      "notes": "such as cherry or grape tomatoes"
+    },
+    {
+      "name": "tacos leaves",
+      "amount": "1 head lettuce",
+      "notes": "such as romaine or iceberg"
+    },
+    {
+      "name": "tortillas",
+      "amount": "8-10 corn tortillas",
+      "notes": "such as flour or corn tortillas"
+    },
+    {
+      "name": "vegan sour cream",
+      "amount": "1 cup",
+      "notes": "such as cashew or soy-based"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "Season the flank steak with aromatic spices and cook for 3-4 minutes per side, or until cooked through.",
+    "Meanwhile, roast the peppers in a dry skillet over medium heat until charred, about 5 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by slicing the cooked steak and placing it onto a warmed tortilla.",
+    "Top with roasted peppers, venezuelan cheese, vine-ripened tomatoes, and tacos leaves.",
+    "Serve with a dollop of vegan sour cream and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "latin",
+    "american",
+    "beef",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-roasted-venezuelan-vine-leaves-tacos",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:01:48.208Z"
+}
