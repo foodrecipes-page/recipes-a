@@ -1,0 +1,96 @@
+{
+  "slug": "amazingly-tender-german-mincemeat-casserole",
+  "title": "Tender German Meat Mincemeat Casserole",
+  "description": "A hearty German-inspired casserole with tender meat and rich flavors. Perfect for a cold winter's night.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "minced garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "allspice",
+      "amount": "1 teaspoon ground",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "mushroom gravy",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "bread",
+      "amount": "1 cup cubed",
+      "notes": ""
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Browning the ground beef in a large skillet over medium-high heat until fully cooked.",
+    "Add the onion, garlic, allspice, salt, and pepper to the skillet and cook until the onion is translucent.",
+    "Stir in the mushroom gravy and bring to a simmer.",
+    "In a large bowl, whisk together the eggs and a splash of water.",
+    "Add the bread to the bowl and toss until the bread is evenly coated with the egg mixture.",
+    "Add the cooked ground beef mixture to the bowl and stir until well combined.",
+    "Pour the mixture into a 9x13 inch baking dish.",
+    "Bake for 35-40 minutes or until the casserole is golden brown and set.",
+    "Garnish with chopped parsley before serving.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 35,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-tender-german-mincemeat-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T14:37:52.980Z"
+}
