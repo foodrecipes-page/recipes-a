@@ -5927,16 +5927,15 @@
   },
   {
     "slug": "aromatic-roasted-venezuelan-vine-leaves-tacos",
-    "title": "Aromatic Roasted Venezuelan Vine Leaves Tacos",
+    "title": "Venezuelan Tacos",
     "tags": [
-      "lunch",
-      "south-american",
-      "street-food",
-      "tacos",
-      "vegan"
+      "latin",
+      "american",
+      "beef",
+      "tacos"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 45,
+    "cuisine": "Latin American",
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
