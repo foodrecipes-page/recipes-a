@@ -4249,16 +4249,15 @@
   },
   {
     "slug": "aromatic-canadian-cheese-gratin",
-    "title": "Aromatic Canadian Cheese Gratin",
+    "title": "Canadian Gratin",
     "tags": [
-      "broil",
-      "cheesy",
-      "comfort-food",
-      "kitchen-favorite",
-      "low-carb"
+      "canadian",
+      "gratin",
+      "breakfast",
+      "bacon"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 22,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
