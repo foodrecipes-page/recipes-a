@@ -1,0 +1,61 @@
+{
+  "slug": "ambrosial-british-mincemeat-tart",
+  "title": "Traditional British Mincemeat Tart",
+  "description": "A classic dessert using mincemeat filling in a sweet tart crust. A traditional British treat perfect for holidays or special occasions.",
+  "cuisine": "British",
+  "diet": [
+    "Vegetarian",
+    "Dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ambrosial pastry dough",
+      "amount": "1 sheet",
+      "notes": ""
+    },
+    {
+      "name": "mincemeat",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "british tart pan",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "tart",
+      "amount": "1",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the ambrosial pastry dough and place in the british tart pan.",
+    "Fill the pastry-lined tart pan with the mincemeat.",
+    "Bake for 25-30 minutes or until the crust is golden brown.",
+    "Allow the tart to cool before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "british",
+    "mincemeat",
+    "tart",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ambrosial-british-mincemeat-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:38:29.328Z"
+}
