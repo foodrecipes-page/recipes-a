@@ -1,0 +1,73 @@
+{
+  "slug": "aromatic-smoky-jamaican-chicken-stew",
+  "title": "Jamaican Jerk Chicken Stew",
+  "description": "A flavorful and aromatic stew made with Jamaican jerk seasoning and smoky chicken. This dish is perfect for a cozy evening.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 sprigs fresh thyme, 1 sprig fresh rosemary",
+      "notes": "add to pot for flavor"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tablespoons jerk seasoning",
+      "notes": ""
+    },
+    {
+      "name": "jamaican",
+      "amount": "1 Scotch bonnet pepper, chopped (optional)",
+      "notes": "use gloves when handling"
+    },
+    {
+      "name": "stew",
+      "amount": "1 large onion, chopped, 2 cloves garlic, minced, 1 large red bell pepper, chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the chicken and cook until browned, about 5 minutes.",
+    "Add the onion, garlic, and red bell pepper to the pot and cook until the vegetables are softened, about 5 minutes.",
+    "Add the jerk seasoning, thyme, and rosemary to the pot and cook for 1 minute.",
+    "Add the chicken broth and bring the mixture to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through, about 20 minutes.",
+    "Remove the chicken from the pot and shred it with two forks.",
+    "Return the shredded chicken to the pot and stir to combine.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired.",
+    "Note: If using Scotch bonnet pepper, wear gloves when handling and use sparingly, as it is very spicy."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jerk",
+    "chicken",
+    "stew",
+    "caribbean",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-jamaican-chicken-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T18:47:35.143Z"
+}
