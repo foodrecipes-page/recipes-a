@@ -250,16 +250,14 @@
   },
   {
     "slug": "adventurous-american-cheese-grilled-cheese",
-    "title": "Adventurous American Cheese Grilled Cheese",
+    "title": "Gourmet Grilled Cheese",
     "tags": [
-      "american-food",
-      "cheese-pull",
-      "easy-snack",
-      "grilled-cheese",
-      "weeknight"
+      "grilled",
+      "cheese",
+      "american"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 15,
+    "cuisine": "american",
+    "totalTimeMin": 9,
     "shard": "a"
   },
   {
