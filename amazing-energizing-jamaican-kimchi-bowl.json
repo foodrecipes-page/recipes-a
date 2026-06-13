@@ -1,0 +1,80 @@
+{
+  "slug": "amazing-energizing-jamaican-kimchi-bowl",
+  "title": "Kimchi Jamaican Bowl",
+  "description": "A flavorful and energizing bowl filled with spicy kimchi, jerk chicken, and amazing sauce.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jamaican Jerk Chicken",
+      "amount": "1 lb boneless, skinless chicken breasts",
+      "notes": "4-6 boneless, skinless chicken breasts"
+    },
+    {
+      "name": "Kimchi",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade kimchi"
+    },
+    {
+      "name": "Amazing Sauce",
+      "amount": "1/4 cup",
+      "notes": "see notes for homemade amazing sauce recipe"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Rice",
+      "amount": "1 cup cooked",
+      "notes": ""
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "large serving bowl"
+    },
+    {
+      "name": "Jalapeno Peppers",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the chicken with jerk seasoning and cook in the oven for 20-25 minutes or until cooked through.",
+    "While the chicken is cooking, cook the coconut rice according to package instructions.",
+    "In a large bowl, combine the cooked chicken, kimchi, cilantro, coconut rice, and sliced jalapeno peppers.",
+    "Drizzle the amazing sauce over the top of the bowl and serve immediately.",
+    "Garnish with additional cilantro and a squeeze of lime juice, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "kimchi",
+    "bowl"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-energizing-jamaican-kimchi-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T19:15:30.069Z"
+}
