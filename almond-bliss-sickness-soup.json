@@ -1,0 +1,69 @@
+{
+  "slug": "almond-bliss-sickness-soup",
+  "title": "Creamy Almond Bliss Soup",
+  "description": "A rich and creamy soup made with almond milk and a hint of blissful flavor. Perfect for a chilly evening.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "almond milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bliss",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "potato",
+      "amount": "1 large"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large pot, sauté the onion and garlic until softened.",
+    "Add the potato, almond milk, and bliss. Stir well.",
+    "Bring the mixture to a boil, then reduce heat and simmer for 15-20 minutes.",
+    "Use an immersion blender to puree the soup until smooth.",
+    "Season with salt and pepper to taste.",
+    "Serve warm, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "comfort-food",
+    "almond-milk"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-bliss-sickness-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:26:15.459Z"
+}
