@@ -7100,17 +7100,14 @@
   },
   {
     "slug": "aromatic-vietnamese-chwinamul-pho",
-    "title": "Aromatic Vietnamese Chwinamul Pho",
+    "title": "Spicy Vietnamese Beef Noodle Soup",
     "tags": [
-      "date-night",
-      "low-glycemic",
-      "one-pot",
-      "savory",
-      "springy",
-      "vietnamese-cuisine"
+      "beef",
+      "noodle-soup",
+      "spicy"
     ],
-    "cuisine": "vietnamese",
-    "totalTimeMin": 35,
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 100,
     "shard": "a"
   },
   {
