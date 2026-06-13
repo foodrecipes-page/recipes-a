@@ -2737,17 +2737,14 @@
   },
   {
     "slug": "amazing-energizing-jamaican-kimchi-bowl",
-    "title": "Amazing Energizing Jamaican Kimchi Bowl",
+    "title": "Kimchi Jamaican Bowl",
     "tags": [
-      "gluten-free",
-      "high-protein",
       "jamaican",
-      "one-pan",
-      "vegan",
-      "weeknight"
+      "kimchi",
+      "bowl"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 30,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -3576,16 +3573,15 @@
   },
   {
     "slug": "ambrosial-british-mincemeat-tart",
-    "title": "Ambrosial British Mincemeat Tart",
+    "title": "Traditional British Mincemeat Tart",
     "tags": [
       "british",
-      "dessert",
-      "kosher-friendly",
-      "sous-vide",
-      "tart"
+      "mincemeat",
+      "tart",
+      "dessert"
     ],
     "cuisine": "British",
-    "totalTimeMin": 100,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -6384,16 +6380,16 @@
   },
   {
     "slug": "aromatic-smoky-jamaican-chicken-stew",
-    "title": "Aromatic Smoky Jamaican Chicken Stew",
+    "title": "Jamaican Jerk Chicken Stew",
     "tags": [
-      "caribbean-inspired",
-      "comfort-food",
-      "one-pot",
-      "smoky",
-      "weeknight"
+      "jerk",
+      "chicken",
+      "stew",
+      "caribbean",
+      "spicy"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 70,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
