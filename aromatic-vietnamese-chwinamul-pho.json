@@ -1,0 +1,76 @@
+{
+  "slug": "aromatic-vietnamese-chwinamul-pho",
+  "title": "Spicy Vietnamese Beef Noodle Soup",
+  "description": "A flavorful and spicy noodle soup originating from Vietnam. This recipe combines the richness of beef broth with the heat of Vietnamese chili sauce.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef bones",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "beef brisket or chuck",
+      "amount": "1 lb"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 stalks"
+    },
+    {
+      "name": "pho",
+      "amount": "1 package"
+    },
+    {
+      "name": "chili sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Roast the beef bones in the oven for 30 minutes.",
+    "3. In a large pot, combine the roasted bones, beef brisket or chuck, aromatic, and 4 cups of water. Bring to a boil, then reduce heat to low and simmer for 1 hour.",
+    "4. Strain the broth and discard the solids.",
+    "5. Add the pho, chili sauce, fish sauce, and sugar to the broth. Bring to a boil, then reduce heat to low and simmer for 10 minutes.",
+    "6. Slice the cooked beef into thin strips.",
+    "7. Cook the noodles according to the package instructions.",
+    "8. Assemble the bowls with the noodles, beef, and hot broth.",
+    "9. Garnish with black pepper to taste.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 70,
+  "totalTimeMin": 100,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "noodle-soup",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-vietnamese-chwinamul-pho",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-09T20:31:42.612Z"
+}
