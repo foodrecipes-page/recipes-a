@@ -1,0 +1,85 @@
+{
+  "slug": "aromatic-smoky-greek-lentils-stew",
+  "title": "Smoky Lentil Stew",
+  "description": "A hearty and comforting stew made with aromatic spices, smoky notes, and tender lentils. Perfect for a chilly evening.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoky flavor"
+    },
+    {
+      "name": "Greek Oregano",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Diced Tomatoes",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Vegetable Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": null
+    },
+    {
+      "name": "Red Wine (optional)",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened (5 minutes).",
+    "Add smoked paprika, oregano, and cumin, cook for 1 minute.",
+    "Add lentils, diced tomatoes, vegetable broth, salt, and pepper. Stir well.",
+    "Bring to a boil, then reduce heat to low and simmer (30 minutes).",
+    "If using red wine, stir it in during the last 10 minutes of cooking.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-stew",
+    "greek-cuisine",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-greek-lentils-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-12T14:57:09.333Z"
+}
