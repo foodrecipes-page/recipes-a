@@ -1,0 +1,63 @@
+{
+  "slug": "aromatic-saudi-arabian-lentil-grill--keto",
+  "title": "Saudi Arabian Lentil Kebabs",
+  "description": "A flavorful and healthy keto dish inspired by Saudi Arabian cuisine, featuring tender lentil kebabs grilled to perfection.",
+  "cuisine": "saudi arabian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "250g"
+    },
+    {
+      "name": "Aromatic Spices",
+      "amount": "2 tbsp",
+      "notes": "Use a blend of Middle Eastern spices such as cumin, coriander, and paprika"
+    },
+    {
+      "name": "Saudi Arabian Grill Spice",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the lentils and soak them in water for at least 4 hours.",
+    "2. Preheat the grill to medium-high heat.",
+    "3. In a large bowl, mix together the lentils, aromatic spices, and Saudi Arabian grill spice.",
+    "4. Add the olive oil and mix well.",
+    "5. Thread the lentil mixture onto skewers.",
+    "6. Grill the kebabs for 10-12 minutes, turning occasionally, until the lentils are tender.",
+    "7. Garnish with fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 10,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentils",
+    "kebabs",
+    "saudi arabian",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-saudi-arabian-lentil-grill--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:42:54.261Z"
+}
