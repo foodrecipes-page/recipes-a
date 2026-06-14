@@ -1,0 +1,85 @@
+{
+  "slug": "a-springy-energizing-korean-egg-bibimbap",
+  "title": "Spicy Korean Bibimbap",
+  "description": "A classic Korean rice bowl dish topped with an assortment of vegetables and a fried egg.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Korean rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Fried egg",
+      "amount": "1",
+      "notes": "fried egg, sliced"
+    },
+    {
+      "name": "Veggie mix (bok choy, carrots, zucchini)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bibimbap sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "1 tsp",
+      "notes": "spicy"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Prepare the Korean rice according to package instructions.",
+    "Fry an egg in a pan and slice it into wedges.",
+    "Heat sesame oil in a pan and sauté bok choy and carrots until tender.",
+    "Add zucchini to the pan and cook for an additional 2 minutes.",
+    "Season the veggie mix with gochujang and Korean chili flakes (if using).",
+    "To assemble the bibimbap, place a scoop of Korean rice in a bowl.",
+    "Add the fried egg on top of the rice.",
+    "Add the veggie mix on top of the egg.",
+    "Drizzle bibimbap sauce over the top of the dish.",
+    "Garnish with chopped green onions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "bibimbap",
+    "rice-bowl",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/a-springy-energizing-korean-egg-bibimbap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T07:29:15.176Z"
+}
