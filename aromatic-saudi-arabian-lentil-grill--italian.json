@@ -1,0 +1,63 @@
+{
+  "slug": "aromatic-saudi-arabian-lentil-grill--italian",
+  "title": "Grilled Arabian Lentil Patties with Italian Flair",
+  "description": "A fusion of Italian and Arabian cuisines, these lentil patties are a flavorful and healthy twist on traditional Italian dishes. Serve on a crusty Italian roll or with a side of sautéed vegetables.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup, cooked"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1/2 cup, chopped"
+    },
+    {
+      "name": "saudi",
+      "amount": "2 tablespoons, olive oil"
+    },
+    {
+      "name": "arabian",
+      "amount": "1 tablespoon, ground cumin"
+    },
+    {
+      "name": "grill",
+      "amount": "4 patties"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine cooked lentils, chopped aromatic, olive oil, cumin, salt, and pepper.",
+    "Mix well with your hands until the ingredients are fully incorporated.",
+    "Divide the mixture into 4 equal parts and shape each part into a patty.",
+    "Grill the patties for 3-4 minutes per side, or until they are lightly charred and cooked through.",
+    "Serve the patties on a crusty Italian roll or with a side of sautéed vegetables.",
+    "Optional: top with your favorite sauce or cheese."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "arabian",
+    "lentil",
+    "patty",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-saudi-arabian-lentil-grill--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:35:02.707Z"
+}
