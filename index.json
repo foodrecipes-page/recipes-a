@@ -187,14 +187,11 @@
   },
   {
     "slug": "adorable-brazilian-bread-cookies",
-    "title": "Adorable Brazilian Bread Cookies",
+    "title": "Brazilian Bread Cookies",
     "tags": [
       "brazilian",
-      "dessert",
-      "kid-friendly",
-      "quick",
-      "raclette-grill",
-      "vegetarian"
+      "cookies",
+      "bread"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 22,
@@ -2065,16 +2062,14 @@
   },
   {
     "slug": "airy-sweet-saudi-arabian-milk-pudding",
-    "title": "Airy Sweet Saudi Arabian Milk Pudding",
+    "title": "Saudi Arabian Sweet Pudding",
     "tags": [
+      "saudi arabian",
       "dessert",
-      "kosher-friendly",
-      "middle-eastern",
-      "special-occasion",
-      "sweet-tooth"
+      "vegetarian"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
@@ -3750,15 +3745,16 @@
   },
   {
     "slug": "apricot-miel-verde",
-    "title": "Apricot Miel Verde",
+    "title": "Verde Glazed Apricot Crumble",
     "tags": [
       "apricot",
-      "miel-verde",
-      "vegetarian",
-      "one-pot-dish"
+      "crumble",
+      "verde",
+      "glaze",
+      "dessert"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 40,
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
