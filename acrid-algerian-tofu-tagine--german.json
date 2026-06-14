@@ -1,0 +1,64 @@
+{
+  "slug": "acrid-algerian-tofu-tagine--german",
+  "title": "Spätzle with Tagine-Style Tofu",
+  "description": "A German-inspired vegetarian dish featuring crispy spätzle noodles topped with a flavorful tagine-style tofu, a North African twist.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "acrid",
+      "amount": "4 cups all-purpose flour",
+      "notes": ""
+    },
+    {
+      "name": "algerian",
+      "amount": "1/4 cup vegetable oil",
+      "notes": ""
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block firm tofu",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "2 cups vegetable broth",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Mix together flour, egg, and a pinch of salt to form spätzle dough.",
+    "Pipe dough into boiling water, 2-3 minutes.",
+    "Remove spätzle with a slotted spoon and set aside.",
+    "Crumble tofu into small pieces and cook in a skillet with vegetable oil over medium heat.",
+    "Add vegetable broth and simmer for 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Toss spätzle with a pinch of salt and serve with tagine-style tofu.",
+    "Garnish with fresh herbs, if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegetarian",
+    "spätzle",
+    "tagine-style"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-12T15:23:21.204Z"
+}
