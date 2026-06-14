@@ -1,0 +1,81 @@
+{
+  "slug": "amazingly-aromatic-algerian-chickpeas-tagine",
+  "title": "Algerian Chickpea Tagine",
+  "description": "A hearty and flavorful North African stew made with chickpeas, aromatic spices, and tenderly cooked meat.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chickpeas",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "algerian spice blend (or ras el hanout)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "amazingly aromatic onions",
+      "amount": "2 large, chopped"
+    },
+    {
+      "name": "aromatic ginger",
+      "amount": "2 inches, grated"
+    },
+    {
+      "name": "tagine-cut beef or lamb",
+      "amount": "1 lb, cut into 1-inch pieces"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the meat and cook until browned on all sides, about 5 minutes.",
+    "Remove the meat from the pot and set aside.",
+    "Add the onions and ginger to the pot and cook until the onions are translucent, about 5 minutes.",
+    "Add the spice blend and cook for 1 minute.",
+    "Add the chickpeas, meat, and 2 cups of water to the pot.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 300°F (150°C) for 1 1/2 hours, or until the meat is tender.",
+    "Stir in the parsley and season with salt and pepper to taste.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "vegetarian",
+    "stew",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-aromatic-algerian-chickpeas-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:32:44.656Z"
+}
