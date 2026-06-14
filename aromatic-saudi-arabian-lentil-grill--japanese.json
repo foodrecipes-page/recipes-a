@@ -1,0 +1,77 @@
+{
+  "slug": "aromatic-saudi-arabian-lentil-grill--japanese",
+  "title": "Grilled Lentil Skewers with Arabian Spice",
+  "description": "Inspired by Japanese flavors, these skewers combine the taste of Arabian spice with the simplicity of grilled lentils. A unique and delicious twist on traditional Japanese cuisine.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "sorted and rinsed"
+    },
+    {
+      "name": "arabian spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "grill oil",
+      "amount": "1 tsp",
+      "notes": "sesame oil or olive oil"
+    },
+    {
+      "name": "saudi dates",
+      "amount": "6",
+      "notes": "pitted"
+    },
+    {
+      "name": "aromatic onions",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Soak the red lentils in water for 30 minutes. Drain and rinse.",
+    "2. Preheat a grill to medium-high heat.",
+    "3. Thread a lentil, a date, and an onion slice onto each skewer.",
+    "4. Brush the skewers with grill oil and season with Arabian spice blend.",
+    "5. Grill the skewers for 5-7 minutes per side, or until slightly charred.",
+    "6. Brush with soy sauce during the last minute of grilling.",
+    "7. Serve hot, garnished with a drizzle of rice vinegar if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grill",
+    "arabic",
+    "japanese",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 18,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-saudi-arabian-lentil-grill--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:46:21.233Z"
+}
