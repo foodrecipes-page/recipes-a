@@ -1,0 +1,77 @@
+{
+  "slug": "airy-delicate-japanese-kidney-beans-nabemono",
+  "title": "Delicate Nabemono Bean Stew",
+  "description": "A light and flavorful Japanese-inspired stew made with delicate ingredients and a variety of beans. Perfect for a quick and easy dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kidney beans",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "Delicate Nabemono",
+      "amount": "1 packet"
+    },
+    {
+      "name": "Dried airy Japanese mushrooms",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sliced green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Grated ginger",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large pot over medium heat.",
+    "Add the mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add the vegetable broth, soy sauce, and ginger to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the kidney beans and Nabemono to the pot.",
+    "Stir to combine and cook for an additional 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with sliced green onions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "easy",
+    "healthy",
+    "japanesefood",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-delicate-japanese-kidney-beans-nabemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T00:02:14.788Z"
+}
