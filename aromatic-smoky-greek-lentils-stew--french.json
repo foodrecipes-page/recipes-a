@@ -1,0 +1,67 @@
+{
+  "slug": "aromatic-smoky-greek-lentils-stew--french",
+  "title": "French-Style Lentil Stew",
+  "description": "A hearty French-inspired stew made with lentils and a blend of aromatic spices.",
+  "cuisine": "french",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup dried"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 carrots, peeled and chopped"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 celery stalks, chopped"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 cloves garlic, minced"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 large onion, chopped"
+    },
+    {
+      "name": "greek",
+      "amount": "1 cup red wine (optional)"
+    },
+    {
+      "name": "stew",
+      "amount": "4 cups vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic, carrots, and celery, and cook for an additional 5 minutes.",
+    "Add lentils, wine (if using), and broth. Bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 30-40 minutes or until lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentils",
+    "stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-greek-lentils-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-12T17:04:50.373Z"
+}
