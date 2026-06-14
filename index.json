@@ -5970,17 +5970,16 @@
   },
   {
     "slug": "aromatic-saudi-arabian-lentil-grill",
-    "title": "Aromatic Saudi Arabian Lentil Grill",
+    "title": "Saudi Arabian Lentil Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
-      "lentil-based",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "kebabs",
+      "lentil",
+      "aromatic",
+      "saudi-arabian",
+      "grill"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -7902,6 +7901,188 @@
     ],
     "cuisine": "Thai",
     "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "acrid-algerian-tofu-tagine--german",
+    "title": "Spätzle with Tagine-Style Tofu",
+    "tags": [
+      "german",
+      "vegetarian",
+      "spätzle",
+      "tagine-style"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "acrid-algerian-tofu-tagine--gluten-free",
+    "title": "Tagine-Style Algerian Stew with Tofu and Acrid",
+    "tags": [
+      "algerian",
+      "gluten-free",
+      "stew",
+      "tofu",
+      "acrid"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-greek-lentils-stew--keto",
+    "title": "Greek Lentil Stew",
+    "tags": [
+      "keto-friendly",
+      "low-carb"
+    ],
+    "cuisine": "Greek",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-greek-lentils-stew--vegan",
+    "title": "Smoky Lentil Stew",
+    "tags": [
+      "lentil-stew",
+      "vegan-stew",
+      "smoky-flavors"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-greek-lentils-stew--gluten-free",
+    "title": "Greek Lentil Stew",
+    "tags": [
+      "greek",
+      "lentil",
+      "stew",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 55,
+    "shard": "a"
+  },
+  {
+    "slug": "acrid-algerian-tofu-tagine--chinese",
+    "title": "Chinese-Style Tofu Tagine",
+    "tags": [
+      "chinese",
+      "tagine",
+      "tofu",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-greek-lentils-stew--french",
+    "title": "French Lentil Stew",
+    "tags": [
+      "lentil-stew",
+      "french-cuisine",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 55,
+    "shard": "a"
+  },
+  {
+    "slug": "acrid-algerian-tofu-tagine--keto",
+    "title": "Algerian-Style Keto Tofu Tagine",
+    "tags": [
+      "keto",
+      "algerian",
+      "tagine",
+      "tofu",
+      "spicy"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "acrid-algerian-tofu-tagine--vegetarian",
+    "title": "Tagine Stew",
+    "tags": [
+      "algerian",
+      "stew",
+      "vegan",
+      "lentil-free"
+    ],
+    "cuisine": "Algerian",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-saudi-arabian-lentil-grill--italian",
+    "title": "Grilled Arabian Lentil Patties with Italian Flair",
+    "tags": [
+      "italian",
+      "arabian",
+      "lentil",
+      "patty",
+      "grill"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-saudi-arabian-lentil-grill--french",
+    "title": "French-Style Grilled Lentil Skewers",
+    "tags": [
+      "grilled",
+      "lentil",
+      "french",
+      "arabic"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-saudi-arabian-lentil-grill--chinese",
+    "title": "Chinese Lentil Kabobs",
+    "tags": [
+      "chinese",
+      "grill",
+      "kabobs",
+      "lentil"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 27,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-saudi-arabian-lentil-grill--german",
+    "title": "Lentil Curry with Saudi Arabian Spice",
+    "tags": [
+      "german",
+      "curry",
+      "lentil",
+      "arabian-spice",
+      "beef-sausage"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 65,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-saudi-arabian-lentil-grill--keto",
+    "title": "Saudi Arabian Lentil Kebabs",
+    "tags": [
+      "lentils",
+      "kebabs",
+      "saudi arabian",
+      "grill"
+    ],
+    "cuisine": "saudi arabian",
+    "totalTimeMin": 40,
     "shard": "a"
   }
 ]
