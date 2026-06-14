@@ -16,14 +16,14 @@
   },
   {
     "slug": "a-springy-energizing-korean-egg-bibimbap",
-    "title": "Springy Energizing Korean Egg Bibimbap",
+    "title": "Spicy Korean Bibimbap",
     "tags": [
-      "egg-bibimbap",
-      "energizing",
       "korean",
-      "springy"
+      "bibimbap",
+      "rice-bowl",
+      "vegetarian"
     ],
-    "cuisine": "Korean (Seoul)",
+    "cuisine": "Korean",
     "totalTimeMin": 35,
     "shard": "a"
   },
@@ -144,12 +144,14 @@
   },
   {
     "slug": "acrid-algerian-tofu-tagine",
-    "title": "Acrid Algerian Tofu Tagine",
+    "title": "Spicy Algerian Tagine with Tofu",
     "tags": [
-      "algerian",
-      "dinner"
+      "lunch",
+      "north-african",
+      "stew",
+      "vegetarian"
     ],
-    "cuisine": "Algerian",
+    "cuisine": "North African",
     "totalTimeMin": 40,
     "shard": "a"
   },
@@ -6345,18 +6347,14 @@
   },
   {
     "slug": "aromatic-smoky-greek-lentils-stew",
-    "title": "Aromatic Smoky Greek Lentils Stew",
+    "title": "Smoky Lentil Stew",
     "tags": [
-      "comfort",
-      "greek",
-      "lentil",
-      "low-fat",
-      "smoky",
-      "stew",
-      "veg"
+      "lentil-stew",
+      "greek-cuisine",
+      "comfort-food"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
