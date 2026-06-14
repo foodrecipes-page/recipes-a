@@ -1,0 +1,67 @@
+{
+  "slug": "awesome-autumnal-canadian-sweetcorn-hash",
+  "title": "Autumnal Sweetcorn Hash",
+  "description": "A hearty breakfast dish combining roasted autumnal ingredients with a crispy sweetcorn hash.",
+  "cuisine": "canadian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Autumnal Sweet Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Awesome Apples",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "Canadian Bacon",
+      "amount": "4 slices",
+      "notes": "diced"
+    },
+    {
+      "name": "Sweetcorn",
+      "amount": "1 cup",
+      "notes": "frozen, thawed"
+    },
+    {
+      "name": "Hash Browns",
+      "amount": "1 cup",
+      "notes": "pre-made"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Toss sweet potatoes and apples with 1 tbsp oil, salt, and pepper on a baking sheet. Roast for 20-25 minutes.",
+    "Cook Canadian bacon in a pan over medium heat until crispy. Set aside.",
+    "Add 1 tbsp oil to the same pan. Cook frozen sweetcorn until thawed and lightly browned.",
+    "Mix cooked sweetcorn with cooked Canadian bacon and diced hash browns.",
+    "Divide the roasted sweet potatoes and apples among four plates. Top each plate with the sweetcorn mixture.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "sweetcorn",
+    "autumnal",
+    "canadian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/awesome-autumnal-canadian-sweetcorn-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:42:35.996Z"
+}
