@@ -1,0 +1,86 @@
+{
+  "slug": "aromatic-saudi-arabian-lentil-grill--gluten-free",
+  "title": "Saudi Arabian Lentil Kebabs",
+  "description": "A flavorful and aromatic kebab recipe originating from Saudi Arabia, made with tender lentils and spices. This gluten-free dish is perfect for a quick and healthy meal.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Saudi",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "arabian",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "grill seasoning",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes.",
+    "Drain the lentils and heat the olive oil in a pan over medium heat.",
+    "Add the aromatic, Saudi, and Arabian spices and cook for 1 minute.",
+    "Add the lentils and cook for 5 minutes, stirring occasionally.",
+    "Preheat the grill to medium-high heat.",
+    "Thread the lentil mixture onto skewers, leaving a small space between each piece.",
+    "Brush the grill seasoning onto the skewers.",
+    "Grill the kebabs for 10-12 minutes, turning occasionally, until the lentils are tender and lightly charred.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "kebab",
+    "lentil",
+    "aromatic",
+    "saudi-arabian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-saudi-arabian-lentil-grill--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T08:03:26.192Z"
+}
