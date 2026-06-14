@@ -1,68 +1,63 @@
 {
   "slug": "acrid-algerian-tofu-tagine--keto",
-  "title": "Keto Algerian Tagine",
-  "description": "A keto twist on a traditional North African dish, featuring acrid spices and tender tofu. Perfect for a low-carb dinner.",
-  "cuisine": "North African",
+  "title": "Algerian-Style Keto Tofu Tagine",
+  "description": "A spicy and flavorful tagine made with tofu, inspired by Algerian cuisine, adapted to a keto diet.",
+  "cuisine": "Algerian",
   "diet": [
     "keto"
   ],
-  "meal": "dinner",
+  "meal": "lunch",
   "ingredients": [
     {
       "name": "Tofu",
-      "amount": "1 block (12 oz)",
-      "notes": ""
+      "amount": "1 block, drained and cut into 1-inch cubes"
     },
     {
-      "name": "Algerian spice blend",
-      "amount": "2 tsp",
-      "notes": ""
+      "name": "Acrid",
+      "amount": "2 tablespoons, finely chopped"
     },
     {
-      "name": "Acrid spices (cumin, coriander, cayenne)",
-      "amount": "1 tsp",
-      "notes": ""
+      "name": "Algerian",
+      "amount": "2 tablespoons, finely chopped"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1 small, sliced"
     },
     {
       "name": "Olive oil",
-      "amount": "2 tbsp",
-      "notes": ""
-    },
-    {
-      "name": "Garlic",
-      "amount": "2 cloves",
-      "notes": ""
-    },
-    {
-      "name": "Fresh parsley",
-      "amount": "1/4 cup",
-      "notes": ""
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
     },
     {
       "name": "Salt",
-      "amount": "to taste",
-      "notes": ""
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
     }
   ],
   "instructions": [
-    "1. Preheat oven to 400°F (200°C).",
-    "2. Cut the tofu into 1-inch cubes and place on a baking sheet lined with parchment paper.",
-    "3. Drizzle the olive oil over the tofu and sprinkle with Algerian spice blend, acrid spices, and garlic. Toss to coat.",
-    "4. Roast the tofu in the preheated oven for 20-25 minutes, or until golden brown and crispy.",
-    "5. While the tofu is roasting, chop the fresh parsley and set aside.",
-    "6. Once the tofu is done, remove from the oven and sprinkle with salt to taste.",
-    "7. Garnish with chopped parsley and serve hot."
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add tofu and cook until golden brown, about 5 minutes.",
+    "Add chopped acrid and Algerian and cook for 1 minute.",
+    "Add sliced tagine and cook for 2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional acrid and Algerian if desired.",
+    "Note: Traditionally, tagine is cooked in a clay pot with a conical lid, but a skillet will work for this recipe."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 25,
-  "totalTimeMin": 35,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "keto",
-    "north-african",
+    "algerian",
+    "tagine",
     "tofu",
-    "tagine"
+    "spicy"
   ],
   "nutrition": {
     "calories": 320,
@@ -73,5 +68,5 @@
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--keto",
   "providerUsed": "groq",
-  "createdAt": "2026-06-12T17:33:42.518Z"
+  "createdAt": "2026-06-12T18:31:03.105Z"
 }
