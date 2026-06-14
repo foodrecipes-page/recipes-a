@@ -7465,18 +7465,15 @@
   },
   {
     "slug": "awesome-autumnal-canadian-sweetcorn-hash",
-    "title": "Awesome Autumnal Canadian Sweetcorn Hash",
+    "title": "Autumnal Sweetcorn Hash",
     "tags": [
-      "autumnal",
-      "canadian",
-      "hash",
-      "lazy-sunday",
+      "breakfast",
       "sweetcorn",
-      "vegan",
-      "vegetarian"
+      "autumnal",
+      "canadian"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 40,
+    "cuisine": "canadian",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
