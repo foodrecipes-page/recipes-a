@@ -1,7 +1,7 @@
 {
   "slug": "aromatic-smoky-greek-lentils-stew--vegan",
   "title": "Smoky Lentil Stew",
-  "description": "A hearty and comforting stew made with smoky spices and lentils, perfect for a cold evening. This vegan dish is packed with protein and fiber.",
+  "description": "A hearty and comforting vegan stew made with smoky lentils and aromatic spices.",
   "cuisine": null,
   "diet": [
     "vegan"
@@ -9,71 +9,74 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "lentils",
+      "name": "Lentils",
       "amount": "1 cup",
-      "notes": "brown or green lentils work well"
+      "notes": "Any type of lentil works well for this recipe."
     },
     {
-      "name": "onion",
+      "name": "Onion",
       "amount": "1 medium",
-      "notes": null
+      "notes": "Chopped or sliced, your preference."
     },
     {
-      "name": "garlic",
+      "name": "Garlic",
       "amount": "3 cloves",
-      "notes": null
+      "notes": "Minced or crushed, as you like."
     },
     {
-      "name": "smoky",
-      "amount": "1 tsp",
-      "notes": "smoked paprika or chipotle powder work well"
+      "name": "Smoky Paprika",
+      "amount": "2 teaspoons",
+      "notes": "Adds a nice smoky depth to the stew."
     },
     {
-      "name": "aromatic",
-      "amount": "1 tsp",
-      "notes": "dried thyme or rosemary work well"
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": "Use a high-quality, salt-free paste."
     },
     {
-      "name": "tomato paste",
-      "amount": "2 tbsp",
-      "notes": null
+      "name": "Greek Tomatoes",
+      "amount": "1 can (14 oz)",
+      "notes": "Diced or crushed, whichever suits your taste."
     },
     {
-      "name": "stew",
-      "amount": "2 cups",
-      "notes": "vegetable or mushroom broth work well"
+      "name": "Vegetable Broth",
+      "amount": "4 cups",
+      "notes": "Low-sodium or homemade, if you prefer."
+    },
+    {
+      "name": "Aromatic Spices",
+      "amount": "1 teaspoon",
+      "notes": "A blend of your favorite spices, or a combination of cumin, coriander, and cinnamon."
     }
   ],
   "instructions": [
-    "Heat 2 tbsp of oil in a large pot over medium heat.",
-    "Add the onion and cook until softened, about 5 minutes.",
-    "Add the garlic and cook for an additional 1 minute.",
-    "Add the lentils, smoky spice, and aromatic spice. Cook for 1 minute.",
-    "Add the tomato paste and cook for 1 minute.",
-    "Add the stew and bring to a boil.",
-    "Reduce heat and simmer for 20-25 minutes, or until the lentils are tender.",
-    "Season with salt and pepper to taste.",
-    "Serve hot, garnished with fresh herbs if desired."
+    "Heat a large pot over medium heat.",
+    "Add the onion and garlic and sauté until softened, about 3-4 minutes.",
+    "Add the smoky paprika and stir for 1 minute.",
+    "Add the lentils, tomato paste, Greek tomatoes, and vegetable broth.",
+    "Stir to combine and bring to a boil.",
+    "Reduce the heat to low, cover, and simmer for 30-40 minutes, or until the lentils are tender.",
+    "Season with aromatic spices to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
   "servings": 4,
   "difficulty": "easy",
   "tags": [
-    "lentil",
-    "stew",
-    "vegan",
-    "comfort-food"
+    "lentil-stew",
+    "vegan-stew",
+    "smoky-flavors"
   ],
   "nutrition": {
-    "calories": 400,
+    "calories": 450,
     "protein": 20,
-    "carbs": 60,
+    "carbs": 70,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-greek-lentils-stew--vegan",
   "providerUsed": "groq",
-  "createdAt": "2026-06-12T15:56:28.962Z"
+  "createdAt": "2026-06-12T16:54:24.210Z"
 }
