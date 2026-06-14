@@ -1,0 +1,74 @@
+{
+  "slug": "alert-salty-egyptian-salmon-wrap",
+  "title": "Salmon Wrap",
+  "description": "A healthy and flavorful wrap filled with smoked salmon, topped with fresh herbs and a tangy sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "low-carb",
+    "grain-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Salmon fillet",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Egyptian pita wrap",
+      "amount": "1",
+      "notes": "preferably whole wheat"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fresh dill",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salty",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Season the salmon fillet with salt and pepper.",
+    "Wrap the salmon fillet in foil and bake for 12-15 minutes.",
+    "While the salmon is cooking, prepare the wrap filling by chopping the parsley and dill.",
+    "Once the salmon is cooked, let it cool for a few minutes.",
+    "Assemble the wrap by spreading a layer of lemon juice on the pita, followed by the salmon, parsley, and dill.",
+    "Season with salt to taste.",
+    "Roll up the wrap tightly and serve."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "salmon",
+    "wrap",
+    "middle-eastern",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/alert-salty-egyptian-salmon-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T22:12:06.105Z"
+}
