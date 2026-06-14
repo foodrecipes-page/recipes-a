@@ -2125,17 +2125,15 @@
   },
   {
     "slug": "alert-salty-egyptian-salmon-wrap",
-    "title": "Alert Salty Egyptian Salmon Wrap",
+    "title": "Salmon Wrap",
     "tags": [
-      "dairy-free",
-      "egyptian",
-      "meal-prep",
-      "quick",
-      "salty",
-      "wrap"
+      "salmon",
+      "wrap",
+      "middle-eastern",
+      "low-carb"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 15,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 22,
     "shard": "a"
   },
   {
@@ -3716,14 +3714,14 @@
   },
   {
     "slug": "apple-kimchi-stew",
-    "title": "Apple Kimchi Stew with Sous-Vide Braeburn Apples",
+    "title": "Kimchi Stew",
     "tags": [
-      "apple-kimchi-stew",
-      "sous-vide-apples",
-      "hangover-cure"
+      "korean",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 90,
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
