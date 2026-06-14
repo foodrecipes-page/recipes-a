@@ -1,0 +1,78 @@
+{
+  "slug": "apricot-miel-verde",
+  "title": "Verde Glazed Apricot Crumble",
+  "description": "Sweet and tangy apricots topped with a crunchy verde glaze and a crunchy crumble topping, perfect for a warm dessert.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apricot",
+      "amount": "2 cups, fresh or frozen"
+    },
+    {
+      "name": "miel",
+      "amount": "1/2 cup, honey"
+    },
+    {
+      "name": "verde",
+      "amount": "1/4 cup, green Chartreuse"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "butter",
+      "amount": "1/2 cup, melted"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "oatmeal",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1, beaten"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a small saucepan, combine the miel, verde, and 1 tablespoon water. Bring to a boil over medium heat, then reduce the heat to low and simmer for 5 minutes.",
+    "In a large bowl, mix together the almond flour, brown sugar, oatmeal, and egg until well combined.",
+    "In a separate bowl, mix the melted butter and the miel-verde glaze until smooth.",
+    "Add the apricot slices to the bowl with the crumble topping and toss until the apricots are evenly coated.",
+    "Transfer the apricots to a baking dish and top with the crumble topping.",
+    "Drizzle the miel-verde glaze over the crumble topping.",
+    "Bake for 35-40 minutes, or until the topping is golden brown and the apricots are tender.",
+    "Serve warm, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "apricot",
+    "crumble",
+    "verde",
+    "glaze",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/apricot-miel-verde",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T05:18:35.088Z"
+}
