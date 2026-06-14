@@ -1,0 +1,73 @@
+{
+  "slug": "aromatic-saudi-arabian-lentil-grill--mexican",
+  "title": "Grilled Lentil Tacos",
+  "description": "A flavorful twist on traditional tacos, featuring grilled lentils and a blend of Mexican spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Saudi Arabian aromatic spice blend",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Arabian grill seasoning",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "1/4 cup",
+      "amount": "water",
+      "notes": "for soaking lentils"
+    },
+    {
+      "name": "1",
+      "amount": "lime, juiced",
+      "notes": ""
+    },
+    {
+      "name": "1",
+      "amount": "avocado, diced",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Soak the lentils in water for at least 4 hours or overnight.",
+    "Drain and rinse the lentils, then place them in a bowl.",
+    "Mix the Saudi Arabian aromatic spice blend and Arabian grill seasoning with the lentils.",
+    "Heat a grill or grill pan to medium-high heat.",
+    "Add the lentil mixture to the grill and cook for 5-7 minutes per side, or until lightly charred.",
+    "Warm tacos shells according to package instructions.",
+    "Assemble the tacos by placing the grilled lentils into the shells.",
+    "Squeeze lime juice over the lentils and top with diced avocado if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "tacos",
+    "mexican",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-saudi-arabian-lentil-grill--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:43:10.168Z"
+}
