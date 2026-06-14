@@ -1,7 +1,7 @@
 {
   "slug": "acrid-algerian-tofu-tagine--gluten-free",
-  "title": "Algerian Tagine with Acrid Flavor",
-  "description": "A traditional Algerian dish with a twist, featuring a unique acrid flavor and served with a side of steamed vegetables. Perfect for a gluten-free meal.",
+  "title": "Tagine-Style Algerian Stew with Tofu and Acrid",
+  "description": "A flavorful and nutritious gluten-free stew inspired by Algerian cuisine, made with tofu, acrid, and tagine spices.",
   "cuisine": "Algerian",
   "diet": [
     "gluten-free"
@@ -9,61 +9,55 @@
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Algerian spice blend",
-      "amount": "2 tsp",
-      "notes": ""
+      "name": "Extra-firm tofu",
+      "amount": "1 block, drained and cubed"
     },
     {
-      "name": "Tofu",
-      "amount": "1 block",
-      "notes": "firm, drained and cut into 1-inch cubes"
+      "name": "Acrid",
+      "amount": "1 cup, chopped"
     },
     {
-      "name": "Acrid spice",
-      "amount": "1 tsp",
-      "notes": "use a combination of ground ginger and cumin"
+      "name": "Tagine spice mix",
+      "amount": "2 tsp"
     },
     {
       "name": "Olive oil",
-      "amount": "2 tbsp",
-      "notes": ""
+      "amount": "2 tbsp"
     },
     {
       "name": "Onion",
-      "amount": "1 medium",
-      "notes": "chopped"
+      "amount": "1 medium, chopped"
     },
     {
       "name": "Garlic",
-      "amount": "3 cloves",
-      "notes": "minced"
+      "amount": "3 cloves, minced"
     },
     {
-      "name": "Tomato",
-      "amount": "1 can",
-      "notes": "diced"
+      "name": "Chickpeas",
+      "amount": "1 can, drained and rinsed"
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can"
     },
     {
       "name": "Salt",
-      "amount": "to taste",
-      "notes": ""
+      "amount": "to taste"
     },
     {
-      "name": "Black pepper",
-      "amount": "to taste",
-      "notes": ""
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped (for garnish)"
     }
   ],
   "instructions": [
-    "Heat the olive oil in a large Dutch oven over medium heat.",
-    "Add the chopped onion and cook until softened, about 5 minutes.",
-    "Add the minced garlic and cook for another minute.",
-    "Add the Algerian spice blend, acrid spice, salt, and black pepper. Cook for 1 minute.",
-    "Add the tofu and cook until browned on all sides, about 5 minutes.",
-    "Add the diced tomato and cook for another 5 minutes.",
-    "Reduce heat to low and simmer, covered, for 15 minutes.",
-    "Serve hot, garnished with chopped fresh herbs, if desired.",
-    "Serve with a side of steamed vegetables, such as broccoli or carrots."
+    "1. Heat the olive oil in a large saucepan over medium heat.",
+    "2. Add the chopped onion and sauté until softened, about 5 minutes.",
+    "3. Add the minced garlic and cook for another minute.",
+    "4. Add the cubed tofu and cook until golden brown, about 5 minutes.",
+    "5. Add the chopped acrid, tagine spice mix, chickpeas, diced tomatoes, and salt. Stir well.",
+    "6. Bring the mixture to a simmer and let cook for 20-25 minutes, or until the flavors have melded together and the tofu is cooked through.",
+    "7. Taste and adjust the seasoning as needed.",
+    "8. Garnish with chopped fresh parsley and serve over gluten-free couscous or rice."
   ],
   "prepTimeMin": 15,
   "cookTimeMin": 25,
@@ -72,19 +66,19 @@
   "difficulty": "medium",
   "tags": [
     "algerian",
-    "acrid",
     "gluten-free",
+    "stew",
     "tofu",
-    "tagine"
+    "acrid"
   ],
   "nutrition": {
     "calories": 350,
     "protein": 20,
-    "carbs": 20,
-    "fat": 10
+    "carbs": 30,
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--gluten-free",
   "providerUsed": "groq",
-  "createdAt": "2026-06-12T15:39:22.158Z"
+  "createdAt": "2026-06-12T16:42:06.656Z"
 }
