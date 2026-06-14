@@ -1,0 +1,76 @@
+{
+  "slug": "airy-italian-herring-pan-fried-gnocchi",
+  "title": "Crispy Fried Gnocchi",
+  "description": "A simple yet satisfying Italian-inspired dish that combines soft gnocchi with a crunchy fried crust.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Gnocchi",
+      "amount": "1 package (12 oz)"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Milk",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 375°F (190°C).",
+    "2. In a bowl, combine flour, egg, milk, salt, and black pepper. Mix well to form a smooth dough.",
+    "3. Knead the dough for 5 minutes until it becomes elastic.",
+    "4. Divide the dough into 4 equal parts and roll each part into a long rope.",
+    "5. Cut the rope into 1-inch pieces to form the gnocchi.",
+    "6. Dip each gnocchi into the flour, then the beaten egg, and finally the breadcrumbs to coat.",
+    "7. Carefully place the coated gnocchi into the hot oil.",
+    "8. Fry the gnocchi for 2-3 minutes on each side until golden brown and crispy.",
+    "9. Remove the fried gnocchi from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "10. Serve the crispy fried gnocchi hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fried",
+    "gnocchi"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-italian-herring-pan-fried-gnocchi",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-10T21:37:26.152Z"
+}
