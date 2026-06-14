@@ -1888,17 +1888,14 @@
   },
   {
     "slug": "airy-italian-herring-pan-fried-gnocchi",
-    "title": "Airy Italian Herring Pan-Fried Gnocchi",
+    "title": "Crispy Fried Gnocchi",
     "tags": [
-      "fish",
-      "gluten-free",
-      "high-protein",
       "italian",
-      "low-calorie",
-      "weeknight"
+      "fried",
+      "gnocchi"
     ],
-    "cuisine": "italian",
-    "totalTimeMin": 27,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -2821,17 +2818,15 @@
   },
   {
     "slug": "amazingly-aromatic-algerian-chickpeas-tagine",
-    "title": "Amazingly Aromatic Algerian Chickpeas Tagine",
+    "title": "Algerian Chickpea Tagine",
     "tags": [
-      "copper-pot",
-      "high-protein",
-      "north-african",
-      "one-pan",
-      "vegetarian-friendly",
-      "weeknight"
+      "north african",
+      "vegetarian",
+      "stew",
+      "tagine"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 35,
+    "cuisine": "North African",
+    "totalTimeMin": 105,
     "shard": "a"
   },
   {
