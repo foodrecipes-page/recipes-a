@@ -1,0 +1,90 @@
+{
+  "slug": "acrid-algerian-tofu-tagine--gluten-free",
+  "title": "Algerian Tagine with Acrid Flavor",
+  "description": "A traditional Algerian dish with a twist, featuring a unique acrid flavor and served with a side of steamed vegetables. Perfect for a gluten-free meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "firm, drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "Acrid spice",
+      "amount": "1 tsp",
+      "notes": "use a combination of ground ginger and cumin"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 can",
+      "notes": "diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for another minute.",
+    "Add the Algerian spice blend, acrid spice, salt, and black pepper. Cook for 1 minute.",
+    "Add the tofu and cook until browned on all sides, about 5 minutes.",
+    "Add the diced tomato and cook for another 5 minutes.",
+    "Reduce heat to low and simmer, covered, for 15 minutes.",
+    "Serve hot, garnished with chopped fresh herbs, if desired.",
+    "Serve with a side of steamed vegetables, such as broccoli or carrots."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "acrid",
+    "gluten-free",
+    "tofu",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-12T15:39:22.158Z"
+}
