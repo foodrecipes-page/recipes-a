@@ -1,0 +1,52 @@
+{
+  "slug": "airy-sweet-saudi-arabian-milk-pudding",
+  "title": "Saudi Arabian Sweet Pudding",
+  "description": "A traditional Saudi dessert, made with airy sweet pudding, perfect for hot days.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "airy pudding",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sweet arabian milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "arabian saudi pudding powder",
+      "amount": "2 tablespoons",
+      "notes": "available at most Middle Eastern grocery stores"
+    }
+  ],
+  "instructions": [
+    "Combine airy pudding and sweet arabian milk in a bowl.",
+    "Whisk until well combined and smooth.",
+    "Add arabian saudi pudding powder and whisk until thickened.",
+    "Chill in the refrigerator for at least 30 minutes.",
+    "Serve cold and garnish with additional powdered pudding if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "saudi arabian",
+    "dessert",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-sweet-saudi-arabian-milk-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T03:18:36.040Z"
+}
