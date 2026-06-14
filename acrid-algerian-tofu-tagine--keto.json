@@ -1,0 +1,77 @@
+{
+  "slug": "acrid-algerian-tofu-tagine--keto",
+  "title": "Keto Algerian Tagine",
+  "description": "A keto twist on a traditional North African dish, featuring acrid spices and tender tofu. Perfect for a low-carb dinner.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (12 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Acrid spices (cumin, coriander, cayenne)",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Cut the tofu into 1-inch cubes and place on a baking sheet lined with parchment paper.",
+    "3. Drizzle the olive oil over the tofu and sprinkle with Algerian spice blend, acrid spices, and garlic. Toss to coat.",
+    "4. Roast the tofu in the preheated oven for 20-25 minutes, or until golden brown and crispy.",
+    "5. While the tofu is roasting, chop the fresh parsley and set aside.",
+    "6. Once the tofu is done, remove from the oven and sprinkle with salt to taste.",
+    "7. Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "north-african",
+    "tofu",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 5,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-12T17:33:42.518Z"
+}
