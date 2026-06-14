@@ -1,0 +1,78 @@
+{
+  "slug": "aromatic-saudi-arabian-lentil-grill--thai",
+  "title": "Thai-Style Grilled Lentil Cakes",
+  "description": "A flavorful and healthy dish inspired by the streets of Thailand, featuring grilled lentil cakes infused with aromatic spices.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "aromatic rice",
+      "amount": "1/2 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "saudi Arabian spice blend",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "grill seasoning",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "eggplant",
+      "amount": "1/2 cup",
+      "notes": "finely chopped"
+    }
+  ],
+  "instructions": [
+    "Soak the red lentils in water for at least 4 hours.",
+    "Drain and rinse the lentils, then mash them in a bowl.",
+    "Add the cooked aromatic rice, saudi Arabian spice blend, grill seasoning, onion, garlic, and eggplant to the bowl. Mix well.",
+    "Divide the mixture into 4-6 portions, depending on desired cake size.",
+    "Shape each portion into a patty.",
+    "Heat a non-stick skillet or grill over medium heat.",
+    "Add 2-3 patties to the skillet or grill and cook for 4-5 minutes per side.",
+    "Serve the grilled lentil cakes hot with your favorite Thai-style sauce.",
+    "Repeat with remaining patties."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil",
+    "thai",
+    "grilled",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-saudi-arabian-lentil-grill--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:46:46.751Z"
+}
