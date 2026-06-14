@@ -1,0 +1,93 @@
+{
+  "slug": "aromatic-saudi-arabian-lentil-grill--indian",
+  "title": "Saudi Arabian Lentil Curry",
+  "description": "A flavorful and aromatic Indian-inspired lentil curry made with saudi spices. Serve over rice or with naan bread.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red or Brown Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Saudi Arabian Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Tomato Puree",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, garlic, and ginger; sauté until the onion is translucent.",
+    "Add spice blend and sauté for 1 minute.",
+    "Add tomato puree and water; bring to a boil.",
+    "Add lentils; reduce heat to low and simmer for 20-25 minutes or until the lentils are tender.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro.",
+    "Serve over rice or with naan bread."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentil-curry",
+    "saudi-arabian",
+    "indian-cuisine",
+    "vegetarian-recipes"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-saudi-arabian-lentil-grill--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:45:33.183Z"
+}
