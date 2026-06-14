@@ -3438,16 +3438,15 @@
   },
   {
     "slug": "amazingly-sweet-russian-beet-borscht",
-    "title": "Russian Beet Borscht",
+    "title": "Classic Borscht",
     "tags": [
-      "beet",
+      "beets",
+      "rusian",
       "soup",
-      "russian",
-      "vegetarian",
-      "gluten-free"
+      "vegetarian"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
