@@ -1,0 +1,88 @@
+{
+  "slug": "aromatic-saudi-arabian-lentil-grill--vegan",
+  "title": "Saudi Arabian Lentil Stew",
+  "description": "A hearty and flavorful stew made with lentils, aromatic spices, and a hint of Middle Eastern flair. Perfect for a comforting vegan meal.",
+  "cuisine": "arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": "brown or green lentils work well"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": null
+    },
+    {
+      "name": "Aromatic spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Saudi Arabian spice mix",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "Grill seasoning",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and ginger. Cook until softened, about 5 minutes.",
+    "Add aromatic spice blend, Saudi Arabian spice mix, and grill seasoning. Cook for 1 minute.",
+    "Add tomato paste. Cook for 1 minute.",
+    "Add lentils and vegetable broth. Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "arabian",
+    "lentil",
+    "vegan",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-saudi-arabian-lentil-grill--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:47:33.743Z"
+}
