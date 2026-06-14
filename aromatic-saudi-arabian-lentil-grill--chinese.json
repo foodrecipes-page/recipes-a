@@ -1,0 +1,76 @@
+{
+  "slug": "aromatic-saudi-arabian-lentil-grill--chinese",
+  "title": "Chinese Lentil Kabobs",
+  "description": "Grilled lentil skewers with an aromatic twist, inspired by Saudi Arabian flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lentils",
+      "amount": "1 cup",
+      "notes": "Cooked"
+    },
+    {
+      "name": "Aromatic rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup",
+      "notes": "For grilling"
+    },
+    {
+      "name": "Saudia Arabian spice blend",
+      "amount": "1 tsp",
+      "notes": "For added flavor"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "For marinade"
+    },
+    {
+      "name": "Grill",
+      "amount": "",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Soak 1 cup of lentils overnight and cook according to package instructions.",
+    "Mix cooked lentils with 2 tbsp of rice vinegar, 1 tsp of Saudia Arabian spice blend, and 2 tbsp of lime juice.",
+    "Thread the lentil mixture onto skewers, leaving a little space between each piece.",
+    "Brush the grill with 1/4 cup of olive oil and preheat to medium-high heat.",
+    "Grill the lentil skewers for 5-7 minutes per side, until lightly charred.",
+    "Garnish with fresh cilantro and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "grill",
+    "kabobs",
+    "lentil"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-saudi-arabian-lentil-grill--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-13T06:39:34.600Z"
+}
