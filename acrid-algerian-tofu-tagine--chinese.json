@@ -1,0 +1,88 @@
+{
+  "slug": "acrid-algerian-tofu-tagine--chinese",
+  "title": "Chinese-Style Tofu Tagine",
+  "description": "A fusion dish blending Chinese and North African flavors, using tofu and tagine spices in a savory sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Algerian tagine spice blend",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Acrid rice vinegar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Press and drain the tofu, then cut it into 1-inch cubes.",
+    "2. In a small bowl, whisk together the soy sauce, rice vinegar, and Algerian tagine spice blend.",
+    "3. In a large skillet or wok, heat 1 tablespoon of olive oil over medium-high heat.",
+    "4. Add the tofu and cook until golden brown, about 3-4 minutes per side.",
+    "5. Remove the tofu from the skillet and set aside.",
+    "6. Reduce heat to medium and add the remaining 1 tablespoon of olive oil.",
+    "7. Add the minced garlic and cook for 1 minute, until fragrant.",
+    "8. Add the ginger and cook for an additional minute.",
+    "9. Pour in the soy sauce and rice vinegar mixture, and bring to a simmer.",
+    "10. Return the tofu to the skillet and stir to coat with the sauce.",
+    "11. Cook for an additional 2-3 minutes, until the sauce has thickened slightly.",
+    "12. Garnish with scallions and serve over rice or noodles."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "tagine",
+    "tofu",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-12T16:32:20.631Z"
+}
