@@ -8084,5 +8084,85 @@
     "cuisine": "saudi arabian",
     "totalTimeMin": 40,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-saudi-arabian-lentil-grill--mexican",
+    "title": "Grilled Lentil Tacos",
+    "tags": [
+      "lentil",
+      "tacos",
+      "mexican",
+      "grilled"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-saudi-arabian-lentil-grill--indian",
+    "title": "Saudi Arabian Lentil Curry",
+    "tags": [
+      "lentil-curry",
+      "saudi-arabian",
+      "indian-cuisine",
+      "vegetarian-recipes"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-saudi-arabian-lentil-grill--japanese",
+    "title": "Grilled Lentil Skewers with Arabian Spice",
+    "tags": [
+      "grill",
+      "arabic",
+      "japanese",
+      "veggie"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 27,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-saudi-arabian-lentil-grill--thai",
+    "title": "Thai-Style Grilled Lentil Cakes",
+    "tags": [
+      "lentil",
+      "thai",
+      "grilled",
+      "vegan"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-saudi-arabian-lentil-grill--vegan",
+    "title": "Saudi Arabian Lentil Stew",
+    "tags": [
+      "saudi-arabian",
+      "arabian",
+      "lentil",
+      "vegan",
+      "stew"
+    ],
+    "cuisine": "arabian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-saudi-arabian-lentil-grill--gluten-free",
+    "title": "Saudi Arabian Lentil Kebabs",
+    "tags": [
+      "kebab",
+      "lentil",
+      "aromatic",
+      "saudi-arabian",
+      "gluten-free"
+    ],
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
