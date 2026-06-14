@@ -1,0 +1,77 @@
+{
+  "slug": "acrid-algerian-tofu-tagine--vegetarian",
+  "title": "Algerian Tagine Stew",
+  "description": "A flavorful and aromatic stew made with tofu, algerian spices, and acrid notes, perfect for a warm and comforting meal.",
+  "cuisine": "Algerian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Algerian spice mix",
+      "amount": "2 tsp",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "extra firm"
+    },
+    {
+      "name": "Acrid spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most middle eastern markets"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large clay pot or Dutch oven over medium heat.",
+    "Add the garlic and ginger and cook, stirring occasionally, until fragrant, about 4 minutes.",
+    "Add the algerian spice mix and acrid spice blend and cook for 1 minute.",
+    "Add the tofu and cook, stirring occasionally, until browned on all sides, about 5 minutes.",
+    "Add the water and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-12T17:42:15.094Z"
+}
