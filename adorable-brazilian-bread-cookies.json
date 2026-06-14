@@ -1,0 +1,64 @@
+{
+  "slug": "adorable-brazilian-bread-cookies",
+  "title": "Brazilian Bread Cookies",
+  "description": "A sweet treat inspired by Brazilian flavors, these cookies are a perfect combination of crunchy and chewy.",
+  "cuisine": "Brazilian",
+  "diet": [],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Brazilian bread",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "cookies",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "melted butter",
+      "amount": "1/4 cup",
+      "notes": "cooled slightly"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (180°C).",
+    "2. In a large mixing bowl, cream together the sugar and melted butter until light and fluffy.",
+    "3. Beat in the eggs and vanilla extract.",
+    "4. Stir in the crushed cookies and cubed bread.",
+    "5. Drop rounded tablespoonfuls of the dough onto a baking sheet lined with parchment paper.",
+    "6. Bake for 12-15 minutes or until the edges are lightly golden.",
+    "7. Remove from the oven and let cool on the baking sheet for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "brazilian",
+    "cookies",
+    "bread"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adorable-brazilian-bread-cookies",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-11T04:13:36.766Z"
+}
