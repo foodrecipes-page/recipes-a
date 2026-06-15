@@ -8164,5 +8164,189 @@
     "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-greek-lentils-stew--thai",
+    "title": "Thai Lentil Stew",
+    "tags": [
+      "lentils",
+      "thai",
+      "stew",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "acrid-algerian-tofu-tagine--mexican",
+    "title": "Mexican Tofu Tagine Tacos",
+    "tags": [
+      "mexican",
+      "tofu",
+      "tagine",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "acrid-algerian-tofu-tagine--indian",
+    "title": "Spicy Tofu Tagine",
+    "tags": [
+      "indian",
+      "tagine",
+      "spicy",
+      "tofu"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-greek-lentils-stew--italian",
+    "title": "Italian Lentil Stew",
+    "tags": [
+      "italian",
+      "lentil",
+      "stew",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-greek-lentils-stew--japanese",
+    "title": "Smoky Lentil Stew",
+    "tags": [
+      "lentil",
+      "stew",
+      "japanese",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-greek-lentils-stew--mexican",
+    "title": "Smoky Lentil Stew",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "lentils",
+      "stew"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-greek-lentils-stew--german",
+    "title": "German Lentil Stew",
+    "tags": [
+      "german",
+      "lentil-stew",
+      "vegetarian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
+    "slug": "acrid-algerian-tofu-tagine--japanese",
+    "title": "Japanese-Style Pan-Seared Tofu Tagine",
+    "tags": [
+      "japanese",
+      "tofu",
+      "tagine",
+      "lunch"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-greek-lentils-stew--chinese",
+    "title": "Smoky Lentil Stew",
+    "tags": [
+      "chinese",
+      "stew",
+      "lentil",
+      "vegetarian"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-greek-lentils-stew--indian",
+    "title": "Smoky Lentil Stew",
+    "tags": [
+      "indian",
+      "lentils",
+      "stew",
+      "smoky"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "acrid-algerian-tofu-tagine--thai",
+    "title": "Thai Tofu Tagine",
+    "tags": [
+      "thaifood",
+      "tofu",
+      "curry",
+      "vegetarian"
+    ],
+    "cuisine": "thaicuisine",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoky-greek-lentils-stew--vegetarian",
+    "title": "Stewy Lentil Delight",
+    "tags": [
+      "lentil",
+      "stew",
+      "vegetarian",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "acrid-algerian-tofu-tagine--vegan",
+    "title": "Spicy Algerian Tagine Stew",
+    "tags": [
+      "vegan",
+      "north-african",
+      "stew",
+      "lunch"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "acrid-algerian-tofu-tagine--french",
+    "title": "Tagine with Tofu and Algerian Spices",
+    "tags": [
+      "french",
+      "vegetarian",
+      "tofu",
+      "tagine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "a"
   }
 ]
