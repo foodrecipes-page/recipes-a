@@ -1,0 +1,76 @@
+{
+  "slug": "aromatic-smoky-greek-lentils-stew--indian",
+  "title": "Smoky Lentil Stew",
+  "description": "A hearty and comforting Indian-inspired stew made with smoky spices and aromatic herbs.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "smoky spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "aromatic curry powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "4 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for an additional 1 minute.",
+    "Add smoky spice blend and aromatic curry powder. Cook for 1 minute, stirring constantly.",
+    "Add tomato paste and cook for 2 minutes, stirring constantly.",
+    "Add lentils and stew. Bring to a boil, then reduce heat and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentils",
+    "stew",
+    "smoky"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-greek-lentils-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-15T02:54:50.198Z"
+}
