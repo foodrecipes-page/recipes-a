@@ -1,0 +1,83 @@
+{
+  "slug": "acrid-algerian-tofu-tagine--thai",
+  "title": "Thai Tofu Tagine",
+  "description": "A spicy and flavorful Thai-inspired dish made with tofu, vegetables, and a blend of aromatic spices.",
+  "cuisine": "thaicuisine",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "400g",
+      "notes": "firm, drained, and cut into 1-inch cubes"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tablespoons",
+      "notes": "coconut oil"
+    },
+    {
+      "name": "acrid",
+      "amount": "1 tablespoon",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup",
+      "notes": " Thai red curry sauce"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 teaspoons",
+      "notes": "optional"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "fresh"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of coconut oil in a large skillet or wok over medium-high heat.",
+    "Add the Thai red curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes.",
+    "Add the Thai red curry sauce, brown sugar, fish sauce, and lime juice.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve over steamed rice or noodles.",
+    "Optional: serve with sliced fresh chilies and lime wedges on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thaifood",
+    "tofu",
+    "curry",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-15T02:55:30.295Z"
+}
