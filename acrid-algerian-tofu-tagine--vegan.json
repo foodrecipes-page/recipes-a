@@ -1,0 +1,62 @@
+{
+  "slug": "acrid-algerian-tofu-tagine--vegan",
+  "title": "Spicy Algerian Tagine Stew",
+  "description": "A flavorful and spicy vegan stew made with a tagine, perfect for a hearty meal. This stew is inspired by North African cuisine and features a rich and aromatic flavor profile.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "algerian",
+      "amount": "2 cups",
+      "notes": "chopped"
+    },
+    {
+      "name": "acrid",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "cubed"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat a large pan over medium heat.",
+    "Add the algerian and acrid and cook until fragrant.",
+    "Add the cubed tofu and cook until golden brown.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "north-african",
+    "stew",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-15T02:57:15.578Z"
+}
