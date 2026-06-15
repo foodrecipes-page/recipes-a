@@ -1,0 +1,76 @@
+{
+  "slug": "acrid-algerian-tofu-tagine--indian",
+  "title": "Spicy Tofu Tagine",
+  "description": "An Indian-inspired dish that combines the flavors of a traditional tagine with the versatility of tofu.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "firm, drained, and cut into small cubes"
+    },
+    {
+      "name": "acrid",
+      "amount": "1 teaspoon",
+      "notes": "ground or whole spices, adjust to taste"
+    },
+    {
+      "name": "algerian",
+      "amount": "1 teaspoon",
+      "notes": "ground or whole spices, adjust to taste"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup",
+      "notes": "canned or homemade, crushed tomatoes"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for frying tofu"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion and ginger; sauté until softened.",
+    "Add tofu; fry until golden brown.",
+    "Add tagine, acrid, and algerian spice mix; stir well.",
+    "Simmer for 15 minutes, stirring occasionally.",
+    "Garnish with fresh cilantro (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "tagine",
+    "spicy",
+    "tofu"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-15T02:48:31.923Z"
+}
