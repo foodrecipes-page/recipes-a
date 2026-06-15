@@ -1,0 +1,84 @@
+{
+  "slug": "acrid-algerian-tofu-tagine--mexican",
+  "title": "Mexican Tofu Tagine Tacos",
+  "description": "A flavorful fusion of Mexican and North African cuisine, featuring crispy tacos filled with marinated tofu and tagine sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": ""
+    },
+    {
+      "name": "algerian tagine",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "acrid hot sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "corn tortillas",
+      "amount": "8-10",
+      "notes": "for tacos"
+    },
+    {
+      "name": "avocado",
+      "amount": "1",
+      "notes": "sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet over medium-high heat.",
+    "Cut the tofu into small cubes and marinate in lime juice, cumin, chili powder, and acrid hot sauce (if using) for at least 30 minutes.",
+    "Heat 1 tbsp of oil in the skillet and cook the tofu until crispy on all sides, about 5-7 minutes.",
+    "In a separate pan, heat the algerian tagine over medium heat.",
+    "Warm the corn tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing the tofu onto a tortilla and spooning the tagine sauce over the top.",
+    "Serve with sliced avocado and additional hot sauce (if desired).",
+    "Garnish with cilantro, onion, and a squeeze of lime juice.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tofu",
+    "tagine",
+    "tacos"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-15T02:48:27.102Z"
+}
