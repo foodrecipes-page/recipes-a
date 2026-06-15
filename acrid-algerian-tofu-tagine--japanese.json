@@ -1,0 +1,54 @@
+{
+  "slug": "acrid-algerian-tofu-tagine--japanese",
+  "title": "Japanese-Style Pan-Seared Tofu Tagine",
+  "description": "A twist on traditional Moroccan tagine, this Japanese-inspired dish combines pan-seared tofu with a rich, flavorful sauce.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Algerian tagine spice blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Acrid mirin",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a large skillet over medium-high.",
+    "Cut the tofu into 1-inch cubes and pan-fry until golden brown.",
+    "In a small bowl, whisk together mirin, soy sauce, and tagine spice blend.",
+    "Pour the sauce over the tofu and simmer for 5 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "tofu",
+    "tagine",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-15T02:51:00.108Z"
+}
