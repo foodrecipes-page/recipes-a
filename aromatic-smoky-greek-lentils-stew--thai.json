@@ -1,0 +1,97 @@
+{
+  "slug": "aromatic-smoky-greek-lentils-stew--thai",
+  "title": "Thai Lentil Stew",
+  "description": "A flavorful and spicy Thai-inspired stew made with red lentils, aromatic spices, and smoky undertones.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tsp",
+      "notes": "ground cumin and coriander"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 tsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "greek",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "stew",
+      "amount": "1 liter",
+      "notes": "vegetable broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and garlic and cook for another minute.",
+    "Add lentils, tomato paste, aromatic spices, smoky spices, and Greek herbs.",
+    "Stir to combine and cook for 1 minute.",
+    "Add stew and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until lentils are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired.",
+    "Store leftovers in the refrigerator for up to 3 days or freeze for up to 2 months."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "thai",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-greek-lentils-stew--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-15T02:48:24.751Z"
+}
