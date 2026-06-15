@@ -1,0 +1,67 @@
+{
+  "slug": "aromatic-smoky-greek-lentils-stew--japanese",
+  "title": "Smoky Lentil Stew",
+  "description": "A hearty Japanese-inspired stew made with smoky spices and healthy lentils.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "sorted and rinsed"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 onion",
+      "notes": "diced"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 teaspoons smoked paprika",
+      "notes": ""
+    },
+    {
+      "name": "greek",
+      "amount": "2 cloves garlic",
+      "notes": "minced"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups vegetable broth",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic, cook until softened.",
+    "Add lentils, smoked paprika, and vegetable broth.",
+    "Bring to a boil, then reduce heat and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with green onions if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "stew",
+    "japanese",
+    "vegetarian",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-greek-lentils-stew--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-15T02:48:55.171Z"
+}
