@@ -1,0 +1,95 @@
+{
+  "slug": "aromatic-smoky-greek-lentils-stew--italian",
+  "title": "Italian Lentil Stew",
+  "description": "A hearty and flavorful Italian-inspired stew made with red lentils, aromatic vegetables, and smoky spices.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "canned"
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "dried basil",
+      "amount": "1 teaspoon",
+      "notes": "fresh"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the chopped onion, carrot, and celery, and cook until the vegetables are tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the rinsed lentils, tomato paste, smoked oregano, fresh basil, salt, and black pepper.",
+    "Stir to combine and cook for 1 minute.",
+    "Add 4 cups of water to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 30-40 minutes, or until the lentils are tender.",
+    "Serve hot, garnished with fresh parsley and crusty bread on the side."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "lentil",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 18,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-greek-lentils-stew--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-15T02:48:47.070Z"
+}
