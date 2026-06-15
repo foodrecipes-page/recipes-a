@@ -1,0 +1,92 @@
+{
+  "slug": "aromatic-smoky-greek-lentils-stew--german",
+  "title": "German Lentil Stew",
+  "description": "A hearty and comforting German stew made with lentils, vegetables, and aromatic spices. Perfect for a chilly evening.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lentils",
+      "amount": "1 cup",
+      "notes": "green or brown"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tsp",
+      "notes": "dried thyme and bay leaves"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    },
+    {
+      "name": "smoky",
+      "amount": "1 tsp",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "greek",
+      "amount": "1 tsp",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion, carrot, and celery; cook until tender, about 5 minutes.",
+    "Add lentils, broth, smoked paprika, thyme, and bay leaves. Bring to a boil, then reduce heat to low.",
+    "Simmer for 30 minutes, or until lentils are tender.",
+    "Stir in chopped potato and cook for an additional 15 minutes.",
+    "Season with salt, pepper, and dried oregano.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "lentil-stew",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 22,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-greek-lentils-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-15T02:50:45.860Z"
+}
