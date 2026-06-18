@@ -1,85 +1,94 @@
 {
   "slug": "adventurous-crispy-pork-ribs--mexican",
   "title": "Mexican Pork Ribs",
-  "description": "A twist on traditional pork ribs, these Mexican-style ribs are slow-cooked in a flavorful chipotle tomato sauce.",
+  "description": "A flavorful and spicy Mexican-inspired pork rib dish, perfect for a weekend dinner.",
   "cuisine": "mexican",
   "diet": null,
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "pork ribs",
+      "name": "Pork Ribs",
       "amount": "2 pounds",
-      "notes": "baby back or St. Louis style"
+      "notes": ""
     },
     {
-      "name": "chipotle peppers in adobo sauce",
-      "amount": "1/4 cup",
-      "notes": "canned"
+      "name": "Ancho Chili Powder",
+      "amount": "2 teaspoons",
+      "notes": ""
     },
     {
-      "name": "ketchup",
-      "amount": "1/2 cup",
-      "notes": "homemade or store-bought"
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
     },
     {
-      "name": "brown sugar",
+      "name": "Brown Sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Tortilla Chips",
+      "amount": "1 cup, crushed",
+      "notes": ""
+    },
+    {
+      "name": "Adventurous Spice Blend",
+      "amount": "1 teaspoon",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Lime Juice",
       "amount": "2 tablespoons",
-      "notes": "or to taste"
+      "notes": ""
     },
     {
-      "name": "cumin",
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
       "amount": "1 teaspoon",
-      "notes": "ground"
+      "notes": ""
     },
     {
-      "name": "smoked paprika",
+      "name": "Black Pepper",
       "amount": "1/2 teaspoon",
-      "notes": "optional"
-    },
-    {
-      "name": "garlic powder",
-      "amount": "1/2 teaspoon",
-      "notes": "optional"
-    },
-    {
-      "name": "salt",
-      "amount": "1 teaspoon",
-      "notes": "or to taste"
-    },
-    {
-      "name": "black pepper",
-      "amount": "1/2 teaspoon",
-      "notes": "or to taste"
+      "notes": ""
     }
   ],
   "instructions": [
     "Preheat oven to 300°F (150°C).",
-    "In a small bowl, mix together chipotle peppers, ketchup, brown sugar, cumin, smoked paprika, garlic powder, salt, and black pepper.",
-    "Place pork ribs in a large Dutch oven or oven-safe pot. Brush the chipotle-ketchup mixture evenly over both sides of the ribs.",
-    "Cover the pot with a lid and transfer to the preheated oven. Bake for 2 hours.",
-    "After 2 hours, remove the pot from the oven and carefully brush the ribs with additional chipotle-ketchup mixture, if desired.",
-    "Return the pot to the oven and bake for an additional 30 minutes, or until the ribs are caramelized and slightly charred.",
-    "Remove the pot from the oven and let the ribs rest for 10-15 minutes before serving.",
-    "Serve the ribs with additional chipotle-ketchup sauce for dipping, if desired."
+    "In a small bowl, mix together chili powder, cumin, brown sugar, adventurous spice blend, salt, and black pepper.",
+    "Rub the spice mixture evenly over the pork ribs, making sure to coat all surfaces.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the pork ribs until browned on all sides, about 5 minutes per side.",
+    "Transfer the pork ribs to a large baking sheet and cover with aluminum foil.",
+    "Bake the pork ribs in the preheated oven for 2 1/2 hours, or until tender and falling off the bone.",
+    "While the pork ribs are baking, heat the lime juice in a small saucepan over medium heat until warmed through.",
+    "After the pork ribs have baked for 2 hours, remove the foil and brush the warm lime juice over the top of the ribs.",
+    "Return the pork ribs to the oven and continue baking for an additional 30 minutes, or until the glaze is caramelized and sticky.",
+    "Remove the pork ribs from the oven and let rest for 10 minutes before slicing and serving.",
+    "Sprinkle crushed tortilla chips over the top of the pork ribs and serve immediately."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 210,
-  "totalTimeMin": 225,
+  "prepTimeMin": 20,
+  "cookTimeMin": 170,
+  "totalTimeMin": 190,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "hard",
   "tags": [
     "mexican",
-    "slow-cooked",
-    "ribs"
+    "pork",
+    "ribs",
+    "adventurous"
   ],
   "nutrition": {
     "calories": 540,
-    "protein": 35,
-    "carbs": 40,
-    "fat": 35
+    "protein": 43,
+    "carbs": 24,
+    "fat": 36
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-pork-ribs--mexican",
   "providerUsed": "groq",
-  "createdAt": "2026-06-18T19:18:33.973Z"
+  "createdAt": "2026-06-18T20:10:36.057Z"
 }
