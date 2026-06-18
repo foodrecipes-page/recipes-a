@@ -1,0 +1,83 @@
+{
+  "slug": "adventurous-autumn-argentinian-apple-empanadas--gluten-free",
+  "title": "Empanadas de Manzana con Queso",
+  "description": "A twist on traditional empanadas, these Argentine-inspired pastries are filled with caramelized apples and melted cheese, perfect for a cozy autumn evening.",
+  "cuisine": "argentinian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Empanada dough (homemade or store-bought, gluten-free)",
+      "amount": "2 cups",
+      "notes": "Make sure to use a gluten-free empanada dough to accommodate dietary restrictions."
+    },
+    {
+      "name": "Apples, peeled and sliced",
+      "amount": "2 large",
+      "notes": "A mix of sweet and tart apples, such as Granny Smith and Gala, works well for this recipe."
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": "Caramelize the onion to bring out its natural sweetness."
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": "Add a punch of flavor with roasted garlic."
+    },
+    {
+      "name": "Grated cheese (Monterey Jack or Cheddar work well)",
+      "amount": "1 cup",
+      "notes": "The cheese will melt and add creaminess to the filling."
+    },
+    {
+      "name": "Egg, beaten (for egg wash)",
+      "amount": "1",
+      "notes": "Use the beaten egg to brush the empanadas before baking for a golden glaze."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": "Season the filling and dough as needed to bring out the flavors."
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a pan, caramelize the onion and garlic until softened.",
+    "Add the sliced apples to the pan and cook until tender.",
+    "Mix in the grated cheese and season with salt and pepper.",
+    "Place a tablespoon of the apple-cheese mixture onto one half of each dough circle.",
+    "Brush the edges with the beaten egg and fold the other half of the dough over the filling.",
+    "Press the edges to seal the empanada and use a fork to crimp.",
+    "Brush the tops with the remaining egg wash and cut a few slits for steam to escape.",
+    "Bake the empanadas for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "argentinian",
+    "autumn",
+    "empanadas",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-autumn-argentinian-apple-empanadas--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-18T18:48:39.455Z"
+}
