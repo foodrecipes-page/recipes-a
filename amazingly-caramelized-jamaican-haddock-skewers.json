@@ -1,0 +1,79 @@
+{
+  "slug": "amazingly-caramelized-jamaican-haddock-skewers",
+  "title": "Jamaican Caramelized Haddock Skewers",
+  "description": "A sweet and savory Caribbean-inspired dish featuring haddock marinated in a mix of spices and caramelized to perfection.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Haddock fillets",
+      "amount": "4-6 pieces",
+      "notes": ""
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Caramelized onions",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together jerk seasoning, lime juice, garlic powder, and salt. Add haddock pieces and marinate for at least 30 minutes.",
+    "Alternate threading haddock, caramelized onions, and bell peppers onto skewers.",
+    "Brush skewers with olive oil and grill for 8-10 minutes, turning occasionally.",
+    "Serve hot with additional caramelized onions and jerk sauce if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "caribbean",
+    "grilled",
+    "seafood"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-caramelized-jamaican-haddock-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-18T21:57:55.786Z"
+}
