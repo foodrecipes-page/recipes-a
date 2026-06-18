@@ -1,0 +1,84 @@
+{
+  "slug": "adventurous-autumn-argentinian-apple-empanadas--thai",
+  "title": "Thai Apple Empanadas",
+  "description": "A twist on traditional empanadas, these sweet and savory pastries combine the flavors of Thailand with the warmth of autumn. Perfect for a cozy evening or a festive gathering.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Empanada dough",
+      "amount": "1 package (homemade or store-bought)",
+      "notes": ""
+    },
+    {
+      "name": "Granny Smith apples",
+      "amount": "2-3",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "Coconut sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/8 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    },
+    {
+      "name": "Chopped fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to desired thickness.",
+    "Place a spoonful of sliced apples in the center of each dough circle.",
+    "Sprinkle a pinch of coconut sugar, Thai red curry paste, cinnamon, and nutmeg over the apples.",
+    "Fold the dough in half to form a triangle or square shape, and press edges to seal.",
+    "Brush tops with melted butter and sprinkle with chopped cilantro.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "dessert",
+    "apple",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 3,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-autumn-argentinian-apple-empanadas--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-18T18:37:39.124Z"
+}
