@@ -1,0 +1,84 @@
+{
+  "slug": "adventurous-crispy-pork-ribs--chinese",
+  "title": "Crispy Pork Ribs in Chinese BBQ Sauce",
+  "description": "A twist on traditional Chinese BBQ, these crispy pork ribs are smothered in a sweet and savory sauce.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork ribs",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a shallow dish, mix together flour, cornstarch, and a pinch of salt.",
+    "Toss pork ribs in flour mixture to coat.",
+    "Heat 2 tablespoons of oil in a large skillet over medium-high heat.",
+    "Sear pork ribs until browned, about 2-3 minutes per side.",
+    "Transfer pork ribs to a baking sheet and roast in the oven for 20 minutes.",
+    "While ribs are roasting, combine brown sugar, soy sauce, rice vinegar, garlic, and ginger in a saucepan.",
+    "Bring sauce to a boil over medium heat, then reduce heat to low and simmer for 5 minutes.",
+    "Remove ribs from oven and brush with BBQ sauce.",
+    "Return ribs to oven and roast for an additional 5-7 minutes, or until caramelized.",
+    "Let ribs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "bbq",
+    "pork",
+    "ribs"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-pork-ribs--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-18T21:19:46.771Z"
+}
