@@ -1,0 +1,88 @@
+{
+  "slug": "adventurous-autumn-argentinian-apple-empanadas--keto",
+  "title": "Argentinian Autumn Apple Empanadas",
+  "description": "A twist on traditional empanadas, filled with the flavors of autumn and the sweetness of apples. Perfect for a keto diet.",
+  "cuisine": "argentinian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 lb",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Apples",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1 cup shredded",
+      "notes": null
+    },
+    {
+      "name": "Empanada Dough",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough, about 3 inches in diameter.",
+    "In a pan, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion to the pan and cook until softened.",
+    "Add the diced apples to the pan and cook until tender.",
+    "Stir in the shredded cheddar cheese until melted.",
+    "Season the filling with salt and black pepper to taste.",
+    "Place a tablespoon of the filling in the center of each dough circle.",
+    "Brush the edges of the dough with the beaten egg.",
+    "Fold the dough in half over the filling and press the edges together to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "argentinian",
+    "autumn",
+    "apple",
+    "empanadas",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-autumn-argentinian-apple-empanadas--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-18T21:29:08.744Z"
+}
