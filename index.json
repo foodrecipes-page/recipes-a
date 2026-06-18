@@ -304,17 +304,14 @@
   },
   {
     "slug": "adventurous-autumn-argentinian-apple-empanadas",
-    "title": "Adventurous Autumn Argentinian Apple Empanadas",
+    "title": "Argentinian Apple Empanadas",
     "tags": [
-      "argentinian",
-      "autumn",
-      "baked-goods",
       "empanadas",
-      "low-calorie",
-      "vegetarian"
+      "argentinian",
+      "apple"
     ],
-    "cuisine": "Argentinian",
-    "totalTimeMin": 55,
+    "cuisine": "argentinian",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
@@ -374,16 +371,14 @@
   },
   {
     "slug": "adventurous-crispy-pork-ribs",
-    "title": "Adventurous Crispy Pork Ribs",
+    "title": "Crispy Pork Ribs",
     "tags": [
-      "adventurous",
-      "pork ribs",
-      "tadka",
-      "peruvian",
-      "vegan"
+      "asian",
+      "pork",
+      "gluten-free"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 300,
+    "cuisine": "asian",
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -8347,6 +8342,59 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-autumn-argentinian-apple-empanadas--indian",
+    "title": "Autumn Apple Empanadas with Indian Twist",
+    "tags": [
+      "indian",
+      "autumn",
+      "empanadas"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-autumn-argentinian-apple-empanadas--thai",
+    "title": "Thai Apple Empanadas",
+    "tags": [
+      "thai",
+      "dessert",
+      "apple",
+      "empanadas"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-autumn-argentinian-apple-empanadas--gluten-free",
+    "title": "Empanadas de Manzana con Queso",
+    "tags": [
+      "apple",
+      "argentinian",
+      "autumn",
+      "empanadas",
+      "gluten-free"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-autumn-argentinian-apple-empanadas--chinese",
+    "title": "Autumn Apple Empanadas with Chinese Twist",
+    "tags": [
+      "autumn",
+      "apple",
+      "empanadas",
+      "chinese",
+      "fusion"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 45,
     "shard": "a"
   }
 ]
