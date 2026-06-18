@@ -1,0 +1,77 @@
+{
+  "slug": "adventurous-crispy-pork-ribs",
+  "title": "Crispy Pork Ribs",
+  "description": "A sweet and sticky Asian-inspired dish with crispy pork ribs.",
+  "cuisine": "asian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork ribs",
+      "amount": "1 pound"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crispy rice cereal",
+      "amount": "1 cup"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together brown sugar, soy sauce, rice vinegar, garlic, and ginger.",
+    "Add the pork ribs to the marinade and toss to coat. Let it marinate for at least 30 minutes.",
+    "Line a baking sheet with aluminum foil and spray with vegetable oil. Arrange the pork ribs on the baking sheet.",
+    "Bake for 20 minutes. Then, increase oven temperature to broil and cook for an additional 5 minutes.",
+    "While the ribs are cooking, crush the crispy rice cereal into fine crumbs.",
+    "Remove the ribs from the oven and brush with the remaining marinade. Sprinkle the crushed crispy rice cereal on top.",
+    "Return the ribs to the oven and bake for an additional 5 minutes.",
+    "Let the ribs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asian",
+    "pork",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-pork-ribs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-18T18:17:17.925Z"
+}
