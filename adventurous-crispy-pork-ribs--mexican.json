@@ -1,0 +1,85 @@
+{
+  "slug": "adventurous-crispy-pork-ribs--mexican",
+  "title": "Mexican Pork Ribs",
+  "description": "A twist on traditional pork ribs, these Mexican-style ribs are slow-cooked in a flavorful chipotle tomato sauce.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork ribs",
+      "amount": "2 pounds",
+      "notes": "baby back or St. Louis style"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "1/4 cup",
+      "notes": "canned"
+    },
+    {
+      "name": "ketchup",
+      "amount": "1/2 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons",
+      "notes": "or to taste"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "or to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "or to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a small bowl, mix together chipotle peppers, ketchup, brown sugar, cumin, smoked paprika, garlic powder, salt, and black pepper.",
+    "Place pork ribs in a large Dutch oven or oven-safe pot. Brush the chipotle-ketchup mixture evenly over both sides of the ribs.",
+    "Cover the pot with a lid and transfer to the preheated oven. Bake for 2 hours.",
+    "After 2 hours, remove the pot from the oven and carefully brush the ribs with additional chipotle-ketchup mixture, if desired.",
+    "Return the pot to the oven and bake for an additional 30 minutes, or until the ribs are caramelized and slightly charred.",
+    "Remove the pot from the oven and let the ribs rest for 10-15 minutes before serving.",
+    "Serve the ribs with additional chipotle-ketchup sauce for dipping, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 210,
+  "totalTimeMin": 225,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "slow-cooked",
+    "ribs"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-pork-ribs--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-18T19:18:33.973Z"
+}
