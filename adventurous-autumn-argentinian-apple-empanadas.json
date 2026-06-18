@@ -1,0 +1,79 @@
+{
+  "slug": "adventurous-autumn-argentinian-apple-empanadas",
+  "title": "Argentinian Apple Empanadas",
+  "description": "Warm and crispy empanadas filled with tender apples and a hint of cinnamon, inspired by the flavors of Argentina.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "2 large"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Lard or shortening",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Confectioners' sugar",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Combine flour, sugar, and cinnamon in a bowl.",
+    "Add lard or shortening and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "Gradually add the egg and water, mixing until a dough forms.",
+    "Knead the dough for 5 minutes until smooth and elastic.",
+    "Wrap the dough in plastic wrap and let it rest for 30 minutes.",
+    "Peel and slice the apples into thin wedges.",
+    "Roll out the dough to a thickness of about 1/8 inch.",
+    "Use a round cookie cutter or the rim of a glass to cut out circles of dough.",
+    "Place a few apple wedges in the center of each dough circle and fold the dough over to form a half-moon shape.",
+    "Press the edges together to seal the empanada and use a fork to crimp.",
+    "Brush the tops with a little water and sprinkle with confectioners' sugar, if desired.",
+    "Preheat the oven to 375°F (190°C).",
+    "Bake the empanadas for 20-25 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "argentinian",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-autumn-argentinian-apple-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-18T18:07:14.967Z"
+}
