@@ -1,0 +1,90 @@
+{
+  "slug": "adventurous-autumn-argentinian-apple-empanadas--chinese",
+  "title": "Autumn Apple Empanadas with Chinese Twist",
+  "description": "A fusion dessert of traditional empanadas filled with caramelized autumn apples and a hint of Chinese spices.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Empanada dough",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Autumn apples",
+      "amount": "1 cup",
+      "notes": "caramelized"
+    },
+    {
+      "name": "Chinese five-spice powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1 egg",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "0.5 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "0.25 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to 1/4 inch thickness.",
+    "Cut into circles using a cookie cutter or a glass.",
+    "In a pan, caramelize the autumn apples with butter, cinnamon, and honey.",
+    "Add Chinese five-spice powder and granulated sugar to the apples. Mix well.",
+    "Place a spoonful of the apple mixture onto the center of each dough circle.",
+    "Brush the edges with the beaten egg.",
+    "Fold the dough in half to form a half-moon shape and press the edges to seal.",
+    "Brush the tops with the beaten egg and sprinkle with sugar.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "autumn",
+    "apple",
+    "empanadas",
+    "chinese",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-autumn-argentinian-apple-empanadas--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-18T19:01:01.974Z"
+}
