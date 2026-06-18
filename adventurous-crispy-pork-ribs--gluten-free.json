@@ -1,0 +1,74 @@
+{
+  "slug": "adventurous-crispy-pork-ribs--gluten-free",
+  "title": "Gluten-Free Crispy Pork Ribs",
+  "description": "A delicious and easy-to-make recipe for crispy pork ribs, perfect for a gluten-free diet. This dish is sure to satisfy your cravings.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "main course",
+  "ingredients": [
+    {
+      "name": "pork ribs",
+      "amount": "2 pounds"
+    },
+    {
+      "name": "almond flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a shallow dish, mix together almond flour, coconut sugar, garlic powder, salt, and black pepper.",
+    "Dip each pork rib into the beaten eggs, then coat in the almond flour mixture, pressing gently to adhere.",
+    "Place the coated ribs on a baking sheet lined with parchment paper.",
+    "Drizzle with 2 tablespoons of oil and sprinkle with crispy.",
+    "Bake for 25 minutes, then increase oven temperature to broil and cook for an additional 5-7 minutes, or until crispy and golden brown.",
+    "Remove from oven and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "pork",
+    "ribs",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-pork-ribs--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-18T20:19:02.741Z"
+}
