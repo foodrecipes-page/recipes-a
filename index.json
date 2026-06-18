@@ -8396,5 +8396,71 @@
     "cuisine": "chinese",
     "totalTimeMin": 45,
     "shard": "a"
+  },
+  {
+    "slug": "adventurous-crispy-pork-ribs--mexican",
+    "title": "Mexican Pork Ribs",
+    "tags": [
+      "mexican",
+      "pork",
+      "ribs",
+      "adventurous"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 190,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-autumn-argentinian-apple-empanadas--vegetarian",
+    "title": "Argentinian Apple Empanadas",
+    "tags": [
+      "argentinian",
+      "apple",
+      "empanadas",
+      "dessert",
+      "vegetarian"
+    ],
+    "cuisine": "Argentinian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-crispy-pork-ribs--gluten-free",
+    "title": "Gluten-Free Crispy Pork Ribs",
+    "tags": [
+      "gluten-free",
+      "pork",
+      "ribs",
+      "crispy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-crispy-pork-ribs--italian",
+    "title": "Italian-Style Crispy Pork Ribs",
+    "tags": [
+      "italian",
+      "pork",
+      "ribs",
+      "crispy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-crispy-pork-ribs--chinese",
+    "title": "Crispy Pork Ribs in Chinese BBQ Sauce",
+    "tags": [
+      "chinese",
+      "bbq",
+      "pork",
+      "ribs"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 55,
+    "shard": "a"
   }
 ]
