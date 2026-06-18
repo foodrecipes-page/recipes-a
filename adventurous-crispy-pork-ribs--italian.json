@@ -1,0 +1,85 @@
+{
+  "slug": "adventurous-crispy-pork-ribs--italian",
+  "title": "Italian-Style Crispy Pork Ribs",
+  "description": "A fusion of Italian flavors with the crispy texture of pork ribs. This recipe combines the tender meat of the ribs with the richness of Italian seasonings.",
+  "cuisine": "italian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork ribs",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "adventurous seasoning blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": "for brushing"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "dried oregano",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "crispy breadcrumbs",
+      "amount": "1 cup",
+      "notes": "for coating"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Line a baking sheet with aluminum foil and spray with cooking spray.",
+    "Rinse the pork ribs and pat them dry with paper towels.",
+    "In a small bowl, mix together the adventurous seasoning blend, garlic powder, dried oregano, salt, and black pepper.",
+    "Brush the olive oil on both sides of the ribs and sprinkle the seasoning blend evenly over the ribs.",
+    "Coat the ribs with crispy breadcrumbs, pressing the crumbs gently onto the meat to adhere.",
+    "Place the coated ribs on the prepared baking sheet and bake for 25 minutes.",
+    "Increase the oven temperature to broil and cook for an additional 5-7 minutes, or until the breadcrumbs are crispy and golden brown.",
+    "Remove the ribs from the oven and let them rest for 5 minutes before serving.",
+    "Cut the ribs into individual portions and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "pork",
+    "ribs",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-pork-ribs--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-18T21:07:32.930Z"
+}
