@@ -1,0 +1,94 @@
+{
+  "slug": "adventurous-crispy-pork-ribs--japanese",
+  "title": "Japanese-Style Crispy Pork Ribs",
+  "description": "A fusion of Japanese flavors with crispy pork ribs, perfect for a dinner party. This dish is a delightful twist on traditional BBQ ribs.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Ribs",
+      "amount": "2 pounds",
+      "notes": "Bones in"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sake",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crushed Black Pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Crispy Japanese-Style Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Available at most Asian grocery stores"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together soy sauce, sake, brown sugar, ginger, garlic, rice vinegar, cornstarch, and black pepper.",
+    "Add the pork ribs to the marinade and coat evenly. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray. Remove the ribs from the marinade, letting any excess liquid drip off.",
+    "Bake the ribs for 30 minutes.",
+    "After 30 minutes, increase the oven temperature to broil. Brush the ribs with a little bit of oil and broil for 5-7 minutes on each side, or until crispy.",
+    "While the ribs are broiling, mix the crispy Japanese-style breadcrumbs with a pinch of salt in a small bowl.",
+    "Remove the ribs from the oven and sprinkle the breadcrumb mixture evenly over the top of the ribs.",
+    "Return the ribs to the oven and bake for an additional 5-7 minutes, or until the breadcrumbs are golden brown.",
+    "Let the ribs rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pork",
+    " ribs",
+    "crispy",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 720,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-pork-ribs--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T04:45:06.755Z"
+}
