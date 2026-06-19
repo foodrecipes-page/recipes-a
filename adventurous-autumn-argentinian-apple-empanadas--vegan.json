@@ -1,0 +1,78 @@
+{
+  "slug": "adventurous-autumn-argentinian-apple-empanadas--vegan",
+  "title": "Argentinian Autumn Apple Empanadas",
+  "description": "A vegan twist on traditional Argentinean empanadas, filled with the sweetness of autumnal apples.",
+  "cuisine": "argentinian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "empanada dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "apple",
+      "amount": "2 medium",
+      "notes": "any mix of autumnal apples (granny smith, honeycrisp)"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/4 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "vegan butter",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out empanada dough to about 1/8-inch thickness.",
+    "In a bowl, mix together sliced apples, maple syrup, cinnamon, and nutmeg.",
+    "Place about 1 tablespoon of the apple mixture onto one half of the dough circle.",
+    "Brush edges with melted vegan butter.",
+    "Fold dough in half to form a half-circle and press edges to seal.",
+    "Use a fork to crimp edges and create a decorative border.",
+    "Repeat with remaining dough and filling.",
+    "Place empanadas on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!",
+    "Optional: dust with powdered sugar before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "autumn",
+    "argentinian",
+    "vegan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-autumn-argentinian-apple-empanadas--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T00:28:27.452Z"
+}
