@@ -8471,5 +8471,84 @@
     "cuisine": "argentinian",
     "totalTimeMin": 45,
     "shard": "a"
+  },
+  {
+    "slug": "adventurous-autumn-argentinian-apple-empanadas--german",
+    "title": "Autumn Apple Strudel",
+    "tags": [
+      "german",
+      "dessert",
+      "strudel",
+      "apple"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-autumn-argentinian-apple-empanadas--italian",
+    "title": "Autumn Empanadas with Apple Filling",
+    "tags": [
+      "apple",
+      "autumn",
+      "empanadas",
+      "italian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-autumn-argentinian-apple-empanadas--mexican",
+    "title": "Argentinian Apple Empanadas with Autumn Twist",
+    "tags": [
+      "apple",
+      "empanadas",
+      "autumn"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-autumn-argentinian-apple-empanadas--french",
+    "title": "Apple Empanada aux Fruits",
+    "tags": [
+      "french",
+      "dessert",
+      "apple",
+      "empanada",
+      "pastry"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-autumn-argentinian-apple-empanadas--vegan",
+    "title": "Argentinian Autumn Apple Empanadas",
+    "tags": [
+      "apple",
+      "autumn",
+      "argentinian",
+      "vegan",
+      "snack"
+    ],
+    "cuisine": "argentinian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-autumn-argentinian-apple-empanadas--japanese",
+    "title": "Autumn Empanada Filling with Apple",
+    "tags": [
+      "autumn-empanadas",
+      "japanese-desserts",
+      "apple-recipes",
+      "empanada-filling"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
