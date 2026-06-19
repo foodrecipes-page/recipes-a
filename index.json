@@ -8653,5 +8653,17 @@
     "cuisine": "french",
     "totalTimeMin": 75,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-saudi-arabian-lentil-grill--vegetarian",
+    "title": "Saudi Lentil Kabsa",
+    "tags": [
+      "vegetarian",
+      "lentil",
+      "arabian"
+    ],
+    "cuisine": "arabian",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
