@@ -1,0 +1,84 @@
+{
+  "slug": "adventurous-autumn-argentinian-apple-empanadas--mexican",
+  "title": "Argentinian Apple Empanadas with Autumn Twist",
+  "description": "A fusion of traditional Argentinian empanadas with the flavors of autumn and a Mexican twist. These sweet and savory pastries are topped with a crunchy apple and pecan streusel.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1 cup"
+    },
+    {
+      "name": "apple",
+      "amount": "2"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "1 large"
+    },
+    {
+      "name": "pecans",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together flour, sugar, and salt. Add cold butter and use a pastry blender or your fingers to work it into the flour mixture until it resembles coarse crumbs.",
+    "In a separate bowl, whisk together eggs and milk. Add this mixture to the flour mixture and stir until dough comes together.",
+    "On a lightly floured surface, roll out dough to a thickness of about 1/8 inch. Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "In a small bowl, mix together chopped apple, cinnamon, and nutmeg. Place a tablespoon of this mixture in the center of each dough circle.",
+    "Fold dough over filling and press edges together to seal. Use a fork to crimp edges.",
+    "Place empanadas on a baking sheet lined with parchment paper. Brush tops with egg wash and sprinkle with sugar.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "While empanadas are baking, prepare streusel topping by mixing together pecans, brown sugar, and cinnamon in a small bowl.",
+    "Remove empanadas from oven and let cool for a few minutes. Top each empanada with a sprinkle of streusel topping and serve warm."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "empanadas",
+    "autumn"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 4,
+    "carbs": 55,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-autumn-argentinian-apple-empanadas--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T00:24:32.386Z"
+}
