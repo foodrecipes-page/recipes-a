@@ -1,0 +1,101 @@
+{
+  "slug": "adventurous-autumn-argentinian-apple-empanadas--german",
+  "title": "Autumn Apple Strudel",
+  "description": "A traditional German dessert, this strudel is filled with tender apples and spices, topped with a crumbly streusel topping.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Apples",
+      "amount": "3",
+      "notes": "Granny Smith or other tart variety"
+    },
+    {
+      "name": "Strudel dough (homemade or store-bought)",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Nutmeg",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and chop the apples into small pieces.",
+    "In a large bowl, combine the chopped apples, sugar, cinnamon, nutmeg, and flour. Mix well.",
+    "Roll out the strudel dough on a floured surface to a thickness of about 1/8 inch.",
+    "Spread the apple mixture evenly over the center of the dough, leaving a 1-inch border around the edges.",
+    "Roll the dough into a tight log, starting from one of the long edges.",
+    "Place the log on a baking sheet lined with parchment paper, seam-side down.",
+    "Brush the top of the log with the melted butter.",
+    "Bake for 25-30 minutes, or until the strudel is golden brown.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Slice the strudel into thick rounds and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "strudel",
+    "apple"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-autumn-argentinian-apple-empanadas--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T00:20:19.729Z"
+}
