@@ -1,0 +1,95 @@
+{
+  "slug": "adventurous-crispy-pork-ribs--keto",
+  "title": "Crispy Pork Ribs",
+  "description": "A keto twist on a classic dish, these crispy pork ribs are perfect for adventurous eaters. They're a great combination of flavors and textures.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork ribs",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Crispy seasoning blend",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Almond flour",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Cheddar cheese, shredded (optional)",
+      "amount": "1/2 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Rinse the pork ribs and pat them dry with paper towels.",
+    "In a small bowl, mix together the crispy seasoning blend, coconut oil, lime juice, garlic powder, salt, and black pepper.",
+    "Coat the pork ribs evenly with the seasoning mixture, making sure they're fully covered.",
+    "In a separate bowl, mix together the almond flour and egg until a crumbly mixture forms.",
+    "Add the shredded cheddar cheese to the almond flour mixture and mix until well combined.",
+    "Coat the seasoned pork ribs with the almond flour mixture, pressing the mixture onto the meat to ensure it adheres.",
+    "Place the coated pork ribs on a baking sheet lined with parchment paper.",
+    "Bake the pork ribs in the preheated oven for 25-30 minutes, or until they're crispy and golden brown.",
+    "Remove the pork ribs from the oven and let them rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "pork",
+    "low-carb",
+    "keto-friendly"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-pork-ribs--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T04:44:09.774Z"
+}
