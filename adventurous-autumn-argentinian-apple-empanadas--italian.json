@@ -1,0 +1,78 @@
+{
+  "slug": "adventurous-autumn-argentinian-apple-empanadas--italian",
+  "title": "Autumn Empanadas with Apple Filling",
+  "description": "A twist on traditional Italian pastries, these empanadas are filled with a sweet and tangy apple mixture, perfect for the autumn season.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "apple",
+      "amount": "1 large",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "nutmeg",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "empanada dough",
+      "amount": "1 package (usually found in the frozen food section of most supermarkets)"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Roll out the empanada dough to a thickness of about 1/8 inch.",
+    "In a large bowl, combine the sliced apple, cinnamon, nutmeg, and brown sugar.",
+    "Place a spoonful of the apple mixture onto one half of the empanada dough.",
+    "Fold the other half of the dough over the filling, pressing the edges together to seal.",
+    "Use a fork to crimp the edges of the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops of the empanadas with a little bit of water.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "apple",
+    "autumn",
+    "empanadas",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-autumn-argentinian-apple-empanadas--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T00:23:59.774Z"
+}
