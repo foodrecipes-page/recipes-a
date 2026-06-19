@@ -1,0 +1,93 @@
+{
+  "slug": "adventurous-crispy-pork-ribs--indian",
+  "title": "Tandoori Pork Ribs",
+  "description": "A twist on traditional Indian tandoori chicken, this recipe uses pork ribs for a unique and flavorful dish.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork ribs",
+      "amount": "4 pounds",
+      "notes": "baby back ribs"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": "plain, unflavored"
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 tablespoons",
+      "notes": "ground"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 tablespoon",
+      "notes": "ground"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing ribs"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together yogurt, garam masala, cumin, coriander, cayenne pepper (if using), salt (if using), and black pepper (if using).",
+    "Add the pork ribs to the marinade and mix until the ribs are well coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Line a baking sheet with aluminum foil and spray with cooking spray. Arrange the ribs on the baking sheet in a single layer.",
+    "Brush the ribs with ghee or vegetable oil and roast for 20-25 minutes, or until they are nicely browned.",
+    "While the ribs are roasting, prepare the tandoori spice blend by mixing together garam masala, cumin, coriander, and cayenne pepper (if using).",
+    "After the ribs have roasted for 20-25 minutes, brush them with the tandoori spice blend and return to the oven.",
+    "Continue roasting for an additional 10-15 minutes, or until the ribs are nicely coated with the spice blend and are cooked through.",
+    "Remove the ribs from the oven and let them rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 40,
+  "totalTimeMin": 70,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "pork",
+    "ribs",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "35g",
+    "carbs": "20g",
+    "fat": "35g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-pork-ribs--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T04:45:09.069Z"
+}
