@@ -8550,5 +8550,108 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "adventurous-crispy-pork-ribs--keto",
+    "title": "Crispy Pork Ribs",
+    "tags": [
+      "crispy",
+      "pork",
+      "low-carb",
+      "keto-friendly"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-crispy-pork-ribs--japanese",
+    "title": "Japanese-Style Crispy Pork Ribs",
+    "tags": [
+      "japanese",
+      "pork",
+      " ribs",
+      "crispy",
+      "adventurous"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 65,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-crispy-pork-ribs--indian",
+    "title": "Tandoori Pork Ribs",
+    "tags": [
+      "indian",
+      "pork",
+      "ribs",
+      "grilled"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 70,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-crispy-pork-ribs--german",
+    "title": "Crispy German Pork Ribs",
+    "tags": [
+      "german",
+      "pork",
+      "ribs",
+      "crispy"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-crispy-pork-ribs--vegetarian",
+    "title": "Crispy Vegetable Ribs",
+    "tags": [
+      "vegetarian",
+      "adventurous",
+      "crispy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-crispy-pork-ribs--vegan",
+    "title": "Crispy Vegan Ribs Recipe",
+    "tags": [
+      "vegan",
+      "american",
+      "finger-food"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-crispy-pork-ribs--thai",
+    "title": "Thai Crispy Pork Ribs",
+    "tags": [
+      "thai",
+      "pork",
+      "ribs",
+      "adventurous"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 70,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-crispy-pork-ribs--french",
+    "title": "Crispy French Pork Ribs",
+    "tags": [
+      "french",
+      "bbq",
+      "pork",
+      "ribs"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 75,
+    "shard": "a"
   }
 ]
