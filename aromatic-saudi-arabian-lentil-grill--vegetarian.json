@@ -1,0 +1,83 @@
+{
+  "slug": "aromatic-saudi-arabian-lentil-grill--vegetarian",
+  "title": "Spiced Lentil Koftas",
+  "description": "A flavorful and aromatic vegetarian dish inspired by Saudi cuisine. Lentil koftas are perfect for grilling and serve as a great snack or side dish.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 teaspoon ground",
+      "notes": "such as cumin or coriander"
+    },
+    {
+      "name": "arabian",
+      "amount": "1 teaspoon ground",
+      "notes": "such as sumac or allspice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves minced",
+      "notes": "optional"
+    },
+    {
+      "name": "bread",
+      "amount": "1/2 cup finely chopped",
+      "notes": "such as pita or naan"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-high heat.",
+    "In a large mixing bowl, combine the soaked lentils, aromatic spices, Arabian spices, chopped onion, minced garlic, chopped bread, salt, and pepper. Mix well with your hands until everything is well combined.",
+    "Using your hands, shape the mixture into small patties or logs, about 1 1/2 inches in diameter and 3 inches long. You should end up with around 8-10 koftas.",
+    "Brush the koftas with a little oil and place them on the preheated grill.",
+    "Cook the koftas for about 4-5 minutes per side, or until they are nicely charred and cooked through.",
+    "Remove the koftas from the grill and let them rest for a few minutes before serving.",
+    "Serve the koftas hot with your favorite sides, such as a salad or some grilled vegetables."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "grill",
+    "snack",
+    "saudi",
+    "arabic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-saudi-arabian-lentil-grill--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T08:38:32.655Z"
+}
