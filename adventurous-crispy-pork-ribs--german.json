@@ -1,0 +1,97 @@
+{
+  "slug": "adventurous-crispy-pork-ribs--german",
+  "title": "Crispy German Pork Ribs",
+  "description": "A classic German-inspired dish featuring tender pork ribs smothered in a crispy exterior, perfect for a cold winter's night.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork Ribs",
+      "amount": "2 pounds",
+      "notes": "Bones in, membrane removed"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": "All-purpose flour for dusting ribs"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/2 cup",
+      "notes": "Panko or regular breadcrumbs for crispy coating"
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "For egg wash"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": "Unsalted butter for greasing the pan"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Garlic Powder",
+      "amount": "1/2 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Onion Powder",
+      "amount": "1/4 teaspoon",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Crispy German Seasoning",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought blend of herbs and spices"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a shallow dish, mix together the flour, salt, black pepper, garlic powder, and onion powder.",
+    "Dust the pork ribs with the flour mixture, shaking off excess.",
+    "Dip the floured ribs in the beaten egg, making sure they're fully coated.",
+    "Roll the egg-coated ribs in the breadcrumbs, pressing the crumbs onto the meat to help them stick.",
+    "Place the coated ribs in a single layer on a baking sheet lined with parchment paper.",
+    "Dot the top of each rib with butter.",
+    "Bake the ribs in the preheated oven for 25 minutes.",
+    "Increase the oven temperature to broil (high).",
+    "Broil the ribs for an additional 5-7 minutes, or until the coating is golden brown and crispy.",
+    "Remove the ribs from the oven and brush with the crispy German seasoning.",
+    "Serve the ribs hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pork",
+    "ribs",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 15,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-pork-ribs--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T04:45:38.447Z"
+}
