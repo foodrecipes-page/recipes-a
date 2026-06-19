@@ -1,0 +1,89 @@
+{
+  "slug": "adventurous-crispy-pork-ribs--french",
+  "title": "Crispy French Pork Ribs",
+  "description": "A classic French-inspired dish featuring crispy fried pork ribs served with a side of tangy BBQ sauce.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork ribs",
+      "amount": "4 pounds",
+      "notes": "preferably baby back ribs"
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour for dusting"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten eggs for egg wash"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "1 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "BBQ sauce",
+      "amount": "1 cup",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Rinse the pork ribs and pat them dry with paper towels.",
+    "In a shallow dish, mix together flour, salt, pepper, garlic powder, and paprika.",
+    "Dredge the pork ribs in the flour mixture, shaking off excess.",
+    "Beat the eggs in a separate dish.",
+    "Dip the floured ribs in the beaten eggs, coating them evenly.",
+    "Dredge the egg-coated ribs in the flour mixture again, pressing the coating onto the meat to adhere.",
+    "Heat about 1/2 inch (1 cm) of vegetable oil in a large skillet over medium-high heat.",
+    "Fry the coated ribs until golden brown and crispy, about 3-4 minutes per side.",
+    "Transfer the fried ribs to a baking sheet and bake in the preheated oven for 10-15 minutes, or until cooked through.",
+    "Serve the crispy ribs with a side of tangy BBQ sauce for dipping."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 45,
+  "totalTimeMin": 75,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "french",
+    "bbq",
+    "pork",
+    "ribs"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "34g",
+    "carbs": "24g",
+    "fat": "30g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-pork-ribs--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T04:51:56.199Z"
+}
