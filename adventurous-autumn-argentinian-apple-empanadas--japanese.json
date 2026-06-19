@@ -1,0 +1,72 @@
+{
+  "slug": "adventurous-autumn-argentinian-apple-empanadas--japanese",
+  "title": "Autumn Empanada Filling with Apple",
+  "description": "A unique twist on a traditional Japanese dessert, combining the flavors of autumn with the warmth of empanadas.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Autumn Empanada Dough",
+      "amount": "1 package",
+      "notes": ""
+    },
+    {
+      "name": "Apples",
+      "amount": "2 large",
+      "notes": "Granny Smith or other firm variety"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Allspice",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Filling Seasoning (Argentinian)",
+      "amount": "1 packet",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Peel, core, and chop the apples into 1-inch pieces.",
+    "Mix brown sugar, cinnamon, and allspice in a bowl.",
+    "Add the apple pieces to the bowl and toss until coated.",
+    "Roll out the empanada dough and cut into 4-6 triangles.",
+    "Place a tablespoon of apple mixture onto one half of each triangle.",
+    "Fold the dough over the filling to form a triangle and press edges to seal.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm with whipped cream or vanilla ice cream, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "autumn-empanadas",
+    "japanese-desserts",
+    "apple-recipes",
+    "empanada-filling"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-autumn-argentinian-apple-empanadas--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T00:29:32.408Z"
+}
