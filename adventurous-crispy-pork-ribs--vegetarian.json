@@ -1,0 +1,98 @@
+{
+  "slug": "adventurous-crispy-pork-ribs--vegetarian",
+  "title": "Crispy Vegetable Ribs",
+  "description": "A vegetarian adaptation of traditional pork ribs, using crispy vegetables instead. A fun twist on a classic dish.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork ribs (replaced with)",
+      "amount": "1 package of portobello mushrooms",
+      "notes": "stem removed"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup of crispy fried shallots",
+      "notes": null
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "onion powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a small bowl, mix together soy sauce, honey, brown sugar, garlic powder, onion powder, smoked paprika, salt, and black pepper.",
+    "In a separate bowl, toss the portobello mushrooms with the soy sauce mixture until they are evenly coated.",
+    "Heat 1 tablespoon of vegetable oil in a skillet over medium-high heat. Add the crispy fried shallots and cook for 2-3 minutes, or until crispy.",
+    "Add the coated portobello mushrooms to the skillet and cook for 2-3 minutes on each side, or until they are tender and slightly charred.",
+    "Transfer the mushrooms to a baking sheet lined with parchment paper and brush them with the remaining 1 tablespoon of vegetable oil.",
+    "Bake the mushrooms in the preheated oven for 10-12 minutes, or until they are tender and caramelized.",
+    "Remove the mushrooms from the oven and sprinkle them with crispy fried shallots.",
+    "Serve the crispy vegetable ribs hot, garnished with additional crispy fried shallots if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "adventurous",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-crispy-pork-ribs--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-19T04:47:24.250Z"
+}
