@@ -1,0 +1,93 @@
+{
+  "slug": "aromatic-dense-italian-beef-calamarata",
+  "title": "Italian-Style Beef Stew",
+  "description": "A hearty beef stew made with calamarata pasta, beef, and aromatic vegetables, perfect for a cold winter's night.",
+  "cuisine": "Italian",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g",
+      "notes": "chuck or round, sliced into bite-sized pieces"
+    },
+    {
+      "name": "Calamarata",
+      "amount": "250g",
+      "notes": "Italian pasta"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "Dense tomatoes",
+      "amount": "400g",
+      "notes": "canned"
+    },
+    {
+      "name": "Aromatic",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the sliced beef and cook until browned, about 5 minutes.",
+    "Add the chopped onion, carrot, and celery, and cook until the vegetables are tender, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the diced tomatoes, salt, and black pepper. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the beef is tender.",
+    "Add the calamarata pasta to the pot and cook for an additional 10-15 minutes, or until the pasta is al dente.",
+    "Serve the stew hot, garnished with chopped parsley or basil, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "beef",
+    "pasta",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 45,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-dense-italian-beef-calamarata",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-20T00:56:23.004Z"
+}
