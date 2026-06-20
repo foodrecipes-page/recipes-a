@@ -4694,17 +4694,15 @@
   },
   {
     "slug": "aromatic-dense-italian-beef-calamarata",
-    "title": "Aromatic Dense Italian Beef Calamarata",
+    "title": "Italian-Style Beef Stew",
     "tags": [
-      "beef-recipes",
-      "comfort-food",
-      "italian-food",
-      "macrobiotic-friendly",
-      "one-pot-meals",
-      "pasta-dishes"
+      "italian",
+      "beef",
+      "pasta",
+      "stew"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 90,
+    "totalTimeMin": 105,
     "shard": "a"
   },
   {
