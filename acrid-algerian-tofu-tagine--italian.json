@@ -1,0 +1,89 @@
+{
+  "slug": "acrid-algerian-tofu-tagine--italian",
+  "title": "Italian-Style Tofu Tagine",
+  "description": "A fusion of Italian and North African flavors, this dish combines crispy tofu with a rich and spicy tagine sauce. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegan",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "400g"
+    },
+    {
+      "name": "algerian",
+      "amount": "2tbsp",
+      "notes": "Berber spice blend"
+    },
+    {
+      "name": "acrid",
+      "amount": "1tsp",
+      "notes": "optional, for some heat"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "white wine",
+      "amount": "100ml"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2tbsp"
+    },
+    {
+      "name": "chopped tomatoes",
+      "amount": "200g"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 200°C (400°F).",
+    "2. Cut the tofu into small cubes and coat with a mixture of olive oil, garlic, salt, and black pepper.",
+    "3. Bake the tofu in the oven for 20-25 minutes, or until crispy.",
+    "4. In a large skillet, heat 1 tablespoon of olive oil over medium heat.",
+    "5. Add the Berber spice blend and cook for 1-2 minutes, stirring constantly.",
+    "6. Add the white wine and cook until reduced by half.",
+    "7. Stir in the tomato paste and cook for 1 minute.",
+    "8. Add the chopped tomatoes and cook for 10-15 minutes, stirring occasionally.",
+    "9. Add the baked tofu to the skillet and toss to coat with the tagine sauce.",
+    "10. Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "fusion",
+    "lactose-free",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrid-algerian-tofu-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-21T08:13:10.519Z"
+}
