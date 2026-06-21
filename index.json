@@ -8663,5 +8663,18 @@
     "cuisine": "arabian",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "acrid-algerian-tofu-tagine--italian",
+    "title": "Italian-Style Tofu Tagine",
+    "tags": [
+      "italian",
+      "fusion",
+      "lactose-free",
+      "gluten-free"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "a"
   }
 ]
