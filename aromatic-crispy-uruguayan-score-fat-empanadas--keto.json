@@ -1,0 +1,71 @@
+{
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--keto",
+  "title": "Uruguayan Empanada Keto Delight",
+  "description": "A crispy keto twist on traditional Uruguayan empanadas. Savory and rich, these empanadas are perfect for a keto diet.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan ground beef",
+      "amount": "1 pound",
+      "notes": "Make sure to cook to a safe internal temperature of 160°F (71°C)"
+    },
+    {
+      "name": "Crispy empanada wrappers",
+      "amount": "4-6 wrappers",
+      "notes": "Look for low-carb options or make your own keto wrappers"
+    },
+    {
+      "name": "Aromatic onion",
+      "amount": "1 medium",
+      "notes": "Chop finely and sauté until caramelized"
+    },
+    {
+      "name": "Fat (such as lard or coconut oil)",
+      "amount": "2 tablespoons",
+      "notes": "For brushing empanada wrappers"
+    },
+    {
+      "name": "Score cheese (such as cheddar or mozzarella)",
+      "amount": "1 cup, shredded",
+      "notes": "Add extra flavor to your empanada filling"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large pan, cook the Uruguayan ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped aromatic onion to the pan and cook until caramelized, stirring occasionally.",
+    "Stir in the shredded score cheese until melted and well combined with the beef mixture.",
+    "Brush the crispy empanada wrappers with fat (such as lard or coconut oil) on both sides.",
+    "Place a tablespoon or two of the beef and cheese mixture onto one half of each empanada wrapper.",
+    "Fold the wrappers in half to form a triangle or a square shape, and press the edges together to seal the empanada.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving space between each empanada for even cooking.",
+    "Brush the tops of the empanadas with additional fat for a crispy finish.",
+    "Bake in the preheated oven for 15-20 minutes, or until the empanadas are golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "uruguayan",
+    "empanadas",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 32,
+    "carbs": 5,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:26:35.197Z"
+}
