@@ -1,0 +1,94 @@
+{
+  "slug": "aerated-japanese-chicken-tagine--indian",
+  "title": "Japanese Chicken Tagine",
+  "description": "A fusion dish that combines Indian and Japanese flavors. Marinated chicken is cooked in a flavorful tagine with aromatics and served over a bed of steamed jasmine rice.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Japanese soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Indian garam masala",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Japanese rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "jasmine rice",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "sliced scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the ginger and cook for 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5 minutes.",
+    "Add the soy sauce, garam masala, and tagine spice mix. Stir to combine.",
+    "Add the chicken broth and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the chicken is cooked through, about 20 minutes.",
+    "Stir in the rice vinegar and cook for an additional 2 minutes.",
+    "Serve the chicken and sauce over steamed jasmine rice, garnished with sliced scallions."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "japanese",
+    "tagine",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-japanese-chicken-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T09:47:35.048Z"
+}
