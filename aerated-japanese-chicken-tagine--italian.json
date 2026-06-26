@@ -1,0 +1,78 @@
+{
+  "slug": "aerated-japanese-chicken-tagine--italian",
+  "title": "Italian Chicken with Japanese Twist",
+  "description": "A unique fusion of Italian and Japanese flavors in a simple chicken dish.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "4",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "japanese rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": "for marinade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Marinate chicken in tagine, rice vinegar, garlic, basil, salt, and pepper for at least 30 minutes.",
+    "Heat olive oil in a pan over medium heat.",
+    "Add chicken to the pan and cook for 5-6 minutes on each side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "japanese",
+    "chicken",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-japanese-chicken-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:31:33.086Z"
+}
