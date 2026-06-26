@@ -1,0 +1,64 @@
+{
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--german",
+  "title": "German Empanada Bratwurst",
+  "description": "A German twist on traditional empanadas, filled with bratwurst and crispy onions.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bratwurst",
+      "amount": "4-6"
+    },
+    {
+      "name": "Empanadas",
+      "amount": "4-6"
+    },
+    {
+      "name": "Crispy Onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fat",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Aromatic Spices",
+      "amount": "1 teaspoon",
+      "notes": "such as caraway or coriander"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Place empanadas on a baking sheet.",
+    "Cook bratwurst in a pan over medium heat until browned.",
+    "Add crispy onions and cook until caramelized.",
+    "Place cooked bratwurst mixture onto empanadas.",
+    "Dot the top with fat.",
+    "Bake in the oven for 10-12 minutes.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bratwurst",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:25:03.612Z"
+}
