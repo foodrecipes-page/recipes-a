@@ -1,0 +1,93 @@
+{
+  "slug": "aerated-japanese-chicken-tagine--german",
+  "title": "German-Style Chicken Tagine with Aerated Batter",
+  "description": "A twist on traditional German cuisine, this recipe combines the flavors of tagine with the crispiness of an aerated batter.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free",
+    "poultry"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": null
+    },
+    {
+      "name": "tagine spice",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "aerated flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "3/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together aerated flour, salt, and black pepper.",
+    "Gradually add in water, whisking until smooth.",
+    "Add in tagine spice and whisk until combined.",
+    "Dredge chicken breast in the batter, making sure it's fully coated.",
+    "Heat olive oil in a large oven-safe skillet over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side, or until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, sauté the onion and garlic in a separate skillet over medium heat until softened.",
+    "Once the chicken is done, remove it from the oven and let it rest for 5 minutes.",
+    "Serve the chicken with the sautéed onion and garlic, and garnish with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "chicken",
+    "tagine",
+    "aerated",
+    "batter"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-japanese-chicken-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:26:54.804Z"
+}
