@@ -1,0 +1,90 @@
+{
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--gluten-free",
+  "title": "Uruguayan Empanadas with Crispy Pastry",
+  "description": "A delicious gluten-free Uruguayan empanada recipe with crispy pastry and savory filling.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Chili Powder",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Crispy Pastry (Homemade or Store-bought)",
+      "amount": "1 package",
+      "notes": null
+    },
+    {
+      "name": "Aromatic Spices (Cilantro, Oregano, etc.)",
+      "amount": ", to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook ground beef over medium-high heat until browned, breaking into small pieces.",
+    "Add onion, garlic, cumin, chili powder, and salt. Cook until onion is translucent.",
+    "In a small bowl, beat the egg and mix with a tablespoon of water.",
+    "Lay out the crispy pastry and brush the edges with the egg mixture.",
+    "Place a tablespoon of the beef mixture onto one half of the pastry, leaving a 1/2-inch border around the edges.",
+    "Fold the other half of the pastry over the filling and press the edges to seal.",
+    "Repeat with the remaining pastry and filling.",
+    "Place the empanadas on a baking sheet lined with parchment paper and bake for 15-20 minutes, or until golden brown.",
+    "Serve hot and garnish with aromatic spices."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "gluten-free",
+    "uruguayan",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T10:15:25.475Z"
+}
