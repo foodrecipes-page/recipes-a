@@ -8710,5 +8710,82 @@
     "cuisine": null,
     "totalTimeMin": 40,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--french",
+    "title": "French Uruguayan Empanada Crisps",
+    "tags": [
+      "french",
+      "uruguayan",
+      "empanada",
+      "crispy",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "almond-star-steamie--mexican",
+    "title": "Mexican Almond Crusted Fish",
+    "tags": [
+      "mexican-food",
+      "seafood",
+      "fish"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 22,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-japanese-chicken-tagine--indian",
+    "title": "Japanese Chicken Tagine",
+    "tags": [
+      "indian",
+      "japanese",
+      "tagine",
+      "chicken"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-smoky-korean-black-pudding-namul--indian",
+    "title": "Spicy Korean Black Pudding Namul",
+    "tags": [
+      "indian",
+      "korean",
+      "snack",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 18,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--gluten-free",
+    "title": "Uruguayan Empanadas with Crispy Pastry",
+    "tags": [
+      "empanadas",
+      "gluten-free",
+      "uruguayan",
+      "beef"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "almond-star-steamie--thai",
+    "title": "Thai Star-Studded Almond Delight",
+    "tags": [
+      "easy",
+      "dessert",
+      "thai-inspired"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
