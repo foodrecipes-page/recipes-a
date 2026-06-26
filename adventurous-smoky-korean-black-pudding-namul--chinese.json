@@ -1,0 +1,72 @@
+{
+  "slug": "adventurous-smoky-korean-black-pudding-namul--chinese",
+  "title": "Smoky Namul Stir Fry",
+  "description": "A spicy and savory Chinese-inspired stir fry made with namul, adventurous black beans, and smoky flavors.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "namul",
+      "amount": "1 cup"
+    },
+    {
+      "name": "adventurous black beans",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "smoky",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add smoky and korean chili flakes; stir-fry for 1 minute.",
+    "Add namul and adventurous black beans; stir-fry for 3-4 minutes.",
+    "In a small bowl, whisk together soy sauce and brown sugar.",
+    "Pour the soy sauce mixture over the namul mixture; stir-fry for an additional 2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or noodles.",
+    "Garnish with green onions and sesame seeds, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-smoky-korean-black-pudding-namul--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:32:06.430Z"
+}
