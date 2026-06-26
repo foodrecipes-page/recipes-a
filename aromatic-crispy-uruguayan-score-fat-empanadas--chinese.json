@@ -1,0 +1,74 @@
+{
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--chinese",
+  "title": "Uruguayan Empanada Crust with Chinese Aromatic Filling",
+  "description": "A twist on traditional empanadas with a crispy crust and a flavorful Chinese-inspired filling.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan Empanada Dough",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic Chinese Filling",
+      "amount": "1/2 cup soy sauce",
+      "notes": "Combine with 1/4 cup chopped scallions and 1/4 cup chopped cilantro"
+    },
+    {
+      "name": "Scored Beef",
+      "amount": "1/2 pound",
+      "notes": "Slice into thin strips, score with a sharp knife"
+    },
+    {
+      "name": "Crispy Fried Onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Fat (Vegetable Oil)",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Empanada Filling (optional)",
+      "amount": "1/4 cup",
+      "notes": "Add 1/4 cup diced vegetables (e.g., carrots, bell peppers)"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out Uruguayan Empanada Dough to 1/4 inch thickness.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a spoonful of Aromatic Chinese Filling in the center of each dough circle.",
+    "Add a few slices of Scored Beef on top of the filling.",
+    "Fold the dough in half to form a half-circle shape and press edges together to seal.",
+    "Brush tops with Fat (Vegetable Oil) and sprinkle with Crispy Fried Onions.",
+    "Bake in preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve warm, garnished with additional chopped scallions and cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "empanadas",
+    "uruguayan",
+    "aromatic",
+    "crispy",
+    "scored"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:26:43.500Z"
+}
