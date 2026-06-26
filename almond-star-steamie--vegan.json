@@ -1,0 +1,82 @@
+{
+  "slug": "almond-star-steamie--vegan",
+  "title": "Almond Star Steamie Cakes",
+  "description": "Moist and delicious vegan cakes made with almond flour, perfect for a snack or dessert.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "finely ground"
+    },
+    {
+      "name": "Star anise",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "Steamie sugar",
+      "amount": "1/2 cup",
+      "notes": "or coconut sugar"
+    },
+    {
+      "name": "Non-dairy milk",
+      "amount": "1/2 cup",
+      "notes": "such as almond or soy milk"
+    },
+    {
+      "name": "Apple cider vinegar",
+      "amount": "1 tsp",
+      "notes": "helps with binding"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": "make sure it's vegan"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": "helps bring out flavors"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "1/4 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat your oven to 350°F (180°C) and grease a muffin tin with coconut oil.",
+    "In a large bowl, whisk together the almond flour, star anise, steamie sugar, and baking powder.",
+    "In a separate bowl, whisk together the non-dairy milk, apple cider vinegar, and melted coconut oil.",
+    "Add the wet ingredients to the dry ingredients and stir until well combined.",
+    "Divide the batter evenly among the muffin cups.",
+    "Bake for 18-20 minutes or until a toothpick inserted into the center of a cake comes out clean.",
+    "Allow the cakes to cool in the tin for 5 minutes before transferring them to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "dessert",
+    "snack",
+    "almond-flour"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-star-steamie--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T12:24:44.117Z"
+}
