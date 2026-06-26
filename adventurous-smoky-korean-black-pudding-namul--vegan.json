@@ -1,0 +1,73 @@
+{
+  "slug": "adventurous-smoky-korean-black-pudding-namul--vegan",
+  "title": "Spicy Black Bean Namul Salad",
+  "description": "A flavorful and nutritious vegan salad featuring spicy black beans and crunchy namul vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "black beans",
+      "amount": "1 cup cooked",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "namul",
+      "amount": "4 oz",
+      "notes": "available in most Asian markets or online"
+    },
+    {
+      "name": "adventurous sauce (gochujang or similar)",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "korean chili flakes (gochugaru)",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "smoky sesame oil",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "black sesame seeds",
+      "amount": "1 tsp",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Cook black beans according to package instructions.",
+    "Chop namul into fine slivers.",
+    "In a small bowl, whisk together adventurous sauce, korean chili flakes, and smoky sesame oil.",
+    "In a large bowl, combine cooked black beans, namul slivers, and sauce mixture. Toss to coat.",
+    "Season with salt to taste.",
+    "Garnish with black sesame seeds, if using.",
+    "Serve immediately, or refrigerate for up to 24 hours."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "korean",
+    "salad",
+    "black-beans",
+    "namul"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-smoky-korean-black-pudding-namul--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:33:06.662Z"
+}
