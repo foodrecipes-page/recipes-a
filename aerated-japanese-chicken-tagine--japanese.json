@@ -1,0 +1,71 @@
+{
+  "slug": "aerated-japanese-chicken-tagine--japanese",
+  "title": "Japanese Chicken Tagine",
+  "description": "A Japanese twist on traditional Moroccan cuisine, this dish combines the flavors of chicken, Japanese soy sauce, and tagine spices. The result is a delicious and aromatic meal that is sure to impress.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "soy sauce (Japanese)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat butter in a large pan over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add soy sauce, tagine spice blend, and brown sugar. Stir to combine.",
+    "Reduce heat to medium-low and simmer, covered, for 10-12 minutes, or until chicken is cooked through.",
+    "Stir in green onions and serve hot.",
+    "Garnish with additional green onions, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "tagine",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-japanese-chicken-tagine--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:32:46.987Z"
+}
