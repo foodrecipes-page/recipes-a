@@ -1,0 +1,75 @@
+{
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--italian",
+  "title": "Uruguayan Italian Empanadas",
+  "description": "Delicious Italian-Style Empanadas filled with savory Uruguayan flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "All-purpose flour",
+      "amount": "2 cups",
+      "notes": "For the empanada dough"
+    },
+    {
+      "name": "Uruguayan cheese",
+      "amount": "8 oz",
+      "notes": "Grated, for filling"
+    },
+    {
+      "name": "Aromatic onion",
+      "amount": "1 medium",
+      "notes": "Chopped, for filling"
+    },
+    {
+      "name": "Score of garlic",
+      "amount": "2 cloves",
+      "notes": "Minced, for filling"
+    },
+    {
+      "name": "Fat (lard or butter)",
+      "amount": "1/4 cup",
+      "notes": "For brushing empanadas"
+    },
+    {
+      "name": "Empanada filling (Uruguayan cheese & Aromatic onion mix)",
+      "amount": "1 cup",
+      "notes": "For filling empanadas"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Combine flour, salt, and water to make the empanada dough.",
+    "Divide dough into 8 equal pieces, and roll each one into a thin circle.",
+    "In a bowl, mix Uruguayan cheese, Aromatic onion, and Score of garlic.",
+    "Place 1-2 tablespoons of filling onto one half of each dough circle.",
+    "Fold the other half of dough over the filling, and press edges to seal.",
+    "Brush tops of empanadas with Fat (lard or butter).",
+    "Bake empanadas for 15-20 minutes, or until golden brown.",
+    "Serve warm, and enjoy!"
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "empanadas",
+    "cheese",
+    "onion",
+    "italian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:28:20.556Z"
+}
