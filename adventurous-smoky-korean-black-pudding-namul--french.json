@@ -1,0 +1,81 @@
+{
+  "slug": "adventurous-smoky-korean-black-pudding-namul--french",
+  "title": "French Smoked Black Pudding Namul",
+  "description": "A French-inspired side dish featuring smoky black pudding namul. A unique and flavorful accompaniment to your meals.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Namul Korean-Style Seasoned Sprouts",
+      "amount": "1 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "French Smoked Black Pudding",
+      "amount": "4 oz",
+      "notes": "sliced"
+    },
+    {
+      "name": "Black Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Fresh Chives",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine namul, black pudding, black sesame seeds, chopped chives, gochujang, sesame oil, rice vinegar, and salt.",
+    "2. Toss the ingredients together until the namul is evenly coated with the seasonings.",
+    "3. Taste and adjust the seasoning as needed.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "5. Before serving, give the namul a good stir and adjust the seasoning if needed.",
+    "6. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "namul",
+    "black-pudding",
+    "smoked"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-smoky-korean-black-pudding-namul--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T07:54:19.783Z"
+}
