@@ -1,0 +1,89 @@
+{
+  "slug": "aerated-japanese-chicken-tagine--chinese",
+  "title": "Crispy Chicken Tagine",
+  "description": "A Chinese-inspired dish with Japanese twist, featuring a crispy chicken tagine with aerated sauce.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "aerated sauce",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "japanese rice vinegar",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "1 tsp",
+      "notes": "for coating"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, whisk together Japanese rice vinegar, soy sauce, and 1 tsp of tagine spice blend. Add the chicken breast and marinate for at least 30 minutes.",
+    "2. Preheat the oil in a deep frying pan over medium-high heat. Remove the chicken from the marinade, allowing any excess to drip off.",
+    "3. Dredge the chicken in cornstarch, shaking off excess.",
+    "4. Fry the chicken until golden brown and crispy, about 5-6 minutes per side.",
+    "5. In a small bowl, mix together the remaining 1 tsp of tagine spice blend and 1/4 cup of aerated sauce.",
+    "6. Brush the tagine sauce mixture onto the fried chicken.",
+    "7. Garnish with green onions and sesame seeds.",
+    "8. Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "japanese",
+    "chicken",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-japanese-chicken-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:30:19.533Z"
+}
