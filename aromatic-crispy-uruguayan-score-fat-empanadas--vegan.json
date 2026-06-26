@@ -1,0 +1,75 @@
+{
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--vegan",
+  "title": "Sweet Crispy Empanadas",
+  "description": "A delicious vegan dessert empanada recipe with a crispy crust and sweet filling.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "uruguayan empanada dough",
+      "amount": "1 package",
+      "notes": "available in most supermarkets"
+    },
+    {
+      "name": "crispy pastry scraps",
+      "amount": "1 cup",
+      "notes": "for extra crunch"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "2 tbsp",
+      "notes": "vegan alternative to honey"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for greasing empanada dough"
+    },
+    {
+      "name": "fat-free coconut cream",
+      "amount": "1 cup",
+      "notes": "chilled and whipped"
+    },
+    {
+      "name": "aromatic spices",
+      "amount": "pinch",
+      "notes": "such as cinnamon, nutmeg, or cardamom"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the empanada dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of whipped coconut cream in the center of each dough circle.",
+    "Drizzle with maple syrup and sprinkle with aromatic spices.",
+    "Fold the dough in half to form a half-moon shape and press the edges together to seal.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops with coconut oil.",
+    "Bake for 20-25 minutes, or until golden brown.",
+    "Sprinkle with crispy pastry scraps and serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "dessert",
+    "empanadas",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T08:16:41.366Z"
+}
