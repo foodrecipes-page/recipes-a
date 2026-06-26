@@ -1,0 +1,78 @@
+{
+  "slug": "aerated-japanese-chicken-tagine--mexican",
+  "title": "Mexican Chicken Tagine",
+  "description": "A Mexican twist on the traditional Moroccan dish, with juicy chicken and a sweet, tangy sauce. Serve with rice, beans, or couscous for a flavorful meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Japanese chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "aerated sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add 1 teaspoon of Japanese chili flakes, 1 teaspoon of cumin, and 1 teaspoon of coriander. Cook for 1 minute.",
+    "Add the chicken breasts and cook until browned, about 5-6 minutes.",
+    "Transfer the chicken to a slow cooker and add 1 tablespoon of aerated sugar, 2 tablespoons of lime juice, and 1 cup of chicken broth.",
+    "Cook on low for 6-8 hours or high for 3-4 hours.",
+    "Shred the chicken with two forks and return to the slow cooker.",
+    "Simmer for an additional 10-15 minutes to allow the flavors to meld.",
+    "Serve hot, garnished with fresh cilantro and a squeeze of lime juice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 240,
+  "totalTimeMin": 255,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "mexican",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-japanese-chicken-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:28:49.995Z"
+}
