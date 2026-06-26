@@ -1,0 +1,82 @@
+{
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--mexican",
+  "title": "Crispy Uruguayan Empanadas with Spicy Aromatic Beef",
+  "description": "A twist on traditional Mexican empanadas, these crispy Uruguayan-style treats are filled with spicy aromatic beef and perfect for a flavorful snack or meal.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "red-meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan Beef",
+      "amount": "1 pound",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Aromatic Spice Blend",
+      "amount": "2 teaspoons",
+      "notes": "Ground cumin, chili powder, and smoked paprika"
+    },
+    {
+      "name": "Crispy Empanada Dough",
+      "amount": "1 package",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Score (For Baking)",
+      "amount": "1 tablespoon",
+      "notes": "For brushing empanadas with egg wash"
+    },
+    {
+      "name": "Fat (For Brushing)",
+      "amount": "1 tablespoon",
+      "notes": "Vegetable oil"
+    },
+    {
+      "name": "Empanada Filling",
+      "amount": "1 cup",
+      "notes": "Beef, onion, garlic, and Aromatic Spice Blend"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large mixing bowl, combine the Uruguayan Beef, Aromatic Spice Blend, salt, and black pepper. Mix well.",
+    "Roll out the Crispy Empanada Dough to a thickness of 1/8 inch. Cut out circles of dough.",
+    "Place a spoonful of the Empanada Filling in the center of each dough circle.",
+    "Brush the edges of the dough with the Score and fold the dough over the filling, pressing the edges to seal.",
+    "Brush the tops of the empanadas with the Fat.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Bake the empanadas for 15-20 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "beef",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:25:58.597Z"
+}
