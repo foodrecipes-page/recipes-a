@@ -1,0 +1,76 @@
+{
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--vegetarian",
+  "title": "Uruguayan Empanadas with Aromatic Filling",
+  "description": "Delicious vegetarian empanadas filled with a flavorful and aromatic mixture of sautéed onions, bell peppers, and spices. Perfect as a snack or light meal.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "onions",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "empanadas",
+      "amount": "4-6",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "score",
+      "amount": "1/4 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "fat",
+      "amount": "2 tbsp",
+      "notes": "olive oil"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Heat the olive oil in a large skillet over medium heat.",
+    "Sauté the chopped onions and bell peppers until softened, about 5 minutes.",
+    "Add the ground aromatic and score to the skillet and stir to combine.",
+    "Roll out the empanadas according to package instructions.",
+    "Place a spoonful of the onion and bell pepper mixture onto one half of each empanada.",
+    "Fold the other half over the filling and press the edges to seal.",
+    "Brush the tops of the empanadas with a little water.",
+    "Bake the empanadas in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "snack",
+    "empanadas",
+    "uruguayan",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "5g",
+    "carbs": "30g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:26:41.527Z"
+}
