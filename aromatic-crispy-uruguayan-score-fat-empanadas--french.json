@@ -1,0 +1,72 @@
+{
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--french",
+  "title": "French Empanada Fritters",
+  "description": "A crispy French twist on the classic Uruguayan empanada, made with a flaky pastry crust and a savory filling.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pastry dough",
+      "amount": "1 package",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "fat",
+      "amount": "1 tablespoon",
+      "notes": "olive oil"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 teaspoon",
+      "notes": "dried thyme"
+    },
+    {
+      "name": "score",
+      "amount": "1/4 cup",
+      "notes": "grated Gruyère cheese"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 375°F (190°C).",
+    "Roll out the pastry dough to a thickness of 1/8 inch.",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the onion and garlic mixture in the center of each dough circle.",
+    "Sprinkle a pinch of thyme and a sprinkle of Gruyère cheese on top of the filling.",
+    "Fold the dough in half to form a half-circle and press the edges together to seal.",
+    "Fry the empanadas in batches until golden brown, about 3-4 minutes per side.",
+    "Drain the empanadas on paper towels and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "snack",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T08:24:10.926Z"
+}
