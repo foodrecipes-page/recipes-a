@@ -1,0 +1,92 @@
+{
+  "slug": "aerated-japanese-chicken-tagine--thai",
+  "title": "Thai-Style Chicken Tagine",
+  "description": "A fusion of Thai and Moroccan flavors, this chicken tagine is a delicious and easy-to-make dish. The combination of chicken, Japanese rice, and aerated sauce creates a unique and tasty experience.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "aerated sauce",
+      "amount": "2 tbsp",
+      "notes": "such as tonkatsu sauce"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tsp",
+      "notes": "or a mix of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "crushed red pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large saucepan over medium-high heat.",
+    "Add the chicken breast and cook until browned on both sides, about 5-7 minutes.",
+    "Add the tagine spice blend, fish sauce, and brown sugar. Cook for 1 minute.",
+    "Add the Japanese rice and cook for 2-3 minutes, stirring constantly.",
+    "Add the aerated sauce and cook for an additional 2 minutes.",
+    "Transfer the chicken to a cutting board and let rest for 5 minutes.",
+    "Slice the chicken into thin strips.",
+    "Return the chicken to the saucepan and stir to combine with the rice mixture.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve hot.",
+    "If using crushed red pepper, add it to the saucepan and stir to combine during the last minute of cooking."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "tagine",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-japanese-chicken-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:27:24.781Z"
+}
