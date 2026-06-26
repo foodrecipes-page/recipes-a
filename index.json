@@ -8787,5 +8787,383 @@
     "cuisine": "thai",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--thai",
+    "title": "Crispy Thai Empanadas",
+    "tags": [
+      "crispy",
+      "thai",
+      "empanadas"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--german",
+    "title": "German Empanada Bratwurst",
+    "tags": [
+      "german",
+      "bratwurst",
+      "empanadas"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--indian",
+    "title": "Crispy Empanadas with Aromatic Sauce",
+    "tags": [
+      "indian",
+      "snack",
+      "empanadas"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--mexican",
+    "title": "Crispy Uruguayan Empanadas with Spicy Aromatic Beef",
+    "tags": [
+      "mexican",
+      "beef",
+      "empanadas"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--keto",
+    "title": "Uruguayan Empanada Keto Delight",
+    "tags": [
+      "keto",
+      "uruguayan",
+      "empanadas",
+      "snack"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--vegetarian",
+    "title": "Uruguayan Empanadas with Aromatic Filling",
+    "tags": [
+      "vegetarian",
+      "snack",
+      "empanadas",
+      "uruguayan",
+      "aromatic"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--chinese",
+    "title": "Uruguayan Empanada Crust with Chinese Aromatic Filling",
+    "tags": [
+      "chinese",
+      "empanadas",
+      "uruguayan",
+      "aromatic",
+      "crispy",
+      "scored"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-japanese-chicken-tagine--german",
+    "title": "German-Style Chicken Tagine with Aerated Batter",
+    "tags": [
+      "german",
+      "chicken",
+      "tagine",
+      "aerated",
+      "batter"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-japanese-chicken-tagine--thai",
+    "title": "Thai-Style Chicken Tagine",
+    "tags": [
+      "thai",
+      "chicken",
+      "tagine",
+      "rice"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--italian",
+    "title": "Uruguayan Italian Empanadas",
+    "tags": [
+      "empanadas",
+      "cheese",
+      "onion",
+      "italian",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-smoky-korean-black-pudding-namul--german",
+    "title": "Smoked Namul Pudding",
+    "tags": [
+      "smoked-pudding",
+      "german-dessert",
+      "korean-inspired",
+      "smoky-flavors"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-smoky-korean-black-pudding-namul--thai",
+    "title": "Smoky Korean Black Pudding Namul Salad",
+    "tags": [
+      "thai",
+      "korean",
+      "salad",
+      "veggie",
+      "lunch"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-japanese-chicken-tagine--mexican",
+    "title": "Mexican Chicken Tagine",
+    "tags": [
+      "chicken",
+      "mexican",
+      "tagine"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 255,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--japanese",
+    "title": "Crispy Uruguayan-Style Empanadas with Aromatic Fillings",
+    "tags": [
+      "japanese",
+      "empanada",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-japanese-chicken-tagine--keto",
+    "title": "Crispy Japanese Chicken Tagine",
+    "tags": [
+      "japanese",
+      "keto",
+      "chicken",
+      "tagine"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-japanese-chicken-tagine--chinese",
+    "title": "Crispy Chicken Tagine",
+    "tags": [
+      "chinese",
+      "japanese",
+      "chicken",
+      "tagine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 32,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-japanese-chicken-tagine--vegetarian",
+    "title": "Aerated Japanese Tagine",
+    "tags": [
+      "vegetarian",
+      "japanese",
+      "curry"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-japanese-chicken-tagine--vegan",
+    "title": "Vegan Japanese Tagine",
+    "tags": [
+      "vegan",
+      "japanese",
+      "tagine",
+      "rice"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 55,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-smoky-korean-black-pudding-namul--mexican",
+    "title": "Smoky Black Pudding Tacos",
+    "tags": [
+      "mexican",
+      "smoky",
+      "black-pudding",
+      "tacos",
+      "adventurous"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-smoky-korean-black-pudding-namul--keto",
+    "title": "Smoky Korean Pork Belly",
+    "tags": [
+      "keto",
+      "korean",
+      "pork-belly",
+      "breakfast"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-japanese-chicken-tagine--italian",
+    "title": "Italian Chicken with Japanese Twist",
+    "tags": [
+      "italian",
+      "japanese",
+      "chicken",
+      "easy"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 27,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-smoky-korean-black-pudding-namul--chinese",
+    "title": "Smoky Namul Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 22,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-japanese-chicken-tagine--japanese",
+    "title": "Japanese Chicken Tagine",
+    "tags": [
+      "japanese",
+      "chicken",
+      "tagine",
+      "dinner"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 22,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-smoky-korean-black-pudding-namul--vegan",
+    "title": "Spicy Black Bean Namul Salad",
+    "tags": [
+      "vegan",
+      "korean",
+      "salad",
+      "black-beans",
+      "namul"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 10,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-smoky-korean-black-pudding-namul--italian",
+    "title": "Korean-Style Black Pudding Bruschetta",
+    "tags": [
+      "italian",
+      "korean",
+      "fusion",
+      "appetizer"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-smoky-korean-black-pudding-namul--japanese",
+    "title": "Smoked Pork Belly Buns",
+    "tags": [
+      "japanese-fusion",
+      "pork-belly",
+      "namul-slaw",
+      "steamed-buns"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 260,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-japanese-chicken-tagine--gluten-free",
+    "title": "Gluten-Free Japanese Chicken Tagine",
+    "tags": [
+      "gluten-free",
+      "chicken",
+      "japanese",
+      "tagine"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-smoky-korean-black-pudding-namul--gluten-free",
+    "title": "Smoky Korean Pudding Namul",
+    "tags": [
+      "gluten-free",
+      "vegetarian",
+      "korean",
+      "snack"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "almond-star-steamie--vegan",
+    "title": "Almond Star Steamie Cakes",
+    "tags": [
+      "vegan",
+      "dessert",
+      "snack",
+      "almond-flour"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "a"
   }
 ]
