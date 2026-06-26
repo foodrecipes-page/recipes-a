@@ -1,0 +1,68 @@
+{
+  "slug": "adventurous-smoky-korean-black-pudding-namul--keto",
+  "title": "Smoky Korean Pork Belly",
+  "description": "A sweet and spicy Korean-inspired dish with crispy pork belly, perfect for keto diets.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Pork belly",
+      "amount": "2 lbs",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Adventurous sauce",
+      "amount": "2 tbsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Smoky Gochujang",
+      "amount": "1 tsp",
+      "notes": "Korean chili paste"
+    },
+    {
+      "name": "Black sesame seeds",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Namul",
+      "amount": "1 cup",
+      "notes": "Korean-style sesame spinach"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a large bowl, whisk together adventurous sauce, smoky gochujang, and 2 tbsp of oil.",
+    "Add pork belly to the bowl and toss to coat with the sauce.",
+    "Line a baking sheet with parchment paper and arrange pork belly in a single layer.",
+    "Roast in the oven for 20-25 minutes or until crispy.",
+    "Meanwhile, cook namul according to package instructions.",
+    "To serve, place crispy pork belly on a plate and top with namul.",
+    "Garnish with black sesame seeds and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "keto",
+    "korean",
+    "pork-belly",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-smoky-korean-black-pudding-namul--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:31:11.332Z"
+}
