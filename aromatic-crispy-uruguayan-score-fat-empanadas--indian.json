@@ -1,0 +1,85 @@
+{
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--indian",
+  "title": "Crispy Empanadas with Aromatic Sauce",
+  "description": "A twist on traditional Indian cuisine with crispy empanadas and a flavorful aromatic sauce.",
+  "cuisine": "indian",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Uruguayan Empanadas",
+      "amount": "4-6",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a pan over medium heat.",
+    "Add onion and cook until softened.",
+    "Add garlic and cook for 1 minute.",
+    "Add cumin, coriander, and ginger. Cook for 1 minute.",
+    "Add tomato and cook until broken down.",
+    "Add empanadas and cook until crispy.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "empanadas"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:25:17.921Z"
+}
