@@ -1,0 +1,83 @@
+{
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--thai",
+  "title": "Crispy Thai Empanadas",
+  "description": "A fusion of Thai and Uruguayan flavors, these crispy empanadas are filled with aromatic spices and savory beef.",
+  "cuisine": "thai",
+  "diet": [
+    "beef",
+    "gluten"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "ground beef"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "empanadas",
+      "amount": "4-6",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 teaspoon",
+      "notes": "Thai red curry paste"
+    },
+    {
+      "name": "score",
+      "amount": "1/4 teaspoon",
+      "notes": "white pepper"
+    },
+    {
+      "name": "fat",
+      "amount": "2 tablespoons",
+      "notes": "vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a pan, heat 1 tablespoon of vegetable oil over medium heat.",
+    "Add the chopped onion and cook until translucent, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the ground beef and cook until browned, breaking it apart with a spoon.",
+    "Stir in the Thai red curry paste and cook for 1 minute.",
+    "Season with white pepper to taste.",
+    "Place an empanada on a flat surface and spoon some of the beef mixture onto one half.",
+    "Fold the empanada in half and press the edges together to seal.",
+    "Repeat with the remaining empanadas and beef mixture.",
+    "Place the empanadas on a baking sheet lined with parchment paper.",
+    "Brush the tops with the remaining 1 tablespoon of vegetable oil.",
+    "Bake in the preheated oven for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "thai",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:25:01.584Z"
+}
