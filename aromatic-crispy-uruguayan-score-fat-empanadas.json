@@ -1,0 +1,82 @@
+{
+  "slug": "aromatic-crispy-uruguayan-score-fat-empanadas",
+  "title": "Uruguayan Empanadas",
+  "description": "A delicious and crispy pastry filled with beef and spices, inspired by the traditional Uruguayan cuisine. Perfect as a snack or light meal.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "500g",
+      "notes": "Ground beef"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Uruguayan",
+      "amount": "1 tsp",
+      "notes": "Herbs and spices mix"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large pan, cook the ground beef over medium heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion, minced garlic, ground cumin, smoked paprika, and salt to the pan and cook until the onion is translucent.",
+    "Let the mixture cool to room temperature.",
+    "Roll out the empanada dough to a thickness of about 1/8 inch (3 mm).",
+    "Cut out circles of dough using a cookie cutter or the rim of a glass.",
+    "Place a tablespoon of the beef mixture in the center of each dough circle.",
+    "Brush the edges of the dough with a little water, then fold the dough over the filling to form a half-circle shape.",
+    "Press the edges together to seal the empanada, then use a fork to crimp the edges.",
+    "Place the empanadas on a baking sheet lined with parchment paper, leaving about 1 inch (2.5 cm) of space between each empanada.",
+    "Brush the tops of the empanadas with a little oil, then bake for 20-25 minutes, or until golden brown.",
+    "Serve the empanadas warm, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "uruguayan",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T06:20:55.537Z"
+}
