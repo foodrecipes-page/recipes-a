@@ -1,64 +1,78 @@
 {
   "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--german",
-  "title": "German Empanada Bratwurst",
-  "description": "A German twist on traditional empanadas, filled with bratwurst and crispy onions.",
+  "title": "Crispy Bratwurst Empanadas",
+  "description": "A twist on traditional German bratwurst, these crispy empanadas are filled with juicy sausage and served as a snack or appetizer.",
   "cuisine": "german",
   "diet": [
-    "meat",
-    "pork"
+    "vegetarian",
+    "gluten-free"
   ],
-  "meal": "lunch",
+  "meal": "snack",
   "ingredients": [
     {
-      "name": "Bratwurst",
-      "amount": "4-6"
+      "name": "Bratwurst sausage",
+      "amount": "4",
+      "notes": "You can use store-bought or homemade sausage for this recipe"
     },
     {
-      "name": "Empanadas",
-      "amount": "4-6"
+      "name": "Uruguayan empanada dough",
+      "amount": "1 package",
+      "notes": "You can also use homemade dough or store-bought empanada wrappers"
     },
     {
-      "name": "Crispy Onions",
-      "amount": "1 cup"
+      "name": "Aromatic spices",
+      "amount": "1 tsp",
+      "notes": "Use a blend of paprika, garlic powder, and onion powder for added flavor"
+    },
+    {
+      "name": "Crispy empanada crust",
+      "amount": "1 cup",
+      "notes": "Use panko breadcrumbs for a light and crispy crust"
     },
     {
       "name": "Fat",
-      "amount": "2 tablespoons"
+      "amount": "2 tbsp",
+      "notes": "Use vegetable oil or lard for frying the empanadas"
     },
     {
-      "name": "Aromatic Spices",
-      "amount": "1 teaspoon",
-      "notes": "such as caraway or coriander"
+      "name": "Score",
+      "amount": "1 tsp",
+      "notes": "Use a pastry brush to apply the score (a mixture of egg and water) to the empanada dough"
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "Place empanadas on a baking sheet.",
-    "Cook bratwurst in a pan over medium heat until browned.",
-    "Add crispy onions and cook until caramelized.",
-    "Place cooked bratwurst mixture onto empanadas.",
-    "Dot the top with fat.",
-    "Bake in the oven for 10-12 minutes.",
-    "Serve hot."
+    "Preheat the oven to 375°F (190°C).",
+    "Prepare the empanada dough according to the package instructions.",
+    "Divide the dough into 8-10 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a few slices of bratwurst sausage in the center of each circle.",
+    "Brush the edges with the score (egg and water mixture).",
+    "Fold the dough in half to form a half-moon shape and press the edges together to seal the empanada.",
+    "Brush the tops of the empanadas with the remaining score mixture.",
+    "Dip the tops of the empanadas in the crispy empanada crust mixture.",
+    "Fry the empanadas in hot oil (about 1-2 inches deep) at 375°F (190°C) for 2-3 minutes on each side.",
+    "Drain the empanadas on paper towels and serve hot."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 20,
-  "totalTimeMin": 30,
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
     "german",
-    "bratwurst",
-    "empanadas"
+    "snack",
+    "appetizer",
+    "empanadas",
+    "bratwurst"
   ],
   "nutrition": {
-    "calories": 450,
-    "protein": 25,
-    "carbs": 30,
-    "fat": 25
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-uruguayan-score-fat-empanadas--german",
   "providerUsed": "groq",
-  "createdAt": "2026-06-26T11:25:03.612Z"
+  "createdAt": "2026-06-26T12:38:28.832Z"
 }
