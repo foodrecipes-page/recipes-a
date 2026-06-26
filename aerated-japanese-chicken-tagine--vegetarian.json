@@ -1,0 +1,78 @@
+{
+  "slug": "aerated-japanese-chicken-tagine--vegetarian",
+  "title": "Aerated Japanese Tagine",
+  "description": "A unique fusion of Japanese and North African flavors, featuring a light and airy tagine. Perfect for a vegetarian dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Japanese curry powder",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Aerated Japanese milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large saucepan over medium heat.",
+    "Add the onion and cook until softened, about 3-4 minutes.",
+    "Add the carrots and potatoes, cook for another 5 minutes.",
+    "Add the Japanese curry powder and cook for 1 minute.",
+    "Add the water and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes or until the vegetables are tender.",
+    "Stir in the aerated Japanese milk and soy sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegetarian",
+    "japanese",
+    "curry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-japanese-chicken-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:30:28.105Z"
+}
