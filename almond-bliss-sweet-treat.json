@@ -1,0 +1,59 @@
+{
+  "slug": "almond-bliss-sweet-treat",
+  "title": "Sweet Almond Bliss Treat",
+  "description": "A simple yet delicious treat made with almond, sweet, and bliss ingredients. Perfect for a quick dessert or snack.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Almond",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Sweet",
+      "amount": "1 cup sugar"
+    },
+    {
+      "name": "Bliss",
+      "amount": "1 cup white chocolate chips"
+    },
+    {
+      "name": "Treat",
+      "amount": "1 cup crushed almonds for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F.",
+    "Line a baking sheet with parchment paper.",
+    "In a medium bowl, mix together almond, sugar, and white chocolate chips.",
+    "Drop spoonfuls of the mixture onto the prepared baking sheet.",
+    "Bake for 12-15 minutes or until lightly golden.",
+    "Remove from the oven and let cool completely.",
+    "Garnish with crushed almonds.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "snack",
+    "american",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-bliss-sweet-treat",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T05:55:53.878Z"
+}
