@@ -1,0 +1,115 @@
+{
+  "slug": "aerated-japanese-chicken-tagine--gluten-free",
+  "title": "Gluten-Free Japanese Chicken Tagine",
+  "description": "A fusion dish that combines the flavors of Japan and North Africa. Chicken is marinated in a mixture of soy sauce, sake, and spices, then cooked in a tagine with vegetables and served over rice.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sake",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "4 medium",
+      "notes": ""
+    },
+    {
+      "name": "zucchini",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "green beans",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large tagine over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the garlic and ginger and cook for another minute.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the carrots, zucchini, green beans, and dried apricots. Cook for 2-3 minutes.",
+    "Add the soy sauce, sake, tagine spice mix, salt, and pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes, or until the chicken is cooked through.",
+    "Serve the chicken and vegetables over rice.",
+    "Garnish with chopped fresh herbs, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "chicken",
+    "japanese",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-japanese-chicken-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:34:53.178Z"
+}
