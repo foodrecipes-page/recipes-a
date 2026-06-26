@@ -547,14 +547,13 @@
   },
   {
     "slug": "adventurous-smoky-korean-black-pudding-namul",
-    "title": "Adventurous Smoky Korean Black Pudding Namul",
+    "title": "Smoky Namul Pudding",
     "tags": [
-      "black-pudding",
-      "grilled-vegetables",
-      "korean-cuisine",
-      "low-fodmap",
+      "korean",
+      "pudding",
+      "smoky",
       "namul",
-      "sesame-seeds"
+      "adventurous"
     ],
     "cuisine": "Korean",
     "totalTimeMin": 35,
@@ -847,16 +846,15 @@
   },
   {
     "slug": "aerated-japanese-chicken-tagine",
-    "title": "Aerated Japanese Chicken Tagine",
+    "title": "Japanese-Style Chicken Tagine",
     "tags": [
-      "date-night",
-      "dinner-party",
-      "high-protein",
-      "japanese-cuisine",
-      "one-pan"
+      "japanese",
+      "chicken",
+      "tagine",
+      "moroccan"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "cuisine": "Japanese-Moroccan",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -977,16 +975,16 @@
   },
   {
     "slug": "aerated-peppery-malaysian-eggplant-biryani",
-    "title": "Aerated Peppery Malaysian Eggplant Biryani",
+    "title": "Spicy Malaysian Eggplant Biryani",
     "tags": [
-      "biryani",
+      "vegetarian",
       "eggplant",
-      "malaysian-cuisine",
-      "one-pan",
-      "weeknight"
+      "biryani",
+      "malaysian",
+      "spicy"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 55,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -2291,15 +2289,15 @@
   },
   {
     "slug": "almond-bliss-sweet-treat",
-    "title": "Almond Bliss Sweet Treat",
+    "title": "Sweet Almond Bliss Treat",
     "tags": [
-      "snack",
       "dessert",
-      "quick-fix",
-      "norwegian"
+      "snack",
+      "american",
+      "easy"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 30,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -4590,19 +4588,15 @@
   },
   {
     "slug": "aromatic-crispy-uruguayan-score-fat-empanadas",
-    "title": "Aromatic Crispy Uruguayan Score-fat Empanadas",
+    "title": "Uruguayan Empanadas",
     "tags": [
-      "coconut-milk",
-      "dessert",
-      "gluten-free",
-      "high-protein",
-      "lemongrass",
-      "score-fat",
+      "beef",
+      "empanadas",
       "uruguayan",
-      "weeknight"
+      "snack"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -8675,6 +8669,46 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-japanese-chicken-tagine--french",
+    "title": "Japanese-Style Chicken Tagine with a French Twist",
+    "tags": [
+      "french",
+      "japanese",
+      "chicken",
+      "tagine",
+      "fusion"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-smoky-korean-black-pudding-namul--french",
+    "title": "French Smoked Black Pudding Namul",
+    "tags": [
+      "french",
+      "namul",
+      "black-pudding",
+      "smoked"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--vegan",
+    "title": "Sweet Crispy Empanadas",
+    "tags": [
+      "vegan",
+      "dessert",
+      "empanadas",
+      "sweet"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "a"
   }
 ]
