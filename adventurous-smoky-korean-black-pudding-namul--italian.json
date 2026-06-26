@@ -1,0 +1,77 @@
+{
+  "slug": "adventurous-smoky-korean-black-pudding-namul--italian",
+  "title": "Korean-Style Black Pudding Bruschetta",
+  "description": "A fusion twist on the classic Italian bruschetta, featuring smoky black pudding and crunchy namul.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Black Pudding",
+      "amount": "4 slices"
+    },
+    {
+      "name": "Namul",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Adventurous Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Smoky Olive Oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Crusty Italian Bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Fresh Basil Leaves",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Parmesan Cheese",
+      "amount": "1/2 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Slice the black pudding into 1/2-inch thick rounds.",
+    "Toast the Italian bread until crispy.",
+    "In a pan, heat the smoky olive oil over medium heat.",
+    "Add the adventurous garlic and cook for 1 minute.",
+    "Add the Korean chili flakes and cook for another minute.",
+    "Add the namul and cook until slightly caramelized.",
+    "Assemble the bruschetta by placing a slice of black pudding on each toasted bread slice.",
+    "Top with the namul mixture, parmesan cheese, and fresh basil leaves.",
+    "Bake in the oven for 5-7 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "korean",
+    "fusion",
+    "appetizer"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-smoky-korean-black-pudding-namul--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:33:30.173Z"
+}
