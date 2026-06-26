@@ -1,0 +1,83 @@
+{
+  "slug": "almond-star-steamie--mexican",
+  "title": "Mexican Almond Crusted Fish",
+  "description": "A unique fusion of Mexican and seafood flavors. Baked fish coated with a crunchy almond crust and spices.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Alaskan pollock fillets",
+      "amount": "4",
+      "notes": "Fresh fish"
+    },
+    {
+      "name": "almond",
+      "amount": "1 cup",
+      "notes": "Slivered almonds"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "Ground cumin"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "Smoked paprika"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "Ground chili powder"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "Fine salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": "Freshly ground black pepper"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": "Fresh lime juice"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Season fish with salt, black pepper, and chili powder.",
+    "Mix almond, cumin, and smoked paprika in a plate.",
+    "Dip each fish fillet in the almond mixture, pressing gently to coat.",
+    "Place coated fish on the prepared baking sheet.",
+    "Drizzle lime juice over the fish.",
+    "Bake for 12-15 minutes or until the fish is cooked through and the internal temperature reaches 145°F (63°C).",
+    "Serve immediately and garnish with lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican-food",
+    "seafood",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 4,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-star-steamie--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T08:40:11.561Z"
+}
