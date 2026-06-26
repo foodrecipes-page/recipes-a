@@ -1,0 +1,73 @@
+{
+  "slug": "adventurous-smoky-korean-black-pudding-namul--japanese",
+  "title": "Smoked Pork Belly Buns",
+  "description": "A fusion twist on traditional Japanese buns, filled with smoky pork belly and crunchy namul slaw.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 (1 1/2 pounds) piece",
+      "notes": ""
+    },
+    {
+      "name": "black rice vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "namul (Korean-style kimchi slaw)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "steamed buns",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to medium-low heat.",
+    "In a small bowl, whisk together the black rice vinegar, brown sugar, and soy sauce.",
+    "Rub the mixture all over the pork belly, making sure to coat it evenly.",
+    "Place the pork belly on the grill, close the lid, and cook for 4-5 hours, or until the internal temperature reaches 160°F (71°C).",
+    "While the pork is cooking, prepare the namul slaw according to package instructions.",
+    "Once the pork is cooked, let it rest for 10-15 minutes before slicing it thinly.",
+    "Split the steamed buns in half and fill each one with a few slices of the pork belly and some namul slaw.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 240,
+  "totalTimeMin": 260,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "japanese-fusion",
+    "pork-belly",
+    "namul-slaw",
+    "steamed-buns"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 34,
+    "carbs": 45,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-smoky-korean-black-pudding-namul--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T11:33:55.420Z"
+}
