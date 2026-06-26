@@ -8802,14 +8802,16 @@
   },
   {
     "slug": "aromatic-crispy-uruguayan-score-fat-empanadas--german",
-    "title": "German Empanada Bratwurst",
+    "title": "Crispy Bratwurst Empanadas",
     "tags": [
       "german",
-      "bratwurst",
-      "empanadas"
+      "snack",
+      "appetizer",
+      "empanadas",
+      "bratwurst"
     ],
     "cuisine": "german",
-    "totalTimeMin": 30,
+    "totalTimeMin": 32,
     "shard": "a"
   },
   {
@@ -9164,6 +9166,32 @@
     ],
     "cuisine": null,
     "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "almond-star-steamie--gluten-free",
+    "title": "Gluten-Free Star Anise Almond Crumble",
+    "tags": [
+      "gluten-free",
+      "dessert",
+      "crumble"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-smoky-korean-black-pudding-namul--vegetarian",
+    "title": "Smoky Black Pudding Namul",
+    "tags": [
+      "korean",
+      "vegetarian",
+      "snack",
+      "black-pudding",
+      "namul"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
     "shard": "a"
   }
 ]
