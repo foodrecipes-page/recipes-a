@@ -1,0 +1,99 @@
+{
+  "slug": "adventurous-smoky-korean-black-pudding-namul",
+  "title": "Smoky Namul Pudding",
+  "description": "A hearty, spicy Korean-inspired pudding dish featuring smoky flavors.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Namul",
+      "amount": "1 cup",
+      "notes": "Spinach and mushroom mixture"
+    },
+    {
+      "name": "Black pudding",
+      "amount": "4 oz",
+      "notes": "Crispy-fried, crumbled"
+    },
+    {
+      "name": "Adventurous chili flakes",
+      "amount": "1 tsp",
+      "notes": "Spicy"
+    },
+    {
+      "name": "Smoky sesame oil",
+      "amount": "2 tbsp",
+      "notes": "For added depth"
+    },
+    {
+      "name": "Korean chili paste",
+      "amount": "2 tbsp",
+      "notes": "Spicy, savory"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low-sodium"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": "For balance"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust as needed"
+    }
+  ],
+  "instructions": [
+    "1. In a pan over medium-low heat, heat the smoky sesame oil.",
+    "2. Add the minced garlic and grated ginger. Cook for 1 minute.",
+    "3. Add the Namul mixture, Korean chili paste, soy sauce, and rice vinegar. Stir to combine.",
+    "4. Bring the mixture to a simmer and cook for 5 minutes.",
+    "5. Crumble the black pudding and add it to the pan. Stir to combine.",
+    "6. Add the adventurous chili flakes and stir to combine.",
+    "7. Season with salt to taste.",
+    "8. Serve the Smoky Namul Pudding hot, garnished with additional Namul and black pudding if desired.",
+    "9. Cook the black pudding according to package instructions for crispy-fried texture.",
+    "10. Crumble the cooked black pudding into small pieces and set aside.",
+    "11. Refrigerate the Smoky Namul Pudding for at least 30 minutes to allow flavors to meld.",
+    "12. Serve chilled or at room temperature."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "pudding",
+    "smoky",
+    "namul",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-smoky-korean-black-pudding-namul",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T05:50:54.548Z"
+}
