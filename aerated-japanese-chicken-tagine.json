@@ -1,0 +1,81 @@
+{
+  "slug": "aerated-japanese-chicken-tagine",
+  "title": "Japanese-Style Chicken Tagine",
+  "description": "A flavorful and aromatic chicken dish inspired by Japanese cuisine, cooked in a traditional Moroccan tagine.",
+  "cuisine": "Japanese-Moroccan",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 tablespoons",
+      "notes": "or a combination of cumin, coriander, cinnamon, and turmeric"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "or tamari for gluten-free option"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "or maple syrup for a different flavor"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1/4 cup",
+      "notes": "for garnish"
+    },
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": "Japanese short-grain rice"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a small bowl, mix together the tagine spice blend, soy sauce, and honey.",
+    "Rub the spice mixture all over the chicken breast, making sure to coat it evenly.",
+    "Heat a large oven-safe skillet or Dutch oven over medium-high heat.",
+    "Sear the chicken breast for 2-3 minutes on each side, or until browned.",
+    "Transfer the skillet to the preheated oven and cook for 15-20 minutes, or until the chicken is cooked through.",
+    "While the chicken is cooking, prepare the sushi rice according to package instructions.",
+    "To assemble the dish, place a scoop of sushi rice on a plate, followed by a slice of the cooked chicken breast.",
+    "Garnish with chopped green onions and sesame seeds.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "tagine",
+    "moroccan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-japanese-chicken-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T05:45:26.023Z"
+}
