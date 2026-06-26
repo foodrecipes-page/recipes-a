@@ -1,0 +1,94 @@
+{
+  "slug": "aerated-japanese-chicken-tagine--french",
+  "title": "Japanese-Style Chicken Tagine with a French Twist",
+  "description": "A fusion recipe that combines the flavors of Japan and France, featuring chicken cooked in a traditional tagine with a hint of Japanese spices.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Japanese chili flakes (togarashi)",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven or clay tagine over medium-high heat.",
+    "Add the onion and cook, stirring occasionally, until it is lightly browned and caramelized, about 8 minutes.",
+    "Add the garlic and cook for 1 minute, stirring constantly.",
+    "Add the chicken breast and cook until browned on all sides, about 5-6 minutes.",
+    "Add the chicken broth, togarashi, Garam Masala, tagine spice blend, salt, and pepper.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake at 375°F (190°C) for 25-30 minutes, or until the chicken is cooked through and the sauce has thickened.",
+    "Serve the chicken with the sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "japanese",
+    "chicken",
+    "tagine",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 34,
+    "carbs": 10,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-japanese-chicken-tagine--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-26T07:47:19.882Z"
+}
