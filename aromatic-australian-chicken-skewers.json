@@ -1,0 +1,78 @@
+{
+  "slug": "aromatic-australian-chicken-skewers",
+  "title": "Aussie Chicken Skewers",
+  "description": "Grilled chicken skewers with a hint of Aussie spices, perfect for a summer evening.",
+  "cuisine": "australian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into 1 inch pieces"
+    },
+    {
+      "name": "aromatic olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "australian bush tomatoes",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together lemon juice, olive oil, and garlic.",
+    "Add the chicken, onion, bell pepper, and bush tomatoes to the bowl.",
+    "Toss to coat with marinade and let sit for at least 30 minutes.",
+    "Thread chicken and vegetables onto skewers.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "grilled",
+    "australian",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-australian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T02:31:58.441Z"
+}
