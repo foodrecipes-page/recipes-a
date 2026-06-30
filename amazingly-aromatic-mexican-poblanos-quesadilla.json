@@ -1,0 +1,76 @@
+{
+  "slug": "amazingly-aromatic-mexican-poblanos-quesadilla",
+  "title": "Roasted Poblano Quesadilla",
+  "description": "A simple and flavorful quesadilla filled with roasted poblanos, perfect for a quick and delicious meal. The smoky flavor of the roasted poblano pairs well with the melted cheese.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "poblanos",
+      "amount": "4",
+      "notes": "any color"
+    },
+    {
+      "name": "aromatic amazingly cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "quesadilla",
+      "amount": "4",
+      "notes": "large"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon",
+      "notes": "vegetable"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Place the poblanos on a baking sheet and roast for 20-25 minutes, or until the skin is blistered and charred.",
+    "3. Remove the poblanos from the oven and let them cool down.",
+    "4. Once cool enough to handle, peel the skin off the poblanos and place them in a bowl.",
+    "5. Add the shredded cheese, salt, and pepper to the bowl and mix well.",
+    "6. Heat the oil in a large skillet over medium heat.",
+    "7. Place a quesadilla in the skillet and sprinkle some of the poblano mixture onto half of the tortilla.",
+    "8. Fold the tortilla in half to enclose the filling.",
+    "9. Cook for 2-3 minutes or until the tortilla is crispy and the cheese is melted.",
+    "10. Flip the quesadilla and cook for another 2-3 minutes or until the other side is also crispy and the cheese is melted.",
+    "11. Repeat with the remaining ingredients."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "quesadilla",
+    "mexican",
+    "poblanos",
+    "roasted"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-aromatic-mexican-poblanos-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:23:30.135Z"
+}
