@@ -1,0 +1,80 @@
+{
+  "slug": "ablaze-tunisian-provola-kebabs",
+  "title": "Tunisian Kebabs with Provolone Cheese",
+  "description": "A flavorful and spicy kebab dish inspired by Tunisian cuisine, served with melted provolone cheese.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Provolone Cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Tunisian Spice Blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Red Bell Pepper",
+      "amount": "1 large",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "Tunisian Olives",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pita Bread",
+      "amount": "4-6 slices"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, combine red bell pepper, onion, zucchini, Tunisian olives, and cherry tomatoes.",
+    "In a small bowl, mix together Tunisian spice blend and olive oil.",
+    "Add the spice blend mixture to the vegetables and toss to coat.",
+    "Thread the vegetables onto skewers, leaving a small space between each piece.",
+    "Grill the kebabs for 8-10 minutes, turning occasionally.",
+    "Meanwhile, toast the pita bread slices on the grill.",
+    "Once the kebabs are cooked, serve with toasted pita bread and melted provolone cheese.",
+    "Optional: add ablaze to the kebabs for an extra spicy kick."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "tunisian",
+    "provolone",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ablaze-tunisian-provola-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:36:50.093Z"
+}
