@@ -3787,16 +3787,15 @@
   },
   {
     "slug": "aromatic-airy-algerian-lamb-tagine",
-    "title": "Aromatic Airy Algerian Lamb Tagine",
+    "title": "Classic Algerian Lamb Tagine",
     "tags": [
-      "flavorful",
-      "lamb-based",
+      "lamb",
+      "tagine",
       "north-african",
-      "one-pot",
       "slow-cooked"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 120,
+    "cuisine": "North African",
+    "totalTimeMin": 210,
     "shard": "a"
   },
   {
