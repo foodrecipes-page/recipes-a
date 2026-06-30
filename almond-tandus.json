@@ -1,0 +1,67 @@
+{
+  "slug": "almond-tandus",
+  "title": "Tandus and Almond Crisp",
+  "description": "A sweet and crunchy dessert made with tandus and almond. Perfect for warm weather.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "tandus",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "almond",
+      "amount": "1/2 cup sliced",
+      "notes": "raw almonds"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/4 cup",
+      "notes": "white sugar"
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tbsp",
+      "notes": "melted butter"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, mix together the tandus, sugar, and cinnamon.",
+    "In a separate bowl, mix the sliced almonds and melted butter.",
+    "Add the almond mixture to the tandus mixture and stir until well combined.",
+    "Transfer the mixture to a baking dish and bake for 25-30 minutes.",
+    "Serve warm or at room temperature."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "dessert",
+    "almond",
+    "tandus",
+    "crisp"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-tandus",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:53:04.581Z"
+}
