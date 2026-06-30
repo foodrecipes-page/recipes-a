@@ -1,0 +1,82 @@
+{
+  "slug": "aromatic-airy-algerian-lamb-tagine",
+  "title": "Classic Algerian Lamb Tagine",
+  "description": "A traditional North African dish made with tender lamb, aromatic spices, and dried fruits, slow-cooked in a flavorful stew.",
+  "cuisine": "North African",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 lbs",
+      "notes": "bone-in"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "algerian",
+      "amount": "1 tsp",
+      "notes": "ground spice blend"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "traditional clay pot or Dutch oven"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine or Dutch oven to medium heat. Add the oil and brown the lamb on all sides, about 5 minutes.",
+    "Remove the lamb from the pot and set aside. Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground aromatic and Algerian spice blends, and cook for 1 minute.",
+    "Return the lamb to the pot, add the chopped dried apricots, and stir to combine.",
+    "Cover the pot and transfer it to the oven. Braise the lamb for 2-3 hours, or until tender and falling apart.",
+    "Season with salt and pepper to taste. Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "north-african",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-airy-algerian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T07:44:11.097Z"
+}
