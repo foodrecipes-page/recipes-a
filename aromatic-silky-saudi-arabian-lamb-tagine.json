@@ -1,0 +1,88 @@
+{
+  "slug": "aromatic-silky-saudi-arabian-lamb-tagine",
+  "title": "Saudi Arabian Lamb Tagine",
+  "description": "A traditional Saudi Arabian dish made with tender lamb, aromatic spices, and silky saffron. This flavorful tagine is perfect for a special occasion.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "aromatic spices (cumin, coriander, cinnamon)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "silky saffron threads",
+      "amount": "1/2 teaspoon",
+      "notes": "soaked in 1 tablespoon hot water"
+    },
+    {
+      "name": "arabian coffee",
+      "amount": "2 cups",
+      "notes": "strong brew"
+    },
+    {
+      "name": "date syrup",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat. Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add aromatic spices, date syrup, and coffee. Stir to combine.",
+    "Add saffron and its soaking liquid. Stir to combine.",
+    "Cover the pot and transfer to the oven. Cook at 300°F (150°C) for 2 hours, or until lamb is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional saffron threads if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "lamb",
+    "tagine",
+    "aromatic spices"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-silky-saudi-arabian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T09:42:47.347Z"
+}
