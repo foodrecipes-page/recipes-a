@@ -1,0 +1,84 @@
+{
+  "slug": "algerian-clotted-cream-crumble",
+  "title": "Algerian Clotted Cream Crumble",
+  "description": "A classic Algerian dessert with a twist, featuring a crumbly crust and a creamy topping.",
+  "cuisine": "Algerian",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Algerian pastry dough",
+      "amount": "1 sheet",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Clotted cream",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1/2 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Unsalted butter, melted",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "Confectioners sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Crumble topping",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the Algerian pastry dough to a thickness of about 1/8 inch.",
+    "Transfer the dough to a 9-inch round baking dish.",
+    "In a separate bowl, mix the clotted cream and granulated sugar until well combined.",
+    "Pour the clotted cream mixture over the pastry dough.",
+    "In another bowl, mix the melted butter and flour until a crumbly mixture forms.",
+    "Add the confectioners sugar and crumble topping to the butter mixture and mix until well combined.",
+    "Spread the crumble topping evenly over the clotted cream mixture.",
+    "Bake for 35-40 minutes or until the crust is golden brown and the filling is set.",
+    "Remove from the oven and let cool for a few minutes before serving.",
+    "Dust with confectioners sugar and serve warm."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "crumble",
+    "dessert",
+    "clotted-cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/algerian-clotted-cream-crumble",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T03:42:33.200Z"
+}
