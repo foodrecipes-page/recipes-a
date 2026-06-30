@@ -1,0 +1,67 @@
+{
+  "slug": "aromatic-flaky-chinese-rice-congee",
+  "title": "Savory Chinese Congee",
+  "description": "A comforting and flavorful Chinese dish made with rice and aromatic ingredients.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Congee",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large saucepan over medium heat.",
+    "Add sliced ginger and minced garlic and stir until fragrant.",
+    "Add congee and rice, stirring to combine.",
+    "Add 4 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes, or until the congee has thickened.",
+    "Stir in chopped scallions and season with salt to taste.",
+    "Serve hot.",
+    "Optional: serve with your choice of toppings such as sliced green onions, pickled ginger, or diced scallions."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "breakfast",
+    "congee",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-flaky-chinese-rice-congee",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:47:14.989Z"
+}
