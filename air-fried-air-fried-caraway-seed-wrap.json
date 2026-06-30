@@ -1,0 +1,54 @@
+{
+  "slug": "air-fried-air-fried-caraway-seed-wrap",
+  "title": "Caraway Seed Wraps",
+  "description": "A simple and tasty snack or appetizer made with caraway seed and crispy fried flatbread.",
+  "cuisine": "Eastern European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flatbread",
+      "amount": "2 sheets",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "2 tbsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "for frying",
+      "notes": "for frying flatbread"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Fry the flatbread in hot oil until crispy, about 2-3 minutes per side.",
+    "Place the fried flatbread on a baking sheet and sprinkle with caraway seeds.",
+    "Bake in the oven for 5-7 minutes, or until the flatbread is crispy and the seeds are fragrant.",
+    "Serve warm, cut into strips or quarters."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "appetizer",
+    "european"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-air-fried-caraway-seed-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T12:47:03.866Z"
+}
