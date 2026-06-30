@@ -1,0 +1,92 @@
+{
+  "slug": "amazing-bouncy-mexican-pork-carnitas",
+  "title": "Carnitas Tacos",
+  "description": "A classic Mexican dish, our carnitas tacos feature slow-cooked pork in a flavorful mixture, served with fresh toppings.",
+  "cuisine": "Mexican",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "lard or vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "2 teaspoons",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "warm tortillas",
+      "amount": "4-6",
+      "notes": "corn or flour tortillas"
+    },
+    {
+      "name": "Mexican crema or sour cream",
+      "amount": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the pork chunks and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, chili powder, and salt. Stir to combine.",
+    "Add enough water to the pot to cover the pork, bring to a boil, then reduce the heat to low and simmer, covered, until the pork is tender, about 2-3 hours.",
+    "Shred the pork with two forks and stir to combine with the juices.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by spooning the pork onto a tortilla, topping with chopped cilantro, and serving with Mexican crema or sour cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 180,
+  "totalTimeMin": 200,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "carnitas",
+    "tacos",
+    "mexican",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 650,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-bouncy-mexican-pork-carnitas",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T10:00:02.322Z"
+}
