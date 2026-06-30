@@ -1,0 +1,84 @@
+{
+  "slug": "aromatic-resinous-korean-potato-tang",
+  "title": "Tangy Korean Aromatic Potatoes",
+  "description": "A flavorful and aromatic side dish made with Korean chili flakes, potatoes, and a tangy twist.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "3-4 medium-sized"
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Tang",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Resinous olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Aromatic sesame oil",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. Peel the potatoes and cut them into 1-inch wedges.",
+    "3. In a large bowl, whisk together the soy sauce, rice vinegar, tang, and sesame oil.",
+    "4. Add the potato wedges to the bowl and toss to coat with the marinade.",
+    "5. Line a baking sheet with parchment paper and arrange the potatoes in a single layer.",
+    "6. Drizzle the resinous olive oil over the potatoes and sprinkle with Korean chili flakes.",
+    "7. Bake for 20-25 minutes or until the potatoes are tender and caramelized.",
+    "8. Remove the potatoes from the oven and sprinkle with grated ginger and minced garlic.",
+    "9. Toss the potatoes to combine and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "potatoes",
+    "side-dish",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-resinous-korean-potato-tang",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T06:02:11.537Z"
+}
