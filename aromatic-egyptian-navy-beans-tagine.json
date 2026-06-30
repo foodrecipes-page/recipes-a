@@ -1,0 +1,87 @@
+{
+  "slug": "aromatic-egyptian-navy-beans-tagine",
+  "title": "Egyptian-Style Stewed Beans with Aromatic Spices",
+  "description": "A hearty and flavorful stew originating from Egypt, made with aromatic spices and navy beans.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Navy beans, dried",
+      "amount": "1 cup",
+      "notes": "Rinse and soak overnight"
+    },
+    {
+      "name": "Egyptian aromatic spices",
+      "amount": "2 tsp",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper, to taste",
+      "amount": "",
+      "notes": null
+    },
+    {
+      "name": "Optional: lemon wedges, for serving",
+      "amount": "",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic, cook until softened, about 5 minutes.",
+    "Add aromatic spices, cook for 1 minute.",
+    "Add tomato paste, cook for 1 minute.",
+    "Add navy beans, broth, salt, and pepper.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Check for seasoning and adjust as needed.",
+    "Serve hot, with lemon wedges on the side if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "vegetarian",
+    "egyptian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-egyptian-navy-beans-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T05:22:38.265Z"
+}
