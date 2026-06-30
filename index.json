@@ -2963,17 +2963,15 @@
   },
   {
     "slug": "amazingly-aromatic-mexican-poblanos-quesadilla",
-    "title": "Amazingly Aromatic Mexican Poblanos Quesadilla",
+    "title": "Roasted Poblano Quesadilla",
     "tags": [
-      "cheesy",
-      "kosher",
+      "quesadilla",
       "mexican",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "poblanos",
+      "roasted"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -4047,17 +4045,15 @@
   },
   {
     "slug": "aromatic-australian-chicken-skewers",
-    "title": "Aromatic Australian Chicken Skewers",
+    "title": "Aussie Chicken Skewers",
     "tags": [
-      "australian-cuisine",
-      "cheesy",
-      "garlicky",
-      "grilled-chicken",
-      "paleo-friendly",
+      "chicken",
+      "grilled",
+      "australian",
       "skewers"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 32,
+    "cuisine": "australian",
+    "totalTimeMin": 27,
     "shard": "a"
   },
   {
