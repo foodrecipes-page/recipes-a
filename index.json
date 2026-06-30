@@ -1834,17 +1834,15 @@
   },
   {
     "slug": "airy-flaky-norwegian-lamb-puff",
-    "title": "Airy Flaky Norwegian Lamb Puff",
+    "title": "Norwegian Lamb Kjøttkaker",
     "tags": [
-      "lamb-dishes",
-      "norwegian-cuisine",
-      "one-pan",
-      "ovo-vegetarian",
-      "weeknight",
-      "yeasty-pastry"
+      "lamb",
+      "meatballs",
+      "norwegian",
+      "pastry"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -2152,18 +2150,14 @@
   },
   {
     "slug": "all-american-buttery-american-chickpea-casserole",
-    "title": "All-American Buttery Chickpea Casserole",
+    "title": "Creamy Chicken Casserole",
     "tags": [
+      "chicken",
       "casserole",
-      "cheesy-crunchy",
-      "chickpea",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "comfort-food"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 50,
+    "cuisine": "american",
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
