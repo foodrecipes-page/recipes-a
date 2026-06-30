@@ -1,0 +1,87 @@
+{
+  "slug": "air-fried-crispy-egyptian-snapper-fish-stir-fry",
+  "title": "Egyptian Fish Fry",
+  "description": "A crispy fried fish dish from Egypt, perfect for a quick lunch. Enjoy the flavors of the Mediterranean in this easy-to-make recipe.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Snapper fillets",
+      "amount": "4",
+      "notes": "Fresh and sustainable"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "1 cup",
+      "notes": "For dusting"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1/2 cup",
+      "notes": "For coating"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1/2 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "For flavor"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "For color and flavor"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "4",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Heat the oil in a large frying pan over medium-high heat.",
+    "2. In a shallow dish, mix together the flour, cornstarch, garlic powder, paprika, salt, and pepper.",
+    "3. Dust the snapper fillets with the flour mixture, shaking off excess.",
+    "4. Fry the snapper fillets for 3-4 minutes on each side, until crispy and golden brown.",
+    "5. Remove the fish from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "6. Serve the fish hot with a squeeze of lemon juice and a side of your favorite vegetables."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "fish",
+    "lunch",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-egyptian-snapper-fish-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T11:55:26.792Z"
+}
