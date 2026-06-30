@@ -2566,14 +2566,12 @@
   },
   {
     "slug": "amazing-bouncy-mexican-pork-carnitas",
-    "title": "Amazing Bouncy Mexican Pork Carnitas",
+    "title": "Carnitas Tacos",
     "tags": [
-      "comfort-food",
-      "halal-friendly",
-      "mexican-food",
-      "one-pot",
-      "pork-recipes",
-      "slow-cooked"
+      "carnitas",
+      "tacos",
+      "mexican",
+      "pork"
     ],
     "cuisine": "Mexican",
     "totalTimeMin": 200,
@@ -6141,16 +6139,15 @@
   },
   {
     "slug": "aromatic-silky-saudi-arabian-lamb-tagine",
-    "title": "Aromatic Silky Saudi Arabian Lamb Tagine",
+    "title": "Saudi Arabian Lamb Tagine",
     "tags": [
-      "lamb-based",
-      "middle-eastern",
-      "pastry-dish",
-      "special-occasion",
-      "wine-braised"
+      "saudi arabian",
+      "lamb",
+      "tagine",
+      "aromatic spices"
     ],
-    "cuisine": "saudi-arabian",
-    "totalTimeMin": 70,
+    "cuisine": "Saudi Arabian",
+    "totalTimeMin": 140,
     "shard": "a"
   },
   {
