@@ -1,0 +1,61 @@
+{
+  "slug": "airy-flaky-norwegian-lamb-puff",
+  "title": "Norwegian Lamb Kjøttkaker",
+  "description": "Traditional Norwegian lamb meatballs made with a hint of airy puff pastry and served with a side of flaky crusty bread.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "minced"
+    },
+    {
+      "name": "airy puff pastry",
+      "amount": "250g",
+      "notes": "thawed"
+    },
+    {
+      "name": "flaky norwegian bread",
+      "amount": "4 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Mix minced lamb, salt, and pepper in a bowl.",
+    "3. Divide the puff pastry into 4 equal pieces.",
+    "4. Roll out each piece into a thin sheet.",
+    "5. Place a tablespoon of lamb mixture onto one half of each sheet.",
+    "6. Fold the other half over the filling and press edges to seal.",
+    "7. Brush the tops with egg and cut a few slits in the top.",
+    "8. Place on a baking sheet lined with parchment paper.",
+    "9. Bake for 15-20 minutes or until golden brown.",
+    "10. Serve with flaky Norwegian bread and a side salad."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "meatballs",
+    "norwegian",
+    "pastry"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-flaky-norwegian-lamb-puff",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T08:57:15.606Z"
+}
