@@ -1221,15 +1221,16 @@
   },
   {
     "slug": "air-fried-crispy-egyptian-snapper-fish-stir-fry",
-    "title": "Air-Fried Crispy Egyptian Snapper Fish Stir-fry",
+    "title": "Egyptian Fish Fry",
     "tags": [
-      "air-fried",
-      "stir-fry",
-      "snapper fish",
-      "keto-friendly"
+      "egyptian",
+      "fish",
+      "lunch",
+      "quick",
+      "easy"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 23,
+    "totalTimeMin": 18,
     "shard": "a"
   },
   {
@@ -2607,17 +2608,15 @@
   },
   {
     "slug": "amazing-buttery-uruguayan-tripe-gratin",
-    "title": "Amazing Buttery Uruguayan Tripe Gratin",
+    "title": "Uruguayan Tripe Gratin",
     "tags": [
-      "buttery",
-      "comfort-food",
-      "flambe",
+      "uruguayan",
+      "beef",
       "gratin",
-      "pescatarian",
-      "uruguayan-cuisine"
+      "comfort-food"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 55,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
@@ -3235,16 +3234,15 @@
   },
   {
     "slug": "amazingly-dense-mediterranean-steak-skewers",
-    "title": "Amazingly Dense Mediterranean Steak Skewers",
+    "title": "Mediterranean Steak Skewers",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "mediterranean-inspired",
-      "one-pan",
-      "weeknight"
+      "grilled",
+      "mediterranean",
+      "steak",
+      "skewers"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 35,
+    "totalTimeMin": 38,
     "shard": "a"
   },
   {
