@@ -2128,14 +2128,12 @@
     "title": "Algerian Clotted Cream Crumble",
     "tags": [
       "algerian",
+      "crumble",
       "dessert",
-      "clotted-cream",
-      "hangover-cure",
-      "sweet",
-      "crumbly"
+      "clotted-cream"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -2366,15 +2364,15 @@
   },
   {
     "slug": "almond-tandus",
-    "title": "Almond Tandus",
+    "title": "Tandus and Almond Crisp",
     "tags": [
+      "dessert",
       "almond",
       "tandus",
-      "syrian",
-      "gluten-free"
+      "crisp"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 35,
+    "cuisine": null,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -3406,17 +3404,14 @@
   },
   {
     "slug": "amazingly-sweet-mediterranean-sweet-potatoes-tagine",
-    "title": "Amazingly Sweet Mediterranean Sweet Potatoes Tagine",
+    "title": "Sweet Tagine Potatoes",
     "tags": [
-      "mediterranean",
-      "one-pan",
-      "quick-fix",
+      "north-african",
       "sweet-potatoes",
-      "vegan",
       "vegetarian"
     ],
-    "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
