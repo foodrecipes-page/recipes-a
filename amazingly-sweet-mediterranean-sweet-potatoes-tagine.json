@@ -1,0 +1,83 @@
+{
+  "slug": "amazingly-sweet-mediterranean-sweet-potatoes-tagine",
+  "title": "Sweet Tagine Potatoes",
+  "description": "A flavorful and aromatic North African-inspired dish featuring sweet potatoes and a blend of spices.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Sweet Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Mediterranean Olives",
+      "amount": "1/4 cup",
+      "notes": "pitted and sliced"
+    },
+    {
+      "name": "Spices (cumin, coriander, paprika)",
+      "amount": "1 teaspoon",
+      "notes": "blend"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, toss the sweet potatoes with 1 tablespoon of olive oil, salt, and black pepper until they are evenly coated.",
+    "Spread the sweet potatoes on a baking sheet and roast for 20-25 minutes, or until tender.",
+    "In a large saucepan, heat the remaining 1 tablespoon of olive oil over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the sliced olives, spice blend, and cooked sweet potatoes to the saucepan.",
+    "Stir to combine and cook for 2-3 minutes, allowing the flavors to meld.",
+    "Season with salt and black pepper to taste.",
+    "Serve the sweet tagine potatoes hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "sweet-potatoes",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-sweet-mediterranean-sweet-potatoes-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T04:42:50.359Z"
+}
