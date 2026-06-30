@@ -4847,13 +4847,14 @@
   },
   {
     "slug": "aromatic-egyptian-navy-beans-tagine",
-    "title": "Aromatic Egyptian Navy Beans Tagine",
+    "title": "Egyptian-Style Stewed Beans with Aromatic Spices",
     "tags": [
-      "egyptian",
-      "lunch"
+      "stew",
+      "vegetarian",
+      "egyptian"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -5788,17 +5789,15 @@
   },
   {
     "slug": "aromatic-resinous-korean-potato-tang",
-    "title": "Aromatic Resinous Korean Potato Tang",
+    "title": "Tangy Korean Aromatic Potatoes",
     "tags": [
-      "copper-mug",
-      "earthenware-cook",
-      "korean-cuisine",
-      "resinous-dish",
-      "special-occasion",
-      "vegetarian"
+      "korean",
+      "potatoes",
+      "side-dish",
+      "aromatic"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
