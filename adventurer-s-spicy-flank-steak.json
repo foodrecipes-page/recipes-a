@@ -1,0 +1,68 @@
+{
+  "slug": "adventurer-s-spicy-flank-steak",
+  "title": "Spicy Grilled Flank Steak",
+  "description": "A flavorful and spicy twist on a classic grilled steak dish.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "flank steak",
+      "amount": "1 (1.5-2 pounds)",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "adventurer",
+      "amount": "1 small onion",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "s",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "spicy",
+      "amount": "1 teaspoon",
+      "notes": "dried oregano"
+    },
+    {
+      "name": "flank steak",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Season the flank steak with oregano, cumin, salt, and pepper.",
+    "Grill the steak for 3-5 minutes per side, or until it reaches 135°F for medium-rare.",
+    "Let the steak rest for 5 minutes before slicing it thinly against the grain.",
+    "While the steak is cooking, heat a small amount of oil in a pan over medium-high heat.",
+    "Add the sliced onion and cook for 3-4 minutes, or until it's slightly caramelized.",
+    "Stir in the minced garlic and cook for an additional minute.",
+    "Serve the grilled steak with the spicy onion mixture spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "steak",
+    "mexican"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurer-s-spicy-flank-steak",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T17:35:47.436Z"
+}
