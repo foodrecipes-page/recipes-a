@@ -1856,16 +1856,15 @@
   },
   {
     "slug": "airy-indulgent-dutch-dough-pancakes",
-    "title": "Airy Indulgent Dutch Dough Pancakes",
+    "title": "Dutch Pancakes",
     "tags": [
-      "buddhist-friendly",
-      "dutch-pancakes",
-      "fluffy-pancakes",
-      "vegetarian-breakfast",
-      "yeasty-treats"
+      "breakfast",
+      "pancakes",
+      "dutch",
+      "delicious"
     ],
     "cuisine": "Dutch",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
@@ -2439,17 +2438,14 @@
   },
   {
     "slug": "amazing-aromatic-peruvian-potato-stew",
-    "title": "Amazing Aromatic Peruvian Potato Stew",
+    "title": "Peruvian Stew",
     "tags": [
-      "comfort-food",
-      "diabetic-friendly",
-      "gluten-free",
-      "hearty-stew",
-      "one-pot-meal",
-      "peruvian-cuisine"
+      "beef",
+      "potato",
+      "stew"
     ],
     "cuisine": "Peruvian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 80,
     "shard": "a"
   },
   {
