@@ -1,0 +1,73 @@
+{
+  "slug": "aromatic-molcajete-algerian-savoy-cabbage-stew",
+  "title": "Braised Cabbage with Savoy and Algerian Spices",
+  "description": "A hearty, flavorful cabbage dish with the added depth of Algerian spices and the crunch of Savoy cabbage.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "Savoy cabbage",
+      "amount": "1 head",
+      "notes": "shredded"
+    },
+    {
+      "name": "algerian",
+      "amount": "2 tsp",
+      "notes": "ground spices"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tsp",
+      "notes": "ground spices"
+    },
+    {
+      "name": "molcajete",
+      "amount": "2 tbsp",
+      "notes": "chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "4 cups",
+      "notes": "low-sodium broth"
+    }
+  ],
+  "instructions": [
+    "Heat the molcajete in a large pot over medium heat.",
+    "Add the aromatic and Algerian spices and cook, stirring constantly, for 1 minute.",
+    "Add the shredded cabbage and cook, stirring occasionally, until it begins to soften, about 5 minutes.",
+    "Add the Savoy cabbage and the stew, cover the pot, and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, until the cabbage is tender, about 20 minutes.",
+    "Season with salt and pepper to taste, and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "vegetarian",
+    "winter",
+    "cabbage",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-molcajete-algerian-savoy-cabbage-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T18:17:46.075Z"
+}
