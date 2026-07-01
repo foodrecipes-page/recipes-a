@@ -434,16 +434,15 @@
   },
   {
     "slug": "adventurous-mediterranean-lamb-tagine",
-    "title": "adventurous mediterranean lamb tagine",
+    "title": "Lamb Tagine with Mediterranean Flair",
     "tags": [
-      "gluten-free",
-      "high-calorie",
       "lamb",
       "mediterranean",
-      "one-pan"
+      "tagine",
+      "slow-cooker"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 140,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 180,
     "shard": "a"
   },
   {
