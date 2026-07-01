@@ -3510,18 +3510,14 @@
   },
   {
     "slug": "amber-uruguayan-tofu-stew",
-    "title": "Amber Uruguayan Tofu Stew",
+    "title": "Uruguayan Amber Stew",
     "tags": [
-      "cedar-plank",
-      "creamy",
-      "kid-friendly",
-      "matcha",
-      "one-pot",
-      "plant-based",
+      "beef",
+      "stew",
       "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 90,
+    "totalTimeMin": 170,
     "shard": "a"
   },
   {
