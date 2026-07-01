@@ -3657,15 +3657,14 @@
   },
   {
     "slug": "apple-ferment-crunch",
-    "title": "Apple Ferment Crunch",
+    "title": "Autumn Crunch Snack",
     "tags": [
-      "apple-ferment-crunch",
-      "moroccan-dish",
-      "fermented-apple",
-      "crispy-buttery"
+      "autumn",
+      "snack",
+      "crunchy"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 40,
+    "cuisine": "american",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -3870,17 +3869,15 @@
   },
   {
     "slug": "aromatic-amber-egyptian-chicken-tagine",
-    "title": "Aromatic Amber Egyptian Chicken Tagine",
+    "title": "Chicken Tagine with Aromatic Spices",
     "tags": [
-      "chicken-recipe",
-      "fodmap-friendly",
-      "gluten-free",
-      "north-african",
-      "one-pot",
-      "special-occasion"
+      "moroccan",
+      "chicken",
+      "stew",
+      "aromatic-spices"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 50,
+    "cuisine": "Moroccan",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
