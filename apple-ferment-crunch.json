@@ -1,0 +1,56 @@
+{
+  "slug": "apple-ferment-crunch",
+  "title": "Autumn Crunch Snack",
+  "description": "A sweet and crunchy snack perfect for fall, made with fermented apples and a hint of texture.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "apple",
+      "amount": "1 large",
+      "notes": "any variety, such as Granny Smith"
+    },
+    {
+      "name": "ferment",
+      "amount": "2 tbsp",
+      "notes": "apple cider vinegar or fermented apple puree"
+    },
+    {
+      "name": "crunch",
+      "amount": "1/2 cup",
+      "notes": "chopped nuts or seeds, such as almonds or pumpkin seeds"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Peel, core, and chop the apple into 1-inch pieces.",
+    "In a bowl, mix together the chopped apple and ferment.",
+    "Add the crunch topping to the bowl and stir until well combined.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes, or until the apple is tender and the topping is lightly toasted.",
+    "Remove from the oven and let cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "autumn",
+    "snack",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/apple-ferment-crunch",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T21:38:19.443Z"
+}
