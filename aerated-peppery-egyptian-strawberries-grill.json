@@ -1,0 +1,63 @@
+{
+  "slug": "aerated-peppery-egyptian-strawberries-grill",
+  "title": "Strawberry Grill",
+  "description": "A flavorful summer dessert featuring fresh strawberries and grilled peperiness.",
+  "cuisine": "american",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "strawberries",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "peppery",
+      "amount": "1/4 cup",
+      "notes": "aerated peppercorns"
+    },
+    {
+      "name": "egyptian sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "grill",
+      "amount": "",
+      "notes": "for grilling"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Wash and slice strawberries into 1/2-inch thick slices.",
+    "In a small bowl, mix egyptian sugar and peppery.",
+    "Brush grill with mixture and place sliced strawberries on top.",
+    "Grill strawberries for 3-4 minutes per side, or until slightly charred.",
+    "Serve warm with additional peppery mixture as desired.",
+    "Note: Use caution when handling hot grill and ingredients."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "strawberries",
+    "peppery",
+    "summer",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 0
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-peppery-egyptian-strawberries-grill",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T13:22:03.259Z"
+}
