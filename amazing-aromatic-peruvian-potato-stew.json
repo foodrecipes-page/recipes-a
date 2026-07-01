@@ -1,0 +1,59 @@
+{
+  "slug": "amazing-aromatic-peruvian-potato-stew",
+  "title": "Peruvian Stew",
+  "description": "A hearty and flavorful Peruvian-inspired stew made with aromatic potatoes and tender beef.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Peruvian potato",
+      "amount": "2 large"
+    },
+    {
+      "name": "Beef stew meat",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Amazing beef broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Aromatic onion",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "Stew seasoning",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the beef broth in a large pot over medium-high heat.",
+    "Add the chopped onion to the pot and cook until softened.",
+    "Add the beef stew meat to the pot and cook until browned.",
+    "Add the Peruvian potatoes to the pot and stir to combine.",
+    "Reduce heat to low and simmer for 1 hour.",
+    "Season the stew with stew seasoning and serve hot.",
+    "Garnish with chopped fresh herbs, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "potato",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-aromatic-peruvian-potato-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:18:34.942Z"
+}
