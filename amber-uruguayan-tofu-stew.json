@@ -1,0 +1,100 @@
+{
+  "slug": "amber-uruguayan-tofu-stew",
+  "title": "Uruguayan Amber Stew",
+  "description": "A hearty stew with tender beef, sweet amber, and a hint of Uruguayan spices.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan Beef",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Amber",
+      "amount": "2 cups",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Optional, cut into 1-inch cubes"
+    },
+    {
+      "name": "Stew",
+      "amount": "2 cups",
+      "notes": "Your favorite store-bought or homemade stew"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan red wine",
+      "amount": "1 cup",
+      "notes": "Optional"
+    },
+    {
+      "name": "Beef broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the beef in batches until browned on all sides, about 5 minutes per batch.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the tomato paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the beef broth, browned beef, and salt and pepper to taste.",
+    "Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "Bake for 2 1/2 hours, or until the beef is tender.",
+    "Stir in the amber and stew, and cook for an additional 30 minutes.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amber-uruguayan-tofu-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T14:28:34.141Z"
+}
