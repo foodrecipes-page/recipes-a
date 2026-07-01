@@ -1,0 +1,79 @@
+{
+  "slug": "airy-indulgent-dutch-dough-pancakes",
+  "title": "Dutch Pancakes",
+  "description": "A light and airy pancake recipe inspired by the Dutch tradition. Serve with fresh fruit or powdered sugar for a delicious breakfast treat.",
+  "cuisine": "Dutch",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Dough",
+      "amount": "1 1/2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Airy",
+      "amount": "2 large eggs",
+      "notes": "fresh"
+    },
+    {
+      "name": "Indulgent",
+      "amount": "1 cup",
+      "notes": "milk"
+    },
+    {
+      "name": "Pancakes",
+      "amount": "2 tablespoons",
+      "notes": "butter, melted"
+    },
+    {
+      "name": "Sugar",
+      "amount": "2 tablespoons",
+      "notes": "granulated"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the flour, sugar, and salt.",
+    "In a separate bowl, whisk together the eggs, milk, and melted butter.",
+    "Add the dry ingredients to the wet ingredients and stir until just combined. Do not overmix.",
+    "The batter should still be slightly lumpy.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Drop the batter by 1/4 cupfuls onto the skillet or griddle.",
+    "Cook for 2-3 minutes, until bubbles appear on the surface and the edges start to dry.",
+    "Flip the pancakes and cook for an additional 1-2 minutes, until golden brown.",
+    "Serve the pancakes hot with fresh fruit and powdered sugar if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "pancakes",
+    "dutch",
+    "delicious"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-indulgent-dutch-dough-pancakes",
+  "providerUsed": "groq",
+  "createdAt": "2026-06-30T22:52:13.583Z"
+}
