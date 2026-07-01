@@ -199,16 +199,14 @@
   },
   {
     "slug": "adventurer-s-spicy-flank-steak",
-    "title": "Adventurer's Spicy Flank Steak",
+    "title": "Spicy Grilled Flank Steak",
     "tags": [
-      "adventurer",
-      "japanese",
-      "beef-flank-steak",
-      "korean-dumplings",
-      "spicy"
+      "grilled",
+      "steak",
+      "mexican"
     ],
-    "cuisine": "Japanese",
-    "totalTimeMin": 60,
+    "cuisine": "mexican",
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
