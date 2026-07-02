@@ -711,15 +711,15 @@
   },
   {
     "slug": "aerated-bitter-slovakian-cottage-cheese-bake",
-    "title": "Aerated Bitter Slovakian Cottage Cheese Bake",
+    "title": "Slovakian Baked Cheese",
     "tags": [
-      "baked-goods",
-      "brunch",
-      "high-protein",
-      "weeknight"
+      "cheese",
+      "slovakian",
+      "baked",
+      "vegetarian"
     ],
-    "cuisine": "slovakian",
-    "totalTimeMin": 50,
+    "cuisine": "Slovakian",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -3306,17 +3306,15 @@
   },
   {
     "slug": "amazingly-nutty-american-cocoa-toast",
-    "title": "Amazingly Nutty American Cocoa Toast",
+    "title": "Nutty American Toast",
     "tags": [
+      "breakfast",
       "american",
-      "breakfast-alternative",
-      "crunchy",
-      "flexitarian",
       "nutty",
-      "post-workout"
+      "cocoa"
     ],
-    "cuisine": "American",
-    "totalTimeMin": 16,
+    "cuisine": null,
+    "totalTimeMin": 10,
     "shard": "a"
   },
   {
@@ -3846,17 +3844,14 @@
   },
   {
     "slug": "aromatic-amazing-peruvian-chicken-skewers",
-    "title": "Aromatic Amazing Peruvian Chicken Skewers",
+    "title": "Peruvian Chicken Skewers",
     "tags": [
-      "grilled-chicken",
-      "high-protein",
-      "meal-prep",
-      "one-pan",
-      "peruvian-cuisine",
-      "satvik-friendly"
+      "chicken",
+      "peruvian",
+      "grilled"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 35,
+    "cuisine": "peruvian",
+    "totalTimeMin": 20,
     "shard": "a"
   },
   {
@@ -4182,13 +4177,12 @@
   },
   {
     "slug": "aromatic-canadian-lentil-stew",
-    "title": "Aromatic Canadian Lentil Stew",
+    "title": "Canadian Lentil Stew",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "high-protein",
-      "one-pot",
-      "weeknight"
+      "canadian",
+      "lentil",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Canadian",
     "totalTimeMin": 60,
@@ -6821,16 +6815,15 @@
   },
   {
     "slug": "aromatic-thai-vermicelli-pasta",
-    "title": "Aromatic Thai Vermicelli Pasta",
+    "title": "Thai Vermicelli Stir Fry",
     "tags": [
-      "high-protein",
-      "one-pan",
-      "thaifood",
       "vegetarian",
-      "weeknight"
+      "gluten-free",
+      "quick-and-easy",
+      "thai"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 40,
+    "cuisine": "Thai",
+    "totalTimeMin": 20,
     "shard": "a"
   },
   {
