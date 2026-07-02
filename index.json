@@ -4415,16 +4415,15 @@
   },
   {
     "slug": "aromatic-crisp-malaysian-beef-noodles",
-    "title": "Aromatic Crisp Malaysian Beef Noodles",
+    "title": "Malaysian Beef Stir Fry",
     "tags": [
-      "asian-food",
-      "beef-recipes",
-      "malaysian-cuisine",
-      "noodle-dishes",
-      "one-pan-meals"
+      "beef",
+      "stir-fry",
+      "noodles",
+      "malaysian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 35,
+    "cuisine": "malaysian",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
