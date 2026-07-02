@@ -1,0 +1,74 @@
+{
+  "slug": "aerated-bitter-slovakian-cottage-cheese-bake",
+  "title": "Slovakian Baked Cheese",
+  "description": "A Slovakian-inspired dish that combines the flavors of baked cheese with a hint of bitterness.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Slovakian cheese",
+      "amount": "250g",
+      "notes": "any type of Slovakian cheese, such as oscypek"
+    },
+    {
+      "name": "Bake",
+      "amount": "180°C",
+      "notes": "oven temperature"
+    },
+    {
+      "name": "Cottage cheese",
+      "amount": "100g",
+      "notes": "adds a creamy texture"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "10g",
+      "notes": "garnish"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Aerated sugar",
+      "amount": "10g"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C.",
+    "Crumb the Slovakian cheese into a baking dish.",
+    "Mix the cottage cheese and aerated sugar, then spread it over the crumbled cheese.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 20-25 minutes, or until the cheese is golden brown.",
+    "Garnish with fresh parsley before serving.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "cheese",
+    "slovakian",
+    "baked",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-bitter-slovakian-cottage-cheese-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:28:35.571Z"
+}
