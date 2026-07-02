@@ -1,0 +1,64 @@
+{
+  "slug": "amazingly-nutty-american-cocoa-toast",
+  "title": "Nutty American Toast",
+  "description": "A simple yet nutty breakfast toast made with American bread and topped with a crunchy cocoa and nut topping.",
+  "cuisine": null,
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "American bread",
+      "amount": "4 slices",
+      "notes": ""
+    },
+    {
+      "name": "Cocoa powder",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Chopped nuts (e.g. walnuts)",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Toast the American bread until lightly browned.",
+    "2. In a small bowl, mix together the cocoa powder and chopped nuts.",
+    "3. Spread the butter onto the toasted bread.",
+    "4. Sprinkle the cocoa and nut mixture evenly over the butter.",
+    "5. Season with salt to taste.",
+    "6. Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "american",
+    "nutty",
+    "cocoa"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-nutty-american-cocoa-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:41:33.529Z"
+}
