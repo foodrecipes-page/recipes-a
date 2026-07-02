@@ -1,0 +1,86 @@
+{
+  "slug": "aromatic-crisp-malaysian-beef-noodles",
+  "title": "Malaysian Beef Stir Fry",
+  "description": "Quick and easy Malaysian-inspired beef stir fry made with aromatic spices, crisp vegetables, and flavorful noodles. Perfect for a weeknight dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef strips",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "aromatic oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "noodles",
+      "amount": "8 ounces",
+      "notes": ""
+    },
+    {
+      "name": "crisp vegetables",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat aromatic oil in a large skillet or wok over medium-high heat.",
+    "Add beef and cook until browned, about 3-4 minutes.",
+    "Remove beef from skillet and set aside.",
+    "Add onion and crisp vegetables to skillet and cook until tender, about 3-4 minutes.",
+    "Add noodles to skillet and stir to combine with vegetables.",
+    "Return beef to skillet and stir in soy sauce and chili flakes.",
+    "Cook for an additional 1-2 minutes, until sauce is bubbly.",
+    "Stir in garlic and cook for 1 minute.",
+    "Serve hot and enjoy!",
+    "Optional: garnish with green onions or sesame seeds."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "stir-fry",
+    "noodles",
+    "malaysian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crisp-malaysian-beef-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T02:19:37.490Z"
+}
