@@ -6808,17 +6808,15 @@
   },
   {
     "slug": "aromatic-thai-cabbage-kanom-ko",
-    "title": "Aromatic Thai Cabbage Kanom Ko",
+    "title": "Thai-Style Cabbage Stir-Fry",
     "tags": [
-      "grilled",
-      "low-sodium",
-      "one-pan",
-      "thai-food",
+      "thai",
       "vegetarian",
-      "weeknight"
+      "stir-fry",
+      "cabbage"
     ],
-    "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "cuisine": "thai",
+    "totalTimeMin": 20,
     "shard": "a"
   },
   {
