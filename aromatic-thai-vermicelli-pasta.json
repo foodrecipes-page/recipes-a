@@ -1,0 +1,79 @@
+{
+  "slug": "aromatic-thai-vermicelli-pasta",
+  "title": "Thai Vermicelli Stir Fry",
+  "description": "A quick and flavorful Thai-inspired dish made with vermicelli noodles and aromatic vegetables.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Vermicelli noodles",
+      "amount": "200g"
+    },
+    {
+      "name": "Aromatic oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Hoisin sauce",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat aromatic oil in a large skillet or wok over medium-high heat.",
+    "Add onion and bell pepper and cook until tender, about 3-4 minutes.",
+    "Add vermicelli noodles and cook for 2-3 minutes, stirring constantly.",
+    "In a small bowl, whisk together soy sauce, hoisin sauce, and sugar.",
+    "Pour sauce over noodles and stir to combine.",
+    "Cook for an additional 1-2 minutes, until sauce has thickened.",
+    "Stir in chopped Thai basil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "gluten-free",
+    "quick-and-easy",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-thai-vermicelli-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T10:36:36.785Z"
+}
