@@ -1,0 +1,66 @@
+{
+  "slug": "aromatic-tunisian-sugar-stir-fry",
+  "title": "Tunisian Stuffed Bell Peppers",
+  "description": "A flavorful and healthy dish with a mix of Tunisian spices and aromatic flavors.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "bell peppers",
+      "amount": "4"
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "tunisian",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "fry",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Cut the tops off the bell peppers and remove seeds and membranes.",
+    "3. In a large skillet, stir-fry the fry until browned.",
+    "4. Add the rice, aromatic spices, and Tunisian spices to the skillet, and stir-fry for 1 minute.",
+    "5. Stuff each bell pepper with the rice mixture and top with a little water.",
+    "6. Place the bell peppers in a baking dish and cover with foil.",
+    "7. Bake for 25 minutes, then remove foil and bake for an additional 10 minutes.",
+    "8. Serve hot, garnished with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stuffed bell peppers",
+    "tunisian cuisine",
+    "aromatic spices"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-tunisian-sugar-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T15:49:15.264Z"
+}
