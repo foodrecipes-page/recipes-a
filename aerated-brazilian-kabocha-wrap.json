@@ -1,0 +1,71 @@
+{
+  "slug": "aerated-brazilian-kabocha-wrap",
+  "title": "Kabocha and Aerated Wrap",
+  "description": "A unique combination of kabocha squash and aerated chocolate in a crispy wrap. Perfect as a snack or dessert.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian",
+    "dessert"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Kabocha squash",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Aerated chocolate",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "Brazilian wrap",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Cinnamon powder",
+      "amount": "0.25 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Cut the kabocha squash in half and scoop out the seeds.",
+    "Place the kabocha squash on a baking sheet and drizzle with 1 tbsp of honey.",
+    "Roast the kabocha squash in the oven for 30 minutes, or until tender.",
+    "Meanwhile, melt the aerated chocolate in a double boiler.",
+    "Warm the Brazilian wrap according to package instructions.",
+    "Arrange the roasted kabocha squash on the wrap, followed by the melted aerated chocolate.",
+    "Sprinkle with cinnamon powder to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "kabocha",
+    "aerated",
+    "chocolate",
+    "dessert",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-brazilian-kabocha-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:54:31.928Z"
+}
