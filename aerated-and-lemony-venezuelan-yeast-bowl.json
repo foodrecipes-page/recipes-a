@@ -1,0 +1,73 @@
+{
+  "slug": "aerated-and-lemony-venezuelan-yeast-bowl",
+  "title": "Venezuelan Lemony Flatbread",
+  "description": "A simple and flavorful flatbread infused with the brightness of lemons, inspired by Venezuelan cuisine. Perfect for a quick snack or side dish.",
+  "cuisine": "Venezuelan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Venezuelan",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Lemony",
+      "amount": "1/4 cup",
+      "notes": "freshly squeezed lemon juice"
+    },
+    {
+      "name": "Aerated",
+      "amount": "1/2 teaspoon",
+      "notes": "baking powder"
+    },
+    {
+      "name": "Yeast",
+      "amount": "1/4 teaspoon",
+      "notes": "active dry yeast"
+    },
+    {
+      "name": "And",
+      "amount": "1/4 teaspoon",
+      "notes": "salt"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1 bowl",
+      "notes": "for kneading"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine Venezuelan flour, Aerated, Yeast, And, and a pinch of salt.",
+    "Gradually add Lemony to the dry ingredients and mix until a dough forms.",
+    "Knead the dough for 5-7 minutes until smooth and elastic.",
+    "Place the dough in a greased bowl, cover it with a damp cloth, and let it rise in a warm place for 1 hour.",
+    "Preheat a non-stick skillet or griddle over medium heat.",
+    "Divide the dough into 2-3 equal portions, shape each into a ball, and flatten slightly into disks.",
+    "Cook the flatbreads for 2-3 minutes on each side, until golden brown and puffed.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "flatbread",
+    "snack",
+    "veggie-friendly"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 1
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-and-lemony-venezuelan-yeast-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T00:35:57.296Z"
+}
