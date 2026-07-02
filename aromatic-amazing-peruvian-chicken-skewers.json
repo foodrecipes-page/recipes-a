@@ -1,0 +1,67 @@
+{
+  "slug": "aromatic-amazing-peruvian-chicken-skewers",
+  "title": "Peruvian Chicken Skewers",
+  "description": "Grilled chicken skewers infused with the bold flavors of Peruvian cuisine. Serve with a side of your favorite rice or roasted vegetables.",
+  "cuisine": "peruvian",
+  "diet": [
+    "gluten-free",
+    "pescatarian",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "peruvian",
+      "amount": "2 tablespoons",
+      "notes": "peruvian pepper paste"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "amazing",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh cilantro"
+    },
+    {
+      "name": "skewers",
+      "amount": "10 bamboo skewers",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together Peruvian pepper paste, garlic, and cilantro.",
+    "Add the chicken to the bowl and toss to coat with the marinade.",
+    "Thread the chicken onto the bamboo skewers.",
+    "Grill the skewers for 8-10 minutes, turning occasionally.",
+    "Serve hot with your favorite sides."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "peruvian",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 5,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-amazing-peruvian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T11:54:33.122Z"
+}
