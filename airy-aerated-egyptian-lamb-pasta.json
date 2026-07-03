@@ -1,0 +1,70 @@
+{
+  "slug": "airy-aerated-egyptian-lamb-pasta",
+  "title": "Egyptian Lamb Pasta",
+  "description": "A simple and flavorful recipe that combines the richness of lamb with the simplicity of pasta.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": "ground"
+    },
+    {
+      "name": "Pasta",
+      "amount": "250g",
+      "notes": "penne"
+    },
+    {
+      "name": "Egyptian",
+      "amount": "2 tbsp",
+      "notes": "dried herbs"
+    },
+    {
+      "name": "Aerated",
+      "amount": "1 cup",
+      "notes": "bechamel sauce"
+    },
+    {
+      "name": "Airy",
+      "amount": "1 cup",
+      "notes": "parmesan cheese"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a pan, heat the bechamel sauce over medium heat.",
+    "Add the ground lamb and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the dried herbs and stir to combine.",
+    "Add the cooked pasta to the pan and toss to combine with the lamb mixture.",
+    "Transfer the pasta mixture to a baking dish and top with parmesan cheese.",
+    "Bake in a preheated oven at 375°F (190°C) for 20-25 minutes, or until golden brown.",
+    "Serve hot and enjoy!",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "lamb",
+    "pasta",
+    "bechamel",
+    "parmesan"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 70
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-aerated-egyptian-lamb-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:26:22.976Z"
+}
