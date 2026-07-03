@@ -1263,14 +1263,13 @@
   },
   {
     "slug": "air-fried-crispy-spanish-courgette-stir-fry",
-    "title": "Air-Fried Crispy Spanish Courgette Stir-Fry",
+    "title": "Spanish Courgette Fritters",
     "tags": [
-      "crispy",
-      "sweet",
-      "crowd-pleaser",
       "spanish",
       "courgette",
-      "air-fried"
+      "fritters",
+      "snack",
+      "vegetarian"
     ],
     "cuisine": "Spanish",
     "totalTimeMin": 18,
@@ -1500,14 +1499,13 @@
   },
   {
     "slug": "airy-aerated-egyptian-lamb-pasta",
-    "title": "Airy Aerated Egyptian Lamb Pasta",
+    "title": "Egyptian Lamb Pasta",
     "tags": [
       "egyptian",
-      "high-protein",
       "lamb",
-      "one-pan",
       "pasta",
-      "weeknight"
+      "bechamel",
+      "parmesan"
     ],
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
@@ -5189,17 +5187,15 @@
   },
   {
     "slug": "aromatic-jamaican-chicken-skewers",
-    "title": "Aromatic Jamaican Chicken Skewers",
+    "title": "Jamaican Chicken Skewers",
     "tags": [
-      "citrusy",
-      "flexitarian",
-      "grilled-chicken",
-      "high-heat",
-      "jamaican-cuisine",
-      "quick-meal"
+      "grilled",
+      "summer",
+      "outdoor",
+      "barbecue"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 35,
+    "cuisine": "jamaican",
+    "totalTimeMin": 20,
     "shard": "a"
   },
   {
