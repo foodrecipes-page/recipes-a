@@ -1,0 +1,74 @@
+{
+  "slug": "aromatic-crispy-indian-beans-fritters",
+  "title": "Crispy Fritters with Indian Spices",
+  "description": "A delicious and crunchy snack made with crispy fritters and aromatic indian spices. Perfect for a quick bite.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Crispy Fritters",
+      "amount": "1 bag",
+      "notes": "available in most grocery stores"
+    },
+    {
+      "name": "Indian Spice Blend",
+      "amount": "1 tsp",
+      "notes": "available in most spice aisles"
+    },
+    {
+      "name": "Beans",
+      "amount": "1 cup",
+      "notes": "any type of beans, such as black beans or chickpeas"
+    },
+    {
+      "name": "Oil",
+      "amount": "2 tbsp",
+      "notes": "any neutral-tasting oil, such as vegetable or canola oil"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed",
+      "notes": "for frying the fritters"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "Add the crispy fritters to the skillet and fry until golden brown, about 2-3 minutes per side.",
+    "Remove the fritters from the skillet and set aside.",
+    "In the same skillet, add the remaining 1 tablespoon of oil and heat over medium heat.",
+    "Add the Indian spice blend and cook for 1 minute, until fragrant.",
+    "Add the beans to the skillet and cook until heated through, about 2-3 minutes.",
+    "Add the fritters back to the skillet and stir to combine with the beans and spice blend.",
+    "Season with salt to taste, if desired.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-indian-beans-fritters",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T05:53:55.873Z"
+}
