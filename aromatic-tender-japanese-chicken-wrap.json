@@ -1,0 +1,67 @@
+{
+  "slug": "aromatic-tender-japanese-chicken-wrap",
+  "title": "Japanese Chicken Wrap",
+  "description": "A flavorful and easy-to-make wrap filled with juicy chicken and crunchy vegetables. Perfect for a quick lunch or dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Japanese wrap",
+      "amount": "1",
+      "notes": "or substitute with a gluten-free tortilla"
+    },
+    {
+      "name": "aromatic vegetables",
+      "amount": "1 cup",
+      "notes": "such as carrots, bell peppers, and onions"
+    },
+    {
+      "name": "japanese sauce",
+      "amount": "1/4 cup",
+      "notes": "such as teriyaki or soy sauce"
+    },
+    {
+      "name": "tender green",
+      "amount": "1 cup",
+      "notes": "such as lettuce or spinach"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Season the chicken breast with salt and pepper, and cook for 5-6 minutes per side, or until cooked through.",
+    "Slice the chicken into thin strips and set aside.",
+    "Warm the Japanese wrap in the microwave for 10-15 seconds.",
+    "Assemble the wrap by spreading the Japanese sauce on the wrap, then topping with the chicken, aromatic vegetables, and tender green.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "japanese",
+    "wrap",
+    "lunch",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-tender-japanese-chicken-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T21:05:04.286Z"
+}
