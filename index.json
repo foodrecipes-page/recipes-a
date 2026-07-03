@@ -2748,17 +2748,14 @@
   },
   {
     "slug": "amazing-yeasty-canadian-rye-bread-stew",
-    "title": "Amazing Yeasty Canadian Rye Bread Stew",
+    "title": "Classic Canadian Stew",
     "tags": [
-      "canadian-cuisine",
-      "comfort-food",
-      "hearty-stew",
-      "one-pot",
-      "sugar-free",
-      "yeasty-bread"
+      "canadian",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 60,
+    "cuisine": "canadian",
+    "totalTimeMin": 80,
     "shard": "a"
   },
   {
