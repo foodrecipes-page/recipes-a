@@ -1,0 +1,86 @@
+{
+  "slug": "american-gooey-meat-casserole",
+  "title": "Classic American Gooey Meat Casserole",
+  "description": "A comforting, indulgent casserole featuring ground meat and gooey cheese, perfect for a cold evening. This dish is a hearty blend of flavors and textures that's sure to become a family favorite.",
+  "cuisine": "American",
+  "diet": [
+    "beef",
+    "dairy"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Canned Tomatoes",
+      "amount": "14.5 ounces"
+    },
+    {
+      "name": "Macaroni",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Mozzarella Cheese, shredded",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Cheddar Cheese, shredded",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Cook macaroni according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, cook ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add onion and garlic to the skillet and cook until the onion is translucent.",
+    "Stir in canned tomatoes and bring to a simmer.",
+    "In a large mixing bowl, combine cooked macaroni, meat mixture, and shredded cheese. Mix well to combine.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Sprinkle breadcrumbs on top of the casserole.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the cheese is melted and bubbly.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "comfort-food",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 45,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/american-gooey-meat-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T23:35:06.247Z"
+}
