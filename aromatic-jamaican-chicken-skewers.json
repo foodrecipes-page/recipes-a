@@ -1,0 +1,63 @@
+{
+  "slug": "aromatic-jamaican-chicken-skewers",
+  "title": "Jamaican Chicken Skewers",
+  "description": "Grilled Jamaican chicken skewers with aromatic spices, perfect for a summer evening.",
+  "cuisine": "jamaican",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": "such as thyme and rosemary"
+    },
+    {
+      "name": "jamaican",
+      "amount": "2 tablespoons",
+      "notes": "such as jerk seasoning"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together aromatic and jamaican spices.",
+    "Cut chicken breast into 1-inch cubes and thread onto skewers.",
+    "Brush chicken with oil and sprinkle with spice mixture.",
+    "Grill skewers for 8-10 minutes, or until chicken is cooked through.",
+    "Let rest for 5 minutes before serving.",
+    "Serve hot with your favorite sides."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilled",
+    "summer",
+    "outdoor",
+    "barbecue"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-jamaican-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:09:02.841Z"
+}
