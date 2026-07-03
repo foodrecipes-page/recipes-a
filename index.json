@@ -3546,16 +3546,14 @@
   },
   {
     "slug": "american-gooey-meat-casserole",
-    "title": "American Gooey Meat Casserole",
+    "title": "Classic American Gooey Meat Casserole",
     "tags": [
       "casserole",
       "comfort-food",
-      "easy-meat-lovers",
-      "one-pan",
-      "weeknight"
+      "american"
     ],
     "cuisine": "American",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
