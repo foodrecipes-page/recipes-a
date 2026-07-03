@@ -6557,16 +6557,16 @@
   },
   {
     "slug": "aromatic-spicy-norwegian-halibut-pilaf",
-    "title": "aromatic spicy norwegian halibut pilaf",
+    "title": "Pan-Seared Norwegian Halibut with Spicy Pilaf",
     "tags": [
-      "aromatic",
-      "high-protein",
-      "one-pan",
-      "seafood-lovers",
-      "weeknight"
+      "norwegian",
+      "fish",
+      "seafood",
+      "halibut",
+      "pilaf"
     ],
     "cuisine": "norwegian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -6785,17 +6785,16 @@
   },
   {
     "slug": "aromatic-tender-japanese-chicken-wrap",
-    "title": "Aromatic Tender Japanese Chicken Wrap",
+    "title": "Japanese Chicken Wrap",
     "tags": [
-      "easy-dinner",
-      "healthy",
-      "high-protein",
+      "chicken",
       "japanese",
-      "one-pan",
-      "weeknight"
+      "wrap",
+      "lunch",
+      "dinner"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 22,
     "shard": "a"
   },
   {
@@ -7051,17 +7050,16 @@
   },
   {
     "slug": "artichoke-infused-briny-mediterranean-garlic-bake",
-    "title": "Artichoke-Infused Briny Mediterranean Garlic Bake",
+    "title": "Artichoke and Garlic Mediterranean Bake",
     "tags": [
-      "breakfast",
-      "brunch",
-      "lunch",
+      "artichoke",
       "mediterranean",
-      "one-pan",
-      "weeknight"
+      "bake",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
