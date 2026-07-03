@@ -1,0 +1,63 @@
+{
+  "slug": "aromatic-green-spanish-potato-empanada",
+  "title": "Spanish Empanada with Potato and Aromatic Herbs",
+  "description": "A traditional Spanish empanada filled with tender potatoes and flavorful aromatic herbs. Perfect as a side dish or light meal.",
+  "cuisine": "spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "empanada",
+      "amount": "2",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "green onion",
+      "amount": "1/2",
+      "notes": "chopped"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": "chopped"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled, diced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the empanada dough and cut into desired shapes.",
+    "In a pan, sauté the diced potatoes with chopped green onion and aromatic herbs until tender.",
+    "Place a spoonful of the potato mixture onto one half of the dough.",
+    "Fold the other half of the dough over the filling and press the edges to seal.",
+    "Brush the tops with olive oil and bake for 15-20 minutes or until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "empanada",
+    "potato",
+    "aromatic",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-green-spanish-potato-empanada",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-01T18:29:48.244Z"
+}
