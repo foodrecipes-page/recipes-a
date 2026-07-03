@@ -1,0 +1,79 @@
+{
+  "slug": "amazing-yeasty-canadian-rye-bread-stew",
+  "title": "Classic Canadian Stew",
+  "description": "A hearty, comforting stew made with tender chunks of beef, vegetables, and a hint of rye flavor. Perfect for a chilly evening.",
+  "cuisine": "canadian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "chuck or round work well"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "potato",
+      "amount": "2 medium",
+      "notes": "peeled and cubed"
+    },
+    {
+      "name": "rye bread",
+      "amount": "2 cups",
+      "notes": "cubed"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    }
+  ],
+  "instructions": [
+    "Brown the beef in a large Dutch oven over medium-high heat.",
+    "Remove the browned beef from the pot and set aside.",
+    "Add the diced onion to the pot and cook until softened, about 5 minutes.",
+    "Add the sliced carrots and cook for an additional 5 minutes.",
+    "Add the cubed potatoes, beef broth, and browned beef back to the pot.",
+    "Stir in the cubed rye bread and bring the mixture to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 hour.",
+    "Stir in the flour to thicken the stew.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "canadian",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-yeasty-canadian-rye-bread-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T02:33:18.502Z"
+}
