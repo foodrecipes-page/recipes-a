@@ -1,0 +1,74 @@
+{
+  "slug": "air-fried-crispy-spanish-courgette-stir-fry",
+  "title": "Spanish Courgette Fritters",
+  "description": "A crispy Spanish-style fritter recipe using courgette, great as a side dish or snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": "1 large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "beaten egg",
+      "amount": "1",
+      "notes": "for egg wash"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "1. Grate the courgette into a bowl.",
+    "2. In a separate bowl, whisk together the flour, baking powder, and salt.",
+    "3. Add the dry ingredients to the courgette and mix well.",
+    "4. Beat the egg in a separate bowl.",
+    "5. Add the beaten egg to the courgette mixture and mix until a thick batter forms.",
+    "6. Heat the vegetable oil in a deep frying pan to 180°C (350°F).",
+    "7. Using a spoon, drop small amounts of the batter into the hot oil.",
+    "8. Cook for 2-3 minutes on each side or until golden brown.",
+    "9. Drain the fritters on paper towels and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "courgette",
+    "fritters",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T03:53:48.741Z"
+}
