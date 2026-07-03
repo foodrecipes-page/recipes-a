@@ -5035,18 +5035,16 @@
   },
   {
     "slug": "aromatic-green-spanish-potato-empanada",
-    "title": "Aromatic Green Spanish Potato Empanada",
+    "title": "Spanish Empanada with Potato and Aromatic Herbs",
     "tags": [
-      "comfort-food",
-      "empanada",
-      "galician",
-      "lunch",
       "spanish",
-      "steamed",
-      "vegan"
+      "empanada",
+      "potato",
+      "aromatic",
+      "herbs"
     ],
     "cuisine": "spanish",
-    "totalTimeMin": 52,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
