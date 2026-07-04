@@ -1,0 +1,84 @@
+{
+  "slug": "amazingly-indulgent-venezuelan-beef-empanadas",
+  "title": "Beef Empanadas",
+  "description": "A delicious venezuelan dish filled with tender beef, perfect for a snack or as a side for lunch.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound, finely chopped",
+      "notes": "ground beef or thinly sliced steak"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, finely chopped",
+      "notes": "optional"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": "optional"
+    },
+    {
+      "name": "worcestershire sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": "for dough"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "for dough"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large, beaten",
+      "notes": "for egg wash"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Combine beef, onion, garlic, worcestershire sauce, and beef broth in a bowl. Mix well.",
+    "In a separate bowl, combine flour, salt, and egg. Mix until dough forms.",
+    "Divide dough into 8-10 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place about 1 tablespoon of the beef mixture in the center of each circle.",
+    "Fold the dough over the filling and press edges together to seal.",
+    "Brush tops with egg wash and bake for 20-25 minutes or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanadas",
+    "venezuelan",
+    "latin"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-indulgent-venezuelan-beef-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T20:07:27.979Z"
+}
