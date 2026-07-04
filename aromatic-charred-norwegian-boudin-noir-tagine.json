@@ -1,0 +1,72 @@
+{
+  "slug": "aromatic-charred-norwegian-boudin-noir-tagine",
+  "title": "Charred Boudin Tagine",
+  "description": "A flavorful and aromatic Moroccan-inspired stew made with charred boudin, served with a side of crusty bread for dipping.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "pork",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boudin",
+      "amount": "1 lb",
+      "notes": "Charred"
+    },
+    {
+      "name": "Aromatic",
+      "amount": "2 tsp",
+      "notes": "Ground cumin, ground coriander"
+    },
+    {
+      "name": "Norwegian",
+      "amount": "1 tsp",
+      "notes": "Ground cinnamon"
+    },
+    {
+      "name": "Noir",
+      "amount": "1/4 cup",
+      "notes": "Black olives, pitted"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1/4 cup",
+      "notes": "Dried apricots, chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Char the boudin by grilling or broiling until slightly blackened.",
+    "In a large Dutch oven, heat 2 tbsp of oil over medium-high heat.",
+    "Add the charred boudin and cook until browned on all sides.",
+    "Add the aromatic spice blend and cook for 1 minute.",
+    "Add the norwegian cinnamon and cook for another minute.",
+    "Add the noir black olives and tagine dried apricots.",
+    "Pour in enough chicken broth to cover the boudin and bring to a simmer.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Bake for 20-25 minutes or until the boudin is cooked through.",
+    "Serve hot with a side of crusty bread for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "boudin",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-charred-norwegian-boudin-noir-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T09:57:22.692Z"
+}
