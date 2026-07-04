@@ -1,0 +1,97 @@
+{
+  "slug": "aerated-croatian-burger-buns-burger",
+  "title": "Croatian Burger Delight",
+  "description": "A twist on the classic burger, featuring a flavorful Croatian sausage and topped with a crispy fried egg.",
+  "cuisine": "Balkan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian sausage",
+      "amount": "4",
+      "notes": "pierogies work as a substitute"
+    },
+    {
+      "name": "Burger buns",
+      "amount": "4",
+      "notes": "soft and fluffy"
+    },
+    {
+      "name": "Aerated cheese",
+      "amount": "1 cup",
+      "notes": "such as a light Swiss or mozzarella"
+    },
+    {
+      "name": "Burger patties",
+      "amount": "4",
+      "notes": "beef or a meat substitute"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "for crunch and freshness"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2 medium",
+      "notes": "ripe and juicy"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 cup",
+      "notes": "sour and tangy"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1/2 cup",
+      "notes": "or a preferred spread"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "for the fried egg topping"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Cook the Croatian sausage for 5-7 minutes per side, or until browned and cooked through.",
+    "3. Grill the burger patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "4. Assemble the burgers with the cooked sausage, patties, lettuce, tomato, onion, pickles, and mayonnaise.",
+    "5. Meanwhile, fry the eggs in a skillet over medium heat until the whites are set and the yolks are cooked to your desired doneness.",
+    "6. Place a fried egg on top of each burger.",
+    "7. Serve the Croatian Burger Delight immediately and enjoy!",
+    "8. Offer additional toppings such as cheese, bacon, or caramelized onions.",
+    "9. Consider serving with a side of fries or a salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "croatian",
+    "sausage",
+    "egg",
+    "breakfast",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 1200,
+    "protein": 60,
+    "carbs": 80,
+    "fat": 80
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-croatian-burger-buns-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T23:55:24.218Z"
+}
