@@ -1,0 +1,90 @@
+{
+  "slug": "adventurous-aerated-thai-pak-koi-noodles",
+  "title": "Spicy Thai Koi Stir Fry",
+  "description": "A flavorful and spicy stir fry made with fresh koi, noodles, and a variety of Thai spices.",
+  "cuisine": "Thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Koi",
+      "amount": "1 cup sliced",
+      "notes": ""
+    },
+    {
+      "name": "Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Aerated Thai red pepper flakes",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Adventurous Thai green curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Pak leafy greens",
+      "amount": "1 cup chopped",
+      "notes": ""
+    },
+    {
+      "name": "Thai fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Thai palm sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the sliced koi and cook until browned and cooked through, about 3-4 minutes.",
+    "Remove the koi from the wok and set aside.",
+    "Add the remaining 1 tablespoon of vegetable oil to the wok.",
+    "Add the Thai green curry paste and cook for 1-2 minutes, until fragrant.",
+    "Add the noodles to the wok and cook for 2-3 minutes, until they start to brown.",
+    "Add the chopped pak leafy greens, Thai red pepper flakes, Thai fish sauce, and Thai palm sugar to the wok.",
+    "Stir-fry everything together for 2-3 minutes, until the greens are wilted and the noodles are cooked through.",
+    "Return the cooked koi to the wok and stir-fry for another minute.",
+    "Season with salt to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "koi"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-aerated-thai-pak-koi-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-02T08:42:24.913Z"
+}
