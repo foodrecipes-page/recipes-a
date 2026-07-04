@@ -731,16 +731,17 @@
   },
   {
     "slug": "aerated-croatian-burger-buns-burger",
-    "title": "Aerated Croatian Burger Buns Burger",
+    "title": "Croatian Burger Delight",
     "tags": [
       "burger",
       "croatian",
-      "lazy-sunday",
-      "plant-based",
-      "weeknight"
+      "sausage",
+      "egg",
+      "breakfast",
+      "lunch"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 75,
+    "cuisine": "Balkan",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -3813,17 +3814,15 @@
   },
   {
     "slug": "aromatic-algerian-turkey-neck-tagine",
-    "title": "Aromatic Algerian Turkey Neck Tagine",
+    "title": "Algerian-Style Braised Turkey Neck with Aromatic Tagine",
     "tags": [
-      "algerian-cuisine",
-      "comfort-food",
-      "one-pot",
-      "slow-cooked",
-      "spicy",
-      "turkey-recipes"
+      "algerian",
+      "braised",
+      "tagine",
+      "turkey"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 180,
+    "totalTimeMin": 170,
     "shard": "a"
   },
   {
