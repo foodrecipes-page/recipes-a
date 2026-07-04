@@ -3265,17 +3265,15 @@
   },
   {
     "slug": "amazingly-indulgent-venezuelan-beef-empanadas",
-    "title": "Venezuelan Beef Empanadas",
+    "title": "Beef Empanadas",
     "tags": [
-      "baked",
       "beef",
-      "indulgent",
-      "pastry",
-      "savory",
-      "south-american"
+      "empanadas",
+      "venezuelan",
+      "latin"
     ],
-    "cuisine": "Venezuelan",
-    "totalTimeMin": 50,
+    "cuisine": "venezuelan",
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
