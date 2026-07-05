@@ -1677,17 +1677,15 @@
   },
   {
     "slug": "airy-cardamom-mediterranean-eggs-tagine",
-    "title": "airy cardamom mediterranean eggs tagine",
+    "title": "Cardamom and Airy Omelette",
     "tags": [
       "breakfast",
-      "easy-to-make",
-      "mediterranean",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "omelette",
+      "cardamom",
+      "parsley"
     ],
-    "cuisine": "mediterranean",
-    "totalTimeMin": 30,
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 13,
     "shard": "a"
   },
   {
@@ -3298,17 +3296,14 @@
   },
   {
     "slug": "amazingly-poached-uruguayan-cod-ceviche",
-    "title": "Amazingly Poached Uruguayan Cod Ceviche",
+    "title": "Uruguayan-Style Poached Cod with Ceviche Garnish",
     "tags": [
-      "ceviche",
-      "gluten-free",
-      "healthy",
-      "poached",
-      "seafood",
-      "uruguayan"
+      "poached-cod",
+      "uruguayan-recipe",
+      "ceviche-garnish"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 58,
+    "totalTimeMin": 18,
     "shard": "a"
   },
   {
@@ -7045,16 +7040,16 @@
   },
   {
     "slug": "asparaguas-grilled-verde",
-    "title": "Asparaguas Grilled Verde",
+    "title": "Grilled Asparagus with Verde Sauce",
     "tags": [
-      "asparagus",
       "grilled",
-      "brazilian",
-      "hangover",
-      "pescatarian"
+      "asparagus",
+      "verde",
+      "sauce",
+      "side-dish"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "cuisine": "mexican",
+    "totalTimeMin": 18,
     "shard": "a"
   },
   {
