@@ -1,0 +1,71 @@
+{
+  "slug": "air-fried-crispy-spanish-courgette-stir-fry--french",
+  "title": "Crispy French Courgette Fritters",
+  "description": "A delicious and crispy French-inspired courgette fritter recipe perfect for a snack or side dish.",
+  "cuisine": "French",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "courgette",
+      "amount": "2 medium"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "egg",
+      "amount": "1"
+    },
+    {
+      "name": "milk",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Grate the courgette and squeeze out excess moisture.",
+    "In a bowl, combine flour, cheese, egg, milk, salt, and pepper.",
+    "Add the grated courgette to the bowl and mix well.",
+    "Heat about 1/2 inch (1 cm) of oil in a frying pan over medium heat.",
+    "Using a spoon, drop small amounts of the courgette mixture into the oil.",
+    "Fry the fritters until golden brown and crispy, about 3-4 minutes per side.",
+    "Drain the fritters on paper towels.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fritters",
+    "snack",
+    "vegetarian",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:51:12.096Z"
+}
