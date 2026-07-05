@@ -1,0 +1,81 @@
+{
+  "slug": "amazingly-poached-uruguayan-cod-ceviche",
+  "title": "Uruguayan-Style Poached Cod with Ceviche Garnish",
+  "description": "A light and refreshing Uruguayan-inspired dish featuring poached cod topped with a zesty ceviche garnish.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Cod Fillets (6 oz)",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Lime Juice",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "White Vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a medium saucepan, combine water and white vinegar. Bring to a simmer over medium heat.",
+    "2. Reduce heat to low and add cod fillets. Poach for 8-10 minutes or until cooked through.",
+    "3. Meanwhile, mix lime juice, sliced red onion, and chopped cilantro in a small bowl.",
+    "4. Once cod is cooked, remove from the saucepan and place on a plate.",
+    "5. Spoon ceviche garnish over the top of the cod.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "poached-cod",
+    "uruguayan-recipe",
+    "ceviche-garnish"
+  ],
+  "nutrition": {
+    "calories": 210,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-poached-uruguayan-cod-ceviche",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:29:13.665Z"
+}
