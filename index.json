@@ -904,17 +904,15 @@
   },
   {
     "slug": "aerated-monsoon-slovakian-yogurt-stir-fry",
-    "title": "Aerated Monsoon Slovakian Yogurt Stir-Fry",
+    "title": "Slovakian Yogurt Pancakes",
     "tags": [
-      "gluten-free",
-      "high-protein",
-      "one-pan",
-      "raw-friendly",
-      "vegan",
-      "weeknight"
+      "breakfast",
+      "slovakian",
+      "yogurt",
+      "pancakes"
     ],
-    "cuisine": "Slovakian",
-    "totalTimeMin": 25,
+    "cuisine": "slovakian",
+    "totalTimeMin": 18,
     "shard": "a"
   },
   {
@@ -6416,18 +6414,14 @@
   },
   {
     "slug": "aromatic-spiced-polish-beef-stew",
-    "title": "Aromatic Spiced Polish Beef Stew",
+    "title": "Hearty Polish Stew",
     "tags": [
+      "polish-cuisine",
       "beef-stew",
-      "comfort-food",
-      "hearty",
-      "high-protein",
-      "one-pot-meal",
-      "polish",
-      "weeknight-dinner"
+      "comfort-food"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 135,
+    "totalTimeMin": 80,
     "shard": "a"
   },
   {
@@ -9298,6 +9292,43 @@
     ],
     "cuisine": "North African",
     "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-resinous-kenyan-tripe-bisque--vegetarian",
+    "title": "Kenyan Vegetable Stew",
+    "tags": [
+      "kenyan",
+      "stew",
+      "vegetarian"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-syrian-cannellini-beans-stew--indian",
+    "title": "Syrian Stew with Cannellini Beans",
+    "tags": [
+      "stew",
+      "indian",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-spanish-courgette-stir-fry--gluten-free",
+    "title": "Gluten-Free Spanish Stir-Fry",
+    "tags": [
+      "gluten-free",
+      "spanish",
+      "stir-fry",
+      "quick-dinner"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
     "shard": "a"
   }
 ]
