@@ -1,0 +1,79 @@
+{
+  "slug": "aerated-winey-korean-hazelnut-jjigae--mexican",
+  "title": "Korean-Style Mexican Jjigae Tacos",
+  "description": "A fusion twist on traditional tacos, blending the bold flavors of Korean jjigae with the classic Mexican dish. This recipe combines the richness of hazelnut with the savory spices of Korean chili flakes, all wrapped up in a crispy taco shell.",
+  "cuisine": "Mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Hazelnut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Aerated water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Winey red wine",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Jjigae sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Taco shells",
+      "amount": "6-8"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat hazelnut oil in a large skillet over medium-high heat.",
+    "Add Korean chili flakes and cook for 1 minute, stirring constantly.",
+    "Pour in winey red wine and bring to a simmer.",
+    "Add Korean chili paste and stir to combine.",
+    "Add aerated water and bring to a boil.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Stir in jjigae sauce and cook for an additional 2 minutes.",
+    "Warm taco shells according to package instructions.",
+    "Assemble tacos by spooning the jjigae mixture into shells and topping with chopped green onions.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "korean",
+    "fusion",
+    "spicy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-winey-korean-hazelnut-jjigae--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:13:56.107Z"
+}
