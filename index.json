@@ -3050,16 +3050,15 @@
   },
   {
     "slug": "amazingly-comforting-japanese-potatoes-agedashi",
-    "title": "Amazingly Comforting Japanese Potatoes Agedashi",
+    "title": "Japanese Comforting Agedashi Tofu",
     "tags": [
       "comfort-food",
-      "crispy",
       "japanese-cuisine",
-      "potato-dish",
-      "vegan-friendly"
+      "tofu",
+      "potatoes"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -9174,6 +9173,46 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-resinous-kenyan-tripe-bisque--italian",
+    "title": "Kenyan Kenchetta Bisque",
+    "tags": [
+      "italian",
+      "bisque",
+      "kenyan",
+      "soup",
+      "hearty"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-syrian-cannellini-beans-stew--keto",
+    "title": "Keto Cannellini Bean Stew",
+    "tags": [
+      "keto",
+      "stew",
+      "cannellini-beans",
+      "aromatic-spices"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-spanish-courgette-stir-fry--chinese",
+    "title": "Crispy Spanish Stir-Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian",
+      "easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
     "shard": "a"
   }
 ]
