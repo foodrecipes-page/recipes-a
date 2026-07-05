@@ -1,0 +1,92 @@
+{
+  "slug": "aromatic-spiced-polish-beef-stew",
+  "title": "Hearty Polish Stew",
+  "description": "A flavorful stew originating from Poland, made with tender beef and a mix of aromatic spices.",
+  "cuisine": "Polish",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Polish sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Carrot",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Potato",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic spice blend",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Brown the beef and Polish sausage, then set aside.",
+    "Add onion, carrot, and potato to the pot and sauté until tender.",
+    "Add beef broth, tomato paste, aromatic spice blend, salt, and black pepper.",
+    "Return the beef and sausage to the pot and bring to a boil.",
+    "Reduce heat to low and simmer for 1 hour.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish-cuisine",
+    "beef-stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-spiced-polish-beef-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:04:50.907Z"
+}
