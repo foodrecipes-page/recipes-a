@@ -1,0 +1,94 @@
+{
+  "slug": "amazingly-tender-uruguayan-hind-shank-stew",
+  "title": "Uruguayan-Style Braised Short Ribs",
+  "description": "Tender short ribs slow-cooked in a rich Uruguayan-inspired stew with a hint of spice and a deep, satisfying flavor.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Uruguayan short ribs",
+      "amount": "1.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion, diced",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Diced tomatoes",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Uruguayan seasoning (parrillada mix)",
+      "amount": "2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 300°F (150°C).",
+    "2. Season the short ribs with Uruguayan seasoning.",
+    "3. Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "4. Brown the short ribs on all sides, then set aside.",
+    "5. Add the diced onion to the pot and cook until caramelized.",
+    "6. Add the minced garlic and cook for 1 minute.",
+    "7. Add the tomato paste and cook for 1 minute.",
+    "8. Add the red wine and beef broth, scraping up any browned bits.",
+    "9. Add the diced tomatoes and stir to combine.",
+    "10. Return the short ribs to the pot and bring to a simmer.",
+    "11. Cover the pot and transfer to the preheated oven.",
+    "12. Braise for 2.5 hours, or until the meat is tender and falling off the bone.",
+    "13. Serve hot, garnished with fresh parsley or oregano."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 150,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "short-ribs",
+    "braised",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 15,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-tender-uruguayan-hind-shank-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:17:17.880Z"
+}
