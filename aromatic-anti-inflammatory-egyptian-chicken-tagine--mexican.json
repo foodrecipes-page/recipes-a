@@ -1,0 +1,73 @@
+{
+  "slug": "aromatic-anti-inflammatory-egyptian-chicken-tagine--mexican",
+  "title": "Spicy Chicken Tagine Tacos",
+  "description": "A flavorful fusion of Mexican and North African cuisine, this dish combines the rich spices of a traditional tagine with the vibrant flavors of a Mexican taco.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "aromatic spices",
+      "amount": "2 tsp",
+      "notes": "cumin, coriander"
+    },
+    {
+      "name": "tagine",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "inflammatory spices",
+      "amount": "1/4 tsp",
+      "notes": "cayenne pepper"
+    },
+    {
+      "name": "egyptian cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "tortillas",
+      "amount": "4-6",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat a large skillet over medium-high heat.",
+    "Season the chicken with aromatic spices, tagine, and inflammatory spices.",
+    "Add the chicken to the skillet and cook until browned, about 5-7 minutes.",
+    "Add 1/4 cup of water to the skillet and cover. Simmer until the chicken is cooked through, about 5-7 minutes.",
+    "Warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Shred the cooked chicken and season with egyptian cumin.",
+    "Assemble the tacos by spooning the chicken onto a tortilla and topping with your desired toppings.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "chicken",
+    "tacos",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-anti-inflammatory-egyptian-chicken-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T03:41:15.101Z"
+}
