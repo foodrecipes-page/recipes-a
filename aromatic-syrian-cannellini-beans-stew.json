@@ -1,0 +1,69 @@
+{
+  "slug": "aromatic-syrian-cannellini-beans-stew",
+  "title": "Syrian Stew",
+  "description": "A hearty and flavorful stew originating from Syria, made with aromatic spices and tender cannellini beans.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "aromatic",
+      "amount": "1 small onion, diced",
+      "notes": ""
+    },
+    {
+      "name": "syrian",
+      "amount": "2 teaspoons of ground cumin",
+      "notes": ""
+    },
+    {
+      "name": "cannellini",
+      "amount": "1 can of cannellini beans, drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "beans",
+      "amount": "1 can of kidney beans, drained and rinsed",
+      "notes": ""
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup of vegetable broth",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add diced onion and cook until softened, about 5 minutes.",
+    "Add ground cumin and cook for 1 minute, until fragrant.",
+    "Add cannellini beans, kidney beans, and vegetable broth.",
+    "Bring to a boil, then reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley if desired.",
+    "Serve with crusty bread or over rice for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stew",
+    "vegetarian",
+    "middle-eastern",
+    "easily-made"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-syrian-cannellini-beans-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:43:16.551Z"
+}
