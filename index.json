@@ -1003,18 +1003,15 @@
   },
   {
     "slug": "aerated-resinous-kenyan-tripe-bisque",
-    "title": "Aerated Resinous Kenyan Tripe Bisque",
+    "title": "Tripe and Kenyan Bisque Stew",
     "tags": [
-      "gluten-free",
-      "halal",
-      "high-protein",
-      "kenyan",
-      "one-pan",
-      "post-workout",
-      "weeknight"
+      "african",
+      "stew",
+      "bisque",
+      "tripe"
     ],
-    "cuisine": "kenyan",
-    "totalTimeMin": 50,
+    "cuisine": "African",
+    "totalTimeMin": 90,
     "shard": "a"
   },
   {
@@ -1116,17 +1113,15 @@
   },
   {
     "slug": "aerated-winey-korean-hazelnut-jjigae",
-    "title": "Aerated Winey Korean Hazelnut Jjigae",
+    "title": "Spicy Korean Jjigae with Hazelnut",
     "tags": [
-      "baked",
-      "date-night",
-      "korean-cuisine",
-      "nutty",
-      "vegetarian",
-      "wine-based"
+      "korean",
+      "spicy",
+      "fusion",
+      "hazelnut"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
@@ -3431,13 +3426,13 @@
   },
   {
     "slug": "amazingly-tender-uruguayan-hind-shank-stew",
-    "title": "Uruguayan Hind Shank Stew",
+    "title": "Uruguayan-Style Braised Short Ribs",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "meal-prep",
-      "one-pot",
-      "weeknight"
+      "uruguayan",
+      "short-ribs",
+      "braised",
+      "stew",
+      "beef"
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 180,
@@ -3881,17 +3876,15 @@
   },
   {
     "slug": "aromatic-anti-inflammatory-egyptian-chicken-tagine",
-    "title": "Aromatic Anti-Inflammatory Egyptian Chicken Tagine",
+    "title": "Moroccan Chicken Tagine",
     "tags": [
-      "anti-inflammatory",
-      "comfort-food",
-      "high-protein",
-      "middle-eastern",
-      "one-pan",
-      "weeknight"
+      "marrakech",
+      "tagine",
+      "north-african",
+      "cinnamon"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 70,
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -4031,17 +4024,15 @@
   },
   {
     "slug": "aromatic-australian-salmon-crumble",
-    "title": "Aromatic Australian Salmon Crumble",
+    "title": "Pan-Seared Salmon with Crumble Topping",
     "tags": [
-      "australian",
-      "crumble",
-      "hangover-cure",
-      "nutty",
-      "pescatarian-friendly",
-      "quick-meal"
+      "fish",
+      "gluten-free",
+      "easy-dinner",
+      "salmon"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 40,
+    "cuisine": "australian",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
