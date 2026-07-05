@@ -1,0 +1,60 @@
+{
+  "slug": "aromatic-chewy-indian-morbier-lassi",
+  "title": "Spiced Lassi Panna Cotta",
+  "description": "A creamy Indian dessert made with lassi, topped with chewy morbier crumbles and aromatic spices.",
+  "cuisine": "Indian",
+  "diet": [
+    "dairy"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Lassi",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Morbier cheese",
+      "amount": "8 ounces"
+    },
+    {
+      "name": "Aromatic spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "In a medium saucepan, combine the lassi, sugar, and salt. Heat over medium heat, stirring occasionally, until the sugar dissolves.",
+    "Bring the mixture to a simmer and cook for 5 minutes, or until it thickens slightly.",
+    "Remove the mixture from the heat and stir in the aromatic spice blend.",
+    "Pour the mixture into individual serving cups and refrigerate for at least 4 hours, or until chilled.",
+    "Just before serving, crumble the morbier cheese into small pieces and sprinkle over the top of each serving.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 5,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "indian",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 12,
+    "carbs": 24,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-chewy-indian-morbier-lassi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T22:53:09.816Z"
+}
