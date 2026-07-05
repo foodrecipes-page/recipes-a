@@ -1,0 +1,83 @@
+{
+  "slug": "asparaguas-grilled-verde",
+  "title": "Grilled Asparagus with Verde Sauce",
+  "description": "A simple and flavorful side dish featuring grilled asparagus topped with a tangy verde sauce. Perfect for warm weather gatherings or quick weeknight meals.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "green chilies",
+      "amount": "2",
+      "notes": "canned"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Toss asparagus with olive oil, salt, and pepper in a bowl until coated.",
+    "Grill asparagus for 3-5 minutes per side, or until tender and slightly charred.",
+    "Meanwhile, combine cilantro, green chilies, lime juice, and garlic in a blender or food processor.",
+    "Blend until smooth to make the verde sauce.",
+    "Serve grilled asparagus hot with verde sauce spooned over the top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilled",
+    "asparagus",
+    "verde",
+    "sauce",
+    "side-dish"
+  ],
+  "nutrition": {
+    "calories": 70,
+    "protein": 3,
+    "carbs": 11,
+    "fat": 3
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/asparaguas-grilled-verde",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T12:25:00.419Z"
+}
