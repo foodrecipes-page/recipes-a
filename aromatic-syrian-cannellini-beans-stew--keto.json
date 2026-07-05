@@ -1,0 +1,84 @@
+{
+  "slug": "aromatic-syrian-cannellini-beans-stew--keto",
+  "title": "Keto Cannellini Bean Stew",
+  "description": "A hearty and comforting keto stew made with cannellini beans, aromatic spices, and Syrian-inspired flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 cup",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tsp",
+      "notes": "ground cumin, coriander, and paprika"
+    },
+    {
+      "name": "Syrian",
+      "amount": "1 tsp",
+      "notes": "ground allspice and sumac"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth and diced tomatoes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "for added protein and flavor"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium-high heat.",
+    "Add the ground beef and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the minced garlic and chopped onion, cooking until the onion is translucent.",
+    "Add the stew ingredients (beef broth, diced tomatoes, and aromatic spices) and stir to combine.",
+    "Add the cannellini beans and stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Note: This recipe is keto-friendly, but be mindful of the serving size and ingredients to ensure it fits within your daily keto macros."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "stew",
+    "cannellini-beans",
+    "aromatic-spices"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-syrian-cannellini-beans-stew--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T04:42:16.355Z"
+}
