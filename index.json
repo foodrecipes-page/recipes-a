@@ -3690,18 +3690,15 @@
   },
   {
     "slug": "ardent-polish-buckwheat-bake",
-    "title": "Ardent Polish Buckwheat Bake",
+    "title": "Buckwheat Bake with Polish Twist",
     "tags": [
+      "breakfast",
+      "sunday brunch",
       "buckwheat",
-      "macrobiotic",
-      "one-pan",
-      "perilla",
-      "polish",
-      "spicy",
-      "vegetarian"
+      "polish sausage"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
@@ -5735,17 +5732,15 @@
   },
   {
     "slug": "aromatic-rich-kenyan-lamb-tagine",
-    "title": "Aromatic Rich Kenyan Lamb Tagine",
+    "title": "Classic Kenyan Lamb Tagine",
     "tags": [
-      "ayurvedic-friendly",
-      "date-night",
-      "gluten-free",
-      "kenyan-cuisine",
-      "lamb-recipes",
-      "tagine-pot"
+      "lamb",
+      "kenyan",
+      "tagine",
+      "couscous"
     ],
     "cuisine": "Kenyan",
-    "totalTimeMin": 180,
+    "totalTimeMin": 120,
     "shard": "a"
   },
   {
@@ -9213,6 +9208,96 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-resinous-kenyan-tripe-bisque--japanese",
+    "title": "Pan-Seared Tripe with Kenyan Spices",
+    "tags": [
+      "japanese",
+      "tripecuisine",
+      "kenyan-spices"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-resinous-kenyan-tripe-bisque--keto",
+    "title": "Baked Tripe with Kenyan Spice",
+    "tags": [
+      "keto",
+      "low-carb",
+      "baked",
+      "tripe",
+      "kenyan-spices"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 175,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-resinous-kenyan-tripe-bisque--mexican",
+    "title": "Kenyan Beef Tripe Tacos",
+    "tags": [
+      "beef",
+      "mexican",
+      "tacos",
+      "slow-cooker"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 140,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-syrian-cannellini-beans-stew--chinese",
+    "title": "Chinese Stew with Cannellini Beans",
+    "tags": [
+      "chinese",
+      "stew",
+      "beans",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-spanish-courgette-stir-fry--french",
+    "title": "Crispy French Courgette Fritters",
+    "tags": [
+      "fritters",
+      "snack",
+      "vegetarian",
+      "french"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 22,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-anti-inflammatory-egyptian-chicken-tagine--chinese",
+    "title": "Egyptian-Style Chicken Tagine",
+    "tags": [
+      "chinese",
+      "egyptian",
+      "tagine",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-anti-inflammatory-egyptian-chicken-tagine--vegan",
+    "title": "Egyptian Vegan Tagine",
+    "tags": [
+      "vegan",
+      "north african",
+      "stew"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "a"
   }
 ]
