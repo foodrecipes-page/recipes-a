@@ -1,0 +1,90 @@
+{
+  "slug": "aerated-resinous-kenyan-tripe-bisque--mexican",
+  "title": "Kenyan Beef Tripe Tacos",
+  "description": "A unique fusion of Kenyan and Mexican flavors in this hearty beef tripe taco recipe. The tripe is slow-cooked in a rich, resinous tomato-based sauce.",
+  "cuisine": "mexican",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato bisque",
+      "amount": "1 cup",
+      "notes": "canned or homemade"
+    },
+    {
+      "name": "chipotle peppers in adobo sauce",
+      "amount": "2-3",
+      "notes": "depending on desired level of heat"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    },
+    {
+      "name": "aerated water",
+      "amount": "1 cup",
+      "notes": "for thinning the sauce"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the tripe and cook until browned, about 5 minutes.",
+    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
+    "Add the cumin, coriander, and chipotle peppers and cook for 1 minute.",
+    "Add the tomato bisque, lime juice, and aerated water. Bring to a simmer.",
+    "Reduce heat to low and cook, covered, until the tripe is tender, about 2 hours.",
+    "Shred the tripe with two forks and season with salt and pepper to taste.",
+    "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the tacos by placing a portion of the tripe mixture onto a tortilla and topping with your desired toppings."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "beef",
+    "mexican",
+    "tacos",
+    "slow-cooker"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-resinous-kenyan-tripe-bisque--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:23:10.670Z"
+}
