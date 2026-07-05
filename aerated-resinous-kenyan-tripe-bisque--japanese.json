@@ -1,0 +1,90 @@
+{
+  "slug": "aerated-resinous-kenyan-tripe-bisque--japanese",
+  "title": "Pan-Seared Tripe with Kenyan Spices",
+  "description": "A unique Japanese-inspired dish featuring pan-seared tripe with a blend of Kenyan spices.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef tripe",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "kenyan chili powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "japanese soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "sushi rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "kenyan coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "resinous lemongrass",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "aerated sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add beef tripe and sear until browned on both sides, about 3-4 minutes per side. Remove from heat and set aside.",
+    "In a blender, combine Kenyan chili powder, Japanese soy sauce, brown sugar, and aerated sesame oil. Blend until smooth.",
+    "Add the blended sauce to the skillet and stir to combine. Bring to a simmer.",
+    "Return the beef tripe to the skillet and cook for an additional 5-7 minutes, or until the tripe is cooked through.",
+    "Stir in Kenyan coconut milk and resinous lemongrass. Cook for an additional 1-2 minutes.",
+    "Serve the tripe over sushi rice, garnished with green onions.",
+    "Optional: serve with a side of steamed vegetables or a simple salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "tripecuisine",
+    "kenyan-spices"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-resinous-kenyan-tripe-bisque--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:00:55.204Z"
+}
