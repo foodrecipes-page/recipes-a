@@ -1,0 +1,83 @@
+{
+  "slug": "aromatic-anti-inflammatory-egyptian-chicken-tagine--chinese",
+  "title": "Egyptian-Style Chicken Tagine",
+  "description": "A fusion of Egyptian and Chinese flavors, this dish combines aromatic spices with a tender chicken tagine. Serve with steamed rice or noodles.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": ""
+    },
+    {
+      "name": "aromatic spices",
+      "amount": "2 tsp",
+      "notes": "Mix of cinnamon, ginger, and allspice"
+    },
+    {
+      "name": "inflammatory-free oil",
+      "amount": "2 tbsp",
+      "notes": "Coconut or avocado oil"
+    },
+    {
+      "name": "egyptian paprika",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "1 unit",
+      "notes": "Moroccan clay pot or substitute with Dutch oven"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Season the chicken breast with salt and black pepper.",
+    "2. Heat the oil in the tagine over medium heat.",
+    "3. Add the aromatic spices and cook for 1 minute.",
+    "4. Add the chicken breast and cook until browned on all sides.",
+    "5. Add the egyptian paprika, chicken broth, and cover the tagine.",
+    "6. Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "7. Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "egyptian",
+    "tagine",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-anti-inflammatory-egyptian-chicken-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T07:21:10.155Z"
+}
