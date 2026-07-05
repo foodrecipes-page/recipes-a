@@ -1,0 +1,70 @@
+{
+  "slug": "air-fried-crispy-spanish-courgette-stir-fry--gluten-free",
+  "title": "Gluten-Free Spanish Stir-Fry",
+  "description": "A delicious and easy-to-make gluten-free Spanish stir-fry with courgette. Perfect for a quick dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tbsp",
+      "notes": "Use a gluten-free brand"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": "Add as garnish"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of olive oil in a large frying pan over medium-high heat.",
+    "Add the courgette and cook for 3-4 minutes on each side, or until tender.",
+    "In a small bowl, mix together the garlic, smoked paprika, salt, and pepper.",
+    "Add the garlic mixture to the courgette and stir-fry for 1 minute.",
+    "Serve the courgette hot, garnished with chopped parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "spanish",
+    "stir-fry",
+    "quick-dinner"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T08:49:46.574Z"
+}
