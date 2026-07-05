@@ -2187,14 +2187,12 @@
   },
   {
     "slug": "almond-adventurer",
-    "title": "Almond Adventurer",
+    "title": "Almond Adventure Cake",
     "tags": [
-      "almond-extract",
-      "raw-friendly",
-      "nutty",
-      "spanish"
+      "almond",
+      "cake"
     ],
-    "cuisine": "Spanish",
+    "cuisine": "European",
     "totalTimeMin": 35,
     "shard": "a"
   },
