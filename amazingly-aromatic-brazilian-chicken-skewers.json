@@ -1,0 +1,91 @@
+{
+  "slug": "amazingly-aromatic-brazilian-chicken-skewers",
+  "title": "Brazilian Chicken Skewers with Aromatic Flavor",
+  "description": "Grilled chicken skewers with a blend of Brazilian spices and aromatic ingredients, perfect for a summer evening. The combination of flavors will transport you to the beaches of Brazil.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Pineapple chunks",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brazilian-style sausage",
+      "amount": "1/2 pound",
+      "notes": "such as linguiça"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Bell pepper",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Chimichurri sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F).",
+    "Thread chicken, pineapple, sausage, onion, and bell pepper onto skewers.",
+    "In a small bowl, mix together garlic, chimichurri sauce, and cilantro.",
+    "Brush the mixture onto both sides of the skewers.",
+    "Season with salt, pepper, and a squeeze of lime juice.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Cook to an internal temperature of 165°F.",
+    "Let rest for 5 minutes before serving.",
+    "Serve hot, garnished with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "skewers",
+    "brazilian",
+    "summer",
+    "easy dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-aromatic-brazilian-chicken-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T15:05:06.291Z"
+}
