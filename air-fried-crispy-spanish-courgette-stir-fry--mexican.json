@@ -1,0 +1,77 @@
+{
+  "slug": "air-fried-crispy-spanish-courgette-stir-fry--mexican",
+  "title": "Crispy Courgette Fritters",
+  "description": "A delicious Mexican-inspired snack or side dish made with crispy courgette fritters.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": "1 medium",
+      "notes": "Grated"
+    },
+    {
+      "name": "Fried",
+      "amount": "1 cup",
+      "notes": "Crispy breadcrumbs"
+    },
+    {
+      "name": "Spanish",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cheddar Cheese (optional)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 180°C (350°F).",
+    "2. In a bowl, mix together the grated courgette, crispy breadcrumbs, smoked paprika, salt, and pepper.",
+    "3. In a separate bowl, beat the egg.",
+    "4. Add the egg to the courgette mixture and mix well.",
+    "5. Using a spoon, drop small amounts of the mixture into the hot oil.",
+    "6. Fry for 2-3 minutes on each side, or until golden brown and crispy.",
+    "7. Remove the fritters from the oil and place on a paper towel to drain excess oil.",
+    "8. Serve hot, garnished with chopped fresh cilantro if desired.",
+    "9. If using cheese, sprinkle on top of the fritters before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "snack",
+    "veggie",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T02:50:57.210Z"
+}
