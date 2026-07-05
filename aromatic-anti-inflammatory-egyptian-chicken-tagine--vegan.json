@@ -1,0 +1,93 @@
+{
+  "slug": "aromatic-anti-inflammatory-egyptian-chicken-tagine--vegan",
+  "title": "Egyptian Vegan Tagine",
+  "description": "A hearty and flavorful North African-inspired stew made with aromatic spices and served over couscous.",
+  "cuisine": "North African",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1/2 cup",
+      "notes": "replaced with mushrooms"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "mushrooms",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "tagine spice mix",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "couscous",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "tomatoes",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large tagine or Dutch oven over medium heat.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Add mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add tagine spice mix and cook for 1 minute.",
+    "Add tomatoes and water, and stir to combine.",
+    "Bring to a simmer, then reduce heat to low and cook, covered, for 20 minutes.",
+    "Stir in couscous and cook for an additional 5 minutes, or until heated through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "north african",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-anti-inflammatory-egyptian-chicken-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T07:29:47.241Z"
+}
