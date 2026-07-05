@@ -1,0 +1,84 @@
+{
+  "slug": "almond-adventurer",
+  "title": "Almond Adventure Cake",
+  "description": "A moist almond-based dessert with a hint of adventure in every bite.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "large eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "unsalted butter, softened",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "confectioners' sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Butter two 8-inch (20cm) round cake pans and dust them with almond flour.",
+    "In a medium bowl, whisk together the almond flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together the eggs, butter, and vanilla extract.",
+    "Add the dry ingredients to the wet ingredients and mix until just combined.",
+    "Divide the batter evenly between the prepared pans.",
+    "Bake for 20-25 minutes, or until a toothpick inserted into the center of each cake comes out clean.",
+    "Allow the cakes to cool in the pans for 5 minutes, then transfer them to a wire rack to cool completely.",
+    "Once the cakes are cool, place one of them on a serving plate and dust it with confectioners' sugar.",
+    "Top the first cake with the second cake and dust the top with confectioners' sugar.",
+    "Serve and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "almond",
+    "cake"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-adventurer",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T01:08:48.027Z"
+}
