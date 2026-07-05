@@ -1,0 +1,68 @@
+{
+  "slug": "aromatic-syrian-cannellini-beans-stew--chinese",
+  "title": "Chinese Stew with Cannellini Beans",
+  "description": "A hearty and flavorful Chinese-inspired stew made with cannellini beans, aromatic spices, and tender beef. Perfect for a weeknight dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 cup (250g)",
+      "notes": "canned or cooked from scratch"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups (475ml)",
+      "notes": "beef broth or vegetable broth"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": "ginger paste or ground ginger"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "beans",
+      "amount": "1 cup (115g)",
+      "notes": "dried or canned"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the aromatic and cook for 1 minute, until fragrant.",
+    "Add the beans and cook for 2-3 minutes, until lightly browned.",
+    "Add the stew and bring to a boil.",
+    "Reduce the heat to low and simmer for 20-25 minutes, until the beans are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stew",
+    "beans",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-syrian-cannellini-beans-stew--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:39:33.629Z"
+}
