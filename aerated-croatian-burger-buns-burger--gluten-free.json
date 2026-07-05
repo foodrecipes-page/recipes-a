@@ -1,0 +1,92 @@
+{
+  "slug": "aerated-croatian-burger-buns-burger--gluten-free",
+  "title": "Gluten-Free Croatian Burger",
+  "description": "A gluten-free twist on the classic Croatian burger, featuring an aerated beef patty served on a gluten-free bun.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Aerated Beef Patty",
+      "amount": "4",
+      "notes": "Form into 4 patties"
+    },
+    {
+      "name": "Gluten-Free Buns",
+      "amount": "4",
+      "notes": "Toasted"
+    },
+    {
+      "name": "Croatian Burger",
+      "amount": "1/4 cup",
+      "notes": "Chopped, for topping"
+    },
+    {
+      "name": "Burger",
+      "amount": "1",
+      "notes": "For topping"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Chopped, for topping"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1",
+      "notes": "Sliced, for topping"
+    },
+    {
+      "name": "Red Onion",
+      "amount": "1/2",
+      "notes": "Thinly sliced, for topping"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "For topping"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/4 cup",
+      "notes": "Shredded, for topping"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Form the aerated beef into 4 patties.",
+    "Season the patties with paprika.",
+    "Grill the patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the gluten-free buns on the grill.",
+    "Assemble the burgers by spreading mayonnaise on the bottom bun, followed by a cooked patty, a slice of cheese, a spoonful of Croatian burger, a few slices of tomato, a few slices of red onion, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "croatian",
+    "beef",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-croatian-burger-buns-burger--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T01:59:47.299Z"
+}
