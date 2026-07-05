@@ -5162,17 +5162,16 @@
   },
   {
     "slug": "aromatic-jamaican-goat-stew",
-    "title": "Aromatic Jamaican Goat Stew",
+    "title": "Jamaican Goat Stew",
     "tags": [
-      "clay-pot-cooking",
-      "goat-meat",
-      "hearty-stew",
-      "jamaican-cuisine",
-      "kosher-friendly",
-      "midnight-craving"
+      "goat",
+      "jamaican",
+      "stew",
+      "caribbean",
+      "comfort food"
     ],
     "cuisine": "Jamaican",
-    "totalTimeMin": 120,
+    "totalTimeMin": 140,
     "shard": "a"
   },
   {
