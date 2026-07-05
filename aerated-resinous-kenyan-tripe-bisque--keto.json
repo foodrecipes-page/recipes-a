@@ -1,0 +1,72 @@
+{
+  "slug": "aerated-resinous-kenyan-tripe-bisque--keto",
+  "title": "Baked Tripe with Kenyan Spice",
+  "description": "A unique and flavorful dish that combines the richness of tripe with the warmth of Kenyan spices. Perfect for a keto diet.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound, cleaned and cut into 1-inch pieces"
+    },
+    {
+      "name": "Kenyan Spice Blend",
+      "amount": "2 tablespoons",
+      "notes": "Available at most African markets or online."
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Aerated vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Resinous honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large bowl, mix together the Kenyan Spice Blend, olive oil, aerated vinegar, resinous honey, salt, and black pepper.",
+    "Add the tripe to the bowl and toss to coat with the spice mixture.",
+    "Transfer the tripe to a baking dish and cover with aluminum foil.",
+    "Bake for 2 hours, or until the tripe is tender.",
+    "Remove the foil and continue baking for an additional 30 minutes.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 160,
+  "totalTimeMin": 175,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "low-carb",
+    "baked",
+    "tripe",
+    "kenyan-spices"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-resinous-kenyan-tripe-bisque--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:11:21.521Z"
+}
