@@ -1,0 +1,91 @@
+{
+  "slug": "aromatic-jamaican-goat-stew",
+  "title": "Jamaican Goat Stew",
+  "description": "A hearty and flavorful stew made with tender goat meat, aromatic spices, and a hint of Jamaican jerk seasoning.",
+  "cuisine": "Jamaican",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "goat meat (1 lb)",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "aromatic oil",
+      "amount": "2 tablespoons",
+      "notes": "such as olive or vegetable oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "stew",
+      "amount": "2 cups",
+      "notes": "beef broth or stock"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "thyme",
+      "amount": "1 sprig",
+      "notes": "fresh or dried"
+    },
+    {
+      "name": "allspice",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    }
+  ],
+  "instructions": [
+    "Heat the aromatic oil in a large Dutch oven over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the goat meat and cook until browned on all sides, about 5-7 minutes.",
+    "Add the Jamaican jerk seasoning, stew, tomato paste (if using), thyme, and allspice.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 to 2 hours, or until the goat meat is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs (if desired).",
+    "Serve with rice, roti, or other Caribbean sides."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "goat",
+    "jamaican",
+    "stew",
+    "caribbean",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-jamaican-goat-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T20:59:41.840Z"
+}
