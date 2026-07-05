@@ -1,0 +1,83 @@
+{
+  "slug": "aromatic-floral-spanish-shrimp-gambas-al-ajillo",
+  "title": "Shrimp and Garlic Paella",
+  "description": "A classic Spanish dish made with succulent shrimp, garlic, and aromatic spices.",
+  "cuisine": "Spanish",
+  "diet": [
+    "Gluten-Free",
+    "Seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Spanish Rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Aromatic Spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Floral Water",
+      "amount": "1 cup",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large paella pan over medium-high heat.",
+    "Add the garlic and cook for 1-2 minutes until fragrant.",
+    "Add the shrimp and cook for 2-3 minutes until pink and cooked through.",
+    "Add the Spanish rice and cook for 2-3 minutes until lightly toasted.",
+    "Add the aromatic spices, floral water, salt, and black pepper. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20-25 minutes.",
+    "Remove the pan from the heat and let it rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "paella",
+    "shrimp",
+    "spanish",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-floral-spanish-shrimp-gambas-al-ajillo",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:28:11.878Z"
+}
