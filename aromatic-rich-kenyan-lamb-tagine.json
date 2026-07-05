@@ -1,0 +1,105 @@
+{
+  "slug": "aromatic-rich-kenyan-lamb-tagine",
+  "title": "Classic Kenyan Lamb Tagine",
+  "description": "A traditional Kenyan dish made with tender lamb and aromatic spices, cooked to perfection in a rich and flavorful tagine.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "meat",
+    "pork-free",
+    "lacto-ovo"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1.5 pounds",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": "for browning"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Coriander",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in the bottom of a large clay or ceramic tagine over medium heat.",
+    "Brown the lamb pieces in batches, then set aside.",
+    "Add onion, garlic, and ginger to the tagine and cook until the onion is softened.",
+    "Add cumin, coriander, cinnamon, turmeric, salt, and black pepper. Cook for 1 minute.",
+    "Add the browned lamb back to the tagine and stir to coat with the spice mixture.",
+    "Add 1 cup of water to the tagine and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Stir in chopped cilantro and serve hot over couscous or rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kenyan",
+    "tagine",
+    "couscous"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 30,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-rich-kenyan-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T07:56:36.847Z"
+}
