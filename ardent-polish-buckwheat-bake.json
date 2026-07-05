@@ -1,0 +1,85 @@
+{
+  "slug": "ardent-polish-buckwheat-bake",
+  "title": "Buckwheat Bake with Polish Twist",
+  "description": "A hearty and flavorful bake that combines the earthiness of buckwheat with a hint of Polish flair.",
+  "cuisine": "Polish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Buckwheat",
+      "amount": "1 1/2 cups",
+      "notes": " rinsed and drained"
+    },
+    {
+      "name": "Polish Sausage",
+      "amount": "1 cup, sliced",
+      "notes": "use a vegetarian alternative if preferred"
+    },
+    {
+      "name": "Ardent Flour",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": "beaten"
+    },
+    {
+      "name": "Bake Spice",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together buckwheat, ardent flour, and bake spice (if using).",
+    "In a separate bowl, whisk together eggs, salt, and black pepper.",
+    "Add the sliced Polish sausage to the egg mixture and stir to combine.",
+    "Add the melted butter to the egg mixture and stir until well combined.",
+    "Pour the wet ingredients into the dry ingredients and stir until just combined. Do not overmix.",
+    "Transfer the mixture to a greased 9x13-inch baking dish.",
+    "Bake for 35-40 minutes or until the bake is golden brown and set.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "sunday brunch",
+    "buckwheat",
+    "polish sausage"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ardent-polish-buckwheat-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T06:49:10.405Z"
+}
