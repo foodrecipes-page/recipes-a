@@ -4235,17 +4235,14 @@
   },
   {
     "slug": "aromatic-chewy-indian-morbier-lassi",
-    "title": "Aromatic Chewy Indian Morbier Lassi",
+    "title": "Spiced Lassi Panna Cotta",
     "tags": [
-      "buddhist-friendly",
-      "indian-cuisine",
-      "romantic",
-      "snack",
-      "unique",
-      "vegetarian"
+      "dessert",
+      "indian",
+      "cheese"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -4723,17 +4720,14 @@
   },
   {
     "slug": "aromatic-egyptian-cheddar-stir-fry",
-    "title": "Aromatic Egyptian Cheddar Stir fry",
+    "title": "Egyptian-Style Aromatic Chicken Stir-Fry",
     "tags": [
-      "cheesy",
+      "chicken",
       "egyptian-cuisine",
-      "kosher-friendly",
-      "lotus-leaf-wrap",
-      "midnight-cravings",
-      "spicy"
+      "stir-fry"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
