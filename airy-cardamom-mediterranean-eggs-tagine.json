@@ -1,0 +1,58 @@
+{
+  "slug": "airy-cardamom-mediterranean-eggs-tagine",
+  "title": "Cardamom and Airy Omelette",
+  "description": "A light and fluffy omelette infused with the warm flavors of cardamom, perfect for a quick breakfast.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "large eggs"
+    },
+    {
+      "name": "cardamom",
+      "amount": "0.5 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "airy",
+      "amount": "0.25 cup",
+      "notes": "chopped fresh parsley"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt.",
+    "Heat a small non-stick pan over medium heat.",
+    "Add a small amount of oil to the pan and swirl it around.",
+    "Pour the egg mixture into the pan and let it cook until the edges start to set.",
+    "Sprinkle the ground cardamom over the eggs and use a spatula to gently fold the omelette in thirds.",
+    "Cook for another minute and use the spatula to carefully fold the omelette in half.",
+    "Slide the omelette out of the pan onto a plate and garnish with chopped parsley.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "omelette",
+    "cardamom",
+    "parsley"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 12,
+    "carbs": 2,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-cardamom-mediterranean-eggs-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-03T13:14:20.125Z"
+}
