@@ -1,0 +1,91 @@
+{
+  "slug": "aromatic-light-kenyan-lamb-wrap",
+  "title": "Kenyan Lamb Wrap",
+  "description": "A flavorful and spicy lamb wrap inspired by Kenyan cuisine, served with a side of aromatic and light accompaniments.",
+  "cuisine": "kenyan",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Kenyan spice mix",
+      "amount": "2 tablespoons",
+      "notes": "Available at most African markets or online"
+    },
+    {
+      "name": "Light olive oil",
+      "amount": "2 tablespoons",
+      "notes": "For brushing the lamb"
+    },
+    {
+      "name": "Aromatic onions",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Wrap",
+      "amount": "4-6",
+      "notes": "Large flour tortillas"
+    },
+    {
+      "name": "Greek yogurt",
+      "amount": "1 cup",
+      "notes": "For serving"
+    },
+    {
+      "name": "Cucumber",
+      "amount": "1 medium",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Tomato",
+      "amount": "1 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "In a small bowl, mix together the Kenyan spice mix and 1 tablespoon of light olive oil.",
+    "Add the lamb strips to the spice mix and toss to coat.",
+    "Grill the lamb for 5-7 minutes per side, or until cooked to your desired level of doneness.",
+    "Let the lamb rest for 5 minutes before slicing it thinly.",
+    "Meanwhile, brush the wraps with the remaining 1 tablespoon of light olive oil.",
+    "Warm the wraps on the grill or in a dry skillet for 30 seconds on each side.",
+    "Assemble the wraps by spreading a layer of Greek yogurt on each wrap, followed by a few slices of lamb, some sliced cucumber, diced tomato, and a sprinkle of chopped cilantro.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kenyan",
+    "wrap",
+    "spicy",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-light-kenyan-lamb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T05:32:11.312Z"
+}
