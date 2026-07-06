@@ -1,0 +1,79 @@
+{
+  "slug": "aerated-funky-filipino-myeongnan-roe-boodle",
+  "title": "Funky Filipino-Style Roe Fried Rice",
+  "description": "A spicy and savory twist on traditional fried rice, featuring fish roe and funky Filipino flavors.",
+  "cuisine": "Filipino",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Fish Roe",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Aerated Rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Funky Filippino Sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Boodle Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat a wok or large skillet over medium-high heat.",
+    "Add the funky Filipino sausage and cook until browned, breaking it up with a spatula as it cooks.",
+    "Add the onion and garlic and cook until the onion is translucent.",
+    "Add the fish roe and cook for 1-2 minutes, until it starts to break apart.",
+    "Add the aerated rice to the wok or skillet and stir-fry for 2-3 minutes, until it starts to brown.",
+    "Add the boodle sauce and soy sauce to the rice and stir-fry for another minute.",
+    "Season the fried rice with salt and pepper to taste.",
+    "Transfer the fried rice to a serving platter and garnish with additional fish roe if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "seafood",
+    "fried-rice"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 50,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-funky-filipino-myeongnan-roe-boodle",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T10:45:32.192Z"
+}
