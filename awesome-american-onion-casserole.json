@@ -1,0 +1,56 @@
+{
+  "slug": "awesome-american-onion-casserole",
+  "title": "American Casserole",
+  "description": "A classic American comfort food dish, perfect for a weeknight dinner.",
+  "cuisine": "American",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "casserole",
+      "amount": "1 cup"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "awesome",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "american",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Cook the casserole according to package instructions.",
+    "Chop the onion and sauté it in a pan until softened.",
+    "Add the awesome to the pan and stir to combine.",
+    "Combine the cooked casserole and onion mixture in a baking dish.",
+    "Top with the american and place in the oven.",
+    "Bake for 20-25 minutes, or until the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "comfort-food",
+    "dinner-ideas",
+    "easy-recipes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/awesome-american-onion-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T07:48:24.937Z"
+}
