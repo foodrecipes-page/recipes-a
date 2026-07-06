@@ -3950,17 +3950,14 @@
   },
   {
     "slug": "aromatic-astonishing-southern-thai-egg-plants-kanom-ko",
-    "title": "Aromatic Astonishing Southern Thai Egg Plants Kanom Ko",
+    "title": "Kanom Krok with Southern Twist",
     "tags": [
-      "gluten-free",
-      "one-pan",
-      "smoky",
-      "southern-thai",
-      "spicy",
-      "vegetarian"
+      "southern-twist",
+      "thaifood",
+      "breakfast"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 40,
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -5294,17 +5291,16 @@
   },
   {
     "slug": "aromatic-light-kenyan-lamb-wrap",
-    "title": "Aromatic Light Kenyan Lamb Wrap",
+    "title": "Kenyan Lamb Wrap",
     "tags": [
-      "herbes-de-provence",
-      "high-protein",
-      "kenyan-cuisine",
-      "lamb-recipes",
-      "one-pan",
-      "weeknight"
+      "lamb",
+      "kenyan",
+      "wrap",
+      "spicy",
+      "grilled"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 35,
+    "cuisine": "kenyan",
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
