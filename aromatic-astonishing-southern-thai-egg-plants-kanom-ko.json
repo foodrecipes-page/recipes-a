@@ -1,0 +1,68 @@
+{
+  "slug": "aromatic-astonishing-southern-thai-egg-plants-kanom-ko",
+  "title": "Kanom Krok with Southern Twist",
+  "description": "A crispy and savory Thai-style pancake with a Southern twist, topped with a fried egg.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Southern-style cornmeal",
+      "amount": "1 cup",
+      "notes": "fine texture"
+    },
+    {
+      "name": "Thai kanom flour",
+      "amount": "1/2 cup",
+      "notes": "coarse texture"
+    },
+    {
+      "name": "Egg",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic southern water",
+      "amount": "1 cup",
+      "notes": "cooled down"
+    },
+    {
+      "name": "Thai-style coconut milk",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Plants (cabbage, scallions)",
+      "amount": "1 bunch",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, combine cornmeal, kanom flour, and a pinch of salt.",
+    "2. Gradually add aromatic southern water and mix until a smooth batter forms.",
+    "3. Heat a non-stick pan over medium heat.",
+    "4. Pour the batter and spread it evenly.",
+    "5. Cook for 2-3 minutes or until the bottom is golden brown.",
+    "6. Flip the pancake and cook for another 2 minutes.",
+    "7. Meanwhile, fry an egg in a separate pan.",
+    "8. Assemble the dish by placing the pancake on a plate, topping it with the fried egg, and garnishing with plants.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "southern-twist",
+    "thaifood",
+    "breakfast"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-astonishing-southern-thai-egg-plants-kanom-ko",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-04T04:42:37.451Z"
+}
