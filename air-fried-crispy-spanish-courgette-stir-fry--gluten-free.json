@@ -1,70 +1,75 @@
 {
   "slug": "air-fried-crispy-spanish-courgette-stir-fry--gluten-free",
-  "title": "Gluten-Free Spanish Stir-Fry",
-  "description": "A delicious and easy-to-make gluten-free Spanish stir-fry with courgette. Perfect for a quick dinner.",
+  "title": "Spanish Fried Courgette Fritters",
+  "description": "A gluten-free appetizer or side dish made with crispy courgette and a hint of Spanish flair.",
   "cuisine": "Spanish",
   "diet": [
     "gluten-free"
   ],
-  "meal": "dinner",
+  "meal": "snack",
   "ingredients": [
     {
       "name": "Courgette",
-      "amount": "2 medium",
-      "notes": null
+      "amount": "1 medium",
+      "notes": ""
     },
     {
-      "name": "Spanish olive oil",
-      "amount": "2 tbsp",
-      "notes": "Use a gluten-free brand"
+      "name": "Flour (gluten-free)",
+      "amount": "1/2 cup",
+      "notes": ""
     },
     {
-      "name": "Garlic",
-      "amount": "3 cloves",
-      "notes": null
+      "name": "Fried egg",
+      "amount": "1",
+      "notes": ""
     },
     {
-      "name": "Smoked paprika",
-      "amount": "1 tsp",
-      "notes": null
+      "name": "Bread crumbs",
+      "amount": "1/2 cup",
+      "notes": "Gluten-free"
     },
     {
-      "name": "Salt and pepper",
+      "name": "Cheese",
+      "amount": "1/4 cup",
+      "notes": "Grated"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
       "amount": "to taste",
-      "notes": null
-    },
-    {
-      "name": "Fresh parsley",
-      "amount": "chopped (optional)",
-      "notes": "Add as garnish"
+      "notes": ""
     }
   ],
   "instructions": [
-    "Heat 1 tbsp of olive oil in a large frying pan over medium-high heat.",
-    "Add the courgette and cook for 3-4 minutes on each side, or until tender.",
-    "In a small bowl, mix together the garlic, smoked paprika, salt, and pepper.",
-    "Add the garlic mixture to the courgette and stir-fry for 1 minute.",
-    "Serve the courgette hot, garnished with chopped parsley if desired."
+    "1. Peel the courgette and grate it.",
+    "2. In a bowl, mix together the grated courgette, flour, fried egg, bread crumbs, cheese, paprika, and salt.",
+    "3. Heat a non-stick pan with some oil and make small patties with the courgette mixture.",
+    "4. Fry the patties until they are golden brown and crispy.",
+    "5. Serve hot and enjoy."
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
-    "gluten-free",
     "spanish",
-    "stir-fry",
-    "quick-dinner"
+    "fried",
+    "crispy",
+    "courgette"
   ],
   "nutrition": {
-    "calories": 120,
-    "protein": 2,
+    "calories": 200,
+    "protein": 10,
     "carbs": 20,
-    "fat": 5
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry--gluten-free",
   "providerUsed": "groq",
-  "createdAt": "2026-07-03T08:49:46.574Z"
+  "createdAt": "2026-07-05T06:59:11.613Z"
 }
