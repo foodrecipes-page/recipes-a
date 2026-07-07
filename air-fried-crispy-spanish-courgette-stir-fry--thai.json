@@ -1,0 +1,84 @@
+{
+  "slug": "air-fried-crispy-spanish-courgette-stir-fry--thai",
+  "title": "Thai Stir Fry Courgette",
+  "description": "Quick and easy Thai-inspired stir fry with crispy courgette, best served with steamed rice.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgette (Zucchini)",
+      "amount": "2 medium-sized",
+      "notes": null
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Thai red curry paste",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Ginger, grated",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "1 clove",
+      "notes": null
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Sugar",
+      "amount": "0.5 tsp",
+      "notes": null
+    },
+    {
+      "name": "Chili flakes",
+      "amount": "0.25 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add curry paste, ginger, and garlic. Stir-fry for 1 minute.",
+    "Add courgette and stir-fry for 3-4 minutes or until tender.",
+    "In a small bowl, mix fish sauce, soy sauce, sugar, and chili flakes.",
+    "Pour the sauce over the courgette and stir-fry for another minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot with steamed rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "thaistirfry",
+    "courgette",
+    "easyrecipe"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:53:37.964Z"
+}
