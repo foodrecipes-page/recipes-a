@@ -1,0 +1,81 @@
+{
+  "slug": "aerated-resinous-kenyan-tripe-bisque--chinese",
+  "title": "Kenyan Beef Tripe Stew",
+  "description": "A hearty Chinese-inspired stew made with tender tripe and a rich, resinous broth. This Kenyan-inspired dish is a flavorful and satisfying meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "beef"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Aerated Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Resinous Chinese Five-Spice Powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Kenyan Garam Masala",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Bisque Broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "Sliced Scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Heat the sesame oil in a large Dutch oven over medium-high heat.",
+    "2. Add the tripe and cook until browned, about 5 minutes.",
+    "3. Add the soy sauce, five-spice powder, and garam masala. Cook for 1 minute.",
+    "4. Add the broth and bring to a boil.",
+    "5. Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the tripe is tender.",
+    "6. Stir in the cornstarch and sugar. Cook for an additional 5 minutes.",
+    "7. Serve hot, garnished with sliced scallions.",
+    "8. Let the stew rest for 10 minutes before serving.",
+    "9. Serve with steamed rice or noodles.",
+    "10. Garnish with additional scallions and soy sauce, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "beef",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-resinous-kenyan-tripe-bisque--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:01:20.601Z"
+}
