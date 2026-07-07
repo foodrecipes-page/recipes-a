@@ -9183,29 +9183,26 @@
   },
   {
     "slug": "aerated-resinous-kenyan-tripe-bisque--keto",
-    "title": "Baked Tripe with Kenyan Spice",
+    "title": "Kenyan Tripe Stew",
     "tags": [
-      "keto",
-      "low-carb",
-      "baked",
-      "tripe",
-      "kenyan-spices"
+      "tripecooking",
+      "kenyanstew",
+      "keto"
     ],
-    "cuisine": null,
-    "totalTimeMin": 175,
+    "cuisine": "Kenyan",
+    "totalTimeMin": 110,
     "shard": "a"
   },
   {
     "slug": "aerated-resinous-kenyan-tripe-bisque--mexican",
-    "title": "Kenyan Beef Tripe Tacos",
+    "title": "Tripe Tacos with Kenyan-Style Salsa",
     "tags": [
-      "beef",
       "mexican",
       "tacos",
-      "slow-cooker"
+      "tripecuisine"
     ],
     "cuisine": "mexican",
-    "totalTimeMin": 140,
+    "totalTimeMin": 80,
     "shard": "a"
   },
   {
@@ -9223,15 +9220,15 @@
   },
   {
     "slug": "air-fried-crispy-spanish-courgette-stir-fry--french",
-    "title": "Crispy French Courgette Fritters",
+    "title": "Spicy Spanish Courgette Fritters",
     "tags": [
-      "fritters",
-      "snack",
+      "french",
       "vegetarian",
-      "french"
+      "fritters",
+      "courgette"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 22,
+    "cuisine": "french",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -9285,14 +9282,316 @@
   },
   {
     "slug": "air-fried-crispy-spanish-courgette-stir-fry--gluten-free",
-    "title": "Gluten-Free Spanish Stir-Fry",
+    "title": "Spanish Fried Courgette Fritters",
     "tags": [
-      "gluten-free",
       "spanish",
-      "stir-fry",
-      "quick-dinner"
+      "fried",
+      "crispy",
+      "courgette"
     ],
     "cuisine": "Spanish",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-spanish-courgette-stir-fry--german",
+    "title": "German Courgette Fritters",
+    "tags": [
+      "german",
+      "courgette",
+      "fritters",
+      "snack"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 18,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-winey-korean-hazelnut-jjigae--german",
+    "title": "Winey Korean Jjigae Stew",
+    "tags": [
+      "german",
+      "korean",
+      "stew",
+      "beef"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-winey-korean-hazelnut-jjigae--thai",
+    "title": "Korean-Style Thai Jjigae with Hazelnut Crunch",
+    "tags": [
+      "korean",
+      "thai",
+      "fusion",
+      "spicy",
+      "hazelnut"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-spanish-courgette-stir-fry--thai",
+    "title": "Thai Stir Fry Courgette",
+    "tags": [
+      "thaistirfry",
+      "courgette",
+      "easyrecipe"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-spanish-courgette-stir-fry--indian",
+    "title": "Spiced Courgette Stir Fry",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "quick",
+      "easy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-winey-korean-hazelnut-jjigae--indian",
+    "title": "Hazelnut Chicken Jjigae",
+    "tags": [
+      "indian",
+      "korean",
+      "fusion",
+      "chicken",
+      "jjigae"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-winey-korean-hazelnut-jjigae--keto",
+    "title": "Korean Jjigae Stuffed Hazelnut Chicken Breast",
+    "tags": [
+      "korean",
+      "keto",
+      "chicken",
+      "hazelnut"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-spanish-courgette-stir-fry--vegetarian",
+    "title": "Spanish Courgette Stir Fry",
+    "tags": [
+      "spanish",
+      "vegetarian",
+      "stir-fry",
+      "courgette"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 22,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-spanish-courgette-stir-fry--vegan",
+    "title": "Crispy Spanish Fried Courgette",
+    "tags": [
+      "vegan",
+      "spanish",
+      "snack",
+      "courgette"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 18,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-winey-korean-hazelnut-jjigae--chinese",
+    "title": "Winey Hazelnut Kung Pao Chicken",
+    "tags": [
+      "chinese",
+      "spicy",
+      "nuts",
+      "chicken"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-winey-korean-hazelnut-jjigae--vegan",
+    "title": "Korean-Style Hazelnut Jjigae Stew",
+    "tags": [
+      "korean",
+      "stew",
+      "vegan",
+      "hazelnut",
+      "jjigae"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-spanish-courgette-stir-fry--italian",
+    "title": "Crispy Courgette Fries",
+    "tags": [
+      "italian",
+      "snack",
+      "fries",
+      "courgette"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-spanish-courgette-stir-fry--japanese",
+    "title": "Japanese Crispy Courgette Stir Fry",
+    "tags": [
+      "vegetarian",
+      "japanese",
+      "stir-fry"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-winey-korean-hazelnut-jjigae--japanese",
+    "title": "Pan-Seared Hazelnut-Crusted Cod with Korean Chili Flakes",
+    "tags": [
+      "japanese",
+      "korean",
+      "seafood",
+      "hazelnut"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 33,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-winey-korean-hazelnut-jjigae--italian",
+    "title": "Hazelnut Jjigae Risotto",
+    "tags": [
+      "italian",
+      "hazelnut",
+      "korean",
+      "risotto",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-winey-korean-hazelnut-jjigae--gluten-free",
+    "title": "Korean-Style Hazelnut Jjigae",
+    "tags": [
+      "korean",
+      "hazelnut",
+      "stew",
+      "gluten-free",
+      "spicy"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-resinous-kenyan-tripe-bisque--thai",
+    "title": "Tripe and Kenyan Sausage Thai Soup",
+    "tags": [
+      "thai",
+      "soup",
+      "spicy",
+      "pork"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-resinous-kenyan-tripe-bisque--german",
+    "title": "Sauerbraten mit Kenyan Biskuit",
+    "tags": [
+      "sauerbraten",
+      "kenyan",
+      "biskuit",
+      "german"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 195,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-resinous-kenyan-tripe-bisque--french",
+    "title": "Pan-Seared Kenyan Tripe with Resinous Broth",
+    "tags": [
+      "french",
+      "tripe",
+      "resinous",
+      "kenyan"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-croatian-burger-buns-burger--german",
+    "title": "German Bratwurst Burger",
+    "tags": [
+      "german",
+      "bratwurst",
+      "burger",
+      "sausage",
+      "cheese"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-resinous-kenyan-tripe-bisque--indian",
+    "title": "Kenyan Tripe Curry",
+    "tags": [
+      "curry",
+      "indian",
+      "tripe",
+      "kenyan"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 110,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-croatian-burger-buns-burger--thai",
+    "title": "Thai Burger",
+    "tags": [
+      "thai",
+      "burger",
+      "grilled"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 22,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-croatian-burger-buns-burger--french",
+    "title": "Croque Monsieur Burger",
+    "tags": [
+      "french",
+      "burger",
+      "gruyere",
+      "croque-monsieur"
+    ],
+    "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "a"
   }
