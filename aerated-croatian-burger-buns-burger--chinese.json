@@ -1,0 +1,86 @@
+{
+  "slug": "aerated-croatian-burger-buns-burger--chinese",
+  "title": "Croatian Burger Buns with Aerated Twist",
+  "description": "A twist on traditional burger buns, infused with aerated flavors and a touch of Croatian spice. Serve with a juicy burger for a satisfying meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "instant yeast",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "aerated soda",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "croatian spices",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, sugar, and yeast.",
+    "Add warm water and mix until a shaggy dough forms.",
+    "Add aerated soda and mix until the dough comes together.",
+    "Add Croatian spices and unsalted butter, and mix until well combined.",
+    "Knead the dough for 10 minutes until smooth.",
+    "Place the dough in a greased bowl, cover with plastic wrap, and let rise in a warm place for 1 hour.",
+    "Preheat oven to 375°F (190°C).",
+    "Punch down the dough and divide into 4 equal pieces.",
+    "Shape each piece into a ball and then flatten into a disk.",
+    "Place the buns on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "buns",
+    "chinese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-croatian-burger-buns-burger--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:02:38.814Z"
+}
