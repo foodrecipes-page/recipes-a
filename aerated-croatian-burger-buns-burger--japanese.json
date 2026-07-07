@@ -1,0 +1,104 @@
+{
+  "slug": "aerated-croatian-burger-buns-burger--japanese",
+  "title": "Tonkatsu Burger",
+  "description": "A Japanese twist on the classic burger, with a crispy tonkatsu patty and all the fixings.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "aerated",
+      "amount": "1 cup",
+      "notes": "Japanese-style panko breadcrumbs"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "croatian",
+      "amount": "1/4 cup",
+      "notes": "Dried or fresh parsley"
+    },
+    {
+      "name": "burger buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "burger patties",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "shredded cabbage",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "pickled ginger",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "teriyaki sauce",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Prepare the pork chops by pounding them thin.",
+    "2. Season the pork chops with salt and pepper.",
+    "3. In a shallow dish, mix together the flour, eggs, and milk.",
+    "4. In a separate dish, mix together the breadcrumbs and croatian.",
+    "5. Dip each pork chop in the flour mixture, then the breadcrumb mixture, pressing the crumbs onto the meat to adhere.",
+    "6. Heat about 1/2-inch of oil in a large skillet over medium-high heat.",
+    "7. When the oil is hot, add the coated pork chops and cook for about 3-4 minutes on each side, until golden brown and crispy.",
+    "8. Remove the pork chops from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "9. Meanwhile, toast the burger buns by grilling them briefly or baking them in the oven.",
+    "10. Assemble the burgers by spreading a layer of teriyaki sauce on the bottom bun, followed by a pork chop, a lettuce leaf, a tomato slice, a cheese slice, and finally the top bun.",
+    "11. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tonkatsu",
+    "japanese",
+    "burger",
+    "tonkatsu-burger"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-croatian-burger-buns-burger--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:04:59.910Z"
+}
