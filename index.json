@@ -1543,16 +1543,13 @@
   },
   {
     "slug": "airy-aerated-slovakian-pork-dumplings",
-    "title": "Airy Aerated Slovakian Pork Dumplings",
+    "title": "Slovakian Pork Dumplings with Airy Dumpling Dough",
     "tags": [
-      "high-protein",
-      "kosher-friendly",
-      "meal-prep",
-      "one-pan",
-      "pork-recipe",
-      "weeknight"
+      "slovakian",
+      "pork",
+      "dumplings"
     ],
-    "cuisine": "Slovakian",
+    "cuisine": "slovakian",
     "totalTimeMin": 50,
     "shard": "a"
   },
@@ -6253,18 +6250,15 @@
   },
   {
     "slug": "aromatic-smoky-polish-potatoes-grill",
-    "title": "Aromatic Smoky Polish Potatoes Grill",
+    "title": "Grilled Smoked Polish Sausage with Potatoes",
     "tags": [
-      "dairy-free",
-      "gluten-free",
-      "grilled-vegetables",
-      "monsoon-recipes",
-      "polish-cuisine",
-      "smoky-flavors",
-      "vegetarian"
+      "polish",
+      "grilled",
+      "sausage",
+      "potatoes"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -9757,6 +9751,43 @@
     ],
     "cuisine": "North African",
     "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-syrian-cannellini-beans-stew--french",
+    "title": "French Cannellini Bean Stew",
+    "tags": [
+      "bean-stew",
+      "french-cuisine",
+      "vegetarian-options",
+      "gluten-free-options"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-syrian-cannellini-beans-stew--vegan",
+    "title": "Syrian Bean Stew",
+    "tags": [
+      "vegan",
+      "stew",
+      "syrian"
+    ],
+    "cuisine": "Syrian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-syrian-cannellini-beans-stew--italian",
+    "title": "Italian Cannellini Bean Stew",
+    "tags": [
+      "italian",
+      "stew",
+      "beans"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "a"
   }
 ]
