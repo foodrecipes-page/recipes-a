@@ -1,8 +1,8 @@
 {
   "slug": "air-fried-crispy-spanish-courgette-stir-fry--french",
-  "title": "Crispy French Courgette Fritters",
-  "description": "A delicious and crispy French-inspired courgette fritter recipe perfect for a snack or side dish.",
-  "cuisine": "French",
+  "title": "Spicy Spanish Courgette Fritters",
+  "description": "Crispy courgette fritters with a spicy kick, inspired by French cuisine.",
+  "cuisine": "french",
   "diet": [
     "vegetarian"
   ],
@@ -10,62 +10,73 @@
   "ingredients": [
     {
       "name": "courgette",
-      "amount": "2 medium"
+      "amount": "2 medium",
+      "notes": "grated"
     },
     {
-      "name": "all-purpose flour",
-      "amount": "1 cup"
+      "name": "flour",
+      "amount": "1/2 cup",
+      "notes": "all-purpose"
     },
     {
-      "name": "grated cheddar cheese",
-      "amount": "1/2 cup"
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
     },
     {
-      "name": "egg",
-      "amount": "1"
+      "name": "chopped fresh parsley",
+      "amount": "2 tablespoons",
+      "notes": ""
     },
     {
-      "name": "milk",
-      "amount": "1/4 cup"
+      "name": "garlic powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
     },
     {
       "name": "salt",
-      "amount": "to taste"
+      "amount": "1/4 teaspoon",
+      "notes": ""
     },
     {
-      "name": "black pepper",
-      "amount": "to taste"
+      "name": "crispy fried onions",
+      "amount": "1/4 cup",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Grate the courgette and squeeze out excess moisture.",
-    "In a bowl, combine flour, cheese, egg, milk, salt, and pepper.",
-    "Add the grated courgette to the bowl and mix well.",
-    "Heat about 1/2 inch (1 cm) of oil in a frying pan over medium heat.",
-    "Using a spoon, drop small amounts of the courgette mixture into the oil.",
-    "Fry the fritters until golden brown and crispy, about 3-4 minutes per side.",
-    "Drain the fritters on paper towels.",
+    "Preheat the oil to 180°C (350°F) for deep-frying.",
+    "In a bowl, combine grated courgette, flour, eggs, parsley, garlic powder, paprika, and salt. Mix until a dough forms.",
+    "Divide the dough into 8 equal portions and shape each into a patty.",
+    "Heat a non-stick pan with a small amount of oil over medium heat. Fry the patties until golden brown on both sides.",
+    "Increase the heat to high and deep-fry the patties for 2-3 minutes on each side, until crispy.",
+    "Drain the fritters on paper towels and sprinkle with crispy fried onions.",
     "Serve hot and enjoy!"
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 12,
-  "totalTimeMin": 22,
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "fritters",
-    "snack",
+    "french",
     "vegetarian",
-    "french"
+    "fritters",
+    "courgette"
   ],
   "nutrition": {
     "calories": 220,
-    "protein": 6,
-    "carbs": 20,
+    "protein": 4,
+    "carbs": 25,
     "fat": 12
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry--french",
   "providerUsed": "groq",
-  "createdAt": "2026-07-03T06:51:12.096Z"
+  "createdAt": "2026-07-05T06:53:47.126Z"
 }
