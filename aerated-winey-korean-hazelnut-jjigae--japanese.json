@@ -1,0 +1,88 @@
+{
+  "slug": "aerated-winey-korean-hazelnut-jjigae--japanese",
+  "title": "Pan-Seared Hazelnut-Crusted Cod with Korean Chili Flakes",
+  "description": "A unique fusion of Japanese and Korean flavors, this dish features a crispy hazelnut crust on pan-seared cod, served with a spicy Korean chili flake sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cod fillets",
+      "amount": "4",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tsp",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "aerated water",
+      "amount": "1/4 cup",
+      "notes": "for batter"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "winey vinegar",
+      "amount": "1 tbsp",
+      "notes": "for sauce"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp",
+      "notes": "for sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Prepare the hazelnut crust by blending chopped hazelnuts with a pinch of salt.",
+    "Season the cod fillets with salt and pepper.",
+    "Dredge the cod fillets in the hazelnut crust, pressing gently to adhere.",
+    "Heat 1 tablespoon of vegetable oil in a skillet over medium-high heat.",
+    "Sear the cod fillets for 2-3 minutes on each side, until golden brown.",
+    "Transfer the skillet to the preheated oven and bake for 8-10 minutes, until cooked through.",
+    "Meanwhile, prepare the Korean chili flake sauce by mixing soy sauce, winey vinegar, and sugar in a small bowl.",
+    "Strain the sauce through a fine-mesh sieve into a clean bowl.",
+    "Add the Korean chili flakes to the sauce and stir to combine.",
+    "Serve the pan-seared cod with the spicy Korean chili flake sauce spooned over the top.",
+    "Garnish with chopped hazelnuts and a sprinkle of Korean chili flakes, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "korean",
+    "seafood",
+    "hazelnut"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-winey-korean-hazelnut-jjigae--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:58:00.358Z"
+}
