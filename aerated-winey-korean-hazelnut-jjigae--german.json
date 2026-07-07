@@ -1,0 +1,82 @@
+{
+  "slug": "aerated-winey-korean-hazelnut-jjigae--german",
+  "title": "Winey Korean Jjigae Stew",
+  "description": "A German-inspired twist on the traditional Korean jjigae stew, featuring a winey flavor profile and aerated texture.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Hazelnut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Winey beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Aerated Korean chili paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the hazelnut oil in a large pan over medium-high heat.",
+    "Add the beef and cook until browned, about 3-4 minutes.",
+    "Remove the beef from the pan and set aside.",
+    "Add the onion and ginger to the pan and cook until the onion is translucent, about 3-4 minutes.",
+    "Add the Korean chili flakes and cook for 1 minute.",
+    "Add the winey beer, aerated Korean chili paste, and water to the pan.",
+    "Stir to combine and bring the mixture to a boil.",
+    "Return the beef to the pan and cook until the stew is heated through, about 5-7 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "korean",
+    "stew",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-winey-korean-hazelnut-jjigae--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:53:10.589Z"
+}
