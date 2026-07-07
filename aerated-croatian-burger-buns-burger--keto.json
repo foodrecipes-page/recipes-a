@@ -1,0 +1,85 @@
+{
+  "slug": "aerated-croatian-burger-buns-burger--keto",
+  "title": "Croatian Keto Burger",
+  "description": "A low-carb twist on the classic burger, using a Croatian burger patty.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian Burger Patty",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Aerated Burger Buns (low-carb)",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Burger Patty Topping",
+      "amount": "8",
+      "notes": "Optional"
+    },
+    {
+      "name": "Mozzarella Cheese (low-fat)",
+      "amount": "4 slices",
+      "notes": "Optional"
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "2 tbsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "Pickles",
+      "amount": "2 slices",
+      "notes": "Optional"
+    },
+    {
+      "name": "Bacon",
+      "amount": "4 slices",
+      "notes": "Optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Cook the Croatian burger patty to an internal temperature of 160°F (71°C).",
+    "Toast the aerated burger buns on the grill or in a toaster.",
+    "Assemble the burger by spreading mayonnaise on the bottom bun, followed by a cooked patty, a few slices of bacon, a tomato slice, a few lettuce leaves, and a slice of mozzarella cheese.",
+    "Add a few pickle slices on top of the cheese, and finish with the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "burger",
+    "keto",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 52,
+    "carbs": 5,
+    "fat": 37
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-croatian-burger-buns-burger--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:01:59.065Z"
+}
