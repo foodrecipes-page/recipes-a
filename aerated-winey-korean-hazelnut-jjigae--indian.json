@@ -1,0 +1,95 @@
+{
+  "slug": "aerated-winey-korean-hazelnut-jjigae--indian",
+  "title": "Hazelnut Chicken Jjigae",
+  "description": "A unique fusion of Indian and Korean flavors in a spicy jjigae dish, featuring hazelnut-crusted chicken.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "boneless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "hazelnuts",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "korean chili flakes",
+      "amount": "2 tsp",
+      "notes": "optional, adjust to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "tomato",
+      "amount": "1 large",
+      "notes": "diced"
+    },
+    {
+      "name": "aerated beer",
+      "amount": "1/2 cup",
+      "notes": "or substitute with water"
+    },
+    {
+      "name": "wine",
+      "amount": "2 tbsp",
+      "notes": "dry red wine, optional"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "jjigae sauce",
+      "amount": "2 tbsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium-high heat.",
+    "Add chicken and cook until browned, about 5 minutes.",
+    "Add chopped onion, grated ginger, and Korean chili flakes. Cook until onion is translucent.",
+    "Add diced tomato, aerated beer, and dry red wine (if using). Bring to a simmer.",
+    "Reduce heat to medium-low and add soy sauce and jjigae sauce. Stir to combine.",
+    "Return chicken to the pan and cook for an additional 5 minutes, until cooked through.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped hazelnuts and chopped scallions (optional)."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "korean",
+    "fusion",
+    "chicken",
+    "jjigae"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-winey-korean-hazelnut-jjigae--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:54:34.194Z"
+}
