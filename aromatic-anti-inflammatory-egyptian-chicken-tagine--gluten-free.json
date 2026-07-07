@@ -1,0 +1,102 @@
+{
+  "slug": "aromatic-anti-inflammatory-egyptian-chicken-tagine--gluten-free",
+  "title": "Egyptian Chicken Tagine",
+  "description": "A traditional North African dish made with chicken, aromatic spices, and Egyptian flair, served gluten-free.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ground cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ground coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "cinnamon",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "tagine spice blend",
+      "amount": "1 tablespoon",
+      "notes": "available at most Middle Eastern markets"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Add the onion and cook until browned, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the cumin, coriander, cinnamon, and ginger. Cook for 1 minute.",
+    "Add the chicken broth, sugar, and tagine spice blend. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 20-25 minutes.",
+    "Remove the chicken from the pot and let it rest for 5 minutes before slicing.",
+    "Return the chicken to the pot and simmer for an additional 2-3 minutes to coat with the sauce.",
+    "Serve hot, garnished with chopped fresh parsley or cilantro, if desired.",
+    "Serve with couscous or rice, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "chicken",
+    "north-african",
+    "tagine",
+    "aromatic-spices"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 43,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-anti-inflammatory-egyptian-chicken-tagine--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:53:04.867Z"
+}
