@@ -1,0 +1,59 @@
+{
+  "slug": "aerated-croatian-burger-buns-burger--vegetarian",
+  "title": "Croatian Burger",
+  "description": "A vegetarian twist on the classic burger, topped with a Croatian-inspired slaw made with aerated cheese.",
+  "cuisine": "vegetarian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "aerated cheese",
+      "amount": "8 oz",
+      "notes": "shredded"
+    },
+    {
+      "name": "croatian burger",
+      "amount": "2 patties",
+      "notes": "vegetarian"
+    },
+    {
+      "name": "buns",
+      "amount": "4",
+      "notes": "toasted"
+    },
+    {
+      "name": "burger buns",
+      "amount": "4",
+      "notes": "toasted"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick skillet or grill to medium-high heat.",
+    "Form the Croatian burger patties and cook for 5-7 minutes per side, or until cooked through.",
+    "Meanwhile, toast the buns by grilling or broiling for 2-3 minutes.",
+    "Shred the aerated cheese and mix with a pinch of salt and pepper.",
+    "Assemble the burgers by spreading a layer of the cheese slaw on the bottom bun, followed by the cooked burger patty, and finishing with the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "croatian-burger",
+    "vegetarian-burger"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-croatian-burger-buns-burger--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:03:39.942Z"
+}
