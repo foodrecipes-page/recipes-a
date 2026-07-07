@@ -1,0 +1,82 @@
+{
+  "slug": "airy-aerated-slovakian-pork-dumplings",
+  "title": "Slovakian Pork Dumplings with Airy Dumpling Dough",
+  "description": "A hearty Slovakian dish featuring tender pork and airy dumpling dough. Perfect for a cold winter evening.",
+  "cuisine": "slovakian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "slovakian salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "slovakian paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "dumpling dough slovakian",
+      "amount": "1 package",
+      "notes": "available in some European markets or online"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine flour, warm water, salt, and 1 tablespoon of oil. Mix until dough forms.",
+    "Knead dough for 5 minutes until smooth and elastic.",
+    "Divide dough into 8-10 equal pieces and roll into balls.",
+    "On a floured surface, roll out each ball of dough into a thin circle.",
+    "Place 1-2 tablespoons of pork mixture in center of each dough circle.",
+    "Fold dough over filling and press edges to seal.",
+    "In a large pot of boiling salted water, cook dumplings for 10-12 minutes, or until they float to the surface.",
+    "Drain dumplings and serve hot with melted butter and chopped fresh parsley."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 20,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-aerated-slovakian-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T13:18:50.395Z"
+}
