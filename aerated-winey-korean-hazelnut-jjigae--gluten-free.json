@@ -1,0 +1,85 @@
+{
+  "slug": "aerated-winey-korean-hazelnut-jjigae--gluten-free",
+  "title": "Korean-Style Hazelnut Jjigae",
+  "description": "A spicy and savory Korean-inspired stew made with hazelnut milk, featuring aerated and winey flavors, perfect for a gluten-free meal.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Aerated Water",
+      "amount": "2 cups",
+      "notes": "for hazelnut milk"
+    },
+    {
+      "name": "Korean Chili Flakes",
+      "amount": "2 tsp",
+      "notes": "gochugaru"
+    },
+    {
+      "name": "Winey Vinegar",
+      "amount": "1 tsp",
+      "notes": "apple cider vinegar"
+    },
+    {
+      "name": "Jjigae Sauce",
+      "amount": "2 tbsp",
+      "notes": "gochujang"
+    },
+    {
+      "name": "Gluten-Free Soy Sauce",
+      "amount": "1 tbsp",
+      "notes": "for added depth"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tbsp of oil in a large pan over medium heat.",
+    "Add the garlic and ginger, cooking until fragrant, about 1 minute.",
+    "Add the Korean chili flakes and cook for an additional minute.",
+    "Add the chopped hazelnuts and cook until lightly toasted, about 2-3 minutes.",
+    "Add the jjigae sauce, winey vinegar, and gluten-free soy sauce, stirring to combine.",
+    "Pour in the aerated water and bring the mixture to a simmer.",
+    "Reduce heat to low and let cook for 5-7 minutes, stirring occasionally.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with additional chopped hazelnuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "hazelnut",
+    "stew",
+    "gluten-free",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-winey-korean-hazelnut-jjigae--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:59:34.401Z"
+}
