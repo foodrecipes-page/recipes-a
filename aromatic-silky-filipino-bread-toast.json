@@ -1,0 +1,68 @@
+{
+  "slug": "aromatic-silky-filipino-bread-toast",
+  "title": "Filipino Toasted Bread with Garlic Aioli",
+  "description": "A simple Filipino-inspired appetizer that combines toasted bread with a creamy garlic aioli.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Filipino bread",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "Silky garlic",
+      "amount": "4 cloves"
+    },
+    {
+      "name": "Aromatic fresh parsley",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Aromatic fresh chives",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Bread toast",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Silky mayonnaise",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cube the Filipino bread and toast in the oven for 10 minutes.",
+    "Mince the garlic and mix with mayonnaise, salt, parsley, and chives.",
+    "Assemble the garlic aioli by spreading it on toasted bread.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-silky-filipino-bread-toast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:02:06.610Z"
+}
