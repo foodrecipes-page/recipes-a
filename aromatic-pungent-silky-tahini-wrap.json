@@ -1,0 +1,68 @@
+{
+  "slug": "aromatic-pungent-silky-tahini-wrap",
+  "title": "Tahini Wrap",
+  "description": "A simple and delicious wrap filled with creamy tahini sauce, fresh herbs, and crunchy vegetables. Perfect for a quick and easy snack or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Tahini",
+      "amount": "1/4 cup",
+      "notes": "creamy tahini paste"
+    },
+    {
+      "name": "Aromatic",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "Pungent",
+      "amount": "1/4 teaspoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Silky",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large",
+      "notes": "whole wheat or gluten-free"
+    }
+  ],
+  "instructions": [
+    "In a small bowl, whisk together tahini, garlic, and cumin until smooth.",
+    "Heat olive oil in a medium skillet over medium heat.",
+    "Add the tahini mixture to the skillet and stir for 1-2 minutes.",
+    "Warm the wrap in the microwave or in a dry skillet for 10-15 seconds.",
+    "Spread the tahini sauce on the wrap, leaving a 1-inch border around the edges.",
+    "Add any additional toppings you like, such as sliced veggies or herbs.",
+    "Fold the bottom edge of the wrap up over the filling, then fold in the sides and roll up the wrap tightly.",
+    "Slice in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-pungent-silky-tahini-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T10:45:39.458Z"
+}
