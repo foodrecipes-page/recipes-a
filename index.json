@@ -9131,16 +9131,15 @@
   },
   {
     "slug": "aerated-resinous-kenyan-tripe-bisque--italian",
-    "title": "Kenyan Kenchetta Bisque",
+    "title": "Kenyan Beef Tripe with Italian Bisque",
     "tags": [
+      "beef",
       "italian",
-      "bisque",
-      "kenyan",
-      "soup",
-      "hearty"
+      "stew",
+      "soup"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 45,
+    "totalTimeMin": 140,
     "shard": "a"
   },
   {
@@ -9246,26 +9245,28 @@
   },
   {
     "slug": "aromatic-anti-inflammatory-egyptian-chicken-tagine--vegan",
-    "title": "Egyptian Vegan Tagine",
+    "title": "Egyptian Chickpea Tagine",
     "tags": [
-      "vegan",
-      "north african",
-      "stew"
+      "north-african",
+      "chickpea",
+      "stew",
+      "vegan"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
     "slug": "aerated-resinous-kenyan-tripe-bisque--vegetarian",
-    "title": "Kenyan Vegetable Stew",
+    "title": "Kenyan Bisque Soup",
     "tags": [
       "kenyan",
-      "stew",
+      "bisque",
+      "african",
       "vegetarian"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 45,
+    "cuisine": "African",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -9593,6 +9594,169 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-croatian-burger-buns-burger--indian",
+    "title": "Croatian Burger Buns",
+    "tags": [
+      "indian",
+      "buns",
+      "croation",
+      "bread"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-resinous-kenyan-tripe-bisque--chinese",
+    "title": "Kenyan Beef Tripe Stew",
+    "tags": [
+      "chinese",
+      "beef",
+      "stew"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 110,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-croatian-burger-buns-burger--mexican",
+    "title": "Mexican Sliders",
+    "tags": [
+      "mexican",
+      "sliders",
+      "cheese",
+      "slaw"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-croatian-burger-buns-burger--keto",
+    "title": "Croatian Keto Burger",
+    "tags": [
+      "burger",
+      "keto",
+      "low-carb"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 27,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-croatian-burger-buns-burger--chinese",
+    "title": "Croatian Burger Buns with Aerated Twist",
+    "tags": [
+      "burger",
+      "buns",
+      "chinese"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-croatian-burger-buns-burger--vegan",
+    "title": "Vegan Croati Burger",
+    "tags": [
+      "vegan",
+      "croatian",
+      "burger"
+    ],
+    "cuisine": "Croatian",
+    "totalTimeMin": 23,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-croatian-burger-buns-burger--vegetarian",
+    "title": "Croatian Burger",
+    "tags": [
+      "croatian-burger",
+      "vegetarian-burger"
+    ],
+    "cuisine": "vegetarian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-croatian-burger-buns-burger--italian",
+    "title": "Italian Burger Buns",
+    "tags": [
+      "italian",
+      "bread",
+      "buns"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-croatian-burger-buns-burger--japanese",
+    "title": "Tonkatsu Burger",
+    "tags": [
+      "tonkatsu",
+      "japanese",
+      "burger",
+      "tonkatsu-burger"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 32,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-anti-inflammatory-egyptian-chicken-tagine--french",
+    "title": "Classic Chicken Tagine",
+    "tags": [
+      "french",
+      "north-african",
+      "chicken",
+      "tagine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-anti-inflammatory-egyptian-chicken-tagine--keto",
+    "title": "Egyptian Chicken Tagine",
+    "tags": [
+      "north-african",
+      "chicken",
+      "tagine",
+      "keto"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-winey-korean-hazelnut-jjigae--vegetarian",
+    "title": "Korean-Style Hazelnut Vegetable Jjigae",
+    "tags": [
+      "korean",
+      "vegetarian",
+      "stew",
+      "hazelnut"
+    ],
+    "cuisine": "Korean",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-anti-inflammatory-egyptian-chicken-tagine--gluten-free",
+    "title": "Egyptian Chicken Tagine",
+    "tags": [
+      "gluten-free",
+      "chicken",
+      "north-african",
+      "tagine",
+      "aromatic-spices"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 45,
     "shard": "a"
   }
 ]
