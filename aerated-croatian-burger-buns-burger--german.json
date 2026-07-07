@@ -1,0 +1,89 @@
+{
+  "slug": "aerated-croatian-burger-buns-burger--german",
+  "title": "German Bratwurst Burger",
+  "description": "A twist on the classic burger, featuring a German bratwurst sausage sandwiched between a toasted bun, topped with a slice of cheese and sauerkraut.",
+  "cuisine": "german",
+  "diet": [
+    "meat",
+    "beef"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bratwurst sausage",
+      "amount": "4",
+      "notes": "German-style sausage"
+    },
+    {
+      "name": "Buns",
+      "amount": "4",
+      "notes": "Soft German-style buns"
+    },
+    {
+      "name": "Aerated bread",
+      "amount": "1/4 cup",
+      "notes": "Crusty bread for serving"
+    },
+    {
+      "name": "Croatian cheese",
+      "amount": "4 slices",
+      "notes": "Mild, creamy cheese"
+    },
+    {
+      "name": "Sauerkraut",
+      "amount": "1 cup",
+      "notes": "Finely shredded and drained"
+    },
+    {
+      "name": "Burger",
+      "amount": "4",
+      "notes": "Ground beef patties (optional)"
+    },
+    {
+      "name": "Onion",
+      "amount": "1/2 cup",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Cook the bratwurst sausages for 5-7 minutes on each side, until nicely browned and cooked through.",
+    "3. Meanwhile, toast the buns on the grill or in a toaster.",
+    "4. Assemble the burgers by spreading a slice of cheese on the bottom bun, followed by a cooked bratwurst sausage, a spoonful of sauerkraut, and finally the top bun.",
+    "5. Optional: Top with a ground beef patty and a slice of cheese.",
+    "6. Serve immediately, garnished with thinly sliced onion and crusty bread on the side.",
+    "7. Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "bratwurst",
+    "burger",
+    "sausage",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-croatian-burger-buns-burger--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:59:50.434Z"
+}
