@@ -1,0 +1,93 @@
+{
+  "slug": "aerated-resinous-kenyan-tripe-bisque--indian",
+  "title": "Kenyan Tripe Curry",
+  "description": "A spicy and flavorful curry made with tender tripe, Kenyan spices, and a hint of aerated sweetness.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tripe",
+      "amount": "500g",
+      "notes": "cleaned and cut into bite-sized pieces"
+    },
+    {
+      "name": "Kenyan spice blend",
+      "amount": "2 tbsp",
+      "notes": "available at most Indian grocery stores"
+    },
+    {
+      "name": "Aerated vinegar",
+      "amount": "1 tsp",
+      "notes": "adds a subtle tanginess"
+    },
+    {
+      "name": "Resinous turmeric",
+      "amount": "1 tsp",
+      "notes": "grated fresh"
+    },
+    {
+      "name": "Ghee or vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Bisque powder",
+      "amount": "1 tsp",
+      "notes": "optional, for added depth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion, ginger, and garlic. Cook until the onion is lightly browned.",
+    "Add tripe and cook until browned on all sides.",
+    "Add Kenyan spice blend, turmeric, salt, and bisque powder (if using). Cook for 1 minute.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1.5 hours or until tripe is tender.",
+    "Stir in aerated vinegar and cook for an additional 10 minutes.",
+    "Serve hot with rice or roti."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "curry",
+    "indian",
+    "tripe",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 55,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-resinous-kenyan-tripe-bisque--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:00:16.993Z"
+}
