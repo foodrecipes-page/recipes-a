@@ -1,0 +1,92 @@
+{
+  "slug": "aerated-croatian-burger-buns-burger--thai",
+  "title": "Thai Burger",
+  "description": "A flavorful twist on the classic burger, featuring a crispy Thai-style patty and sweet buns.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "minced burger",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "croatian burger",
+      "amount": "100g",
+      "notes": ""
+    },
+    {
+      "name": "buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "aerated",
+      "amount": "100g",
+      "notes": "for serving"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. In a small bowl, mix together fish sauce, brown sugar, garlic powder, black pepper, and salt.",
+    "3. Add the mixture to the minced burger and stir until just combined.",
+    "4. Divide the mixture into 4 equal parts and shape into patties.",
+    "5. Brush the patties with vegetable oil and cook for 4-5 minutes per side, or until cooked through.",
+    "6. Meanwhile, toast the buns on the grill or in a toaster.",
+    "7. Assemble the burgers by spreading a small amount of aerated on the bottom bun, followed by a cooked patty, a few slices of croatian burger, and finally the top bun.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "burger",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-croatian-burger-buns-burger--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:00:19.101Z"
+}
