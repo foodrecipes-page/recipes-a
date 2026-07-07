@@ -1,0 +1,70 @@
+{
+  "slug": "air-fried-crispy-spanish-courgette-stir-fry--indian",
+  "title": "Spiced Courgette Stir Fry",
+  "description": "A quick and easy Indian-inspired dish made with stir-fried courgette and a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Spanish olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Cumin seeds",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Garam masala",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the cumin seeds and let them sizzle for 1-2 seconds.",
+    "Add the courgette and stir-fry for 3-4 minutes, or until tender.",
+    "Add the coriander powder, garam masala, and salt. Stir-fry for 1 minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Transfer to a serving dish and garnish with chopped cilantro.",
+    "Serve hot with naan or rice, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "vegetarian",
+    "quick",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:53:43.917Z"
+}
