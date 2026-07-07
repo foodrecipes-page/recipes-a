@@ -1,0 +1,93 @@
+{
+  "slug": "aerated-croatian-burger-buns-burger--french",
+  "title": "Croque Monsieur Burger",
+  "description": "A French twist on the classic burger, featuring a crispy croatian-style patty and melted cheese.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Burger buns",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Croque burger patty (mix of burger and aerated)",
+      "amount": "1 kg",
+      "notes": "Season with salt and pepper to taste"
+    },
+    {
+      "name": "Gruyère cheese",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "Butter",
+      "amount": "50g",
+      "notes": null
+    },
+    {
+      "name": "Ham",
+      "amount": "100g",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": null
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "100g",
+      "notes": null
+    },
+    {
+      "name": "Mustard",
+      "amount": "50g",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Butter one side of each bun.",
+    "Cook the burger patty in the pan, approximately 4-5 minutes per side.",
+    "Meanwhile, toast the buns in the oven at 180°C for 5 minutes.",
+    "Assemble the burger by spreading mayonnaise on the bottom bun, followed by a lettuce leaf, a tomato slice, a few slices of ham, the cheese, and finally the burger patty.",
+    "Top with the top bun.",
+    "Cook for an additional 2-3 minutes, until the cheese is melted and the bun is crispy.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "burger",
+    "gruyere",
+    "croque-monsieur"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-croatian-burger-buns-burger--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:00:51.017Z"
+}
