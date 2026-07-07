@@ -1,0 +1,71 @@
+{
+  "slug": "aromatic-syrian-cannellini-beans-stew--french",
+  "title": "French Cannellini Bean Stew",
+  "description": "A hearty and flavorful French-inspired stew made with cannellini beans, aromatic vegetables, and a hint of Syrian spices.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "cannellini beans",
+      "amount": "1 cup, drained and rinsed"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks, chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat a large pot over medium heat.",
+    "Add the chopped onion, carrots, and celery. Cook until the vegetables are tender, about 5 minutes.",
+    "Add the Syrian spices and cook for 1 minute, until fragrant.",
+    "Add the cannellini beans, stew, and chopped aromatic. Stir to combine.",
+    "Bring the stew to a simmer and cook for 20-25 minutes, until the flavors have melded together and the vegetables are tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or thyme."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bean-stew",
+    "french-cuisine",
+    "vegetarian-options",
+    "gluten-free-options"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 45,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-syrian-cannellini-beans-stew--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T12:35:27.286Z"
+}
