@@ -1,0 +1,84 @@
+{
+  "slug": "aerated-winey-korean-hazelnut-jjigae--vegan",
+  "title": "Korean-Style Hazelnut Jjigae Stew",
+  "description": "A vegan twist on the classic Korean jjigae stew, featuring hazelnuts and a rich, aromatic broth.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Mushrooms",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Korean chili flakes (gochugaru)",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce (make sure it's vegan)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Winey white wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Aerated tofu",
+      "amount": "1 block",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the wine in a large pan over medium heat.",
+    "Add the gochujang and cook for 1 minute, stirring constantly.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the hazelnuts, gochugaru, soy sauce, and water. Stir to combine.",
+    "Add the aerated tofu and stir to combine.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, or until the flavors have melded together.",
+    "Season with additional soy sauce or gochujang to taste.",
+    "Serve hot, garnished with additional hazelnuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "stew",
+    "vegan",
+    "hazelnut",
+    "jjigae"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-winey-korean-hazelnut-jjigae--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:57:24.735Z"
+}
