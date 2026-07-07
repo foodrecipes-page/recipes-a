@@ -1,0 +1,78 @@
+{
+  "slug": "air-fried-crispy-spanish-courgette-stir-fry--vegetarian",
+  "title": "Spanish Courgette Stir Fry",
+  "description": "A light and flavorful vegetarian dish from Spain, featuring courgette, crispy fried elements, and a hint of Spanish flair.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": "2 medium"
+    },
+    {
+      "name": "Fried Crispy",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "Smoked Paprika",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "Lemon",
+      "amount": "1, juiced"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the crushed fried crispy and cook for 2 minutes, stirring constantly.",
+    "Add the garlic and cook for 1 minute, until fragrant.",
+    "Add the courgette and cook for 5 minutes, until tender.",
+    "Sprinkle the smoked paprika, salt, and black pepper over the courgette and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the flavors have melded together.",
+    "Serve the courgette mixture hot, garnished with chopped cilantro and a squeeze of lemon juice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "spanish",
+    "vegetarian",
+    "stir-fry",
+    "courgette"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:55:46.386Z"
+}
