@@ -1,0 +1,80 @@
+{
+  "slug": "aerated-croatian-burger-buns-burger--mexican",
+  "title": "Mexican Sliders",
+  "description": "A classic Mexican-inspired twist on the traditional burger, topped with a tangy slaw and melted cheese.",
+  "cuisine": "mexican",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground beef",
+      "amount": "500g",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "Bun",
+      "amount": "4",
+      "notes": "Soft, slightly sweet buns"
+    },
+    {
+      "name": "Aerated cheese",
+      "amount": "250g",
+      "notes": "Shredded, white cheese"
+    },
+    {
+      "name": "Croatian slaw",
+      "amount": "250g",
+      "notes": "Spicy, tangy slaw made with shredded cabbage and carrots"
+    },
+    {
+      "name": "Burger",
+      "amount": "2",
+      "notes": "Juicy burger patties"
+    },
+    {
+      "name": "Salsa",
+      "amount": "100g",
+      "notes": "Fresh, spicy salsa made with diced tomatoes, onions, and jalapenos"
+    },
+    {
+      "name": "Lettuce",
+      "amount": "1 head",
+      "notes": "Fresh, crisp lettuce leaves"
+    },
+    {
+      "name": "Tortilla",
+      "amount": "2",
+      "notes": "Soft, pliable tortillas for wrapping"
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium-high heat.",
+    "Form the ground beef into 4 patties, about 1 inch thick.",
+    "Season the patties with salt and pepper.",
+    "Grill the patties for 4-5 minutes per side, or until cooked to your desired level of doneness.",
+    "Meanwhile, toast the buns on the grill or in a toaster.",
+    "Build the sliders by spreading a layer of salsa on the bottom bun, followed by a cooked patty, a slice of cheese, a spoonful of slaw, and finally the top bun.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "sliders",
+    "cheese",
+    "slaw"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-croatian-burger-buns-burger--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:01:28.585Z"
+}
