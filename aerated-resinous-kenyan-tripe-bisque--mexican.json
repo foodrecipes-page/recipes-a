@@ -1,90 +1,82 @@
 {
   "slug": "aerated-resinous-kenyan-tripe-bisque--mexican",
-  "title": "Kenyan Beef Tripe Tacos",
-  "description": "A unique fusion of Kenyan and Mexican flavors in this hearty beef tripe taco recipe. The tripe is slow-cooked in a rich, resinous tomato-based sauce.",
+  "title": "Tripe Tacos with Kenyan-Style Salsa",
+  "description": "A twist on traditional Mexican tripe tacos, featuring a unique Kenyan-style salsa to add a burst of flavor. This recipe brings together the rich flavors of Mexico and the spice of Kenya.",
   "cuisine": "mexican",
   "diet": [
-    "beef",
+    "meat",
     "gluten-free"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "beef tripe",
+      "name": "Tripe",
       "amount": "1 pound",
-      "notes": "cleaned and cut into bite-sized pieces"
+      "notes": "cleaned and cut into small pieces"
     },
     {
-      "name": "onion",
-      "amount": "1 medium",
-      "notes": "chopped"
+      "name": "Kenyan-Style Salsa",
+      "amount": "1 cup",
+      "notes": "see below for ingredients and preparation"
     },
     {
-      "name": "garlic",
+      "name": "Cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
       "amount": "3 cloves",
       "notes": "minced"
     },
     {
-      "name": "tomato bisque",
-      "amount": "1 cup",
-      "notes": "canned or homemade"
-    },
-    {
-      "name": "chipotle peppers in adobo sauce",
-      "amount": "2-3",
-      "notes": "depending on desired level of heat"
-    },
-    {
-      "name": "cumin",
-      "amount": "1 teaspoon",
-      "notes": "ground"
-    },
-    {
-      "name": "coriander",
-      "amount": "1 teaspoon",
-      "notes": "ground"
-    },
-    {
-      "name": "lime juice",
+      "name": "Lime juice",
       "amount": "2 tablespoons",
-      "notes": "freshly squeezed"
+      "notes": null
     },
     {
-      "name": "aerated water",
-      "amount": "1 cup",
-      "notes": "for thinning the sauce"
+      "name": "Aerated water",
+      "amount": "1/4 cup",
+      "notes": null
     }
   ],
   "instructions": [
-    "Heat oil in a large Dutch oven over medium-high heat.",
-    "Add the tripe and cook until browned, about 5 minutes.",
-    "Add the onion and garlic and cook until the onion is translucent, about 5 minutes.",
-    "Add the cumin, coriander, and chipotle peppers and cook for 1 minute.",
-    "Add the tomato bisque, lime juice, and aerated water. Bring to a simmer.",
-    "Reduce heat to low and cook, covered, until the tripe is tender, about 2 hours.",
-    "Shred the tripe with two forks and season with salt and pepper to taste.",
+    "In a large Dutch oven, combine tripe, cumin, chili powder, and paprika. Cook over medium heat, stirring occasionally, until the tripe is browned.",
+    "Add garlic, lime juice, and aerated water to the pot. Bring to a boil, then reduce the heat to low and simmer for 1 hour.",
+    "While the tripe is cooking, prepare the Kenyan-style salsa. See below for ingredients and preparation.",
+    "Once the tripe is cooked, shred it into small pieces and season with salt to taste.",
     "Warm tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
-    "Assemble the tacos by placing a portion of the tripe mixture onto a tortilla and topping with your desired toppings."
+    "Assemble the tacos by placing a portion of the shredded tripe onto a tortilla, followed by a spoonful of Kenyan-style salsa.",
+    "Serve immediately and enjoy!"
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 120,
-  "totalTimeMin": 140,
+  "cookTimeMin": 60,
+  "totalTimeMin": 80,
   "servings": 4,
-  "difficulty": "hard",
+  "difficulty": "medium",
   "tags": [
-    "beef",
     "mexican",
     "tacos",
-    "slow-cooker"
+    "tripecuisine"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 35,
+    "calories": 350,
+    "protein": 30,
     "carbs": 20,
-    "fat": 25
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/aerated-resinous-kenyan-tripe-bisque--mexican",
   "providerUsed": "groq",
-  "createdAt": "2026-07-03T06:23:10.670Z"
+  "createdAt": "2026-07-05T07:00:53.574Z"
 }
