@@ -1,0 +1,93 @@
+{
+  "slug": "airy-japanese-chicken-tendon-bake",
+  "title": "Japanese Chicken Teriyaki Bites",
+  "description": "Crispy baked chicken bites in a sweet and savory Japanese-inspired teriyaki sauce.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound, cut into 1-inch pieces"
+    },
+    {
+      "name": "1/2 cup all-purpose flour",
+      "amount": "1/2 cup",
+      "notes": "gluten-free flour substitute recommended"
+    },
+    {
+      "name": "1 cup panko breadcrumbs",
+      "amount": "1 cup"
+    },
+    {
+      "name": "2 large eggs",
+      "amount": "2 eggs"
+    },
+    {
+      "name": "1/4 cup vegetable oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1/4 cup teriyaki sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "1 tablespoon soy sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "1 tablespoon honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "1 teaspoon grated ginger",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "1/4 teaspoon black pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "In a shallow dish, mix together flour, a pinch of salt, and a pinch of pepper.",
+    "In a separate dish, beat the eggs.",
+    "In a third dish, mix together panko breadcrumbs and a pinch of salt.",
+    "Dip each piece of chicken into the flour mixture, shaking off excess.",
+    "Dip the floured chicken into the eggs, making sure they're fully coated.",
+    "Finally, roll the egg-coated chicken in the panko breadcrumbs, pressing the crumbs gently onto the chicken to help them stick.",
+    "Place the breaded chicken on a baking sheet lined with parchment paper.",
+    "Drizzle with vegetable oil and toss to coat.",
+    "Bake for 20-25 minutes, or until the chicken is cooked through and the breadcrumbs are golden brown.",
+    "While the chicken is baking, mix together teriyaki sauce, soy sauce, honey, and grated ginger in a small saucepan.",
+    "Bring the sauce to a simmer over medium heat and cook until slightly thickened.",
+    "Once the chicken is done, toss it in the teriyaki sauce until the chicken is fully coated.",
+    "Serve hot and enjoy!",
+    "Optional: Serve with steamed vegetables or a side salad."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chicken",
+    "japanese",
+    "snack",
+    "easy",
+    "kid-friendly"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-japanese-chicken-tendon-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:00:29.625Z"
+}
