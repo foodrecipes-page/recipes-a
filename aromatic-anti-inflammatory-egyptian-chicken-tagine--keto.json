@@ -1,0 +1,75 @@
+{
+  "slug": "aromatic-anti-inflammatory-egyptian-chicken-tagine--keto",
+  "title": "Egyptian Chicken Tagine",
+  "description": "A classic North African dish made with chicken, aromatic spices, and a flavorful tagine sauce, perfect for a keto diet.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "4",
+      "notes": "bone-in"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": "ground ginger, ground cumin, ground coriander"
+    },
+    {
+      "name": "egyptian spices",
+      "amount": "2 teaspoons",
+      "notes": "paprika, cayenne pepper, cinnamon"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-carb"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": "low-carb"
+    },
+    {
+      "name": "tagine",
+      "amount": "2 tablespoons",
+      "notes": "ground spices, typically includes cinnamon, ginger, coriander, and cumin"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken thighs with salt and pepper.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat.",
+    "Sear the chicken thighs until browned on both sides. Remove from heat and set aside.",
+    "Add the aromatic spices to the pot and cook for 1 minute, stirring constantly.",
+    "Add the egyptian spices, chicken broth, and tomato paste to the pot. Stir to combine.",
+    "Return the chicken thighs to the pot and bring to a simmer.",
+    "Transfer the pot to the preheated oven and cook for 30 minutes.",
+    "While the chicken is cooking, prepare the tagine sauce. In a small bowl, mix together the tagine spices and a pinch of salt.",
+    "Remove the pot from the oven and stir in the tagine sauce.",
+    "Serve the chicken thighs with the tagine sauce spooned over the top."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "chicken",
+    "tagine",
+    "keto"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-anti-inflammatory-egyptian-chicken-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:08:56.978Z"
+}
