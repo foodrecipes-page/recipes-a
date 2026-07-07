@@ -1,0 +1,71 @@
+{
+  "slug": "air-fried-crispy-spanish-courgette-stir-fry--vegan",
+  "title": "Crispy Spanish Fried Courgette",
+  "description": "A crunchy and flavorful vegan dish made with courgette and a Spanish twist. Perfect as a side or main course.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": "2 medium-sized"
+    },
+    {
+      "name": "Vegan oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Chili powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. Slice the courgette into 1/4 inch thick rounds.",
+    "2. In a shallow dish, mix together the oil, salt, smoked paprika, garlic powder, and chili powder.",
+    "3. Add the courgette slices to the dish and toss to coat evenly.",
+    "4. Heat a non-stick pan over medium-high heat and add the courgette slices.",
+    "5. Cook for 3-4 minutes per side, until crispy and golden brown.",
+    "6. Remove the courgette from the pan and place on a paper towel-lined plate.",
+    "7. Squeeze the lemon juice over the courgette and serve hot.",
+    "8. Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "spanish",
+    "snack",
+    "courgette"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 3,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:56:08.628Z"
+}
