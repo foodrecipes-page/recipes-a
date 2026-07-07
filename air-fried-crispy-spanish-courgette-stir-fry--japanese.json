@@ -1,0 +1,65 @@
+{
+  "slug": "air-fried-crispy-spanish-courgette-stir-fry--japanese",
+  "title": "Japanese Crispy Courgette Stir Fry",
+  "description": "A simple and flavorful Japanese dish, perfect for a quick lunch or dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Courgette",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon grated",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add ginger and cook for 1 minute.",
+    "Add courgette and cook for 3-4 minutes, or until tender.",
+    "In a small bowl, whisk together soy sauce and sesame oil.",
+    "Pour the sauce over the courgette and stir-fry for an additional 1-2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "japanese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 80,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:57:49.838Z"
+}
