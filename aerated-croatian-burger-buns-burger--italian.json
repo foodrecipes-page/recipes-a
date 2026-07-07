@@ -1,0 +1,85 @@
+{
+  "slug": "aerated-croatian-burger-buns-burger--italian",
+  "title": "Italian Burger Buns",
+  "description": "A classic Italian twist on the traditional burger bun, made with a light and airy texture.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Yeast",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Warm water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Flour",
+      "amount": "3 cups"
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Croatian bread crumb",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Aerated flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Burger buns",
+      "amount": "4"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine yeast, warm water, salt, sugar, and Italian seasoning.",
+    "2. Add flour, one cup at a time, mixing until a dough forms.",
+    "3. Knead the dough for 10 minutes until smooth.",
+    "4. Place the dough in a greased bowl and let it rise in a warm place for 1 hour.",
+    "5. Preheat the oven to 375°F (190°C).",
+    "6. Punch down the dough and divide it into 4 equal parts.",
+    "7. Roll each part into a ball and then flatten it slightly into a disk.",
+    "8. Place the disks on a baking sheet lined with parchment paper, leaving space between each bun.",
+    "9. Brush the tops with olive oil and sprinkle with Croatian bread crumb.",
+    "10. Bake for 15-20 minutes or until golden brown.",
+    "11. Let the buns cool on a wire rack before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "bread",
+    "buns"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-croatian-burger-buns-burger--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:04:33.565Z"
+}
