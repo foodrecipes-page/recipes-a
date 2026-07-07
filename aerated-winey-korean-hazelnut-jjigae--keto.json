@@ -1,0 +1,83 @@
+{
+  "slug": "aerated-winey-korean-hazelnut-jjigae--keto",
+  "title": "Korean Jjigae Stuffed Hazelnut Chicken Breast",
+  "description": "A keto-friendly twist on traditional Korean jjigae, featuring chicken breast stuffed with a hazelnut-based filling and served with a side of aerated kimchi.",
+  "cuisine": "Korean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "4 lbs",
+      "notes": ""
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Korean chili flakes",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Gochujang",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Aerated kimchi",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a food processor, combine hazelnuts, Korean chili flakes, and gochujang. Process until well combined.",
+    "Stuff each chicken breast with the hazelnut mixture.",
+    "Season the chicken with salt and black pepper.",
+    "Heat sesame oil in an oven-safe skillet over medium-high heat.",
+    "Sear the chicken breasts until browned, about 2-3 minutes per side.",
+    "Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the chicken is cooked through.",
+    "Serve with a side of aerated kimchi."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "korean",
+    "keto",
+    "chicken",
+    "hazelnut"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-winey-korean-hazelnut-jjigae--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:55:40.990Z"
+}
