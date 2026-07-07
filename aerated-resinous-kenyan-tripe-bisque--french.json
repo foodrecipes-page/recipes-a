@@ -1,0 +1,87 @@
+{
+  "slug": "aerated-resinous-kenyan-tripe-bisque--french",
+  "title": "Pan-Seared Kenyan Tripe with Resinous Broth",
+  "description": "A French-inspired dish featuring pan-seared Kenyan tripe served in a rich, resinous broth.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kenyan Tripe",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Resinous Olive Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Bisque",
+      "amount": "1 can",
+      "notes": ""
+    },
+    {
+      "name": "Aerated White Wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "1 sprig",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Rinse the Kenyan tripe under cold water, then pat dry with paper towels.",
+    "2. Season the tripe with salt and black pepper.",
+    "3. Heat the Resinous olive oil in a large skillet over medium-high heat.",
+    "4. Sear the tripe for 2-3 minutes on each side, then set aside.",
+    "5. Reduce heat to medium and sauté the onion and garlic until softened.",
+    "6. Add the Bisque and Aerated White Wine, stirring to combine.",
+    "7. Return the tripe to the skillet and simmer for 10 minutes.",
+    "8. Add the Fresh Thyme and continue to simmer for an additional 5 minutes.",
+    "9. Serve the pan-seared Kenyan tripe in the rich, resinous broth."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "tripe",
+    "resinous",
+    "kenyan"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 15,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-resinous-kenyan-tripe-bisque--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:59:48.458Z"
+}
