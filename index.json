@@ -1857,17 +1857,16 @@
   },
   {
     "slug": "airy-japanese-chicken-tendon-bake",
-    "title": "Airy Japanese Chicken Tendon Bake",
+    "title": "Japanese Chicken Teriyaki Bites",
     "tags": [
-      "bake",
+      "chicken",
       "japanese",
-      "low-carb",
-      "one-pot",
-      "scallop-shell",
-      "shortcrust"
+      "snack",
+      "easy",
+      "kid-friendly"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -5945,17 +5944,14 @@
   },
   {
     "slug": "aromatic-silky-filipino-bread-toast",
-    "title": "Aromatic Silky Filipino Bread Toast",
+    "title": "Filipino Toasted Bread with Garlic Aioli",
     "tags": [
-      "bananaleaf",
-      "comfort",
-      "easy",
-      "flavorful",
-      "mediterranean",
+      "filipino",
+      "appetizer",
       "snack"
     ],
     "cuisine": "Filipino",
-    "totalTimeMin": 15,
+    "totalTimeMin": 20,
     "shard": "a"
   },
   {
