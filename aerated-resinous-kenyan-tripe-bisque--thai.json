@@ -1,0 +1,84 @@
+{
+  "slug": "aerated-resinous-kenyan-tripe-bisque--thai",
+  "title": "Tripe and Kenyan Sausage Thai Soup",
+  "description": "A flavorful and spicy Thai soup made with tripe and Kenyan sausage. The aerated and resinous elements add depth to the dish.",
+  "cuisine": "thai",
+  "diet": [
+    "pork",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Kenyan sausage",
+      "amount": "1 pound",
+      "notes": " sliced"
+    },
+    {
+      "name": "Tripe",
+      "amount": "1 pound",
+      "notes": " cleaned and sliced"
+    },
+    {
+      "name": "Aerated coconut milk",
+      "amount": "1 can",
+      "notes": " full-fat"
+    },
+    {
+      "name": "Resinous lemongrass",
+      "amount": "2 stalks",
+      "notes": " bruised"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": " for frying"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": " diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": " minced"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "2 tablespoons",
+      "notes": " for flavor"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the Kenyan sausage and cook until browned, about 2-3 minutes.",
+    "Add the tripe and cook until browned, about 2-3 minutes.",
+    "Add the lemongrass, onion, and garlic, and cook until the onion is translucent.",
+    "Pour in the coconut milk and fish sauce, and bring to a boil.",
+    "Reduce the heat to low and simmer for 10-15 minutes, or until the tripe is tender.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "soup",
+    "spicy",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-resinous-kenyan-tripe-bisque--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:59:40.941Z"
+}
