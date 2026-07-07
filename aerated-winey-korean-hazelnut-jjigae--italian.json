@@ -1,0 +1,85 @@
+{
+  "slug": "aerated-winey-korean-hazelnut-jjigae--italian",
+  "title": "Hazelnut Jjigae Risotto",
+  "description": "An Italian-inspired risotto dish infused with the nutty flavors of hazelnut and the bold spices of Korean jjigae.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arborio rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Hazelnut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Korean chili paste (gochujang)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "White wine",
+      "amount": "1/2 cup",
+      "notes": "dry"
+    },
+    {
+      "name": "Vegetable broth",
+      "amount": "4 cups",
+      "notes": "warmed"
+    }
+  ],
+  "instructions": [
+    "Heat the hazelnut oil in a large skillet over medium heat.",
+    "Add the chopped onion and sauté until translucent.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Arborio rice and cook for 1-2 minutes, stirring constantly.",
+    "Add the white wine and cook until absorbed.",
+    "Add 1 cup of warmed vegetable broth and stir until absorbed. Repeat this process until all the broth is used.",
+    "Stir in the Korean chili paste and chopped hazelnuts.",
+    "Season with salt and pepper to taste.",
+    "Serve immediately and garnish with additional chopped hazelnuts if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "hazelnut",
+    "korean",
+    "risotto",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-winey-korean-hazelnut-jjigae--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:58:49.964Z"
+}
