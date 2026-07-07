@@ -1,0 +1,75 @@
+{
+  "slug": "aromatic-uruguayan-rhubarb-pie",
+  "title": "Uruguayan Rhubarb Pie",
+  "description": "A classic Uruguayan dessert featuring a sweet and tangy rhubarb filling, wrapped in a flaky pie crust.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "1 1/2 cups, cut into 1-inch pieces"
+    },
+    {
+      "name": "Aromatic Pie Crust",
+      "amount": "1 (9-inch) pie crust"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ground Cinnamon",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Roll out the pie crust to a thickness of about 1/8 inch and place it into a 9-inch pie dish.",
+    "In a large bowl, combine the rhubarb, granulated sugar, brown sugar, flour, cinnamon, and salt. Let it sit for about 15 minutes, until the rhubarb starts to release its juices.",
+    "Pour the rhubarb mixture into the pie crust and dot the top with the melted butter.",
+    "Roll out the remaining pie crust to a thickness of about 1/8 inch and use it to cover the pie. Crimp the edges to seal the pie.",
+    "Cut a few slits in the top crust to allow steam to escape during baking.",
+    "Bake the pie for 40-50 minutes, or until the crust is golden brown and the filling is bubbly.",
+    "Let the pie cool on a wire rack for at least 30 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "rhubarb",
+    "pie",
+    "dessert",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 2,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-uruguayan-rhubarb-pie",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T03:35:46.180Z"
+}
