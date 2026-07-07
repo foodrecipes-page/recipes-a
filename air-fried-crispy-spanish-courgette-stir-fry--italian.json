@@ -1,0 +1,55 @@
+{
+  "slug": "air-fried-crispy-spanish-courgette-stir-fry--italian",
+  "title": "Crispy Courgette Fries",
+  "description": "A crispy and delicious Italian-inspired snack made with courgette. Serve hot and enjoy!",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "courgette",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "spanish",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "fried",
+      "amount": "1 cup",
+      "notes": "olive oil for frying"
+    }
+  ],
+  "instructions": [
+    "Cut the courgette into long, thin strips.",
+    "In a shallow dish, mix together the flour and a pinch of salt.",
+    "Dredge the courgette strips in the flour mixture, shaking off excess.",
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Fry the courgette strips in batches until golden and crispy, about 3-4 minutes per batch.",
+    "Drain the courgette strips on paper towels.",
+    "Serve the crispy courgette fries hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "snack",
+    "fries",
+    "courgette"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:57:28.356Z"
+}
