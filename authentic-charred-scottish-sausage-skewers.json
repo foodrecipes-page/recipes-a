@@ -1,0 +1,82 @@
+{
+  "slug": "authentic-charred-scottish-sausage-skewers",
+  "title": "Scottish Sausage Skewers",
+  "description": "A flavorful and easy-to-make dish featuring Scottish sausage and charred vegetables.",
+  "cuisine": "Scottish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Scottish sausage",
+      "amount": "12 oz (340g)",
+      "notes": "preferably with haggis or black pudding"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": "cherry or grape"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "soaked in water for 30 minutes"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Thread sausage and vegetables onto skewers.",
+    "3. Brush skewers with olive oil.",
+    "4. Season with salt and pepper to taste.",
+    "5. Grill skewers for 10-12 minutes, turning occasionally.",
+    "6. Cook sausage to an internal temperature of 160°F (71°C).",
+    "7. Let skewers rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "scottish",
+    "sausages",
+    "skewers",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/authentic-charred-scottish-sausage-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T15:58:16.818Z"
+}
