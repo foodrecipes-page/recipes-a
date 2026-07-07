@@ -1,0 +1,85 @@
+{
+  "slug": "aerated-resinous-kenyan-tripe-bisque--german",
+  "title": "Sauerbraten mit Kenyan Biskuit",
+  "description": "A twist on the classic German pot roast, made with Kenyan spices and served with a crunchy biskuit crust. This dish is hearty and flavorful, perfect for a cold winter evening.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef pot roast",
+      "amount": "1.5 kg"
+    },
+    {
+      "name": "Kenyan bisque",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "resinous honey",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "aerated flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "tripe",
+      "amount": "1 cup"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "Season the beef pot roast with salt, black pepper, and Kenyan bisque.",
+    "Heat the resinous honey in a Dutch oven over medium-high heat.",
+    "Sear the beef pot roast until browned on all sides, then set aside.",
+    "Add the chopped onion and minced garlic to the pot and cook until softened.",
+    "Add the tripe and cook until browned.",
+    "Add the aerated flour and cook for 1 minute.",
+    "Return the beef pot roast to the pot and add enough beef broth to cover.",
+    "Cover the pot and transfer to the preheated oven.",
+    "Braise the pot roast for 2 1/2 hours, or until tender.",
+    "Remove the pot from the oven and let rest for 10 minutes before slicing.",
+    "Serve with the Kenyan biskuit crust on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 165,
+  "totalTimeMin": 195,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "sauerbraten",
+    "kenyan",
+    "biskuit",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 820,
+    "protein": 63,
+    "carbs": 24,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-resinous-kenyan-tripe-bisque--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:59:44.758Z"
+}
