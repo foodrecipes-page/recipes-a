@@ -1,0 +1,88 @@
+{
+  "slug": "aerated-croatian-burger-buns-burger--vegan",
+  "title": "Vegan Croati Burger",
+  "description": "A delicious and easy-to-make vegan burger inspired by Croatian cuisine. This patty is made with a mix of sautéed vegetables and is served on a toasted bun.",
+  "cuisine": "Croatian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Croatian Burger Patty Mix (see notes)",
+      "amount": "1/2 cup",
+      "notes": "Mix of sautéed onions, bell peppers, mushrooms, and eggplant"
+    },
+    {
+      "name": "Aerated Buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Mayo",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Lettuce",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "Pickles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegan Cheese Shreds (optional)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": "For binding the patty mix"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large pan, heat 1 tablespoon of olive oil over medium heat.",
+    "Add the sautéed vegetable mix to the pan and stir well.",
+    "Add the water to the pan and stir well to bind the mixture.",
+    "Using your hands, shape the mixture into 4 patties.",
+    "Place the patties in the pan and cook for 4-5 minutes on each side, or until golden brown.",
+    "Meanwhile, toast the aerated buns by grilling them for 2-3 minutes or until lightly browned.",
+    "Assemble the burgers by spreading vegan mayo on the bottom bun, followed by a cooked patty, lettuce, tomato, pickles, and finally the top bun.",
+    "If using, sprinkle vegan cheese shreds on top of the patty.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "croatian",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-croatian-burger-buns-burger--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T07:03:12.569Z"
+}
