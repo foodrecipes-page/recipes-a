@@ -1,0 +1,75 @@
+{
+  "slug": "air-fried-crispy-spanish-courgette-stir-fry--german",
+  "title": "German Courgette Fritters",
+  "description": "A classic German recipe for crispy courgette fritters with a crunchy exterior and a tender interior. This dish is perfect as a side or as a snack.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "courgette",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "milk",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Grate the courgette and set aside.",
+    "In a large bowl, whisk together the flour, eggs, milk, salt, and pepper.",
+    "Add the grated courgette to the bowl and stir until well combined.",
+    "Heat the butter in a large frying pan over medium heat.",
+    "Using a spoon, drop small amounts of the courgette mixture into the pan and flatten slightly.",
+    "Cook for 3-4 minutes on each side, or until golden brown and crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "courgette",
+    "fritters",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-spanish-courgette-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:53:07.482Z"
+}
