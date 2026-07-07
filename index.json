@@ -6878,17 +6878,15 @@
   },
   {
     "slug": "aromatic-uruguayan-rhubarb-pie",
-    "title": "Aromatic Uruguayan Rhubarb Pie",
+    "title": "Uruguayan Rhubarb Pie",
     "tags": [
-      "dessert",
-      "kazan-cauldron",
-      "paleo",
       "rhubarb",
-      "uruguayan",
-      "whole30"
+      "pie",
+      "dessert",
+      "uruguayan"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 75,
+    "totalTimeMin": 60,
     "shard": "a"
   },
   {
