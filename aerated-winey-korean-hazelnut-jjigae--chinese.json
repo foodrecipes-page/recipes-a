@@ -1,0 +1,94 @@
+{
+  "slug": "aerated-winey-korean-hazelnut-jjigae--chinese",
+  "title": "Winey Hazelnut Kung Pao Chicken",
+  "description": "A fusion Chinese dish with the spicy kick of Szechuan peppercorns and the nutty flavor of hazelnuts.",
+  "cuisine": "chinese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breasts",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Winey Korean chili flakes (gochugaru)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Hazelnuts",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "JJigae sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sliced scallions",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Sliced bell peppers",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Cooking oil",
+      "amount": "",
+      "notes": ""
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of cooking oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes. Remove from the wok and set aside.",
+    "Add another tablespoon of oil to the wok and stir-fry the sliced scallions and bell peppers for 2-3 minutes.",
+    "Add the Winey Korean chili flakes and stir-fry for 1 minute.",
+    "Add the JJigae sauce and soy sauce, and stir-fry for 1 minute.",
+    "Return the chicken to the wok and stir-fry for another 2-3 minutes.",
+    "In a small bowl, mix the cornstarch and rice vinegar. Add the mixture to the wok and stir-fry for 1-2 minutes.",
+    "Stir in the hazelnuts and cook for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice.",
+    "Garnish with additional sliced scallions and hazelnuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "spicy",
+    "nuts",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 37,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-winey-korean-hazelnut-jjigae--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T06:56:16.988Z"
+}
