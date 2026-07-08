@@ -1,0 +1,91 @@
+{
+  "slug": "aerated-winey-korean-hazelnut-jjigae--french",
+  "title": "French-Style Wine Beef Stew",
+  "description": "A classic French-inspired beef stew made with tender beef short ribs, rich red wine, and a variety of vegetables in a flavorful broth.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef short ribs",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "onions",
+      "amount": "2 medium",
+      "notes": ""
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": ""
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef short ribs until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "Add more oil if necessary and sauté the carrots, onions, and celery until softened, about 5 minutes.",
+    "Add the red wine, beef broth, tomato paste, thyme, salt, and pepper. Stir to combine.",
+    "Return the beef short ribs to the pot and bring the mixture to a boil.",
+    "Transfer the pot to the oven and braise the stew for 2 1/2 hours, or until the beef is tender.",
+    "Remove from heat and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "stew",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 25,
+    "fat": 36
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-winey-korean-hazelnut-jjigae--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:29:07.910Z"
+}
