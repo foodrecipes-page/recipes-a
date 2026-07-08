@@ -1,0 +1,99 @@
+{
+  "slug": "aromatic-moroccan-pork-tagine",
+  "title": "Moroccan Pork Tagine",
+  "description": "A traditional North African stew originating from the Tagine cooking vessel. This recipe is a flavorful and aromatic dish, perfect for a cold evening.",
+  "cuisine": "North African",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into large chunks"
+    },
+    {
+      "name": "Aromatic",
+      "amount": "1 tablespoon",
+      "notes": "ground cumin"
+    },
+    {
+      "name": "Moroccan",
+      "amount": "2 teaspoons",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Dried apricots",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "2 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "",
+      "notes": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large Tagine or Dutch oven over medium heat.",
+    "Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the cumin, ginger, salt, and pepper. Stir to combine.",
+    "Add the chicken broth, apricots, and chickpeas. Stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "The pork should be tender and the sauce should have thickened. Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "tagine",
+    "moroccan",
+    "pork",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 34,
+    "fat": 31
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-moroccan-pork-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T05:12:27.343Z"
+}
