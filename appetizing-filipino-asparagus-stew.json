@@ -1,0 +1,90 @@
+{
+  "slug": "appetizing-filipino-asparagus-stew",
+  "title": "Filipino Stew with Asparagus",
+  "description": "A flavorful and nutritious stew made with tender asparagus and a hint of Filipino spices. Serve hot over steamed rice for a delicious meal.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "asparagus",
+      "amount": "1 pound",
+      "notes": "fresh and trimmed"
+    },
+    {
+      "name": "stew",
+      "amount": "1 can (14.5 oz)",
+      "notes": "low-sodium and diced tomatoes"
+    },
+    {
+      "name": "appetizing",
+      "amount": "1 tablespoon",
+      "notes": "Filipino seasoning blend"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add chopped onion and sauté until translucent.",
+    "Add minced garlic and cook for another minute.",
+    "Add stew, vegetable broth, coconut milk, appetizing, salt, and black pepper.",
+    "Stir to combine and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 20 minutes.",
+    "Add asparagus and continue to simmer for another 10 minutes.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "asparagus",
+    "filipino",
+    "stew",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/appetizing-filipino-asparagus-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T16:38:50.225Z"
+}
