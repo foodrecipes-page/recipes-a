@@ -1,0 +1,74 @@
+{
+  "slug": "amazingly-crispy-mexican-baby-aubergine-quesadilla",
+  "title": "Mexican Aubergine Quesadillas",
+  "description": "A delicious and easy-to-make Mexican-inspired dish featuring crispy aubergine and melted cheese, wrapped inside a crunchy quesadilla.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "a large aubergine",
+      "amount": "1",
+      "notes": "about 8 inches long"
+    },
+    {
+      "name": "mexican cheese blend",
+      "amount": "1 cup shredded",
+      "notes": ""
+    },
+    {
+      "name": "mexican tortillas",
+      "amount": "4",
+      "notes": "corn or flour"
+    },
+    {
+      "name": "mild salsa",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large pan over medium-high heat.",
+    "2. Slice the aubergine into 1/4-inch thick rounds.",
+    "3. Brush both sides of the aubergine slices with olive oil.",
+    "4. Place the aubergine slices in the pan and cook for 2-3 minutes per side, until crispy.",
+    "5. Meanwhile, warm the tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "6. To assemble the quesadillas, lay a tortilla flat and sprinkle shredded cheese on half of the tortilla.",
+    "7. Add a few slices of crispy aubergine on top of the cheese.",
+    "8. Fold the tortilla in half to enclose the filling.",
+    "9. Cook the quesadilla in the pan for 2-3 minutes on each side, until the cheese is melted and the tortilla is crispy.",
+    "10. Repeat with the remaining tortillas and filling ingredients."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "aubergine",
+    "quesadilla"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 8,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-crispy-mexican-baby-aubergine-quesadilla",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:56:49.359Z"
+}
