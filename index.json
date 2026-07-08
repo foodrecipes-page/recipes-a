@@ -5145,17 +5145,15 @@
   },
   {
     "slug": "aromatic-jamaican-leek-stew",
-    "title": "Aromatic Jamaican Leek Stew",
+    "title": "Jamaican Leek Stew",
     "tags": [
-      "caribbean-inspired",
-      "flavorful-stew",
-      "jamaican-cuisine",
-      "low-sodium",
-      "one-pot",
-      "resinous-dish"
+      "stew",
+      "caribbean-cuisine",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "caribbean",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
