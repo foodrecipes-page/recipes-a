@@ -1,0 +1,69 @@
+{
+  "slug": "ayurvedic-and-tamasic-canadian-beef-free-ground-poppy-seeds-hash",
+  "title": "Beef and Poppy Seed Hash",
+  "description": "A nutritious and flavorful hash dish made with ground beef and topped with crunchy poppy seeds.",
+  "cuisine": "canadian",
+  "diet": [
+    "free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ground beef",
+      "amount": "1 pound",
+      "notes": "85% lean"
+    },
+    {
+      "name": "canadian hash",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "poppy seeds",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large pan, cook the ground beef over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the diced onion and bell pepper to the pan and continue to cook until the vegetables are tender.",
+    "Stir in the Canadian hash and season with salt and black pepper to taste.",
+    "Transfer the mixture to a baking dish and top with poppy seeds.",
+    "Bake in the preheated oven for 15-20 minutes, or until the top is lightly browned and the mixture is heated through.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef-hash",
+    "canadian-breakfast"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ayurvedic-and-tamasic-canadian-beef-free-ground-poppy-seeds-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T06:52:46.684Z"
+}
