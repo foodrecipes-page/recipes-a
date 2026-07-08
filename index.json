@@ -3581,18 +3581,16 @@
   },
   {
     "slug": "appetizing-filipino-asparagus-stew",
-    "title": "Appetizing Filipino Asparagus Stew",
+    "title": "Filipino Stew with Asparagus",
     "tags": [
       "asparagus",
-      "cheese-pull",
       "filipino",
-      "high-protein",
-      "kare-kare",
-      "meal-prep",
-      "ramekin"
+      "stew",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 35,
+    "cuisine": "filipino",
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
