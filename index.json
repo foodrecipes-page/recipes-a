@@ -3226,16 +3226,15 @@
   },
   {
     "slug": "amazingly-grilled-canadian-beef-skewers",
-    "title": "Amazingly Grilled Canadian Beef Skewers",
+    "title": "Canadian Beef Skewers",
     "tags": [
-      "beef-recipes",
-      "canadian-cuisine",
-      "date-night",
-      "fodmap-friendly",
-      "grilled-meats"
+      "beef",
+      "grill",
+      "canadian",
+      "skewers"
     ],
     "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 31,
     "shard": "a"
   },
   {
