@@ -1,0 +1,79 @@
+{
+  "slug": "aromatic-herbal-turkish-fish-kebabs",
+  "title": "Turkish-Style Grilled Fish Kebabs",
+  "description": "A simple and flavorful recipe for grilled fish kebabs with a Turkish twist, served with a side of herbal-infused rice.",
+  "cuisine": "Turkish",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fish (Cod or Tilapia)",
+      "amount": "4 fillets",
+      "notes": "4 oz each"
+    },
+    {
+      "name": "Turkish Spices",
+      "amount": "2 tbsp",
+      "notes": "mix of paprika, cumin, coriander, and sumac"
+    },
+    {
+      "name": "Aromatic Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "infused with garlic, lemon, and herbs"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "Herbal Rice",
+      "amount": "1 cup",
+      "notes": "cooked with herbs and spices"
+    },
+    {
+      "name": "Lemon Wedges",
+      "amount": "4",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Turkish Spices, Salt, and Aromatic Olive Oil.",
+    "Brush the mixture evenly onto both sides of the fish fillets.",
+    "Thread the fish fillets onto skewers, leaving a small space between each piece.",
+    "Grill the fish kebabs for 8-10 minutes per side, or until cooked through.",
+    "Serve the fish kebabs with a side of Herbal Rice and a squeeze of lemon juice.",
+    "Garnish with chopped Fresh Parsley and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebab",
+    "fish",
+    "turkish",
+    "grilled",
+    "healthy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-herbal-turkish-fish-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T00:24:28.598Z"
+}
