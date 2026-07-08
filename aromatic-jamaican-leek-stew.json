@@ -1,0 +1,65 @@
+{
+  "slug": "aromatic-jamaican-leek-stew",
+  "title": "Jamaican Leek Stew",
+  "description": "A flavorful and hearty stew made with Jamaican spices, aromatic vegetables, and tender leeks.",
+  "cuisine": "caribbean",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "jamaican stew seasoning",
+      "amount": "1 tsp",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2",
+      "notes": "sliced"
+    },
+    {
+      "name": "leek",
+      "amount": "3",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil over medium heat in a large pot.",
+    "Add the sliced aromatic and sauté until softened.",
+    "Add the sliced leek and cook until tender.",
+    "Add the chopped onion and cook until translucent.",
+    "Add the Jamaican stew seasoning and stir to combine.",
+    "Pour in enough water to cover the vegetables and bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "caribbean-cuisine",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-jamaican-leek-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T02:07:01.561Z"
+}
