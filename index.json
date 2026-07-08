@@ -3089,18 +3089,14 @@
   },
   {
     "slug": "amazingly-crispy-mexican-baby-aubergine-quesadilla",
-    "title": "Amazingly Crispy Mexican Baby Aubergine Quesadilla",
+    "title": "Mexican Aubergine Quesadillas",
     "tags": [
-      "cheesy",
-      "crispy",
-      "fodmap-friendly",
-      "gluten-free",
       "mexican",
-      "one-pan",
-      "weeknight"
+      "aubergine",
+      "quesadilla"
     ],
-    "cuisine": "Mexican",
-    "totalTimeMin": 45,
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -3314,17 +3310,15 @@
   },
   {
     "slug": "amazingly-smoky-jamaican-duck-confit",
-    "title": "Amazingly Smoky Jamaican Duck Confit",
+    "title": "Smoky Jamaican Duck Confit",
     "tags": [
-      "confit-technique",
-      "duck-recipes",
-      "jamaican-cuisine",
-      "smoky-flavors",
-      "special-occasion",
-      "sugar-free"
+      "jamaican",
+      "caribbean",
+      "confit",
+      "duck"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 170,
+    "cuisine": "Caribbean",
+    "totalTimeMin": 165,
     "shard": "a"
   },
   {
