@@ -5489,17 +5489,15 @@
   },
   {
     "slug": "aromatic-moroccan-pork-tagine",
-    "title": "Aromatic Moroccan Pork Tagine",
+    "title": "Moroccan Pork Tagine",
     "tags": [
-      "comfort-food",
-      "corn-husk-wrap",
+      "tagine",
       "moroccan",
       "pork",
-      "spicy",
-      "tagine"
+      "aromatic"
     ],
-    "cuisine": "Moroccan",
-    "totalTimeMin": 135,
+    "cuisine": "North African",
+    "totalTimeMin": 110,
     "shard": "a"
   },
   {
