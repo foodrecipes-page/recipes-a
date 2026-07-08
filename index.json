@@ -3437,13 +3437,15 @@
   },
   {
     "slug": "amber-korean-scallion-stir-fry",
-    "title": "Amber Korean Scallion Stir‑fry",
+    "title": "Korean Stir Fry with Amber and Scallion",
     "tags": [
       "korean",
-      "dinner"
+      "stir-fry",
+      "tofu",
+      "vegan"
     ],
     "cuisine": "Korean",
-    "totalTimeMin": 40,
+    "totalTimeMin": 20,
     "shard": "a"
   },
   {
