@@ -1,0 +1,76 @@
+{
+  "slug": "airy-light-japanese-fish-sushi",
+  "title": "Light Japanese Sushi Rolls",
+  "description": "A simple recipe for a low-calorie Japanese sushi rolls using sushi rice, cucumber, and salmon. Perfect for a light meal or snack.",
+  "cuisine": "Japanese",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "sushi rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "salmon fillet",
+      "amount": "6 oz",
+      "notes": "wild-caught"
+    },
+    {
+      "name": "sushi vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    }
+  ],
+  "instructions": [
+    "Rinse the sushi rice and cook according to package instructions.",
+    "Prepare the sushi vinegar by mixing soy sauce and sesame seeds in a small bowl.",
+    "Cut the cucumber into thin slices.",
+    "Cut the salmon fillet into thin strips.",
+    "Lay a sushi mat flat and place a sheet of nori seaweed on it.",
+    "Spread a thin layer of sushi rice onto the nori seaweed.",
+    "Place the cucumber and salmon slices onto the sushi rice.",
+    "Roll the sushi using the sushi mat.",
+    "Repeat the process until all ingredients are used.",
+    "Cut the sushi rolls into individual pieces.",
+    "Serve with soy sauce and wasabi paste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "light",
+    "japanese",
+    "sushi",
+    "fish"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-light-japanese-fish-sushi",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T07:36:38.375Z"
+}
