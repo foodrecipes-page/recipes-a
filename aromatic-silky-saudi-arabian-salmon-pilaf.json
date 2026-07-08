@@ -1,0 +1,80 @@
+{
+  "slug": "aromatic-silky-saudi-arabian-salmon-pilaf",
+  "title": "Saudi Arabian Salmon Pilaf",
+  "description": "A flavorful and aromatic dish from the Middle East, featuring succulent salmon and a fragrant pilaf.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free",
+    "fish"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "salmon fillets",
+      "amount": "2",
+      "notes": "6 oz each"
+    },
+    {
+      "name": "aromatic rice",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "saudi pilaf spice blend",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "arabian saffron threads",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "silky dates",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add salmon fillets and cook for 3-4 minutes per side, or until cooked through.",
+    "Transfer salmon to a plate and cover with foil to keep warm.",
+    "Add more oil to the skillet if necessary, then add pilaf spice blend and cook for 1 minute.",
+    "Add rice to the skillet and cook for 2-3 minutes, stirring constantly, until lightly toasted.",
+    "Add water to the skillet and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes, or until rice is tender and liquid is absorbed.",
+    "Stir in saffron threads and cook for 1 minute.",
+    "Fluff pilaf with a fork and stir in chopped dates.",
+    "Serve salmon on top of pilaf and garnish with additional dates if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "salmon",
+    "pilaf",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-silky-saudi-arabian-salmon-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T22:44:43.876Z"
+}
