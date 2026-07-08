@@ -2700,17 +2700,16 @@
   },
   {
     "slug": "amazing-smoky-australian-soya-bean-wrap",
-    "title": "Amazing Smoky Australian Soya Bean Wrap",
+    "title": "Smokey Soya Wrap",
     "tags": [
+      "wrap",
+      "soya",
       "australian",
-      "date-night",
-      "kosher-friendly",
-      "smoky",
-      "soya-bean",
-      "vegetarian"
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Australian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 20,
     "shard": "a"
   },
   {
