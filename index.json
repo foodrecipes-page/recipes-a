@@ -2201,16 +2201,14 @@
   },
   {
     "slug": "almond-bhuna-delight",
-    "title": "Almond Bhuna Delight",
+    "title": "Bhuna Almond Delight Bites",
     "tags": [
-      "almond",
-      "bhuna",
-      "sweet",
-      "juicy",
-      "crowd-pleaser"
+      "dessert",
+      "easy-to-make",
+      "sweet"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -9759,6 +9757,31 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-spanish-courgette-stir-fry--keto",
+    "title": "Spanish Fried Courgette",
+    "tags": [
+      "spanish",
+      "keto",
+      "dinner",
+      "crispy"
+    ],
+    "cuisine": "Spanish",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-winey-korean-hazelnut-jjigae--french",
+    "title": "French-Style Wine Beef Stew",
+    "tags": [
+      "beef",
+      "stew",
+      "french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 170,
     "shard": "a"
   }
 ]
