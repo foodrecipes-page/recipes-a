@@ -1,0 +1,64 @@
+{
+  "slug": "authentic-gooey-korean-rhubarb-wrap",
+  "title": "Korean Rhubarb Wrap",
+  "description": "A sweet and savory Korean-inspired wrap filled with rhubarb and gooey honey.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Rhubarb",
+      "amount": "1/2 cup, cut into 1-inch pieces"
+    },
+    {
+      "name": "Gooey Honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large flour tortilla"
+    },
+    {
+      "name": "Authentic Korean Chili Flakes (gochugaru)",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "Coarse Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat a non-stick pan over medium heat.",
+    "Add the chili flakes and cook for 1 minute, stirring constantly.",
+    "Add the rhubarb and cook for 3-4 minutes, or until slightly caramelized.",
+    "Brush the honey onto the tortilla.",
+    "Fill the center of the tortilla with the cooked rhubarb mixture.",
+    "Fold the bottom edge of the tortilla up over the filling, then fold in the sides and roll up the wrap.",
+    "Cook for an additional 1-2 minutes, or until the tortilla is crispy and the filling is heated through.",
+    "Cut in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "rhubarb",
+    "wrap",
+    "snack",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/authentic-gooey-korean-rhubarb-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T21:29:13.791Z"
+}
