@@ -1,0 +1,89 @@
+{
+  "slug": "amber-korean-scallion-stir-fry",
+  "title": "Korean Stir Fry with Amber and Scallion",
+  "description": "Quick and flavorful Korean stir fry made with amber, scallion, and your choice of protein.",
+  "cuisine": "Korean",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "amber",
+      "amount": "1 cup"
+    },
+    {
+      "name": "scallion",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "cubed"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "rice vinegar",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp",
+      "notes": "grated"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tsp of sesame oil in a large skillet over medium-high heat.",
+    "Add tofu and cook until golden brown, about 3-4 minutes.",
+    "Add chopped scallion and cook for an additional 1-2 minutes.",
+    "In a small bowl, whisk together soy sauce, rice vinegar, sugar, and garlic.",
+    "Pour sauce over tofu and scallion, and stir to coat.",
+    "Add grated ginger and cook for 1 minute.",
+    "Stir in amber and cook until heated through.",
+    "Season with salt to taste.",
+    "Serve immediately over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "stir-fry",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amber-korean-scallion-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T10:44:45.399Z"
+}
