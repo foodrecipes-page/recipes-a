@@ -1,0 +1,83 @@
+{
+  "slug": "amazingly-smoky-jamaican-duck-confit",
+  "title": "Smoky Jamaican Duck Confit",
+  "description": "A flavorful and tender confit recipe that combines smoky spices with the rich taste of Jamaican jerk seasoning, served with amazingly delicious results.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "pork-free",
+    "beef-free",
+    "lamb-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Duck legs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Jamaican jerk seasoning",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "1 sprig",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 275°F (135°C).",
+    "Rinse the duck legs and pat them dry with paper towels.",
+    "In a small bowl, mix together smoked paprika, Jamaican jerk seasoning, garlic, and brown sugar.",
+    "Rub the spice mixture all over the duck legs, making sure to coat them evenly.",
+    "Heat the coconut oil in a large Dutch oven over medium heat.",
+    "Sear the duck legs until browned on both sides, about 2-3 minutes per side.",
+    "Transfer the Dutch oven to the preheated oven and braise the duck legs for 2 1/2 hours, or until tender and falling off the bone.",
+    "Remove the duck legs from the oven and let them cool slightly.",
+    "Strain the braising liquid and discard the solids.",
+    "Serve the duck legs with the braising liquid spooned over the top.",
+    "Garnish with fresh thyme and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 150,
+  "totalTimeMin": 165,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "caribbean",
+    "confit",
+    "duck"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 15,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-smoky-jamaican-duck-confit",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-05T16:40:00.740Z"
+}
