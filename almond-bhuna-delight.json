@@ -1,0 +1,75 @@
+{
+  "slug": "almond-bhuna-delight",
+  "title": "Bhuna Almond Delight Bites",
+  "description": "A sweet and crunchy dessert made with almonds and bhuna delight. These bite-sized treats are perfect for any occasion.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "bhuna",
+      "amount": "1 cup"
+    },
+    {
+      "name": "delight",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/8 teaspoon"
+    },
+    {
+      "name": "chopped pistachios",
+      "amount": "1/4 cup for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "In a large bowl, mix together the sliced almonds, bhuna, brown sugar, coconut oil, cardamom powder, and salt.",
+    "Mix well until the ingredients are evenly distributed.",
+    "Using a cookie scoop or a spoon, drop rounded balls of the mixture onto a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until the edges are lightly golden.",
+    "Remove from the oven and let cool completely.",
+    "Once cooled, drizzle with delight and sprinkle with chopped pistachios.",
+    "Serve immediately and store any leftovers in an airtight container."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "dessert",
+    "easy-to-make",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 15,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-bhuna-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T08:35:17.898Z"
+}
