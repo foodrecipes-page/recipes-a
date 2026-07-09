@@ -1,0 +1,92 @@
+{
+  "slug": "amazingly-aromatic-brazilian-beef-roast",
+  "title": "Brazilian Beef Roast",
+  "description": "A deliciously aromatic beef roast, inspired by Brazilian flavors, perfect for a Sunday dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "beef",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef roast",
+      "amount": "1.5 kg",
+      "notes": "Churrasco-style cut"
+    },
+    {
+      "name": "Aromatic amazingly roast spice blend",
+      "amount": "2 tbsp",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Brazilian coffee",
+      "amount": "1 tsp",
+      "notes": "Adds depth to the sauce"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For browning the beef"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": "To taste"
+    },
+    {
+      "name": "Onions",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Tomatoes",
+      "amount": "2 cups",
+      "notes": "Canned, crushed"
+    },
+    {
+      "name": "Green pepper",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F).",
+    "Season the beef roast with salt, black pepper, and aromatic amazingly roast spice blend.",
+    "Heat the olive oil in a large Dutch oven over medium-high heat. Sear the beef roast on all sides until browned, about 2 minutes per side.",
+    "Remove the beef from the pot and set it aside. Reduce heat to medium and cook the sliced onions until they start to caramelize, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the sliced green pepper and cook until it starts to soften, about 2 minutes.",
+    "Add the crushed tomatoes, Brazilian coffee, and a pinch of salt. Stir to combine.",
+    "Return the beef roast to the pot, cover it with a lid, and transfer it to the preheated oven.",
+    "Braise the beef for 2.5 hours, or until it reaches an internal temperature of 63°C (145°F) for medium-rare.",
+    "Remove the pot from the oven and let the beef rest for 10 minutes before slicing and serving.",
+    "Serve with the rich, flavorful sauce spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 160,
+  "totalTimeMin": 180,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "brazilian",
+    "roast",
+    "dinner",
+    "meat"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-aromatic-brazilian-beef-roast",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T03:24:01.305Z"
+}
