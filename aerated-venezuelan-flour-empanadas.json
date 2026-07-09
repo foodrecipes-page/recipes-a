@@ -1,0 +1,80 @@
+{
+  "slug": "aerated-venezuelan-flour-empanadas",
+  "title": "Venezuelan Empanadas",
+  "description": "A crispy pastry filled with a delicious, cheesy filling. A classic Venezuelan snack.",
+  "cuisine": "venezuelan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": "all-purpose flour"
+    },
+    {
+      "name": "aerated",
+      "amount": "1 cup",
+      "notes": "aerated flour for extra flakiness"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "warm water"
+    },
+    {
+      "name": "cheese",
+      "amount": "1 cup",
+      "notes": "grated queso venezolano"
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": "beaten eggs for egg wash"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tsp",
+      "notes": "for brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Combine flour, aerated flour, and salt in a bowl. Mix well.",
+    "Gradually add water and mix until dough forms.",
+    "Knead dough for 10 minutes until smooth.",
+    "Divide dough into 8 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place 1/4 cup of cheese in center of each circle.",
+    "Fold dough in half and press edges to seal.",
+    "Brush tops with beaten eggs and brush with oil.",
+    "Heat a skillet over medium heat and cook empanadas until golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "snack",
+    "venezuelan",
+    "cheese",
+    "empanadas"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-venezuelan-flour-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T06:46:06.915Z"
+}
