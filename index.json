@@ -305,17 +305,14 @@
   },
   {
     "slug": "adventurous-buttery-venezuelan-plantains-casserole",
-    "title": "adventurous buttery venezuelan plantains casserole",
+    "title": "Venezuelan Plantain Casserole",
     "tags": [
-      "adventurous",
-      "butternut-squash",
-      "casserole",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "venezuelan",
+      "plantains",
+      "casserole"
     ],
     "cuisine": "venezuelan",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -1081,16 +1078,14 @@
   },
   {
     "slug": "aerated-venezuelan-flour-empanadas",
-    "title": "Aerated Venezuelan Flour Empanadas",
+    "title": "Venezuelan Empanadas",
     "tags": [
-      "aerated",
-      "date-night",
-      "empanadas",
-      "high-protein",
-      "vegan-option",
-      "venezuelan"
+      "snack",
+      "venezuelan",
+      "cheese",
+      "empanadas"
     ],
-    "cuisine": "Venezuelan",
+    "cuisine": "venezuelan",
     "totalTimeMin": 30,
     "shard": "a"
   },
