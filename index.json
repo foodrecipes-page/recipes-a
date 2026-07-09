@@ -114,18 +114,15 @@
   },
   {
     "slug": "acidic-tender-kenyan-rice-flour-crepe",
-    "title": "Acidic Tender Kenyan Rice Flour Crepe",
+    "title": "Kenyan Crepe with Acidic Filling",
     "tags": [
       "crepe",
-      "dessert",
-      "gluten-free",
-      "quick",
-      "rice-flour",
-      "sour",
-      "vegan"
+      "kenyan",
+      "acidic",
+      "dessert"
     ],
-    "cuisine": "Kenyan",
-    "totalTimeMin": 25,
+    "cuisine": "kenyan",
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
