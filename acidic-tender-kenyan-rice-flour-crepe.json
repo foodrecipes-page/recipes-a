@@ -1,0 +1,84 @@
+{
+  "slug": "acidic-tender-kenyan-rice-flour-crepe",
+  "title": "Kenyan Crepe with Acidic Filling",
+  "description": "A delicious and easy-to-make crepe filled with a tangy and flavorful acidic sauce. Perfect for a snack or dessert.",
+  "cuisine": "kenyan",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Kenyan flour",
+      "amount": "1 1/2 cups",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "acidic sauce (lemon juice, apple cider vinegar, or passion fruit puree)",
+      "amount": "1/2 cup",
+      "notes": null
+    },
+    {
+      "name": "tender coconut milk",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the Kenyan flour and water to form a smooth batter.",
+    "Add the acidic sauce, coconut milk, sugar, and salt to the bowl. Whisk until well combined.",
+    "Heat a small non-stick pan over medium heat. Brush the pan with butter and oil.",
+    "Pour 1/4 cup of the crepe batter into the pan and tilt to evenly coat the bottom.",
+    "Cook for 1-2 minutes, until the edges start to curl. Flip the crepe and cook for another minute.",
+    "Repeat with the remaining batter, until all the crepes are made.",
+    "To make the filling, mix together the acidic sauce and sugar in a bowl.",
+    "Place a crepe on a flat surface and spoon some of the filling onto the center of the crepe.",
+    "Fold the crepe in half to enclose the filling. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "crepe",
+    "kenyan",
+    "acidic",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acidic-tender-kenyan-rice-flour-crepe",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T10:54:28.368Z"
+}
