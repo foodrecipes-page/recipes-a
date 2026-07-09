@@ -1,0 +1,89 @@
+{
+  "slug": "aromatic-moroccan-fava-beans-bissara",
+  "title": "Moroccan Fava Bean Stew",
+  "description": "A hearty and flavorful stew originating from Morocco, made with fava beans and aromatic spices. Serve with crusty bread for a satisfying meal.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "fava beans",
+      "amount": "1 cup dried",
+      "notes": "soaked overnight and drained"
+    },
+    {
+      "name": "aromatic spice blend",
+      "amount": "2 teaspoons",
+      "notes": "such as ras el hanout"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "bissara",
+      "amount": "1 can",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add tomato paste and cook for 1 minute.",
+    "Add fava beans, spice blend, and broth. Bring to a boil.",
+    "Reduce heat and simmer for 20 minutes.",
+    "Stir in bissara and cook for an additional 5 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "moroccan",
+    "stew",
+    "lunch",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-moroccan-fava-beans-bissara",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-06T22:47:30.004Z"
+}
