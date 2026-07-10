@@ -1,0 +1,75 @@
+{
+  "slug": "air-fried-chestnut-mushroom-tagine",
+  "title": "Pan-Seared Chestnut and Mushroom Tagine",
+  "description": "A flavorful and hearty North African-inspired dish featuring seared chestnuts and mushrooms in a rich tagine sauce. Serve hot over couscous or rice for a satisfying meal.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chestnut",
+      "amount": "250g",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "mushroom",
+      "amount": "120g",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "tagine",
+      "amount": "250ml",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-searing"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large pan over medium-high heat.",
+    "Add the chestnuts and cook for 3-4 minutes on each side, or until browned and tender.",
+    "Remove the chestnuts from the pan and set aside.",
+    "Add the remaining 1 tablespoon of olive oil to the pan, followed by the mushrooms.",
+    "Cook the mushrooms for 3-4 minutes, or until they release their liquid and start to brown.",
+    "Add the tagine to the pan and stir to combine with the mushrooms.",
+    "Return the chestnuts to the pan and stir to coat with the tagine sauce.",
+    "Season with salt and black pepper to taste.",
+    "Serve the chestnut and mushroom tagine hot over couscous or rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "chestnut",
+    "mushroom",
+    "tagine",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 8,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-chestnut-mushroom-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T19:59:17.387Z"
+}
