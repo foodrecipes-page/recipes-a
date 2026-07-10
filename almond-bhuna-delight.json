@@ -1,75 +1,80 @@
 {
   "slug": "almond-bhuna-delight",
-  "title": "Bhuna Almond Delight Bites",
-  "description": "A sweet and crunchy dessert made with almonds and bhuna delight. These bite-sized treats are perfect for any occasion.",
+  "title": "Delightful Almond Bhuna",
+  "description": "A flavorful and aromatic Indian-inspired dish made with almonds, a sweet and spicy sauce, and your choice of protein. This recipe is perfect for a weeknight dinner or a special occasion.",
   "cuisine": "Indian",
   "diet": [
     "vegetarian",
     "gluten-free"
   ],
-  "meal": "dessert",
+  "meal": "dinner",
   "ingredients": [
     {
-      "name": "almond",
-      "amount": "1 cup sliced"
+      "name": "Almonds",
+      "amount": "1 cup",
+      "notes": "sliced"
     },
     {
-      "name": "bhuna",
-      "amount": "1 cup"
+      "name": "Bhuna Sauce",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
     },
     {
-      "name": "delight",
-      "amount": "1/2 cup"
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
     },
     {
-      "name": "brown sugar",
-      "amount": "1/4 cup"
+      "name": "Garam Masala",
+      "amount": "1 teaspoon",
+      "notes": "ground"
     },
     {
-      "name": "coconut oil",
-      "amount": "2 tablespoons"
+      "name": "Cumin",
+      "amount": "1/2 teaspoon",
+      "notes": "ground"
     },
     {
-      "name": "cardamom powder",
-      "amount": "1/4 teaspoon"
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
     },
     {
-      "name": "salt",
-      "amount": "1/8 teaspoon"
-    },
-    {
-      "name": "chopped pistachios",
-      "amount": "1/4 cup for garnish"
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
     }
   ],
   "instructions": [
-    "Preheat the oven to 350°F (180°C).",
-    "In a large bowl, mix together the sliced almonds, bhuna, brown sugar, coconut oil, cardamom powder, and salt.",
-    "Mix well until the ingredients are evenly distributed.",
-    "Using a cookie scoop or a spoon, drop rounded balls of the mixture onto a baking sheet lined with parchment paper.",
-    "Bake for 15-20 minutes, or until the edges are lightly golden.",
-    "Remove from the oven and let cool completely.",
-    "Once cooled, drizzle with delight and sprinkle with chopped pistachios.",
-    "Serve immediately and store any leftovers in an airtight container."
+    "1. Heat 1 tablespoon of oil in a large skillet over medium-high heat.",
+    "2. Add the chicken breast and cook until browned, about 5-7 minutes per side.",
+    "3. Remove the chicken from the skillet and set aside.",
+    "4. Add the sliced almonds to the skillet and cook until toasted, about 2-3 minutes.",
+    "5. Add the bhuna sauce to the skillet and stir to combine with the almonds.",
+    "6. Add the garam masala, cumin, salt, and black pepper to the skillet and stir to combine.",
+    "7. Return the chicken to the skillet and simmer until the sauce has thickened, about 5 minutes.",
+    "8. Serve the chicken and sauce over rice or with naan bread.",
+    "9. Garnish with sliced almonds and a sprinkle of cilantro, if desired."
   ],
-  "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
-  "servings": 12,
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "dessert",
-    "easy-to-make",
-    "sweet"
+    "indian",
+    "chicken",
+    "almonds",
+    "bhuna-sauce"
   ],
   "nutrition": {
-    "calories": 120,
-    "protein": 2,
-    "carbs": 15,
-    "fat": 6
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/almond-bhuna-delight",
   "providerUsed": "groq",
-  "createdAt": "2026-07-06T08:35:17.898Z"
+  "createdAt": "2026-07-08T02:41:34.412Z"
 }
