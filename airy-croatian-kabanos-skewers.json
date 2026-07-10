@@ -1,0 +1,72 @@
+{
+  "slug": "airy-croatian-kabanos-skewers",
+  "title": "Grilled Kabanos Skewers with Croatian Bread",
+  "description": "A simple skewer recipe featuring Croatian kabanos sausage, perfect for a quick weeknight meal. Serve with crusty Croatian bread for a satisfying dinner.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Kabanos sausage",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Croatian bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old bread"
+    },
+    {
+      "name": "Airy cheese",
+      "amount": "1 cup crumbled"
+    },
+    {
+      "name": "Skewers",
+      "amount": "12 wooden"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut the kabanos sausage into 1-inch pieces.",
+    "3. Thread the sausage pieces onto the skewers, leaving a small space between each piece.",
+    "4. Brush the skewers with olive oil and season with salt and pepper.",
+    "5. Grill the skewers for 8-10 minutes, turning occasionally.",
+    "6. While the skewers are cooking, slice the Croatian bread into 1-inch thick slices.",
+    "7. Grill the bread slices for 2-3 minutes, or until lightly toasted.",
+    "8. To serve, place a skewer on each plate and serve with a slice of grilled bread and a sprinkle of airy cheese.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "grilling",
+    "sausages",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-croatian-kabanos-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:47:12.689Z"
+}
