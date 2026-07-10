@@ -100,13 +100,12 @@
   },
   {
     "slug": "acidic-greek-rice-avgolemono-soup",
-    "title": "Acidic Greek Rice Avgolemono Soup",
+    "title": "Avgolemono Soup",
     "tags": [
-      "acrid",
-      "high-protein",
-      "macrobiotic-friendly",
-      "post-workout",
-      "soup"
+      "soup",
+      "greeksoup",
+      "avgolemono",
+      "chickensoup"
     ],
     "cuisine": "Greek",
     "totalTimeMin": 40,
@@ -1732,16 +1731,14 @@
   },
   {
     "slug": "airy-delicate-greek-spinach-spanakopita",
-    "title": "Airy Delicate Greek Spinach Spanakopita",
+    "title": "Delicate Spanakopita",
     "tags": [
-      "brunch-ideas",
-      "flexitarian-recipes",
-      "greek-food",
-      "savory-pies",
-      "spanakopita-recipes"
+      "spanakopita",
+      "greek",
+      "spinach"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 55,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -2332,17 +2329,15 @@
   },
   {
     "slug": "amazing-acidic-slovakian-minced-beef-dumplings",
-    "title": "Amazing Acidic Slovakian Minced Beef Dumplings",
+    "title": "Slovakian Beef and Dumplings Stew",
     "tags": [
-      "dinner-ideas",
-      "kid-friendly",
-      "no-garlic",
-      "no-onion",
-      "salt-block-recipes",
-      "slovakian-cuisine"
+      "beef",
+      "slovakian",
+      "comfort-food",
+      "stew"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 140,
     "shard": "a"
   },
   {
@@ -2431,17 +2426,14 @@
   },
   {
     "slug": "amazing-athletic-portuguese-flaxseed-bowl",
-    "title": "Amazing Athletic Portuguese Flaxseed Bowl",
+    "title": "Portuguese Flaxseed Bowl",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "healthy-snack",
-      "low-glycemic",
-      "portuguese",
-      "post-workout"
+      "breakfast",
+      "healthy",
+      "portuguese"
     ],
-    "cuisine": "Portuguese",
-    "totalTimeMin": 40,
+    "cuisine": "portuguese",
+    "totalTimeMin": 10,
     "shard": "a"
   },
   {
@@ -3055,16 +3047,15 @@
   },
   {
     "slug": "amazingly-crisp-german-paneer-skillet",
-    "title": "Amazingly Crisp German Paneer Skillet",
+    "title": "Crisp German-Style Skillet Paneer",
     "tags": [
-      "german-cuisine",
-      "high-protein",
-      "lacto-vegetarian",
-      "one-pan",
-      "weeknight"
+      "german",
+      "paneer",
+      "skillet",
+      "vegetarian"
     ],
     "cuisine": "German",
-    "totalTimeMin": 35,
+    "totalTimeMin": 17,
     "shard": "a"
   },
   {
