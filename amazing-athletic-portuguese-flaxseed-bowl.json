@@ -1,0 +1,76 @@
+{
+  "slug": "amazing-athletic-portuguese-flaxseed-bowl",
+  "title": "Portuguese Flaxseed Bowl",
+  "description": "A hearty and nutritious breakfast bowl filled with the flavors of Portugal.",
+  "cuisine": "portuguese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flaxseed",
+      "amount": "1/2 cup",
+      "notes": "ground"
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "large"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup",
+      "notes": "for soaking"
+    },
+    {
+      "name": "amazing",
+      "amount": "1/4 cup",
+      "notes": "dried fruit mix"
+    },
+    {
+      "name": "athletic",
+      "amount": "1/2 cup",
+      "notes": "Greek yogurt"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": "for sweetening"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. Rinse the flaxseed and soak it in water for 5 minutes.",
+    "2. Drain the water and add the soaked flaxseed to a blender.",
+    "3. Add the amazing, athletic, and honey to the blender.",
+    "4. Blend the mixture until smooth.",
+    "5. Pour the mixture into the bowl.",
+    "6. Top the mixture with your favorite nuts or seeds.",
+    "7. Drizzle with a little more honey if desired.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "healthy",
+    "portuguese"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-athletic-portuguese-flaxseed-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:00:22.951Z"
+}
