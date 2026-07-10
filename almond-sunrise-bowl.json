@@ -1,0 +1,65 @@
+{
+  "slug": "almond-sunrise-bowl",
+  "title": "Almond Sunrise Bowl",
+  "description": "A nutritious and flavorful breakfast bowl featuring almond granola, fresh sunrise fruit, and a drizzle of honey.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Almond Granola",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Sunrise Fruit (such as pineapple, mandarin, and kiwi)",
+      "amount": "1 cup",
+      "notes": "fresh and diced"
+    },
+    {
+      "name": "Greek Yogurt",
+      "amount": "6 oz",
+      "notes": "plain and non-fat"
+    },
+    {
+      "name": "Bowl",
+      "amount": "1",
+      "notes": "large and clear glass or ceramic"
+    },
+    {
+      "name": "Honey",
+      "amount": "2 tbsp",
+      "notes": "raw and pure"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine almond granola and Greek yogurt.",
+    "Add diced sunrise fruit on top of the yogurt and granola.",
+    "Drizzle honey over the fruit.",
+    "Serve immediately and enjoy!",
+    "Optional: add sliced almonds or shredded coconut for added crunch and flavor."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 0,
+  "totalTimeMin": 5,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "healthy",
+    "almond"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-sunrise-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:40:45.454Z"
+}
