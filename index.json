@@ -4144,17 +4144,15 @@
   },
   {
     "slug": "aromatic-charred-syrian-lentil-stew",
-    "title": "Aromatic Charred Syrian Lentil Stew",
+    "title": "Syrian Lentil Stew",
     "tags": [
-      "comfort-food",
-      "high-protein",
-      "lentil-stew",
-      "one-pan",
-      "syrian-cuisine",
-      "weeknight"
+      "syrian",
+      "lentil",
+      "stew",
+      "vegetarian"
     ],
     "cuisine": "Syrian",
-    "totalTimeMin": 60,
+    "totalTimeMin": 55,
     "shard": "a"
   },
   {
@@ -4427,17 +4425,15 @@
   },
   {
     "slug": "aromatic-crispy-tunisian-lamb-tagine",
-    "title": "Aromatic Crispy Tunisian Lamb Tagine",
+    "title": "Lamb Tagine",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "lamb-recipes",
-      "mediterranean",
-      "one-pan"
+      "north-african",
+      "tunisian",
+      "lamb",
+      "tagine"
     ],
     "cuisine": "Tunisian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 140,
     "shard": "a"
   },
   {
