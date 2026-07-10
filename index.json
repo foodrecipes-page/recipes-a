@@ -6527,17 +6527,15 @@
   },
   {
     "slug": "aromatic-stone-spanish-eggs-omelette",
-    "title": "Aromatic Stone Spanish Eggs Omelette",
+    "title": "Spanish Omelette with Aromatic Flair",
     "tags": [
-      "easy",
-      "egg-based",
-      "one-pot",
-      "quick",
-      "spicy",
-      "stone-cooking"
+      "breakfast",
+      "omelette",
+      "spanish",
+      "aromatic"
     ],
     "cuisine": "Spanish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 18,
     "shard": "a"
   },
   {
