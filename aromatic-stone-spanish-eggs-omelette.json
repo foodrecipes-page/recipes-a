@@ -1,0 +1,69 @@
+{
+  "slug": "aromatic-stone-spanish-eggs-omelette",
+  "title": "Spanish Omelette with Aromatic Flair",
+  "description": "A classic Spanish omelette with an aromatic twist, perfect for a quick breakfast or snack.",
+  "cuisine": "Spanish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "Large eggs for a fluffy omelette"
+    },
+    {
+      "name": "Aromatic",
+      "amount": "1 tsp",
+      "notes": "Sauteed onions add an aromatic flavor"
+    },
+    {
+      "name": "Stone Ground Spanish",
+      "amount": "1/4 cup",
+      "notes": "Add a smoky flavor with Spanish smoked paprika"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Season with salt to bring out the flavors"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": "Add a pinch of black pepper for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Crack the eggs into a bowl and whisk them together with a pinch of salt and pepper.",
+    "Heat a small non-stick pan over medium heat and add a small amount of oil.",
+    "Add the onions and sauté until they're translucent and fragrant.",
+    "Add the smoked paprika and stir for a minute.",
+    "Pour in the eggs and let them cook for a minute.",
+    "Use a spatula to gently lift the edges of the omelette and tilt the pan so the uncooked egg can flow underneath.",
+    "Once the eggs are almost set, use the spatula to fold the omelette in half.",
+    "Cook for another minute and then slide the omelette onto a plate.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "omelette",
+    "spanish",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 4,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-stone-spanish-eggs-omelette",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T12:46:46.358Z"
+}
