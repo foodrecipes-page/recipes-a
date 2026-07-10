@@ -1,0 +1,90 @@
+{
+  "slug": "acidic-greek-rice-avgolemono-soup",
+  "title": "Avgolemono Soup",
+  "description": "A classic Greek soup made with chicken, eggs, and a tangy lemon sauce.",
+  "cuisine": "Greek",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "avgolemono",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "soup",
+      "amount": "4 cups",
+      "notes": "chicken broth"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the diced onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1-2 minutes.",
+    "Add the chicken breast and cook until browned on all sides.",
+    "Add the rice, chicken soup, and avgolemono to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 20 minutes.",
+    "In a small bowl, whisk together the lemon juice and eggs.",
+    "Temper the egg mixture by slowly pouring it into the pot while stirring.",
+    "Cook for an additional 2-3 minutes, or until the soup has thickened slightly.",
+    "Season with salt and pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "soup",
+    "greeksoup",
+    "avgolemono",
+    "chickensoup"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acidic-greek-rice-avgolemono-soup",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:57:52.764Z"
+}
