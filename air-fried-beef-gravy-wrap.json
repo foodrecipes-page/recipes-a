@@ -1,0 +1,68 @@
+{
+  "slug": "air-fried-beef-gravy-wrap",
+  "title": "Beef Wrap with Gravy",
+  "description": "A delicious and savory beef wrap filled with tender beef and rich gravy, served in a crispy wrap.",
+  "cuisine": "american",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound beef strips (sirloin or ribeye)",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "wrap",
+      "amount": "4-6 large flour tortillas",
+      "notes": "For wrapping the beef and gravy"
+    },
+    {
+      "name": "gravy",
+      "amount": "1 cup beef gravy",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "For seasoning the beef"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "For seasoning the beef"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a large skillet over medium-high heat.",
+    "2. Add the beef strips to the skillet and cook for 3-4 minutes per side, or until browned and cooked through.",
+    "3. Remove the beef from the skillet and set aside.",
+    "4. Add the beef gravy to the skillet and bring to a simmer.",
+    "5. Add the cooked beef back into the skillet and stir to coat with the gravy.",
+    "6. Season the beef with salt and pepper to taste.",
+    "7. Warm the large flour tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "8. Assemble the wraps by filling each tortilla with the beef and gravy mixture.",
+    "9. Serve the beef wraps hot, garnished with any desired toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "beef",
+    "wrap",
+    "gravy"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-beef-gravy-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:43:18.755Z"
+}
