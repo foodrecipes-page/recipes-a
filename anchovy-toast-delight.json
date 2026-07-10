@@ -1,0 +1,52 @@
+{
+  "slug": "anchovy-toast-delight",
+  "title": "Anchovy Delight Toast",
+  "description": "A simple yet flavorful toast topped with anchovy and delight.",
+  "cuisine": "Italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "anchovy",
+      "amount": "2 anchovy fillets"
+    },
+    {
+      "name": "toast",
+      "amount": "1 slice"
+    },
+    {
+      "name": "delight",
+      "amount": "1 tablespoon",
+      "notes": "such as aioli or garlic spread"
+    }
+  ],
+  "instructions": [
+    "1. Toast the bread until lightly browned.",
+    "2. Spread 1 tablespoon of delight on top of the toast.",
+    "3. Place 2 anchovy fillets on top of the delight.",
+    "4. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 2,
+  "cookTimeMin": 2,
+  "totalTimeMin": 4,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "anchovy",
+    "toast",
+    "delight"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 12,
+    "carbs": 15,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/anchovy-toast-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:41:02.008Z"
+}
