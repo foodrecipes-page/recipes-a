@@ -1,0 +1,72 @@
+{
+  "slug": "airy-delicate-greek-spinach-spanakopita",
+  "title": "Delicate Spanakopita",
+  "description": "A classic Greek spinach pie made with a delicate phyllo crust.",
+  "cuisine": "Greek",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "spinach",
+      "amount": "1 package frozen, thawed",
+      "notes": "squeeze out excess water"
+    },
+    {
+      "name": "spanakopita",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "airy phyllo dough",
+      "amount": "1 package",
+      "notes": "thawed"
+    },
+    {
+      "name": "feta cheese",
+      "amount": "1 block, crumbled",
+      "notes": "optional"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Thaw spanakopita package according to instructions.",
+    "Unroll phyllo dough and cut into desired size.",
+    "Combine spinach and feta cheese (if using) in a bowl.",
+    "Place a tablespoon of spinach mixture onto one half of the phyllo dough.",
+    "Fold the other half over the filling and press edges to seal.",
+    "Repeat with remaining ingredients.",
+    "Place pies on a baking sheet and brush with olive oil.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Serve warm."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "spanakopita",
+    "greek",
+    "spinach"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-delicate-greek-spinach-spanakopita",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:59:00.411Z"
+}
