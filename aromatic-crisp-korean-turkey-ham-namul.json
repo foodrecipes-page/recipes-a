@@ -1,0 +1,84 @@
+{
+  "slug": "aromatic-crisp-korean-turkey-ham-namul",
+  "title": "Korean-Style Namul Salad with Crisp Turkey",
+  "description": "A refreshing and healthy salad featuring crisp korean-style turkey, crunchy namul, and aromatic vegetables.",
+  "cuisine": "Korean",
+  "diet": [
+    "gluten-free",
+    "low-carb"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Crisp Korean-Style Turkey Breast",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "Namul (Korean-style Sprouts)",
+      "amount": "1 cup",
+      "notes": "cooked and drained"
+    },
+    {
+      "name": "Aromatic Green Onion",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Crisp Carrot",
+      "amount": "1/2 cup",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Korean Chili Flakes (gochugaru)",
+      "amount": "1/4 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "Rice Vinegar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together soy sauce, rice vinegar, and sesame oil.",
+    "Add the sliced green onion and grated carrot to the bowl and toss to combine.",
+    "Add the cooked namul to the bowl and toss to combine.",
+    "Add the sliced turkey to the bowl and toss to combine.",
+    "Sprinkle with Korean chili flakes (if using) and season with salt to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "korean",
+    "salad",
+    "healthy",
+    "low-carb"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crisp-korean-turkey-ham-namul",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T20:06:56.576Z"
+}
