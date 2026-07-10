@@ -1,0 +1,88 @@
+{
+  "slug": "aromatic-crispy-tunisian-lamb-tagine",
+  "title": "Lamb Tagine",
+  "description": "A traditional North African stew originating from Tunisia, slow-cooked with aromatic spices.",
+  "cuisine": "Tunisian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder or neck",
+      "amount": "500g",
+      "notes": "Cut into 2-inch pieces"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Aromatic spice mix (e.g., ras el hanout)",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Crispy breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Tunisian chili peppers (or substitute with red pepper flakes)",
+      "amount": "1-2",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Brown lamb pieces in batches until browned, then set aside.",
+    "Soften onion and garlic, then add spice mix and cook 1 minute.",
+    "Add lamb back in, cover with lid, and transfer to the oven (preheated to 300°F/150°C).",
+    "Braise for 2 hours or until lamb is tender.",
+    "Stir in breadcrumbs and chili peppers; return to heat to crisp.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with crispy breadcrumbs and additional chili peppers if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north-african",
+    "tunisian",
+    "lamb",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 47,
+    "carbs": 10,
+    "fat": 38
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-tunisian-lamb-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-07T14:41:39.638Z"
+}
