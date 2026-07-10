@@ -1,0 +1,80 @@
+{
+  "slug": "airy-norwegian-halibut-salad",
+  "title": "Pan-Seared Halibut with Salad",
+  "description": "A simple and flavorful dish featuring pan-seared halibut served with a refreshing salad.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "fish",
+    "pescatarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Halibut Fillets",
+      "amount": "4 oz each",
+      "notes": ""
+    },
+    {
+      "name": "Air Fryer Spray",
+      "amount": "as needed",
+      "notes": ""
+    },
+    {
+      "name": "Salad Greens",
+      "amount": "4 cups",
+      "notes": ""
+    },
+    {
+      "name": "Cherry Tomatoes",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Cucumber Slices",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Red Onion Slices",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salad Dressing",
+      "amount": "2 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400°F.",
+    "Season the halibut fillets with salt and pepper.",
+    "Spray the air fryer basket with air fryer spray.",
+    "Place the halibut fillets in the air fryer basket and cook for 8-10 minutes or until cooked through.",
+    "Meanwhile, prepare the salad by combining the salad greens, cherry tomatoes, cucumber slices, and red onion slices in a bowl.",
+    "Drizzle the salad dressing over the salad and toss to combine.",
+    "Serve the pan-seared halibut on top of the salad."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "halibut",
+    "salad",
+    "easy",
+    "dinner",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 45,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-norwegian-halibut-salad",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T02:45:18.195Z"
+}
