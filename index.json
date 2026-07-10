@@ -1138,14 +1138,14 @@
   },
   {
     "slug": "air-fried-beef-gravy-wrap",
-    "title": "Air-Fried Beef Gravy Wrap",
+    "title": "Beef Wrap with Gravy",
     "tags": [
-      "air-fried-beef-gravy-wrap",
-      "australian-dish",
-      "salty-silky-comforting"
+      "beef",
+      "wrap",
+      "gravy"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 35,
+    "cuisine": "american",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -1691,14 +1691,11 @@
   },
   {
     "slug": "airy-croatian-kabanos-skewers",
-    "title": "Airy Croatian Kabanos Skewers",
+    "title": "Grilled Kabanos Skewers with Croatian Bread",
     "tags": [
-      "croatian-cuisine",
-      "easy-snack",
-      "gluten-free",
-      "mustard-based",
-      "polish-inspired",
-      "whole30"
+      "grilling",
+      "sausages",
+      "croatian"
     ],
     "cuisine": "Croatian",
     "totalTimeMin": 25,
@@ -1918,18 +1915,16 @@
   },
   {
     "slug": "airy-norwegian-halibut-salad",
-    "title": "airy norwegian halibut salad",
+    "title": "Pan-Seared Halibut with Salad",
     "tags": [
-      "date-night",
-      "fish",
-      "high-protein",
-      "norwegian",
-      "raw-friendly",
+      "halibut",
       "salad",
-      "weeknight"
+      "easy",
+      "dinner",
+      "norwegian"
     ],
-    "cuisine": "norwegian",
-    "totalTimeMin": 21,
+    "cuisine": "Norwegian",
+    "totalTimeMin": 20,
     "shard": "a"
   },
   {
@@ -2193,14 +2188,15 @@
   },
   {
     "slug": "almond-bhuna-delight",
-    "title": "Bhuna Almond Delight Bites",
+    "title": "Delightful Almond Bhuna",
     "tags": [
-      "dessert",
-      "easy-to-make",
-      "sweet"
+      "indian",
+      "chicken",
+      "almonds",
+      "bhuna-sauce"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -2297,12 +2293,12 @@
     "slug": "almond-sunrise-bowl",
     "title": "Almond Sunrise Bowl",
     "tags": [
-      "almond-flour",
-      "lime-sunday",
-      "meal-prep"
+      "breakfast",
+      "healthy",
+      "almond"
     ],
-    "cuisine": "jamaican",
-    "totalTimeMin": 17,
+    "cuisine": "American",
+    "totalTimeMin": 5,
     "shard": "a"
   },
   {
@@ -3544,14 +3540,14 @@
   },
   {
     "slug": "anchovy-toast-delight",
-    "title": "Anchovy Toast Delight",
+    "title": "Anchovy Delight Toast",
     "tags": [
       "anchovy",
-      "tofu",
-      "avocado"
+      "toast",
+      "delight"
     ],
-    "cuisine": "Norwegian",
-    "totalTimeMin": 5,
+    "cuisine": "Italian",
+    "totalTimeMin": 4,
     "shard": "a"
   },
   {
