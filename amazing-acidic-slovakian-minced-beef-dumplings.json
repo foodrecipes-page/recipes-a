@@ -1,0 +1,76 @@
+{
+  "slug": "amazing-acidic-slovakian-minced-beef-dumplings",
+  "title": "Slovakian Beef and Dumplings Stew",
+  "description": "A hearty and comforting Slovakian-inspired stew made with tender beef and pillowy dumplings, perfect for a cold winter's day.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Slovakian Dumplings",
+      "amount": "4-6 dumplings",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Caraway Seeds",
+      "amount": "1 teaspoon",
+      "notes": "toasted"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Add the onion and cook until softened, about 3 minutes.",
+    "Add the caraway seeds and cook for 1 minute.",
+    "Add 2 cups of beef broth and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 1 1/2 hours, or until the beef is tender.",
+    "Meanwhile, cook the dumplings according to package instructions.",
+    "Add the cooked dumplings to the stew and simmer for an additional 10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "slovakian",
+    "comfort-food",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-acidic-slovakian-minced-beef-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T03:05:31.935Z"
+}
