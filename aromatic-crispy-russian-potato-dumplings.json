@@ -1,0 +1,61 @@
+{
+  "slug": "aromatic-crispy-russian-potato-dumplings",
+  "title": "Potato and Dumplings Russian Delight",
+  "description": "A hearty and comforting Russian-inspired dish featuring pan-seared potato dumplings, crispy fried onions, and aromatic spices.",
+  "cuisine": "Russian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "potato",
+      "amount": "2 large",
+      "notes": "peeled and diced"
+    },
+    {
+      "name": "Russian dumplings",
+      "amount": "1 package",
+      "notes": "thawed according to package instructions"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": "chopped fresh dill"
+    },
+    {
+      "name": "crispy",
+      "amount": "1/2 cup",
+      "notes": "chopped fried onions"
+    }
+  ],
+  "instructions": [
+    "Boil the dumplings according to package instructions. Set aside.",
+    "Heat a large skillet over medium heat. Add a small amount of oil.",
+    "Add the diced potato to the skillet and cook until golden brown.",
+    "Add the boiled dumplings to the skillet with the potato.",
+    "Sprinkle the chopped dill on top of the dumplings and potato.",
+    "Serve the potato and dumplings hot, topped with crispy fried onions.",
+    "Garnish with additional chopped dill if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "russian-cuisine",
+    "comfort-food",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-russian-potato-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T21:13:57.448Z"
+}
