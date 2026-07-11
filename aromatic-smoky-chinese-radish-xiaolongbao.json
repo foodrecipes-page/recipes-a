@@ -1,0 +1,69 @@
+{
+  "slug": "aromatic-smoky-chinese-radish-xiaolongbao",
+  "title": "Pan-Seared Xiaolongbao with Radish Slaw",
+  "description": "A twist on traditional Chinese xiaolongbao, these pan-seared dumplings are filled with a savory pork mixture and served with a refreshing radish slaw.",
+  "cuisine": "Chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": " finely chopped"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": "chopped scallions"
+    },
+    {
+      "name": "chinese cabbage",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "radish",
+      "amount": "1 medium",
+      "notes": "grated"
+    },
+    {
+      "name": "xiaolongbao wrappers",
+      "amount": "20-24 wrappers",
+      "notes": "available at most Asian markets"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine chopped pork, aromatic, and a pinch of salt and pepper. Mix well to combine.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "Bring a large pot of water to a boil and cook the xiaolongbao wrappers according to the package instructions.",
+    "While the wrappers are cooking, assemble the radish slaw by combining shredded cabbage, grated radish, and a drizzle of vinegar in a small bowl.",
+    "Heat a large skillet over medium-high heat and add a small amount of oil. Once hot, add the pan-seared xiaolongbao and cook for 2-3 minutes on each side, until golden brown.",
+    "Serve the pan-seared xiaolongbao with a dollop of radish slaw on top."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "xiaolongbao",
+    "pan-seared",
+    "dumplings",
+    "chinese-cuisine",
+    "pork",
+    "radish"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoky-chinese-radish-xiaolongbao",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-08T14:43:03.656Z"
+}
