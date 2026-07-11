@@ -1,7 +1,7 @@
 {
   "slug": "anchovy-toast-delight",
   "title": "Anchovy Delight Toast",
-  "description": "A simple yet flavorful toast topped with anchovy and delight.",
+  "description": "A simple yet flavorful appetizer made with anchovies and served on toast.",
   "cuisine": "Italian",
   "diet": [
     "vegetarian",
@@ -10,43 +10,45 @@
   "meal": "snack",
   "ingredients": [
     {
-      "name": "anchovy",
-      "amount": "2 anchovy fillets"
+      "name": "Anchovy fillets",
+      "amount": "6-8 fillets"
     },
     {
-      "name": "toast",
-      "amount": "1 slice"
+      "name": "Whole wheat toast",
+      "amount": "4 slices"
     },
     {
-      "name": "delight",
-      "amount": "1 tablespoon",
-      "notes": "such as aioli or garlic spread"
+      "name": "Delight spread",
+      "amount": "2 tablespoons"
     }
   ],
   "instructions": [
-    "1. Toast the bread until lightly browned.",
-    "2. Spread 1 tablespoon of delight on top of the toast.",
-    "3. Place 2 anchovy fillets on top of the delight.",
-    "4. Serve immediately and enjoy!"
+    "1. Preheat the oven to 350°F (175°C).",
+    "2. Place the toast slices on a baking sheet.",
+    "3. Top each slice with a layer of Delight spread.",
+    "4. Place the anchovy fillets on top of the Delight spread.",
+    "5. Bake for 5-7 minutes or until the anchovies are lightly browned.",
+    "6. Remove from the oven and let cool for a minute.",
+    "7. Serve warm and enjoy!"
   ],
-  "prepTimeMin": 2,
-  "cookTimeMin": 2,
-  "totalTimeMin": 4,
-  "servings": 1,
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 4,
   "difficulty": "easy",
   "tags": [
     "anchovy",
     "toast",
-    "delight"
+    "appetizer"
   ],
   "nutrition": {
-    "calories": 150,
-    "protein": 12,
-    "carbs": 15,
+    "calories": 220,
+    "protein": 10,
+    "carbs": 30,
     "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/anchovy-toast-delight",
   "providerUsed": "groq",
-  "createdAt": "2026-07-08T02:41:02.008Z"
+  "createdAt": "2026-07-09T17:54:06.363Z"
 }
