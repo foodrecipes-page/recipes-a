@@ -1,0 +1,91 @@
+{
+  "slug": "airy-aromatic-tunisian-vegetable-bowl",
+  "title": "Tunisian Vegetable Bowl",
+  "description": "A flavorful and nutritious bowl filled with roasted Tunisian spices and fresh vegetables.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tunisian spice blend",
+      "amount": "2 tsp",
+      "notes": "Available at most Middle Eastern markets"
+    },
+    {
+      "name": "Zucchini",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Red onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Chickpeas",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "Canned tomatoes",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Bowl",
+      "amount": "",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "In a large bowl, whisk together the Tunisian spice blend, olive oil, salt, and black pepper.",
+    "Add the zucchini, bell peppers, and red onion to the bowl and toss to coat with the spice blend.",
+    "Spread the vegetables on a baking sheet and roast in the oven for 20-25 minutes, or until tender.",
+    "While the vegetables are roasting, heat the chickpeas and canned tomatoes in a saucepan over medium heat.",
+    "Once the vegetables are done, add them to the saucepan with the chickpeas and tomatoes.",
+    "Serve the mixture in a bowl and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "north african",
+    "vegetarian",
+    "bowls"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-aromatic-tunisian-vegetable-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-09T17:52:46.098Z"
+}
