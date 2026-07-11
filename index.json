@@ -5135,16 +5135,15 @@
   },
   {
     "slug": "aromatic-japanese-chicken-kushiyaki",
-    "title": "Aromatic Japanese Chicken Kushiyaki",
+    "title": "Japanese Kushiyaki Chicken Skewers",
     "tags": [
-      "chicken",
-      "grilled",
       "japanese",
+      "chicken",
       "kushiyaki",
-      "nuka-pickle"
+      "grill"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
