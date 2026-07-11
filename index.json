@@ -1602,16 +1602,12 @@
     "slug": "airy-aromatic-tunisian-vegetable-bowl",
     "title": "Tunisian Vegetable Bowl",
     "tags": [
-      "dairy-free",
-      "easy-to-make",
-      "high-protein",
-      "north-african",
-      "one-pan",
+      "north african",
       "vegetarian",
-      "weeknight"
+      "bowls"
     ],
     "cuisine": "North African",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -3530,10 +3526,10 @@
     "tags": [
       "anchovy",
       "toast",
-      "delight"
+      "appetizer"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 4,
+    "totalTimeMin": 10,
     "shard": "a"
   },
   {
