@@ -167,18 +167,14 @@
   },
   {
     "slug": "acrunchy-umami-aji-pasta",
-    "title": "Acrunchy Umami Aji Pasta",
+    "title": "Aji Spaghetti",
     "tags": [
-      "ayurvedic",
-      "crispy",
-      "fermented",
-      "kid-friendly",
-      "peruvian",
-      "tamasic",
-      "umami"
+      "italian",
+      "spicy",
+      "pasta"
     ],
-    "cuisine": "Peruvian",
-    "totalTimeMin": 40,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
