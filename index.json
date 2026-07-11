@@ -2838,16 +2838,15 @@
   },
   {
     "slug": "amazingly-aromatic-greek-beans-gigantes-plaki",
-    "title": "Amazingly Aromatic Greek Beans Gigantes Plaki",
+    "title": "Gigantes Plaki (Greek Giant Beans)",
     "tags": [
-      "comfort-food",
-      "greek-cuisine",
-      "lacto-vegetarian",
-      "one-pot",
-      "weeknight"
+      "greek",
+      "vegetarian",
+      "beans",
+      "tomato-sauce"
     ],
     "cuisine": "Greek",
-    "totalTimeMin": 120,
+    "totalTimeMin": 55,
     "shard": "a"
   },
   {
