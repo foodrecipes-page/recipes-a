@@ -1,0 +1,60 @@
+{
+  "slug": "aerated-mediterranean-garlic-stew",
+  "title": "Mediterranean Stew",
+  "description": "A hearty and flavorful stew made with the rich flavors of the Mediterranean. Perfect for a cold winter's day.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "stew",
+      "amount": "1 cup"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "aerated",
+      "amount": "1 bottle (champagne or prosecco)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "or other cooking oil"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the garlic and sauté until fragrant.",
+    "Add the stew and cook for 5-7 minutes.",
+    "Add 1 cup of water and bring to a boil.",
+    "Reduce heat to low and simmer for 20-25 minutes.",
+    "Add the champagne and simmer for an additional 5-10 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mediterranean",
+    "stew",
+    "garlic",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-mediterranean-garlic-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T13:43:58.685Z"
+}
