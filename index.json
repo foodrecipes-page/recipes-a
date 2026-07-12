@@ -583,15 +583,15 @@
   },
   {
     "slug": "adventurous-tomato-knead",
-    "title": "Adventurous Tomato Knead",
+    "title": "Kneaded Tomato Bread",
     "tags": [
-      "tomato",
-      "garlic",
-      "onion",
-      "fish sauce"
+      "bread",
+      "italian",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "Malaysian",
-    "totalTimeMin": 30,
+    "cuisine": "italian",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -2071,16 +2071,15 @@
   },
   {
     "slug": "alive-algerian-chinese-cabbage-stew",
-    "title": "Alive Algerian Chinese Cabbage Stew",
+    "title": "Algerian Stew",
     "tags": [
-      "energizing",
-      "kitchen-cauldron",
-      "light",
-      "ovo-vegetarian",
-      "stew"
+      "algerian",
+      "stew",
+      "lunch",
+      "vegetarian"
     ],
     "cuisine": "Algerian",
-    "totalTimeMin": 30,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
