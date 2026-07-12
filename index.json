@@ -1305,17 +1305,15 @@
   },
   {
     "slug": "air-fried-herbs-irish-pasta",
-    "title": "Air-Fried Herbs Irish Pasta",
+    "title": "Irish Pasta Bake",
     "tags": [
-      "air-fried",
-      "herbal",
-      "creamy",
-      "comforting",
       "irish",
-      "raw-friendly"
+      "pasta",
+      "casserole",
+      "sausage"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 25,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -4721,17 +4719,15 @@
   },
   {
     "slug": "aromatic-egyptian-shrimp-pilaf",
-    "title": "Aromatic Egyptian Shrimp Pilaf",
+    "title": "Egyptian Shrimp Pilaf",
     "tags": [
-      "kid-friendly",
-      "low-glycemic",
-      "middle-eastern",
-      "one-pan",
-      "seafood",
-      "weeknight"
+      "egyptian",
+      "shrimp",
+      "pilaf",
+      "one-pot"
     ],
     "cuisine": "Egyptian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
