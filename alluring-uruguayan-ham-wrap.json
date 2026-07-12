@@ -1,0 +1,73 @@
+{
+  "slug": "alluring-uruguayan-ham-wrap",
+  "title": "Uruguayan Ham Wrap",
+  "description": "A delicious and easy-to-make wrap filled with Uruguayan ham and alluring flavors.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Uruguayan Ham",
+      "amount": "6 oz"
+    },
+    {
+      "name": "Large Flour Tortilla",
+      "amount": "1",
+      "notes": "for wrap"
+    },
+    {
+      "name": "Cheddar Cheese",
+      "amount": "1/2 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salsa",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Mayonnaise",
+      "amount": "1 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Place the tortilla in the pan and cook for 1-2 minutes.",
+    "3. Add the Uruguayan ham to the tortilla and cook for 2-3 minutes.",
+    "4. Sprinkle the cheddar cheese on top of the ham.",
+    "5. Fold the tortilla in half to enclose the filling.",
+    "6. Cook for an additional 2-3 minutes or until the cheese is melted.",
+    "7. Garnish with chopped cilantro.",
+    "8. Serve with salsa and mayonnaise if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 8,
+  "totalTimeMin": 13,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "uruguayan",
+    "ham",
+    "wrap",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/alluring-uruguayan-ham-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T02:06:26.551Z"
+}
