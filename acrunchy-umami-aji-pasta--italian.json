@@ -1,0 +1,83 @@
+{
+  "slug": "acrunchy-umami-aji-pasta--italian",
+  "title": "Italian Aji Pasta",
+  "description": "A quick and flavorful Italian-inspired pasta dish with the added spice of aji peppers.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "acrunchy",
+      "amount": "1 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tbsp",
+      "notes": "dried porcini mushroom powder"
+    },
+    {
+      "name": "aji",
+      "amount": "2",
+      "notes": "diced pepper"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the diced aji peppers and cook for 2-3 minutes until tender.",
+    "Stir in the porcini mushroom powder and cook for 1 minute.",
+    "Add the cooked pasta to the skillet and toss with the garlic-aji mixture.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "pasta",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrunchy-umami-aji-pasta--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-10T04:32:54.262Z"
+}
