@@ -1,0 +1,71 @@
+{
+  "slug": "adventurous-tomato-knead",
+  "title": "Kneaded Tomato Bread",
+  "description": "A simple bread recipe that combines the tanginess of tomatoes with the richness of kneaded dough.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-containing"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "tomato",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "flour",
+      "amount": "3 cups",
+      "notes": "all-purpose"
+    },
+    {
+      "name": "yeast",
+      "amount": "1 packet"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large mixing bowl, combine flour, salt, sugar, and yeast.",
+    "2. Gradually add in olive oil and knead the dough for 10 minutes.",
+    "3. Let the dough rest for 1 hour in a warm place.",
+    "4. Preheat the oven to 375°F (190°C).",
+    "5. Roll out the dough to a thickness of 1/2 inch.",
+    "6. Spread diced tomatoes on top of the dough.",
+    "7. Roll the dough into a log shape and place it on a baking sheet.",
+    "8. Bake for 25-30 minutes or until golden brown.",
+    "9. Let cool for 10 minutes before slicing.",
+    "10. Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "bread",
+    "italian",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 40,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-tomato-knead",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T10:24:49.645Z"
+}
