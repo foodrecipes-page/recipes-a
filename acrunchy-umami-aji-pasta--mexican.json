@@ -1,0 +1,68 @@
+{
+  "slug": "acrunchy-umami-aji-pasta--mexican",
+  "title": "Spicy Aji Pasta",
+  "description": "A quick and spicy Mexican pasta dish made with aji peppers, crunchy texture, and umami flavor.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "Aji peppers",
+      "amount": "2",
+      "notes": "seeded and chopped"
+    },
+    {
+      "name": "Umami sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Crunchy",
+      "amount": "1/2 cup",
+      "notes": "crushed tortilla chips"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to the package instructions.",
+    "In a large skillet, heat the umami sauce over medium-high heat.",
+    "Add the chopped aji peppers to the skillet and cook for 2-3 minutes or until they start to soften.",
+    "Add the cooked pasta to the skillet and toss with the aji peppers and umami sauce.",
+    "Sprinkle the crushed tortilla chips on top of the pasta and toss again to combine.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy.",
+    "Optional: top with cilantro, lime wedges, or extra aji peppers."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "spicy",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 12,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrunchy-umami-aji-pasta--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-10T02:46:43.342Z"
+}
