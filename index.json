@@ -4405,18 +4405,16 @@
   },
   {
     "slug": "aromatic-crispy-turkish-bacon-lardon-lahmacun",
-    "title": "Aromatic Crispy Turkish Bacon Lardon Lahmacun",
+    "title": "Turkish-Style Lahmacun with Crispy Bacon",
     "tags": [
-      "breakfast",
-      "high-protein",
       "lahmacun",
-      "lunch",
-      "one-pan",
       "turkish",
-      "weeknight"
+      "bacon",
+      "crispy",
+      "aromatic"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 30,
+    "totalTimeMin": 22,
     "shard": "a"
   },
   {
