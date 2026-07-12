@@ -2545,17 +2545,16 @@
   },
   {
     "slug": "amazing-char-grilled-filipino-tofu-skewers",
-    "title": "Amazing Char Grilled Filipino Tofu Skewers",
+    "title": "Grilled Filipino-Style Tofu Skewers",
     "tags": [
-      "filipino-food",
-      "grilled-food",
-      "snack-ideas",
-      "tofu-recipes",
-      "vegan-friendly",
-      "vegetarian-options"
+      "filipino",
+      "grilled",
+      "tofu",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "Filipino",
-    "totalTimeMin": 32,
+    "cuisine": "filipino",
+    "totalTimeMin": 18,
     "shard": "a"
   },
   {
@@ -3779,14 +3778,12 @@
   },
   {
     "slug": "aromatic-amber-filipino-banana-pudding",
-    "title": "Aromatic Amber Filipino Banana Pudding",
+    "title": "Filipino-Style Banana Pudding",
     "tags": [
-      "banana-pudding",
-      "coconut-milk",
-      "filipino-dessert",
-      "lazy-sunday",
-      "low-glycemic",
-      "slate-tile"
+      "filipino",
+      "banana",
+      "pudding",
+      "dessert"
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 45,
