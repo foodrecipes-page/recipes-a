@@ -1,0 +1,76 @@
+{
+  "slug": "aromatic-crispy-turkish-bacon-lardon-lahmacun",
+  "title": "Turkish-Style Lahmacun with Crispy Bacon",
+  "description": "A twist on the classic Turkish lahmacun, topped with crispy bacon and a sprinkle of aromatic spices.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "crispy bacon",
+      "amount": "6 slices",
+      "notes": ""
+    },
+    {
+      "name": "lahmacun",
+      "amount": "1",
+      "notes": "available at most Middle Eastern markets"
+    },
+    {
+      "name": "aromatic spice blend",
+      "amount": "1 tsp",
+      "notes": "available at most spice stores"
+    },
+    {
+      "name": "turkish red pepper flakes",
+      "amount": "1/2 tsp",
+      "notes": "available at most spice stores"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Line a baking sheet with parchment paper.",
+    "Cut the lahmacun into 6 equal pieces.",
+    "Place the lahmacun pieces on the prepared baking sheet.",
+    "Top each piece with a slice of crispy bacon.",
+    "Sprinkle the aromatic spice blend and turkish red pepper flakes over the bacon.",
+    "Season with salt and black pepper to taste.",
+    "Bake for 10-12 minutes, or until the bacon is crispy and the lahmacun is golden brown.",
+    "Remove from the oven and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 12,
+  "totalTimeMin": 22,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lahmacun",
+    "turkish",
+    "bacon",
+    "crispy",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-turkish-bacon-lardon-lahmacun",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:57:46.235Z"
+}
