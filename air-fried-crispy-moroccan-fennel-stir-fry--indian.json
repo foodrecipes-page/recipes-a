@@ -1,0 +1,80 @@
+{
+  "slug": "air-fried-crispy-moroccan-fennel-stir-fry--indian",
+  "title": "Crispy Fried Fennel Bites",
+  "description": "A crunchy and flavorful Indian-inspired snack made with crispy fried fennel. Serve as a side dish or appetizer.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "2 bulbs"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cornstarch",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "1. Cut the fennel into 1-inch pieces.",
+    "2. In a bowl, mix together the flour, cornstarch, salt, black pepper, garlic powder, and garam masala.",
+    "3. Dip each fennel piece into the flour mixture, coating evenly.",
+    "4. Heat the oil in a deep frying pan over medium-high heat.",
+    "5. Fry the fennel pieces in batches until golden brown and crispy.",
+    "6. Drain the fried fennel on paper towels.",
+    "7. Mix the lemon juice with the fried fennel pieces.",
+    "8. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "snack",
+    "fennel",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-moroccan-fennel-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-10T03:04:34.235Z"
+}
