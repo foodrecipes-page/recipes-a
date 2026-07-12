@@ -1,0 +1,80 @@
+{
+  "slug": "air-fried-herbs-irish-pasta",
+  "title": "Irish Pasta Bake",
+  "description": "A hearty, comforting casserole made with Irish sausage and pasta.",
+  "cuisine": "Irish",
+  "diet": [
+    "meat",
+    "pasta"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Irish sausage",
+      "amount": "1 pound",
+      "notes": " sliced"
+    },
+    {
+      "name": "Pasta",
+      "amount": "8 ounces",
+      "notes": "penne or similar shape"
+    },
+    {
+      "name": "Herbs",
+      "amount": "1 tablespoon",
+      "notes": "dried thyme and rosemary"
+    },
+    {
+      "name": "Fried onion",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    },
+    {
+      "name": "Grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pasta according to the package instructions until al dente. Drain and set aside.",
+    "In a large skillet, cook the Irish sausage over medium-high heat until browned, about 5 minutes.",
+    "Add the fried onion to the skillet and cook for an additional 2 minutes.",
+    "Stir in the herbs and cook for 1 minute.",
+    "In a large bowl, combine the cooked pasta, sausage mixture, and grated cheese.",
+    "Transfer the pasta mixture to a baking dish and sprinkle with flour.",
+    "Bake in the preheated oven for 20-25 minutes, or until the top is golden brown and the casserole is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "pasta",
+    "casserole",
+    "sausage"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-herbs-irish-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T07:08:15.182Z"
+}
