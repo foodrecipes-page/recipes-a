@@ -4469,14 +4469,11 @@
   },
   {
     "slug": "aromatic-dense-brazilian-beef-skewers",
-    "title": "Aromatic Dense Brazilian Beef Skewers",
+    "title": "Grilled Brazilian Beef Skewers",
     "tags": [
-      "brazilian-cuisine",
+      "beef",
       "grilled",
-      "high-protein",
-      "keto-friendly",
-      "low-carb",
-      "spicy"
+      "brazilian"
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 35,
@@ -9733,6 +9730,214 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 170,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-funky-saudi-arabian-casserole-tagine--vegetarian",
+    "title": "Saudian Tagine Stew",
+    "tags": [
+      "saudi",
+      "stew",
+      "vegetarian",
+      "lunch"
+    ],
+    "cuisine": "saudi",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-dense-slovakian-pork-casserole--thai",
+    "title": "Slovakian Pork Casserole with Thai Twist",
+    "tags": [
+      "casserole",
+      "thai",
+      "slovakian",
+      "pork"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "ackee-umami-bliss--indian",
+    "title": "Ackee and Umami Bliss Biryani",
+    "tags": [
+      "biryani",
+      "indian-cuisine",
+      "ackee",
+      "umami",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "acrunchy-umami-aji-pasta--chinese",
+    "title": "Savory Aji Pasta Stir Fry",
+    "tags": [
+      "chinese-cuisine",
+      "pasta-recipes",
+      "stir-fry",
+      "aji-peppers",
+      "umami-flavors"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 13,
+    "shard": "a"
+  },
+  {
+    "slug": "acrunchy-umami-aji-pasta--mexican",
+    "title": "Spicy Pasta Fiesta",
+    "tags": [
+      "mexican",
+      "pasta",
+      "spicy",
+      "quick-dinner"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-moroccan-fennel-stir-fry--indian",
+    "title": "Crispy Fried Fennel Bites",
+    "tags": [
+      "indian",
+      "snack",
+      "fennel",
+      "fried"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-funky-saudi-arabian-casserole-tagine--thai",
+    "title": "Thai Tagine Casserole",
+    "tags": [
+      "thai-cuisine",
+      "moroccan-fusion",
+      "casserole",
+      "veggie-casserole"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-dense-slovakian-pork-casserole--italian",
+    "title": "Slovakian Pork Casserole",
+    "tags": [
+      "pork",
+      "casserole",
+      "italian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 55,
+    "shard": "a"
+  },
+  {
+    "slug": "ackee-umami-bliss--japanese",
+    "title": "Blissful Japanese Ackee Bowl",
+    "tags": [
+      "japanese",
+      "vegetarian",
+      "breakfast"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "acrunchy-umami-aji-pasta--italian",
+    "title": "Spicy Italian Pasta",
+    "tags": [
+      "italian",
+      "spicy",
+      "pasta",
+      "easy-dinner"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-moroccan-fennel-stir-fry--keto",
+    "title": "Moroccan Crispy Fennel Fries (Keto)",
+    "tags": [
+      "keto",
+      "moroccan",
+      "fennel",
+      "fries"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-funky-saudi-arabian-casserole-tagine--chinese",
+    "title": "Saudi Arabian Chicken Tagine Casserole",
+    "tags": [
+      "chinese",
+      "middle-eastern",
+      "fusion",
+      "casserole",
+      "tagine"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-dense-slovakian-pork-casserole--keto",
+    "title": "Slovakian Keto Pork Casserole",
+    "tags": [
+      "keto",
+      "pork",
+      "casserole",
+      "slovakian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-dense-slovakian-pork-casserole--indian",
+    "title": "Slovakian-Style Pork Casserole",
+    "tags": [
+      "indian",
+      "casserole",
+      "pork",
+      "slovakian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "ackee-umami-bliss--keto",
+    "title": "Blissful Ackee Fritters",
+    "tags": [
+      "keto",
+      "snack",
+      "caribbean",
+      "fritters"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 18,
+    "shard": "a"
+  },
+  {
+    "slug": "acrunchy-umami-aji-pasta--japanese",
+    "title": "Spicy Aji Pasta",
+    "tags": [
+      "japanese",
+      "pasta",
+      "spicy"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
     "shard": "a"
   }
 ]
