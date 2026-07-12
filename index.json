@@ -861,17 +861,15 @@
   },
   {
     "slug": "aerated-mediterranean-garlic-stew",
-    "title": "Aerated Mediterranean Garlic Stew",
+    "title": "Mediterranean Stew",
     "tags": [
-      "easy-to-make",
-      "gluten-free",
-      "meal-prep",
       "mediterranean",
-      "one-pan",
-      "vegetarian"
+      "stew",
+      "garlic",
+      "easy"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
