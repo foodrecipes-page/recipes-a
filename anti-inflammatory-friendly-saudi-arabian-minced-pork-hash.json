@@ -1,0 +1,88 @@
+{
+  "slug": "anti-inflammatory-friendly-saudi-arabian-minced-pork-hash",
+  "title": "Saudi Arabian Hash",
+  "description": "A traditional Saudi dish made with minced pork and a blend of spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "minced pork",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "arabian hash",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the minced pork and cook until browned, breaking it up into small pieces as it cooks.",
+    "Add the onion and garlic to the skillet and cook until the onion is translucent.",
+    "Add the cumin, coriander, salt, and black pepper to the skillet and stir to combine.",
+    "Add the Arabian hash to the skillet and stir to combine.",
+    "Reduce heat to medium-low and simmer for 10 minutes.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi arabian",
+    "pork",
+    "hash",
+    "middle eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/anti-inflammatory-friendly-saudi-arabian-minced-pork-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T09:07:49.335Z"
+}
