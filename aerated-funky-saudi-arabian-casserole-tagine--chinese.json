@@ -1,0 +1,88 @@
+{
+  "slug": "aerated-funky-saudi-arabian-casserole-tagine--chinese",
+  "title": "Saudi Arabian Chicken Tagine Casserole",
+  "description": "A fusion of Middle Eastern and Chinese flavors, this dish combines the rich taste of Saudi Arabian tagine with the comfort of a Chinese casserole.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "arabian tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "funky rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "aerated vegetable broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "casserole mix",
+      "amount": "1 package",
+      "notes": "store-bought"
+    },
+    {
+      "name": "saudi dates",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat the coconut oil over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5 minutes.",
+    "Add the Arabian tagine spice blend and cook for an additional minute.",
+    "In a large mixing bowl, combine the funky rice, aerated vegetable broth, casserole mix, saudi dates, and chopped scallions.",
+    "Stir in the cooked chicken and mix well.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Serve hot and enjoy!",
+    "Note: If using store-bought casserole mix, follow package instructions for additional ingredients and cooking time."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "middle-eastern",
+    "fusion",
+    "casserole",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 50,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-funky-saudi-arabian-casserole-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-10T05:13:37.780Z"
+}
