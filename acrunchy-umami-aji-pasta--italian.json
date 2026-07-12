@@ -1,83 +1,63 @@
 {
   "slug": "acrunchy-umami-aji-pasta--italian",
-  "title": "Italian Aji Pasta",
-  "description": "A quick and flavorful Italian-inspired pasta dish with the added spice of aji peppers.",
-  "cuisine": "italian",
+  "title": "Spicy Italian Pasta",
+  "description": "A spicy twist on classic Italian pasta, featuring aji for an added kick. This dish is quick, easy, and perfect for a weeknight dinner.",
+  "cuisine": "Italian",
   "diet": [
-    null
+    "vegetarian"
   ],
   "meal": "dinner",
   "ingredients": [
     {
       "name": "pasta",
       "amount": "8 oz",
-      "notes": "linguine or fettuccine work well"
+      "notes": "linguine or spaghetti work well"
     },
     {
       "name": "acrunchy",
       "amount": "1 cup",
-      "notes": "chopped fresh parsley"
+      "notes": "chopped nuts or seeds for added crunch"
     },
     {
       "name": "umami",
       "amount": "2 tbsp",
-      "notes": "dried porcini mushroom powder"
+      "notes": "dried mushroom powder or soy sauce"
     },
     {
       "name": "aji",
-      "amount": "2",
-      "notes": "diced pepper"
-    },
-    {
-      "name": "garlic",
-      "amount": "3 cloves",
-      "notes": "minced"
-    },
-    {
-      "name": "olive oil",
-      "amount": "2 tbsp",
-      "notes": "for cooking"
-    },
-    {
-      "name": "salt",
-      "amount": "to taste",
-      "notes": null
-    },
-    {
-      "name": "pepper",
-      "amount": "to taste",
-      "notes": null
+      "amount": "1-2 peppers",
+      "notes": "depending on desired level of heat"
     }
   ],
   "instructions": [
-    "Bring a large pot of salted water to a boil.",
-    "Cook the pasta according to package instructions until al dente.",
-    "In a large skillet, heat the olive oil over medium heat.",
-    "Add the minced garlic and cook for 1 minute until fragrant.",
-    "Add the diced aji peppers and cook for 2-3 minutes until tender.",
-    "Stir in the porcini mushroom powder and cook for 1 minute.",
-    "Add the cooked pasta to the skillet and toss with the garlic-aji mixture.",
+    "Cook pasta according to package instructions.",
+    "In a large skillet, heat 1 tbsp olive oil over medium-high heat.",
+    "Add chopped aji peppers and cook until tender, about 3-4 minutes.",
+    "Add umami powder and stir to combine.",
+    "Add cooked pasta to the skillet and toss to coat with spice mixture.",
+    "Top with chopped acrunchy for added crunch.",
     "Season with salt and pepper to taste.",
-    "Garnish with chopped parsley and serve hot."
+    "Serve immediately and enjoy!"
   ],
   "prepTimeMin": 10,
-  "cookTimeMin": 15,
-  "totalTimeMin": 25,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
     "italian",
+    "spicy",
     "pasta",
-    "spicy"
+    "easy-dinner"
   ],
   "nutrition": {
-    "calories": 350,
-    "protein": 10,
+    "calories": 420,
+    "protein": 15,
     "carbs": 60,
     "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/acrunchy-umami-aji-pasta--italian",
   "providerUsed": "groq",
-  "createdAt": "2026-07-10T04:32:54.262Z"
+  "createdAt": "2026-07-10T06:35:03.502Z"
 }
