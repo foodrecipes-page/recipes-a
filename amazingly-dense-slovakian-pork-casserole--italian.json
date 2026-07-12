@@ -1,0 +1,80 @@
+{
+  "slug": "amazingly-dense-slovakian-pork-casserole--italian",
+  "title": "Slovakian Pork Casserole",
+  "description": "Hearty, comforting Slovakian-inspired casserole with tender pork, rich sauce, and crispy top.",
+  "cuisine": "italian",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1.5 pounds"
+    },
+    {
+      "name": "Dense Slovakian bread",
+      "amount": "1 cup, cubed"
+    },
+    {
+      "name": "Amazingly rich tomato sauce",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "Grated Parmesan cheese",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup, chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pork shoulder in a large skillet over medium-high heat until browned, about 5 minutes. Remove from heat.",
+    "In the same skillet, cook mushrooms and onions until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Stir in tomato sauce and bring to a simmer.",
+    "Add pork back to the skillet and stir to coat with sauce.",
+    "In a large mixing bowl, combine bread, Parmesan cheese, and parsley.",
+    "In a greased 9x13-inch baking dish, arrange half of the bread mixture. Top with the pork mixture and remaining bread mixture.",
+    "Bake in preheated oven for 30 minutes.",
+    "Increase oven temperature to broil. Broil for an additional 5-7 minutes, until top is golden brown.",
+    "Remove from oven and let rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "pork",
+    "casserole",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 44,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-dense-slovakian-pork-casserole--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-10T03:35:13.885Z"
+}
