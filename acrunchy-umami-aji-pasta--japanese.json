@@ -1,0 +1,58 @@
+{
+  "slug": "acrunchy-umami-aji-pasta--japanese",
+  "title": "Spicy Aji Pasta",
+  "description": "A Japanese-inspired pasta dish with a spicy kick from aji peppers. Serve immediately for the best results.",
+  "cuisine": "japanese",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz (225g)",
+      "notes": ""
+    },
+    {
+      "name": "umami",
+      "amount": "2 tbsp (30g)",
+      "notes": "Dried seaweed or mushroom powder can be used as a substitute"
+    },
+    {
+      "name": "ac crunchy",
+      "amount": "1 cup (25g)",
+      "notes": "Sesame seeds can be used as a substitute"
+    },
+    {
+      "name": "aji",
+      "amount": "2 medium peppers, sliced",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook the pasta according to package instructions until al dente.",
+    "In a small saucepan, heat the umami over medium heat until fragrant.",
+    "Add the sliced aji peppers to the saucepan and cook until they start to soften.",
+    "Add the cooked pasta to the saucepan and toss with the aji pepper mixture.",
+    "Sprinkle the ac crunchy on top of the pasta and toss to combine.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "pasta",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrunchy-umami-aji-pasta--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-10T06:44:17.927Z"
+}
