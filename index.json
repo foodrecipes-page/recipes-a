@@ -3530,16 +3530,14 @@
   },
   {
     "slug": "anti-inflammatory-friendly-saudi-arabian-minced-pork-hash",
-    "title": "Saudi Arabian Minced Pork Hash",
+    "title": "Saudi Arabian Hash",
     "tags": [
-      "anti-inflammatory",
-      "anti-inflammatory-friendly",
-      "breakfast",
+      "saudi arabian",
+      "pork",
       "hash",
-      "minced-pork",
-      "saudi-arabian"
+      "middle eastern"
     ],
-    "cuisine": "saudi arbian",
+    "cuisine": "Saudi Arabian",
     "totalTimeMin": 35,
     "shard": "a"
   },
@@ -3723,17 +3721,17 @@
   },
   {
     "slug": "aromatic-algerian-quinoa-tagine",
-    "title": "Aromatic Algerian Quinoa Tagine",
+    "title": "Algerian Quinoa Tagine",
     "tags": [
-      "comfort-food",
-      "gluten-free",
-      "healthy",
+      "algerian",
+      "quinoa",
+      "tagine",
       "north-african",
-      "one-pot",
-      "vegetarian"
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 50,
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
