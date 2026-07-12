@@ -1,0 +1,62 @@
+{
+  "slug": "aromatic-dense-brazilian-beef-skewers",
+  "title": "Grilled Brazilian Beef Skewers",
+  "description": "A flavorful and easy-to-make recipe for grilled beef skewers with a Brazilian twist. Marinate the beef in a mix of aromatic spices and then grill to perfection.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": "Brazilian-style spice blend"
+    },
+    {
+      "name": "dense",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "brazilian",
+      "amount": "1 tablespoon",
+      "notes": "chopped fresh cilantro"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together aromatic, dense, and 2 tablespoons of olive oil",
+    "Add the beef cubes to the marinade and mix well to coat",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight",
+    "Preheat grill to medium-high heat",
+    "Thread the marinated beef cubes onto skewers",
+    "Grill the skewers for 8-10 minutes per side, or until the beef reaches an internal temperature of 135°F",
+    "Let the skewers rest for 5 minutes before serving",
+    "Serve hot, garnished with additional chopped cilantro if desired"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "grilled",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-dense-brazilian-beef-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T00:45:44.504Z"
+}
