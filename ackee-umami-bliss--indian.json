@@ -1,0 +1,83 @@
+{
+  "slug": "ackee-umami-bliss--indian",
+  "title": "Ackee and Umami Bliss Biryani",
+  "description": "A unique and flavorful Indian-style biryani dish featuring ackee, umami, and bliss ingredients. Serve hot and enjoy!",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tsp (umami paste or powder)"
+    },
+    {
+      "name": "bliss",
+      "amount": "1/2 cup (coconut milk)"
+    },
+    {
+      "name": "Basmati rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "ghee",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a pan and add cumin seeds.",
+    "Once the seeds start crackling, add coriander powder and turmeric powder. Cook for 1 minute.",
+    "Add Basmati rice and cook until it's lightly toasted.",
+    "In a separate pan, heat umami paste or powder and add ackee. Cook until the ackee is tender.",
+    "Add coconut milk and mix well.",
+    "To assemble the biryani, layer cooked rice and ackee mixture alternatively.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "biryani",
+    "indian-cuisine",
+    "ackee",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ackee-umami-bliss--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-10T02:04:48.877Z"
+}
