@@ -2137,17 +2137,16 @@
   },
   {
     "slug": "alluring-uruguayan-ham-wrap",
-    "title": "Alluring Uruguayan Ham Wrap",
+    "title": "Uruguayan Ham Wrap",
     "tags": [
-      "cheese-pull",
-      "kitchen-quick",
-      "quick",
-      "romantic",
-      "sweet-and-savory",
-      "wrap"
+      "uruguayan",
+      "ham",
+      "wrap",
+      "lunch",
+      "easy"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 20,
+    "totalTimeMin": 13,
     "shard": "a"
   },
   {
