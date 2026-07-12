@@ -1,0 +1,103 @@
+{
+  "slug": "aromatic-algerian-quinoa-tagine",
+  "title": "Algerian Quinoa Tagine",
+  "description": "A flavorful and nutritious North African-inspired dish made with quinoa, aromatic spices, and tender vegetables.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tsp",
+      "notes": "available at most spice stores"
+    },
+    {
+      "name": "aromatic oil",
+      "amount": "2 tbsp",
+      "notes": "such as olive or avocado oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "diced tomatoes",
+      "amount": "1 can",
+      "notes": "14 oz"
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": "vegetable or chicken broth"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the aromatic oil in a large saucepan over medium heat.",
+    "Add the chopped onion and sauté for 5 minutes or until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the chopped carrots and zucchini and cook for 5 minutes or until tender.",
+    "Stir in the algerian spice blend, salt, and pepper.",
+    "Add the diced tomatoes and water to the saucepan.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 15 minutes.",
+    "Fluff the cooked quinoa with a fork and stir it into the saucepan.",
+    "Cook for an additional 5 minutes or until the quinoa is heated through.",
+    "Serve hot, garnished with fresh parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "quinoa",
+    "tagine",
+    "north-african",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-algerian-quinoa-tagine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T09:06:17.007Z"
+}
