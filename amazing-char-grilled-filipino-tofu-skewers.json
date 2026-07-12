@@ -1,0 +1,68 @@
+{
+  "slug": "amazing-char-grilled-filipino-tofu-skewers",
+  "title": "Grilled Filipino-Style Tofu Skewers",
+  "description": "A delicious and easy-to-make dish that combines the flavors of the Philippines with the simplicity of grilled tofu skewers.",
+  "cuisine": "filipino",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "amazing",
+      "amount": "2 tbsp",
+      "notes": "Filipino-style barbecue sauce"
+    },
+    {
+      "name": "char",
+      "amount": "1 tsp",
+      "notes": "black pepper"
+    },
+    {
+      "name": "grilled",
+      "amount": "1 tsp",
+      "notes": "grated ginger"
+    },
+    {
+      "name": "skewers",
+      "amount": "10",
+      "notes": "bamboo or metal"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread tofu cubes onto skewers, leaving a small space between each piece.",
+    "In a small bowl, whisk together amazing, char, and grilled.",
+    "Brush the mixture evenly onto both sides of the tofu.",
+    "Grill the skewers for 3-4 minutes per side, or until the tofu is golden brown and slightly charred.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "filipino",
+    "grilled",
+    "tofu",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 10,
+    "carbs": 0,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-char-grilled-filipino-tofu-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:42:21.357Z"
+}
