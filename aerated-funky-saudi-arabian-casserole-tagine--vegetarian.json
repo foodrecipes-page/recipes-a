@@ -1,0 +1,75 @@
+{
+  "slug": "aerated-funky-saudi-arabian-casserole-tagine--vegetarian",
+  "title": "Saudian Tagine Casserole",
+  "description": "A flavorful vegetarian casserole inspired by the cuisine of Saudi Arabia, with a rich and aromatic tagine sauce.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Arabian casserole rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Funky mushrooms",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Aerated vegetable broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Saudian spices",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Diced onions",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Heat coconut oil in a large pan over medium heat.",
+    "Add diced onions and cook until softened, about 5 minutes.",
+    "Add sliced mushrooms and cook until they release their liquid and start to brown, about 5 minutes.",
+    "Add saudian spices and cook for 1 minute.",
+    "Add aerated vegetable broth and bring to a simmer.",
+    "Add casserole rice and stir to combine.",
+    "Transfer the mixture to a baking dish and cover with aluminum foil.",
+    "Bake for 25 minutes, then remove the foil and continue baking for an additional 10-15 minutes, or until the rice is tender and the top is lightly browned.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 35,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudian",
+    "tagine",
+    "casserole",
+    "vegetarian",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-funky-saudi-arabian-casserole-tagine--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-10T01:27:54.768Z"
+}
