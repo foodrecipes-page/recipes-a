@@ -1,0 +1,81 @@
+{
+  "slug": "ackee-umami-bliss--japanese",
+  "title": "Blissful Japanese Ackee Bowl",
+  "description": "A unique Japanese-inspired dish featuring ackee, umami flavors, and blissful spices.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 can (14 oz)",
+      "notes": "Canned ackee"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Rice vinegar",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Umami",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Bliss",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tbsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of oil in a pan over medium heat.",
+    "Add ginger and cook for 1 minute.",
+    "Add soy sauce, rice vinegar, umami, and bliss. Stir to combine.",
+    "Add ackee and stir to combine.",
+    "Cook for 2-3 minutes or until heated through.",
+    "Garnish with green onions and sesame seeds.",
+    "Serve over rice."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ackee-umami-bliss--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-10T04:04:47.330Z"
+}
