@@ -1,0 +1,79 @@
+{
+  "slug": "aromatic-egyptian-shrimp-pilaf",
+  "title": "Egyptian Shrimp Pilaf",
+  "description": "A flavorful and aromatic pilaf dish from Egypt, made with succulent shrimp and a medley of spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "pescatarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "aromatic",
+      "amount": "1 tablespoon olive oil"
+    },
+    {
+      "name": "egyptian",
+      "amount": "1 small onion, diced"
+    },
+    {
+      "name": "shrimp",
+      "amount": "1 pound large shrimp, peeled and deveined"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup uncooked white rice"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large saucepan over medium-high heat.",
+    "Add the diced onion and cook until translucent, about 3-4 minutes.",
+    "Add the cumin, coriander, salt, and black pepper. Cook for 1 minute.",
+    "Add the shrimp and cook until pink and just cooked through, about 2-3 minutes.",
+    "Add the rice to the saucepan and stir to coat with the spice mixture.",
+    "Add the lemon juice and stir to combine.",
+    "Bring the mixture to a boil, then reduce the heat to low, cover, and simmer for 15-20 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Fluff the pilaf with a fork and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "egyptian",
+    "shrimp",
+    "pilaf",
+    "one-pot"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-egyptian-shrimp-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T06:19:04.818Z"
+}
