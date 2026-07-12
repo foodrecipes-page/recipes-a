@@ -1,0 +1,90 @@
+{
+  "slug": "aromatic-amber-filipino-banana-pudding",
+  "title": "Filipino-Style Banana Pudding",
+  "description": "A creamy dessert inspired by Filipino cuisine, featuring caramelized banana and aromatic spices.",
+  "cuisine": "Filipino",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "bananas",
+      "amount": "4",
+      "notes": "ripe"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tsp",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "pudding",
+      "amount": "1 package",
+      "notes": "vanilla-flavored"
+    },
+    {
+      "name": "amber",
+      "amount": "1 tsp",
+      "notes": "honey"
+    },
+    {
+      "name": "evaporated milk",
+      "amount": "2 cups",
+      "notes": "full-fat"
+    },
+    {
+      "name": "sugar",
+      "amount": "1/2 cup",
+      "notes": "granulated"
+    },
+    {
+      "name": "egg yolks",
+      "amount": "2",
+      "notes": "large"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 tbsp",
+      "notes": "cornstarch can be substituted"
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (175°C).",
+    "2. In a medium saucepan, combine the pudding, evaporated milk, sugar, and melted butter. Cook over medium heat, stirring constantly, until the mixture comes to a boil.",
+    "3. Remove the saucepan from the heat and stir in the ground cinnamon. Let it steep for 5 minutes.",
+    "4. In a separate bowl, whisk together the egg yolks and cornstarch. Temper the egg yolks by slowly pouring the warm pudding mixture into the egg yolks, whisking constantly.",
+    "5. Add the tempered egg yolks back into the saucepan and cook over low heat, stirring constantly, until the mixture thickens.",
+    "6. Arrange the sliced bananas in a baking dish and pour the pudding mixture over the bananas.",
+    "7. Bake the banana pudding in the preheated oven for 25-30 minutes, or until the top is lightly golden brown.",
+    "8. Remove the banana pudding from the oven and let it cool to room temperature.",
+    "9. Refrigerate the banana pudding for at least 2 hours, or until chilled and set.",
+    "10. Serve the Filipino-Style Banana Pudding chilled, garnished with toasted coconut flakes or chopped nuts if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "filipino",
+    "banana",
+    "pudding",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-amber-filipino-banana-pudding",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T05:28:35.021Z"
+}
