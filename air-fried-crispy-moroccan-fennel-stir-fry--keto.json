@@ -1,0 +1,78 @@
+{
+  "slug": "air-fried-crispy-moroccan-fennel-stir-fry--keto",
+  "title": "Moroccan Crispy Fennel Fries (Keto)",
+  "description": "A delicious and crispy fennel fry recipe, seasoned with moroccan spices, perfect for a keto diet.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fennel",
+      "amount": "2 large bulbs",
+      "notes": "Cut into fry shape"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/2 cup",
+      "notes": "For frying"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Moroccan spice blend",
+      "amount": "2 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Cut the fennel into fry shape.",
+    "In a large bowl, combine the fennel fries, olive oil, salt, black pepper, Moroccan spice blend, garlic powder, and paprika. Toss to coat.",
+    "Heat a large skillet or deep fryer with about 2-3 inches of olive oil to 375°F.",
+    "Add the fennel fries to the hot oil in batches, being careful not to overcrowd the skillet.",
+    "Fry the fennel fries for about 3-4 minutes, or until crispy and golden brown.",
+    "Using a slotted spoon, remove the fennel fries from the oil and place them on a paper towel-lined plate to drain excess oil.",
+    "Repeat the frying process with the remaining fennel fries.",
+    "Serve the crispy fennel fries hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "moroccan",
+    "fennel",
+    "fries"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 10,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-moroccan-fennel-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-10T05:04:13.867Z"
+}
