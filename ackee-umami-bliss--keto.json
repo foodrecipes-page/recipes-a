@@ -1,0 +1,73 @@
+{
+  "slug": "ackee-umami-bliss--keto",
+  "title": "Blissful Ackee Fritters",
+  "description": "A delicious and crispy keto snack made with ackee, umami, and bliss. Perfect for a quick pick-me-up.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup, drained and chopped"
+    },
+    {
+      "name": "Umami paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bliss seeds",
+      "amount": "1/4 cup, ground"
+    },
+    {
+      "name": "Coconut flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2 large"
+    },
+    {
+      "name": "Shredded coconut",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a bowl, mix together ackee, umami paste, bliss seeds, coconut flour, eggs, shredded coconut, salt, and black pepper.",
+    "2. Heat a non-stick pan with a small amount of oil over medium heat.",
+    "3. Using a spoon, drop small amounts of the ackee mixture into the pan.",
+    "4. Flatten the mixture slightly with a spatula to form patties.",
+    "5. Cook for 3-4 minutes on each side, until golden brown and crispy.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "snack",
+    "caribbean",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 5,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ackee-umami-bliss--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-10T06:03:32.183Z"
+}
