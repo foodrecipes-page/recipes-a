@@ -10018,5 +10018,294 @@
     "cuisine": "French",
     "totalTimeMin": 50,
     "shard": "a"
+  },
+  {
+    "slug": "ackee-umami-bliss--french",
+    "title": "Ackee and Umami Omelette",
+    "tags": [
+      "french",
+      "omelette",
+      "breakfast",
+      "snack",
+      "ackee",
+      "umami"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "ackee-umami-bliss--thai",
+    "title": "Spicy Ackee Stir Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "vegetarian",
+      "spicy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "ackee-umami-bliss--german",
+    "title": "Ackee and Umami German Breakfast",
+    "tags": [
+      "german",
+      "breakfast",
+      "eggs",
+      "ackee"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "ackee-umami-bliss--mexican",
+    "title": "Blissful Mexican Ackee Fritters",
+    "tags": [
+      "mexican",
+      "fritters",
+      "ackee",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "ackee-umami-bliss--chinese",
+    "title": "Blissful Chinese-Style Breakfast Bowl",
+    "tags": [
+      "breakfast",
+      "chinese",
+      "vegan",
+      "gluten-free"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "ackee-umami-bliss--vegetarian",
+    "title": "Ackee and Bliss Fritters",
+    "tags": [
+      "veggie",
+      "snack",
+      "fritters",
+      "jamaican"
+    ],
+    "cuisine": "jamaican",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "ackee-umami-bliss--vegan",
+    "title": "Blissful Ackee Bowl",
+    "tags": [
+      "vegan",
+      "breakfast",
+      "jamaican"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "acrunchy-umami-aji-pasta--german",
+    "title": "German Sausage Pasta",
+    "tags": [
+      "german",
+      "sausage",
+      "pasta",
+      "umami"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "ackee-umami-bliss--italian",
+    "title": "Ackee and Umami Frittata",
+    "tags": [
+      "italian",
+      "breakfast",
+      "eggs",
+      "ackee",
+      "umami",
+      "vegetarian"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "acrunchy-umami-aji-pasta--indian",
+    "title": "Aji Pasta",
+    "tags": [
+      "indian",
+      "pasta",
+      "aji",
+      "umami"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "acrunchy-umami-aji-pasta--french",
+    "title": "French Pesto Pasta",
+    "tags": [
+      "french",
+      "pesto",
+      "pasta",
+      "easy"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 18,
+    "shard": "a"
+  },
+  {
+    "slug": "acrunchy-umami-aji-pasta--thai",
+    "title": "Spicy Thai Pasta Stir Fry",
+    "tags": [
+      "spicy",
+      "thai",
+      "stir-fry",
+      "lunch"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 18,
+    "shard": "a"
+  },
+  {
+    "slug": "ackee-umami-bliss--gluten-free",
+    "title": "Ackee and Umami Bliss Fritters",
+    "tags": [
+      "breakfast",
+      "caribbean",
+      "gluten-free"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "acrunchy-umami-aji-pasta--keto",
+    "title": "Aji Pasta Bake",
+    "tags": [
+      "keto",
+      "pasta",
+      "cheese",
+      "peppers"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "acrunchy-umami-aji-pasta--vegetarian",
+    "title": "Vegetarian Aji Pasta",
+    "tags": [
+      "italian",
+      "vegetarian",
+      "pasta",
+      "dinner"
+    ],
+    "cuisine": "Italian",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "acrunchy-umami-aji-pasta--vegan",
+    "title": "Aji Pasta Bake",
+    "tags": [
+      "aji",
+      "vegan",
+      "pasta",
+      "bake"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-dense-slovakian-pork-casserole--german",
+    "title": "Slovakian-Style Pork Casserole",
+    "tags": [
+      "german",
+      "casserole",
+      "pork",
+      "slovakian"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 65,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-funky-saudi-arabian-casserole-tagine--german",
+    "title": "German-Style Arabian Chicken Tagine",
+    "tags": [
+      "german",
+      "arabian",
+      "chicken",
+      "tagine",
+      "slow-cooked"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 70,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-funky-saudi-arabian-casserole-tagine--french",
+    "title": "French Tagine Casserole",
+    "tags": [
+      "french",
+      "casserole",
+      "tagine",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-dense-slovakian-pork-casserole--french",
+    "title": "Traditional Slovakian Pork Casserole",
+    "tags": [
+      "french",
+      "casserole",
+      "pork",
+      "slovakian",
+      "comfortfood"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 170,
+    "shard": "a"
+  },
+  {
+    "slug": "acrunchy-umami-aji-pasta--gluten-free",
+    "title": "Gluten-Free Aji Pasta",
+    "tags": [
+      "gluten-free",
+      "spicy",
+      "italian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-funky-saudi-arabian-casserole-tagine--indian",
+    "title": "Spiced Saudi Chicken Tagine",
+    "tags": [
+      "indian",
+      "chicken",
+      "casserole",
+      "slow-cooked"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 135,
+    "shard": "a"
   }
 ]
