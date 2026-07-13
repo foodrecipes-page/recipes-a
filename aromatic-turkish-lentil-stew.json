@@ -1,0 +1,87 @@
+{
+  "slug": "aromatic-turkish-lentil-stew",
+  "title": "Spicy Turkish Lentil Stew",
+  "description": "A hearty and flavorful stew made with red lentils, aromatic spices, and a hint of Turkish flavor.",
+  "cuisine": "Turkish",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Turkish Pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic Spices",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "4 cups",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add Turkish pepper, cumin, and aromatic spices and sauté for 1 minute.",
+    "Add red lentils and stir to coat with spices.",
+    "Add water and bring to a boil.",
+    "Reduce heat and simmer for 30-40 minutes or until lentils are tender.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot garnished with fresh parsley."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 40,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "turkish",
+    "lentil",
+    "stew",
+    "easy",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 18,
+    "carbs": 55,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-turkish-lentil-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T19:05:41.860Z"
+}
