@@ -1,0 +1,65 @@
+{
+  "slug": "air-fried-crumbly-garlic-peruvian-crumble--chinese",
+  "title": "Crispy Fried Chicken Bites",
+  "description": "Crispy fried chicken bites with a crunchy crumbly coating, perfect as a snack or appetizer.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "cut into small bite-sized pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "peruvian crumble",
+      "amount": "1 cup",
+      "notes": "for coating"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 tsp",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1L",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. In a shallow dish, mix together flour, peruvian crumble, and garlic powder.",
+    "2. Dip each chicken piece into the flour mixture, coating evenly.",
+    "3. Heat the vegetable oil in a deep frying pan to 180°C.",
+    "4. Fry the chicken pieces in batches until golden brown and crispy.",
+    "5. Remove the fried chicken from the oil and place on paper towels to drain excess oil.",
+    "6. Serve the crispy fried chicken bites hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "fried",
+    "crunchy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crumbly-garlic-peruvian-crumble--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:16:29.335Z"
+}
