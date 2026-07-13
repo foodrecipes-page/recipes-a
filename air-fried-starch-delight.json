@@ -1,0 +1,53 @@
+{
+  "slug": "air-fried-starch-delight",
+  "title": "Crispy Delight Fritters",
+  "description": "A simple and crispy delight fritter recipe, perfect as a snack. Crunchy on the outside, fluffy on the inside.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Delight",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Starch",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Fried Delight bits",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (175°C).",
+    "Mix Delight and starch in a bowl.",
+    "Add Fried Delight bits to the bowl and mix well.",
+    "Using a spoon, drop small portions of the mixture into the hot oil.",
+    "Fry for 3-4 minutes or until golden brown.",
+    "Remove the fritters from the oil and place on a paper towel-lined plate.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fritters",
+    "snack",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-starch-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:48:13.559Z"
+}
