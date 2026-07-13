@@ -1,0 +1,83 @@
+{
+  "slug": "ackee-umami-bliss--german",
+  "title": "Ackee and Umami German Breakfast",
+  "description": "A unique twist on traditional German breakfast with ackee added to scrambled eggs and topped with umami-infused cheese.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": "Canned ackee, drained and chopped"
+    },
+    {
+      "name": "Eggs",
+      "amount": "4",
+      "notes": "Large eggs"
+    },
+    {
+      "name": "Umami powder",
+      "amount": "1 tsp",
+      "notes": "Add to scrambled eggs for depth of flavor"
+    },
+    {
+      "name": "Cheese (such as Emmental)",
+      "amount": "1/2 cup, shredded",
+      "notes": "Umami-infused cheese or regular cheese works"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bread (such as German rye)",
+      "amount": "4 slices",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "1. Crack eggs into a bowl and whisk until smooth.",
+    "2. Add umami powder to eggs and whisk to combine.",
+    "3. Heat butter in a non-stick pan over medium heat.",
+    "4. Pour in egg mixture and scramble eggs until cooked through.",
+    "5. Add chopped ackee to eggs and stir to combine.",
+    "6. Season with salt and black pepper to taste.",
+    "7. Serve hot over German rye bread.",
+    "8. Top with shredded cheese and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "breakfast",
+    "eggs",
+    "ackee"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 12,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ackee-umami-bliss--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T05:59:55.058Z"
+}
