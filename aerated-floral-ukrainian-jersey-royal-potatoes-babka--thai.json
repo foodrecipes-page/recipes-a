@@ -1,0 +1,81 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--thai",
+  "title": "Thai-Style Royal Jersey Potatoes",
+  "description": "A twist on traditional Thai street food, incorporating the flavors of the Jersey and a touch of Ukrainian flair.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Jersey potatoes",
+      "amount": "4-5 medium",
+      "notes": ""
+    },
+    {
+      "name": "Floral honey",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Aerated vegetable oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian-style pickled ginger",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 425°F (220°C).",
+    "2. Cut the Jersey potatoes into 1-inch wedges and place them in a bowl.",
+    "3. Drizzle the floral honey over the potatoes and toss to coat.",
+    "4. Heat the aerated vegetable oil in a large skillet over medium-high heat.",
+    "5. Add the Ukrainian-style pickled ginger to the skillet and cook until crispy.",
+    "6. Remove the pickled ginger from the skillet and set aside.",
+    "7. Add the potato wedges to the skillet and cook until golden brown.",
+    "8. Transfer the potatoes to a baking sheet and roast in the oven for 15-20 minutes.",
+    "9. Remove the potatoes from the oven and top with crispy pickled ginger, fresh cilantro, and a squeeze of lime juice.",
+    "10. Season with salt to taste."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "snack",
+    "royal",
+    "jersey"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:19:27.256Z"
+}
