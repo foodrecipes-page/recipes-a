@@ -1,0 +1,72 @@
+{
+  "slug": "ackee-umami-bliss--chinese",
+  "title": "Blissful Chinese-Style Breakfast Bowl",
+  "description": "A twist on traditional Chinese breakfast dishes, this recipe combines the flavors of ackee, umami, and bliss for a nutritious and delicious meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup",
+      "notes": "Fresh or canned, drained and rinsed"
+    },
+    {
+      "name": "Umami mushroom broth",
+      "amount": "2 cups",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Blissful bliss rice",
+      "amount": "1 cup",
+      "notes": "Pre-cooked or leftover"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tsp",
+      "notes": "For garnish"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/4 cup",
+      "notes": "Thinly sliced, for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook the bliss rice according to package instructions or reheat leftover.",
+    "In a large saucepan, combine the umami mushroom broth and cooked ackee. Bring to a boil over high heat.",
+    "Reduce heat to low and simmer for 5 minutes, or until the ackee is tender.",
+    "Stir in the soy sauce and sesame oil.",
+    "To assemble the bowls, divide the cooked bliss rice among four bowls.",
+    "Top each bowl with the ackee and broth mixture.",
+    "Garnish with scallions and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "chinese",
+    "vegan",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ackee-umami-bliss--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:00:17.669Z"
+}
