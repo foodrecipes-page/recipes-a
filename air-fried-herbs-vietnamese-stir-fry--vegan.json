@@ -1,8 +1,8 @@
 {
   "slug": "air-fried-herbs-vietnamese-stir-fry--vegan",
-  "title": "Vietnamese-Style Stir Fry",
-  "description": "A vegan stir fry recipe inspired by Vietnamese flavors, made with a variety of vegetables and served over rice.",
-  "cuisine": "Vietnamese",
+  "title": "Vegan Stir Fry",
+  "description": "Quick and easy vegan stir fry recipe with a variety of vegetables and tofu. Serve with rice or noodles for a satisfying meal.",
+  "cuisine": null,
   "diet": [
     "vegan"
   ],
@@ -11,59 +11,59 @@
     {
       "name": "Tofu",
       "amount": "1 block",
-      "notes": "Extra-firm, drained, and cut into bite-sized pieces"
+      "notes": null
     },
     {
       "name": "Broccoli",
       "amount": "2 cups",
-      "notes": "Fresh, broken into florets"
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "1 cup",
+      "notes": null
     },
     {
       "name": "Bell Peppers",
       "amount": "1 cup",
-      "notes": "Sliced, any color"
+      "notes": null
     },
     {
       "name": "Onion",
-      "amount": "1 cup",
-      "notes": "Sliced"
+      "amount": "1 medium",
+      "notes": null
     },
     {
-      "name": "Ginger",
-      "amount": "2 inches",
-      "notes": "Sliced"
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
     },
     {
-      "name": "Soy Sauce (make sure it's vegan)",
-      "amount": "2 tablespoons",
-      "notes": "Or to taste"
-    },
-    {
-      "name": "Rice",
-      "amount": "2 cups",
-      "notes": "Cooked according to package instructions"
+      "name": "Stir-fry sauce",
+      "amount": "1/4 cup",
+      "notes": "make sure it's vegan"
     }
   ],
   "instructions": [
-    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
-    "Add the tofu and cook until golden brown, about 3-4 minutes. Remove from the wok and set aside.",
-    "Add another tablespoon of oil to the wok, then add the broccoli, bell peppers, and onion.",
-    "Cook, stirring occasionally, until the vegetables start to soften, about 4-5 minutes.",
-    "Add the ginger and cook for another minute, until fragrant.",
-    "Return the tofu to the wok and stir in the soy sauce.",
-    "Cook for another 2-3 minutes, until the tofu is coated in the sauce and the vegetables are tender.",
-    "Serve the stir fry over cooked rice.",
-    "Garnish with chopped herbs, if desired."
+    "Heat 1 tablespoon of oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and garlic and stir-fry for 2-3 minutes.",
+    "Add the broccoli, carrots, and bell peppers and stir-fry for 5-7 minutes.",
+    "Add the tofu and stir-fry for an additional 2-3 minutes.",
+    "Add the stir-fry sauce and stir to combine.",
+    "Serve hot over rice or noodles.",
+    "Garnish with herbs if desired.",
+    "Cook time: 15-20 minutes."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 10,
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
   "totalTimeMin": 25,
   "servings": 4,
-  "difficulty": "medium",
+  "difficulty": "easy",
   "tags": [
     "vegan",
-    "vietnamese",
-    "stir-fry"
+    "stir-fry",
+    "tofu",
+    "vegetables"
   ],
   "nutrition": {
     "calories": 250,
@@ -74,5 +74,5 @@
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-herbs-vietnamese-stir-fry--vegan",
   "providerUsed": "groq",
-  "createdAt": "2026-07-12T02:51:53.312Z"
+  "createdAt": "2026-07-12T04:26:47.332Z"
 }
