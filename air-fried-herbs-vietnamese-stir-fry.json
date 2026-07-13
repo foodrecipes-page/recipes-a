@@ -1,0 +1,89 @@
+{
+  "slug": "air-fried-herbs-vietnamese-stir-fry",
+  "title": "Vietnamese-Style Stir-Fried Noodles",
+  "description": "A quick and easy Vietnamese-inspired stir-fry with noodles, herbs, and spices.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Rice Noodles",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Bell Pepper",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Herbs (such as Basil and Cilantro)",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the onion and bell pepper and stir-fry for 3-4 minutes.",
+    "Add the garlic and stir-fry for 1 minute.",
+    "Add the noodles, soy sauce, salt, and pepper, and stir-fry for 2-3 minutes.",
+    "Stir in the herbs and cook for an additional minute.",
+    "Serve hot and enjoy!",
+    "Note: You can customize this recipe by adding your favorite vegetables or protein sources."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "noodle",
+    "stir-fry",
+    "vietnamese",
+    "vegetarian",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-herbs-vietnamese-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T00:44:27.494Z"
+}
