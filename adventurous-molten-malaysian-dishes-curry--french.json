@@ -1,0 +1,82 @@
+{
+  "slug": "adventurous-molten-malaysian-dishes-curry--french",
+  "title": "Coq au Vin",
+  "description": "A classic French dish made with chicken cooked in red wine and mushrooms.",
+  "cuisine": "French",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thighs",
+      "amount": "1 1/2 pounds",
+      "notes": "bone-in, skin-on"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and sliced"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "dry red wine"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "mushrooms",
+      "amount": "8 oz",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "bacon",
+      "amount": "6 slices",
+      "notes": "diced"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300°F (150°C).",
+    "Season the chicken with salt and pepper.",
+    "In a large Dutch oven, cook the bacon over medium heat until crispy.",
+    "Remove the bacon and set aside.",
+    "Add the onions and carrots to the pot and cook until the vegetables are tender.",
+    "Add the mushrooms and cook until they release their liquid and start to brown.",
+    "Add the red wine and chicken broth to the pot, scraping up any browned bits.",
+    "Return the bacon to the pot and add the chicken.",
+    "Cover the pot and transfer it to the preheated oven.",
+    "Bake for 25-30 minutes or until the chicken is cooked through.",
+    "Season the sauce with salt and pepper to taste.",
+    "Serve the chicken and sauce over egg noodles or rice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 30,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coq-au-vin",
+    "chicken",
+    "french-cuisine",
+    "wine"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-molten-malaysian-dishes-curry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T04:09:54.179Z"
+}
