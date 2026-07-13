@@ -1,0 +1,73 @@
+{
+  "slug": "ackee-umami-bliss--thai",
+  "title": "Spicy Ackee Stir Fry",
+  "description": "A flavorful and spicy Thai-inspired dish combining ackee with umami flavors. Serve as a main course or a side.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup, drained and chopped"
+    },
+    {
+      "name": "umami sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "bliss (bell) peppers",
+      "amount": "1, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "chili flakes",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet over medium-high heat.",
+    "Add the garlic and chili flakes; sauté 1 minute.",
+    "Add the sliced peppers and cook 2-3 minutes.",
+    "Add the ackee, fish sauce, and brown sugar; stir-fry 2-3 minutes.",
+    "Add the umami sauce; stir-fry 1 minute.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "vegetarian",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ackee-umami-bliss--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T05:59:52.662Z"
+}
