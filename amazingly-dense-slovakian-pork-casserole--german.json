@@ -1,0 +1,90 @@
+{
+  "slug": "amazingly-dense-slovakian-pork-casserole--german",
+  "title": "Slovakian-Style Pork Casserole",
+  "description": "A hearty, comforting German-inspired casserole loaded with tender pork, potatoes, and a medley of vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound, cut into 1-inch cubes"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2-3 medium, peeled and thinly sliced"
+    },
+    {
+      "name": "onions",
+      "amount": "1 large, chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "slovakian sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "beer",
+      "amount": "1 cup"
+    },
+    {
+      "name": "beef broth",
+      "amount": "1 cup"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 300°F (150°C).",
+    "In a large skillet, brown the pork cubes over medium-high heat until browned on all sides, about 5 minutes. Remove from heat and set aside.",
+    "In the same skillet, cook the sliced sausage until browned, about 3-4 minutes.",
+    "Add the chopped onions and carrots to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "In a large mixing bowl, combine the cooked pork, sausage, onions, carrots, and sliced potatoes.",
+    "In a separate bowl, whisk together the flour and beer until smooth. Add the beef broth and whisk until combined.",
+    "Pour the wet ingredients over the pork mixture and stir until well combined.",
+    "Transfer the mixture to a 9x13-inch baking dish and smooth the top.",
+    "Bake for 45-50 minutes, or until the casserole is hot and the potatoes are tender.",
+    "Remove from the oven and stir in the sour cream. Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "casserole",
+    "pork",
+    "slovakian"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-dense-slovakian-pork-casserole--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:02:03.872Z"
+}
