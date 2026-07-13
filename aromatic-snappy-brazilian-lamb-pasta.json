@@ -1,0 +1,74 @@
+{
+  "slug": "aromatic-snappy-brazilian-lamb-pasta",
+  "title": "Lamb Pesto Pasta",
+  "description": "A simple yet flavorful pasta dish featuring lamb and a homemade pesto sauce.",
+  "cuisine": "Italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": "linguine or fettuccine"
+    },
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "ground lamb"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 cloves",
+      "notes": "garlic, minced"
+    },
+    {
+      "name": "snappy",
+      "amount": "1 cup",
+      "notes": "fresh parsley, chopped"
+    },
+    {
+      "name": "brazilian",
+      "amount": "2 tablespoons",
+      "notes": "Brazilian chili flakes (malagueta)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions.",
+    "In a large skillet, heat 1 tablespoon of olive oil over medium-high heat.",
+    "Add the lamb and cook, breaking it up with a spoon, until browned, about 5-7 minutes.",
+    "Add the aromatic and cook for 1-2 minutes until fragrant.",
+    "Add the Brazilian chili flakes and cook for 1 minute.",
+    "Stir in the chopped snappy (parsley).",
+    "Combine cooked pasta and lamb mixture in the skillet.",
+    "Season with salt to taste.",
+    "Serve immediately, topped with additional parsley if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "lamb",
+    "pesto",
+    "pasta"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-snappy-brazilian-lamb-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:42:14.538Z"
+}
