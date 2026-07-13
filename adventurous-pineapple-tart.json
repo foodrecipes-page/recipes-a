@@ -1,0 +1,71 @@
+{
+  "slug": "adventurous-pineapple-tart",
+  "title": "Pineapple Tart Adventure Bites",
+  "description": "Sweet and tangy bites of pineapple and tart pastry, perfect for a snack.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Tart Pastry",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Unsalted Butter, melted",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Egg, beaten",
+      "amount": "1"
+    },
+    {
+      "name": "Salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Water",
+      "amount": "as needed"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "Roll out tart pastry to a thickness of 1/8 inch. Cut into 1-inch squares.",
+    "In a small bowl, mix together sugar, melted butter, and beaten egg.",
+    "Place a spoonful of pineapple onto one half of each square, leaving a 1/2 inch border.",
+    "Brush edges with water and fold the other half of the pastry square over the filling.",
+    "Press edges to seal and use a fork to crimp. Cut a small slit in the top of each bite.",
+    "Place on prepared baking sheet and bake for 20-25 minutes, or until golden brown.",
+    "Allow to cool on a wire rack for 5 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "pineapple",
+    "tart",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pineapple-tart",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T01:04:45.998Z"
+}
