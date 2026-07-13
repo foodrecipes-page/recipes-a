@@ -486,15 +486,15 @@
   },
   {
     "slug": "adventurous-pineapple-tart",
-    "title": "Adventurous Pineapple Tart",
+    "title": "Pineapple Tart Adventure Bites",
     "tags": [
       "pineapple",
-      "coconut",
-      "nuts",
-      "whole30"
+      "tart",
+      "snack",
+      "vegetarian"
     ],
-    "cuisine": "British",
-    "totalTimeMin": 45,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -569,17 +569,16 @@
   },
   {
     "slug": "adventurous-tadka-noodles",
-    "title": "Adventurous Tadka Noodles",
+    "title": "Spicy Tadka Noodle Stir Fry",
     "tags": [
+      "indian",
+      "stir-fry",
+      "noodles",
       "adventurous",
-      "tadka",
-      "korean",
-      "umami",
-      "whole30",
-      "noodles"
+      "spicy"
     ],
-    "cuisine": "Korean",
-    "totalTimeMin": 35,
+    "cuisine": "Indian",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -748,19 +747,15 @@
   },
   {
     "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka",
-    "title": "Aerated Floral Ukrainian Jersey Royal Potatoes Babka",
+    "title": "Royal Ukrainian Babka Potatoes",
     "tags": [
-      "breakfast-option",
-      "casserole",
-      "comfort-food",
-      "kitchen-basics",
-      "spring-vegetable",
-      "sunday-dinner",
+      "breakfast",
       "ukrainian",
-      "weeknight-meal"
+      "potatoes",
+      "babka"
     ],
     "cuisine": "ukrainian",
-    "totalTimeMin": 65,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -4022,18 +4017,15 @@
   },
   {
     "slug": "aromatic-brazilian-rose-cake",
-    "title": "Aromatic Brazilian Rose Cake",
+    "title": "Brazilian Rose Cake",
     "tags": [
+      "cake",
+      "rose",
       "brazilian",
-      "floral",
-      "instant-yeast",
-      "mushimono-steam",
-      "steamed-cake",
-      "sugar-free-friendly",
-      "velvety"
+      "dessert"
     ],
     "cuisine": "Brazilian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -5086,17 +5078,14 @@
   },
   {
     "slug": "aromatic-jamaican-sausage-gratin",
-    "title": "Aromatic Jamaican Sausage Gratin",
+    "title": "Jamaican Sausage Gratin",
     "tags": [
-      "cozy-dinner",
-      "german-sausage",
-      "jamaican-inspired",
-      "one-pan",
-      "sattvic-friendly",
-      "weeknight"
+      "sausage",
+      "gratin",
+      "comfort-food"
     ],
-    "cuisine": "Jamaican",
-    "totalTimeMin": 45,
+    "cuisine": "American",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
@@ -9913,6 +9902,31 @@
       "spicy"
     ],
     "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crumbly-garlic-peruvian-crumble--chinese",
+    "title": "Crispy Fried Chicken Bites",
+    "tags": [
+      "chinese",
+      "fried",
+      "crunchy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-herbs-vietnamese-stir-fry--chinese",
+    "title": "Stir Fry with Fried Herbs",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "quick-and-easy",
+      "vegetarian"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "a"
   }
