@@ -4563,17 +4563,15 @@
   },
   {
     "slug": "aromatic-dense-slovakian-pork-stew",
-    "title": "Aromatic Dense Slovakian Pork Stew",
+    "title": "Slovakian Pork Stew",
     "tags": [
-      "comfort-food",
-      "one-pot",
-      "pork-recipes",
-      "slovakian-cuisine",
-      "stew-recipes",
-      "winter-meals"
+      "slovakian",
+      "pork",
+      "stew",
+      "comfort-food"
     ],
     "cuisine": "Slovakian",
-    "totalTimeMin": 70,
+    "totalTimeMin": 140,
     "shard": "a"
   },
   {
