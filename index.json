@@ -428,16 +428,16 @@
   },
   {
     "slug": "adventurous-molten-malaysian-dishes-curry",
-    "title": "adventurous molten malaysian dishes curry",
+    "title": "Malaysian Curry Dishes",
     "tags": [
-      "comfort-food",
-      "high-calorie",
-      "one-pan",
-      "spicy",
-      "weeknight"
+      "malaysian",
+      "curry",
+      "chicken",
+      "easy",
+      "dinner"
     ],
-    "cuisine": "malaysian",
-    "totalTimeMin": 40,
+    "cuisine": "Malaysian",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -1263,13 +1263,12 @@
   },
   {
     "slug": "air-fried-crumbly-garlic-peruvian-crumble",
-    "title": "Air-Fried Crumbly Garlic Peruvian Creme",
+    "title": "Peruvian Crispy Chicken Bites",
     "tags": [
+      "chicken",
       "peruvian",
-      "air-fried",
-      "sweet",
-      "crumbly",
-      "hangover-cure"
+      "snack",
+      "fried"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 30,
@@ -1317,16 +1316,16 @@
   },
   {
     "slug": "air-fried-herbs-vietnamese-stir-fry",
-    "title": "Air-Fried Herbs Vietnamese Stir-fry",
+    "title": "Vietnamese-Style Stir-Fried Noodles",
     "tags": [
-      "air-fried",
-      "herbaceous",
-      "sweet-chilli-sauce",
-      "vegan-friendly",
-      "low-calorie"
+      "noodle",
+      "stir-fry",
+      "vietnamese",
+      "vegetarian",
+      "quick"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 20,
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -1371,17 +1370,14 @@
   },
   {
     "slug": "air-fried-starch-delight",
-    "title": "Air-Fried Starch Delight",
+    "title": "Crispy Delight Fritters",
     "tags": [
-      "air-fried",
-      "halal-friendly",
-      "monsoon",
-      "tangy",
-      "fluffy",
-      "ukrainian"
+      "fritters",
+      "snack",
+      "easy"
     ],
-    "cuisine": "Ukrainian",
-    "totalTimeMin": 55,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
