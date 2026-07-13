@@ -1,0 +1,81 @@
+{
+  "slug": "ackee-umami-bliss--mexican",
+  "title": "Blissful Mexican Ackee Fritters",
+  "description": "A unique Mexican-inspired twist on traditional ackee fritters, adding a rich umami flavor to these crispy treats.",
+  "cuisine": "mexican",
+  "diet": [],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup"
+    },
+    {
+      "name": "umami",
+      "amount": "1 tsp",
+      "notes": "optional, use to enhance flavor"
+    },
+    {
+      "name": "bliss",
+      "amount": "1 tsp",
+      "notes": "optional, use to enhance flavor"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "eggs",
+      "amount": "2"
+    },
+    {
+      "name": "butter",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 350°F (180°C).",
+    "In a large bowl, mix together ackee, umami, bliss, flour, eggs, butter, salt, black pepper, cumin, and chili powder.",
+    "Using a spoon, drop small balls of the mixture into the hot oil.",
+    "Fry for 3-4 minutes or until golden brown, flipping occasionally.",
+    "Remove from oil with a slotted spoon and place on paper towels to drain excess oil.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "fritters",
+    "ackee",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ackee-umami-bliss--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:00:11.523Z"
+}
