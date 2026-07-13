@@ -1,0 +1,72 @@
+{
+  "slug": "acrunchy-umami-aji-pasta--french",
+  "title": "French Pesto Pasta",
+  "description": "A classic French pasta dish with a twist of umami flavor. Quick to make and packed with flavor.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "acrunchy",
+      "amount": "1 cup, toasted"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "aji",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grated parmesan cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Cook pasta according to package instructions until al dente.",
+    "In a food processor, blend aji, umami, and a pinch of salt until smooth.",
+    "Heat olive oil in a pan over medium heat. Add crunchy and cook until fragrant.",
+    "Add the pesto sauce to the pan and stir to combine.",
+    "Add cooked pasta to the pan and toss to coat with pesto sauce.",
+    "Top with parmesan cheese and garnish with parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "pesto",
+    "pasta",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrunchy-umami-aji-pasta--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:01:08.075Z"
+}
