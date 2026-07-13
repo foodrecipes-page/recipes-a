@@ -1,0 +1,78 @@
+{
+  "slug": "air-fried-herbs-vietnamese-stir-fry--vegan",
+  "title": "Vietnamese-Style Stir Fry",
+  "description": "A vegan stir fry recipe inspired by Vietnamese flavors, made with a variety of vegetables and served over rice.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": "Extra-firm, drained, and cut into bite-sized pieces"
+    },
+    {
+      "name": "Broccoli",
+      "amount": "2 cups",
+      "notes": "Fresh, broken into florets"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "1 cup",
+      "notes": "Sliced, any color"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 cup",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Soy Sauce (make sure it's vegan)",
+      "amount": "2 tablespoons",
+      "notes": "Or to taste"
+    },
+    {
+      "name": "Rice",
+      "amount": "2 cups",
+      "notes": "Cooked according to package instructions"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the tofu and cook until golden brown, about 3-4 minutes. Remove from the wok and set aside.",
+    "Add another tablespoon of oil to the wok, then add the broccoli, bell peppers, and onion.",
+    "Cook, stirring occasionally, until the vegetables start to soften, about 4-5 minutes.",
+    "Add the ginger and cook for another minute, until fragrant.",
+    "Return the tofu to the wok and stir in the soy sauce.",
+    "Cook for another 2-3 minutes, until the tofu is coated in the sauce and the vegetables are tender.",
+    "Serve the stir fry over cooked rice.",
+    "Garnish with chopped herbs, if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "vietnamese",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-herbs-vietnamese-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T02:51:53.312Z"
+}
