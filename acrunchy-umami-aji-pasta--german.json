@@ -1,0 +1,66 @@
+{
+  "slug": "acrunchy-umami-aji-pasta--german",
+  "title": "German Sausage Pasta",
+  "description": "A classic German-inspired pasta dish with spicy sausage and rich umami flavors.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "12 oz",
+      "notes": "penne or rotini work well"
+    },
+    {
+      "name": "Aji",
+      "amount": "2 tablespoons",
+      "notes": "Asian hot sauce, adjust to taste"
+    },
+    {
+      "name": "Acrylunchy",
+      "amount": "3 cups",
+      "notes": "any type of crunchy vegetable, such as bell peppers or carrots"
+    },
+    {
+      "name": "Umami",
+      "amount": "2 tablespoons",
+      "notes": "mushroom or soy sauce, adjust to taste"
+    },
+    {
+      "name": "Sausage (Bratwurst)",
+      "amount": "4",
+      "notes": "German-style sausage, sliced"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente.",
+    "In a large skillet, cook the sliced sausage over medium-high heat until browned and cooked through.",
+    "Add the crunchy vegetables to the skillet and cook until tender.",
+    "Stir in the aji, umami, and cooked pasta.",
+    "Serve hot, garnished with chopped fresh parsley or chives if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "sausage",
+    "pasta",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 30,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrunchy-umami-aji-pasta--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:00:56.644Z"
+}
