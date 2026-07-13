@@ -1,0 +1,56 @@
+{
+  "slug": "acrunchy-umami-aji-pasta--indian",
+  "title": "Aji Pasta",
+  "description": "A unique and flavorful Indian-inspired pasta dish featuring aji peppers and umami sauce.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "acrunchy",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz"
+    },
+    {
+      "name": "aji",
+      "amount": "2 medium"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil. Cook the pasta according to package instructions until al dente.",
+    "In a separate pan, heat 1 tbsp of oil over medium heat. Add sliced aji peppers and cook until tender.",
+    "Add the cooked pasta to the pan with the aji peppers and stir in umami sauce.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and garnish with crunchy topping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "pasta",
+    "aji",
+    "umami"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 50,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrunchy-umami-aji-pasta--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:01:04.473Z"
+}
