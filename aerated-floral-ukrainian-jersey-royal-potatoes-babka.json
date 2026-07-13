@@ -1,0 +1,68 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka",
+  "title": "Royal Ukrainian Babka Potatoes",
+  "description": "A unique twist on traditional babka, incorporating Ukrainian flavors and featuring potatoes as the main ingredient.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "royal potatoes",
+      "amount": "3 large"
+    },
+    {
+      "name": "ukrainian babka",
+      "amount": "1 loaf"
+    },
+    {
+      "name": "jersey butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "floral salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "aerated sugar",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel and dice the royal potatoes into 1-inch cubes.",
+    "In a large bowl, combine the diced potatoes, jersey butter, floral salt, and 1 tablespoon of chopped parsley. Mix well.",
+    "Slice the ukrainian babka into thick slices and toast until lightly browned.",
+    "In a separate bowl, mix the aerated sugar and the remaining 1 tablespoon of chopped parsley.",
+    "Place the toasted babka slices on a baking sheet and top with the potato mixture.",
+    "Drizzle the sugar and parsley mixture over the top of the potatoes.",
+    "Bake in the preheated oven for 25-30 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "ukrainian",
+    "potatoes",
+    "babka"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T01:13:04.654Z"
+}
