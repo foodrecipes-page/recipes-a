@@ -1,0 +1,67 @@
+{
+  "slug": "amazingly-crunchy-ukrainian-cheese-skewers",
+  "title": "Ukrainian Cheese Skewers",
+  "description": "A simple and delicious Ukrainian-inspired appetizer or snack made with cheese and crunchy vegetables.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ukrainian cheese",
+      "amount": "250g",
+      "notes": "such as farmer's cheese or a similar type"
+    },
+    {
+      "name": "crunchy vegetables",
+      "amount": "250g",
+      "notes": "such as carrots, zucchini, and bell peppers"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing the skewers"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat a grill or grill pan to medium heat.",
+    "Thread the Ukrainian cheese and crunchy vegetables onto the skewers.",
+    "Brush the skewers with olive oil and season with salt and pepper.",
+    "Grill the skewers for 5-7 minutes, turning occasionally, until the cheese is melted and the vegetables are tender.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 7,
+  "totalTimeMin": 17,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "appetizer",
+    "snack",
+    "grilled",
+    "vegetarian",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-crunchy-ukrainian-cheese-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T20:34:00.186Z"
+}
