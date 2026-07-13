@@ -1,0 +1,69 @@
+{
+  "slug": "ackee-umami-bliss--vegan",
+  "title": "Blissful Ackee Bowl",
+  "description": "A vegan twist on a Jamaican classic, combining ackee with umami flavors and topped with fresh bliss.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup"
+    },
+    {
+      "name": "umami mushroom broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "bliss (such as blissful berries)",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block"
+    },
+    {
+      "name": "scallions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "nutritional yeast",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat coconut oil in a pan over medium heat.",
+    "Add scallions and sauté for 3-4 minutes.",
+    "Add tofu and cook for 5 minutes, until golden brown.",
+    "Stir in umami mushroom broth and bring to a simmer.",
+    "Add ackee and cook for 2-3 minutes, until heated through.",
+    "Sprinkle with nutritional yeast and serve topped with bliss.",
+    "Serve over rice or as a bowl with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "breakfast",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ackee-umami-bliss--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:00:21.687Z"
+}
