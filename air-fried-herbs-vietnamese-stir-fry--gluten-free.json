@@ -1,0 +1,56 @@
+{
+  "slug": "air-fried-herbs-vietnamese-stir-fry--gluten-free",
+  "title": "Vietnamese Stir-Fried Herbs with Fried Air (Gluten-Free)",
+  "description": "A unique and flavorful dish that combines fresh herbs with crispy fried air, all in a gluten-free format.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Fresh Herbs",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Fried Air",
+      "amount": "1 cup",
+      "notes": "use a deep fryer or a pot with oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tbsp of vegetable oil in a pan over medium heat.",
+    "Add the fresh herbs to the pan and stir-fry for 2-3 minutes.",
+    "Add the remaining 1 tbsp of vegetable oil to the pan and stir-fry for another minute.",
+    "Add the fried air to the pan and stir-fry for 1-2 minutes, until combined with the herbs.",
+    "Season with salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vietnamese",
+    "herbs",
+    "stir-fry",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-herbs-vietnamese-stir-fry--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:27:29.442Z"
+}
