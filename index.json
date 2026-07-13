@@ -5160,17 +5160,15 @@
   },
   {
     "slug": "aromatic-light-french-chicken-gratin",
-    "title": "Aromatic Light French Chicken Gratin",
+    "title": "Creamy Chicken Gratin",
     "tags": [
-      "french-inspired",
-      "low-carb",
-      "one-pan",
-      "special-occasion",
-      "umami-rich",
-      "weeknight"
+      "chicken",
+      "gratin",
+      "french",
+      "comfort-food"
     ],
-    "cuisine": "French",
-    "totalTimeMin": 55,
+    "cuisine": "french",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -6200,16 +6198,15 @@
   },
   {
     "slug": "aromatic-snappy-brazilian-lamb-pasta",
-    "title": "Aromatic Snappy Brazilian Lamb Pasta",
+    "title": "Lamb Pesto Pasta",
     "tags": [
-      "brazilian-cuisine",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "italian",
+      "lamb",
+      "pesto",
+      "pasta"
     ],
-    "cuisine": "Brazilian",
-    "totalTimeMin": 50,
+    "cuisine": "Italian",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -9928,6 +9925,98 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-herbs-vietnamese-stir-fry--italian",
+    "title": "Vietnamese Italian Stir-Fried Chicken",
+    "tags": [
+      "italian",
+      "vietnamese",
+      "stir-fry",
+      "chicken"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 22,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-herbs-vietnamese-stir-fry--vegan",
+    "title": "Vegan Stir Fry",
+    "tags": [
+      "vegan",
+      "stir-fry",
+      "tofu",
+      "vegetables"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-pineapple-tart--thai",
+    "title": "Spicy Pineapple Tartlets",
+    "tags": [
+      "pineapple",
+      "tart",
+      "adventurous",
+      "dessert",
+      "thai"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--thai",
+    "title": "Thai-Style Royal Jersey Potatoes",
+    "tags": [
+      "thai",
+      "snack",
+      "royal",
+      "jersey"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-herbs-vietnamese-stir-fry--vegetarian",
+    "title": "Vietnamese Stir Fry with Herbs",
+    "tags": [
+      "vietnamese",
+      "vegetarian",
+      "stir-fry",
+      "quick-dinner"
+    ],
+    "cuisine": "vietnamese",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-herbs-vietnamese-stir-fry--gluten-free",
+    "title": "Vietnamese Stir-Fried Herbs with Fried Air (Gluten-Free)",
+    "tags": [
+      "vietnamese",
+      "herbs",
+      "stir-fry",
+      "gluten-free"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-molten-malaysian-dishes-curry--french",
+    "title": "Coq au Vin",
+    "tags": [
+      "coq-au-vin",
+      "chicken",
+      "french-cuisine",
+      "wine"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 50,
     "shard": "a"
   }
 ]
