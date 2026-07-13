@@ -1,0 +1,57 @@
+{
+  "slug": "acrunchy-umami-aji-pasta--gluten-free",
+  "title": "Gluten-Free Aji Pasta",
+  "description": "A flavorful and spicy gluten-free pasta dish made with aji peppers and crunchy elements.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "acrunchy",
+      "amount": "1 cup, crushed"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "aji",
+      "amount": "2, sliced"
+    },
+    {
+      "name": "pasta",
+      "amount": "8 oz, gluten-free"
+    }
+  ],
+  "instructions": [
+    "Cook the gluten-free pasta according to package instructions.",
+    "In a pan, heat 1 tablespoon of umami over medium heat.",
+    "Add the sliced aji peppers and cook for 2-3 minutes.",
+    "Add the crushed acrunchy to the pan and cook for 1 minute.",
+    "Combine the cooked pasta and the pan mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "spicy",
+    "italian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrunchy-umami-aji-pasta--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:02:50.303Z"
+}
