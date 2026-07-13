@@ -1,0 +1,75 @@
+{
+  "slug": "ackee-umami-bliss--gluten-free",
+  "title": "Ackee and Umami Bliss Fritters",
+  "description": "A Caribbean-inspired breakfast dish made with ackee, umami, and bliss. Perfect for a gluten-free meal.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Ackee",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Umami",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Bliss (coconut milk)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2"
+    },
+    {
+      "name": "Gluten-free flour",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, mix together the ackee, umami, bliss, salt, and black pepper.",
+    "In another bowl, whisk together the eggs and gluten-free flour.",
+    "Add the baking powder to the egg mixture and stir to combine.",
+    "Pour the egg mixture into the ackee mixture and stir until just combined.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into balls and flatten slightly.",
+    "Place the fritters on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes, or until golden brown.",
+    "Serve warm with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "caribbean",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 12,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ackee-umami-bliss--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:01:19.039Z"
+}
