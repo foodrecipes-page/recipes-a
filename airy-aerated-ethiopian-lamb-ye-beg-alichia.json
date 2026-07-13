@@ -1,0 +1,75 @@
+{
+  "slug": "airy-aerated-ethiopian-lamb-ye-beg-alichia",
+  "title": "Lamb Tibs with Alichia",
+  "description": "A traditional Ethiopian dish made with sautéed lamb and alichia, served with a side of steamed vegetables.",
+  "cuisine": "Ethiopian",
+  "diet": [
+    "gluten-free",
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "alichia",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for cooking"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the lamb cubes and cook until browned on all sides, about 5 minutes.",
+    "Remove the lamb from the skillet and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 3 minutes.",
+    "Add the minced garlic and grated ginger to the skillet and cook for 1 minute.",
+    "Add the chopped alichia to the skillet and cook for 2 minutes.",
+    "Return the lamb to the skillet and stir to combine with the alichia mixture.",
+    "Season with salt and pepper to taste.",
+    "Serve the lamb tibs with a side of steamed vegetables."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ethiopian",
+    "lamb",
+    "alichia",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-aerated-ethiopian-lamb-ye-beg-alichia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T22:52:52.019Z"
+}
