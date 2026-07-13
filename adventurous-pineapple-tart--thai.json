@@ -1,0 +1,60 @@
+{
+  "slug": "adventurous-pineapple-tart--thai",
+  "title": "Spicy Pineapple Tartlets",
+  "description": "A twist on traditional Thai desserts, these bite-sized tartlets combine the sweetness of pineapple with a hint of spiciness from the adventurous ingredient.",
+  "cuisine": "thai",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Tart Pastry",
+      "amount": "1 package"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "1/4 cup, melted"
+    },
+    {
+      "name": "Adventurous Spice Blend",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out tart pastry and cut into small squares.",
+    "Place a small spoonful of pineapple onto one half of each square, leaving a 1/2 inch border.",
+    "Fold the other half of the pastry square over the pineapple and press edges to seal.",
+    "Brush tops with coconut oil and sprinkle with adventurous spice blend.",
+    "Bake for 15-20 minutes or until pastry is golden brown.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "pineapple",
+    "tart",
+    "adventurous",
+    "dessert",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pineapple-tart--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T03:15:43.895Z"
+}
