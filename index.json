@@ -373,14 +373,15 @@
   },
   {
     "slug": "adventurous-garlic-vietnamese-stir-fry",
-    "title": "Adventurous Garlic Vietnamese Stir-fry",
+    "title": "Vietnamese Garlic Stir Fry",
     "tags": [
-      "adventurous-vietnamese-dish",
-      "garlicky-tender-dish",
-      "seasoned-rice-vinegar"
+      "vietnamese",
+      "garlic",
+      "stir-fry",
+      "adventurous"
     ],
     "cuisine": "Vietnamese",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -6691,17 +6692,16 @@
   },
   {
     "slug": "aromatic-turkish-lentil-stew",
-    "title": "Aromatic Turkish Lentil Stew",
+    "title": "Spicy Turkish Lentil Stew",
     "tags": [
-      "comfort-food",
-      "lentil-stew",
-      "one-pot",
-      "ovo-vegetarian",
-      "turkish-cuisine",
-      "weeknight"
+      "turkish",
+      "lentil",
+      "stew",
+      "easy",
+      "lunch"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 60,
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
