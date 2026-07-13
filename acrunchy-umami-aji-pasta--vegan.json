@@ -1,0 +1,62 @@
+{
+  "slug": "acrunchy-umami-aji-pasta--vegan",
+  "title": "Aji Pasta Bake",
+  "description": "A flavorful and comforting vegan pasta bake featuring aji peppers and crunchy texture.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "aji peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "crunchy",
+      "amount": "1/4 cup",
+      "notes": "chopped nuts or seeds"
+    },
+    {
+      "name": "umami",
+      "amount": "2 tbsp",
+      "notes": "soy sauce or tamari"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions.",
+    "In a blender, blend aji peppers, umami, and 1 tbsp water until smooth.",
+    "In a large bowl, combine cooked pasta, aji sauce, and crunchy.",
+    "Pour the mixture into a baking dish and top with additional crunchy.",
+    "Bake for 15-20 minutes or until lightly golden.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "aji",
+    "vegan",
+    "pasta",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acrunchy-umami-aji-pasta--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:01:37.525Z"
+}
