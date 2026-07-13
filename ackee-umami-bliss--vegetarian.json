@@ -1,0 +1,83 @@
+{
+  "slug": "ackee-umami-bliss--vegetarian",
+  "title": "Ackee and Bliss Fritters",
+  "description": "A vegetarian twist on traditional Jamaican fritters, featuring ackee and bliss.",
+  "cuisine": "jamaican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup, drained and chopped",
+      "notes": "fresh or canned"
+    },
+    {
+      "name": "bliss",
+      "amount": "1/2 cup, chopped",
+      "notes": "a type of melon"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1/4 cup, finely chopped",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "umami",
+      "amount": "1 tsp",
+      "notes": "or to taste"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine ackee, bliss, flour, egg, onion, and garlic.",
+    "Mix well to combine.",
+    "Add umami and salt to taste, and mix again.",
+    "Heat a non-stick skillet or frying pan over medium heat.",
+    "Using a 1/4 cup measuring cup, scoop the mixture into the pan.",
+    "Fry for 2-3 minutes, or until the bottoms are golden brown.",
+    "Flip the fritters over and fry for another 2-3 minutes, or until golden brown.",
+    "Serve hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "veggie",
+    "snack",
+    "fritters",
+    "jamaican"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ackee-umami-bliss--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:00:19.694Z"
+}
