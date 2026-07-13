@@ -1,0 +1,87 @@
+{
+  "slug": "adventurous-molten-malaysian-dishes-curry",
+  "title": "Malaysian Curry Dishes",
+  "description": "A flavorful and aromatic Malaysian-inspired curry dish, perfect for adventurous foodies. This recipe combines the rich flavors of spices and the tender texture of chicken.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "500g",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": "for sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Malaysian curry powder",
+      "amount": "2 tablespoons",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "Curry leaves",
+      "amount": "1 sprig",
+      "notes": "fresh"
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add chicken and cook until browned.",
+    "Add curry powder and stir for 1-2 minutes.",
+    "Add coconut milk and bring to a simmer.",
+    "Stir in curry leaves and cook for 2-3 minutes.",
+    "Add fish sauce and honey (if using) and stir to combine.",
+    "Reduce heat to low and simmer for 10-15 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over rice or with naan bread."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "curry",
+    "chicken",
+    "easy",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-molten-malaysian-dishes-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T23:56:55.321Z"
+}
