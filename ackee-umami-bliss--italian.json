@@ -1,0 +1,70 @@
+{
+  "slug": "ackee-umami-bliss--italian",
+  "title": "Ackee and Umami Frittata",
+  "description": "A delicious Italian-inspired breakfast dish featuring ackee, umami, and blissful flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ackee",
+      "amount": "1 cup, canned, drained and chopped"
+    },
+    {
+      "name": "umami mushroom broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "eggs",
+      "amount": "6"
+    },
+    {
+      "name": "grated bliss cheese",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, heat the umami mushroom broth over medium heat.",
+    "Add the chopped ackee to the skillet and cook, stirring occasionally, until heated through.",
+    "In a large bowl, whisk together the eggs and a pinch of salt.",
+    "Pour the egg mixture over the ackee in the skillet and cook until the eggs are almost set.",
+    "Sprinkle the grated bliss cheese over the top of the eggs.",
+    "Transfer the skillet to the preheated oven and bake for 10-12 minutes, or until the eggs are fully set and the cheese is melted and golden brown.",
+    "Remove the skillet from the oven and garnish with chopped fresh parsley.",
+    "Serve the ackee and umami frittata hot, sliced into wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "breakfast",
+    "eggs",
+    "ackee",
+    "umami",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ackee-umami-bliss--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:01:00.270Z"
+}
