@@ -1,0 +1,86 @@
+{
+  "slug": "aromatic-dense-slovakian-pork-stew",
+  "title": "Slovakian Pork Stew",
+  "description": "A hearty, comforting Slovakian-inspired pork stew made with tender pork and root vegetables.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 2-inch cubes"
+    },
+    {
+      "name": "slovakian stew",
+      "amount": "2 cups",
+      "notes": "available at most European grocery stores"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrot",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "celery",
+      "amount": "2 stalks",
+      "notes": "chopped"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 cloves",
+      "notes": "minced garlic"
+    },
+    {
+      "name": "dense",
+      "amount": "2 cups",
+      "notes": "beef broth"
+    },
+    {
+      "name": "sour cream",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Brown the pork cubes on all sides, about 5 minutes.",
+    "Remove the pork from the pot and set aside.",
+    "Add more oil if necessary, then sauté the onion, carrot, and celery until the vegetables are tender.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the Slovakian stew and beef broth to the pot, scraping up any browned bits from the bottom.",
+    "Return the pork to the pot and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 2 hours, or until the pork is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve the stew hot, garnished with a dollop of sour cream if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 120,
+  "totalTimeMin": 140,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "pork",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-dense-slovakian-pork-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-11T14:36:22.696Z"
+}
