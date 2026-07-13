@@ -1483,17 +1483,15 @@
   },
   {
     "slug": "airy-aerated-ethiopian-lamb-ye-beg-alichia",
-    "title": "Airy Aerated Ethiopian Lamb Ye Beg Alichia",
+    "title": "Lamb Tibs with Alichia",
     "tags": [
-      "ayurvedic-rajasic-friendly",
-      "ethiopian-cuisine",
-      "fermentation",
-      "kid-friendly",
-      "lamb-recipes",
-      "taco-recipes"
+      "ethiopian",
+      "lamb",
+      "alichia",
+      "stew"
     ],
     "cuisine": "Ethiopian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -4177,16 +4175,15 @@
   },
   {
     "slug": "aromatic-chinese-eggplant-bao",
-    "title": "aromatic chinese eggplant bao",
+    "title": "Cantonese Eggplant Bao",
     "tags": [
-      "baos",
-      "chinese",
-      "one-pan",
-      "veggie-friendly",
-      "weeknight"
+      "eggplant",
+      "bao",
+      "cantonesestyle",
+      "chinesefood"
     ],
-    "cuisine": "chinese",
-    "totalTimeMin": 50,
+    "cuisine": "Chinese",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
