@@ -1,0 +1,83 @@
+{
+  "slug": "amazingly-dense-slovakian-pork-casserole--japanese",
+  "title": "Slovakian-Style Braised Pork in Japanese Casserole",
+  "description": "A unique fusion dish blending traditional Slovakian flavors with a Japanese-inspired casserole style. This hearty braised pork is cooked low and slow to tender perfection, served over a bed of Japanese rice.",
+  "cuisine": "Japanese",
+  "diet": null,
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "2 lbs"
+    },
+    {
+      "name": "Slovakian sausage",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Japanese rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Green onions",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 300°F (150°C).",
+    "2. Heat sesame oil in a large Dutch oven over medium heat. Sear the pork shoulder until browned on all sides, about 5 minutes per side.",
+    "3. Remove the pork from the pot and set aside. Add the Slovakian sausage and cook until browned, about 3-4 minutes.",
+    "4. Add the onion and garlic to the pot and cook until the onion is translucent, about 3-4 minutes.",
+    "5. Add the brown sugar, soy sauce, and 1 cup of water to the pot. Stir to combine.",
+    "6. Return the pork to the pot and cover with a lid. Transfer the pot to the preheated oven and braise for 2 1/2 hours, or until the pork is tender.",
+    "7. While the pork is braising, cook the Japanese rice according to package instructions.",
+    "8. Remove the pot from the oven and let it cool slightly. Slice the pork against the grain into thin strips.",
+    "9. Serve the pork over a bed of Japanese rice, garnished with green onions and sesame seeds.",
+    "10. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "fusion",
+    "casserole",
+    "braised-pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-dense-slovakian-pork-casserole--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:04:57.243Z"
+}
