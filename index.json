@@ -5411,17 +5411,16 @@
   },
   {
     "slug": "aromatic-peppery-french-sesame-bouillabaisse",
-    "title": "Aromatic Peppery French Sesame Bouillabaisse",
+    "title": "Bouillabaisse with Croutons",
     "tags": [
-      "comfort-food",
-      "french-cuisine",
-      "one-pot",
-      "sesame-butter",
-      "shojin-friendly",
-      "vegetarian"
+      "fish",
+      "seafood",
+      "lunch",
+      "stew",
+      "french"
     ],
     "cuisine": "French",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -5484,14 +5483,13 @@
   },
   {
     "slug": "aromatic-peruvian-shrimp-tiradito",
-    "title": "Aromatic Peruvian Shrimp Tiradito",
+    "title": "Peruvian Shrimp Tiramito",
     "tags": [
-      "diabetic-friendly",
-      "grilled-seafood",
-      "low-carb",
-      "peruvian-cuisine",
-      "shrimp-recipes",
-      "weeknight-dinners"
+      "peruvian",
+      "seafood",
+      "shrimp",
+      "aji amarillo",
+      "tamarind"
     ],
     "cuisine": "Peruvian",
     "totalTimeMin": 25,
