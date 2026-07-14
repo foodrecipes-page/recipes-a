@@ -10307,5 +10307,201 @@
     "cuisine": "indian",
     "totalTimeMin": 135,
     "shard": "a"
+  },
+  {
+    "slug": "amazingly-dense-slovakian-pork-casserole--mexican",
+    "title": "Pork and Slovakian Sausage Mexican Casserole",
+    "tags": [
+      "mexican",
+      "pork",
+      "casserole",
+      "sausage"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-funky-saudi-arabian-casserole-tagine--keto",
+    "title": "Saudian Keto Tagine Casserole",
+    "tags": [
+      "keto",
+      "arabian",
+      "tagine",
+      "casserole"
+    ],
+    "cuisine": "Arabian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-funky-saudi-arabian-casserole-tagine--mexican",
+    "title": "Mexican Tagine Casserole",
+    "tags": [
+      "mexican",
+      "tagine",
+      "casserole",
+      "fusion"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-dense-slovakian-pork-casserole--vegetarian",
+    "title": "Slovakian Mushroom Casserole",
+    "tags": [
+      "slovakian",
+      "mushroom",
+      "casserole",
+      "vegetarian"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 65,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-dense-slovakian-pork-casserole--chinese",
+    "title": "Slovakian Pork Casserole with Chinese Flair",
+    "tags": [
+      "slovakian",
+      "chinese",
+      "casserole",
+      "pork"
+    ],
+    "cuisine": "Chinese",
+    "totalTimeMin": 170,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-funky-saudi-arabian-casserole-tagine--vegan",
+    "title": "Saudi Vegan Tagine Casserole",
+    "tags": [
+      "vegan",
+      "moroccan",
+      "casserole"
+    ],
+    "cuisine": "Moroccan",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-moroccan-fennel-stir-fry--german",
+    "title": "Braised German Fennel with Crispy Fried Onions",
+    "tags": [
+      "german",
+      "vegetarian",
+      "fennel",
+      "onions"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-dense-slovakian-pork-casserole--vegan",
+    "title": "Slovakian-Style Vegan Casserole",
+    "tags": [
+      "vegan",
+      "slovakian",
+      "casserole",
+      "gluten-free",
+      "plant-based"
+    ],
+    "cuisine": "Slovakian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-funky-saudi-arabian-casserole-tagine--italian",
+    "title": "Italian Tagine Casserole",
+    "tags": [
+      "italian",
+      "casserole",
+      "tagine"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 65,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-moroccan-fennel-stir-fry--thai",
+    "title": "Crispy Fennel Stir Fry",
+    "tags": [
+      "crispy",
+      "fennel",
+      "stir-fry",
+      "thai"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-moroccan-fennel-stir-fry--mexican",
+    "title": "Crispy Moroccan Chicken Fajitas",
+    "tags": [
+      "mexican",
+      "chicken",
+      "fajitas",
+      "vegetarian",
+      "crispy"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-moroccan-fennel-stir-fry--french",
+    "title": "Pan-Seared Fennel with Crispy Fried Onion",
+    "tags": [
+      "french",
+      "fennel",
+      "onion",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-funky-saudi-arabian-casserole-tagine--japanese",
+    "title": "Saudi Arabian Chicken Tagine with Aerated Miso Glaze",
+    "tags": [
+      "chicken",
+      "tagine",
+      "miso",
+      "saudi-arabian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-dense-slovakian-pork-casserole--japanese",
+    "title": "Slovakian-Style Braised Pork in Japanese Casserole",
+    "tags": [
+      "japanese",
+      "fusion",
+      "casserole",
+      "braised-pork"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 170,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-moroccan-fennel-stir-fry--vegan",
+    "title": "Crispy Fennel Moroccan Stir Fry",
+    "tags": [
+      "vegan",
+      "moroccan",
+      "stirfry",
+      "fennel",
+      "crispy"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 27,
+    "shard": "a"
   }
 ]
