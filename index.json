@@ -4720,17 +4720,15 @@
   },
   {
     "slug": "aromatic-flaky-algerian-semolina-grill",
-    "title": "Aromatic Flaky Algerian Semolina Grill",
+    "title": "Grilled Algerian Semolina Cakes",
     "tags": [
-      "algerian-cuisine",
-      "gluten-free",
-      "healthy-dinner",
-      "one-pan",
-      "paleo-friendly",
-      "weeknight-meal"
+      "semolina",
+      "algerian",
+      "snack",
+      "north-african"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 25,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -5677,16 +5675,15 @@
   },
   {
     "slug": "aromatic-russian-comte-pilaf",
-    "title": "Aromatic Russian Comte Pilaf",
+    "title": "Comte and Russian Pilaf",
     "tags": [
-      "comfort-food",
-      "monsoon-recipe",
-      "one-pot-meal",
-      "russian-cuisine",
-      "vegetarian-dish"
+      "european",
+      "vegetarian",
+      "cheese",
+      "rice"
     ],
-    "cuisine": "Russian",
-    "totalTimeMin": 50,
+    "cuisine": "European",
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
@@ -5986,16 +5983,13 @@
   },
   {
     "slug": "aromatic-smoke-hot-malaysian-bananas-fried-rice",
-    "title": "Aromatic Smoke Hot Malaysian Bananas Fried Rice",
+    "title": "Malaysian-Style Fried Rice",
     "tags": [
+      "fried-rice",
       "malaysian-cuisine",
-      "one-pan",
-      "quick-dinner",
-      "savory",
-      "smoke-hot",
-      "vegan-friendly"
+      "easy-recipe"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "malaysian",
     "totalTimeMin": 25,
     "shard": "a"
   },
@@ -6422,17 +6416,14 @@
   },
   {
     "slug": "aromatic-spicy-turkish-lamb-adana-kebap",
-    "title": "Aromatic Spicy Turkish Lamb Adana Kebap",
+    "title": "Adana Kebap",
     "tags": [
-      "dairy-free",
-      "date-night",
-      "grilled-meats",
-      "lamb-recipes",
-      "middle-eastern",
-      "turkish-food"
+      "turkish",
+      "lamb",
+      "kebap"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 50,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
