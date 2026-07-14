@@ -1,0 +1,71 @@
+{
+  "slug": "adventurous-american-scallions-fried-rice",
+  "title": "Scallion Fried Rice",
+  "description": "A simple and flavorful American-style fried rice dish loaded with scallions.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "scallions",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    },
+    {
+      "name": "rice",
+      "amount": "2 cups",
+      "notes": "cooked"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute until fragrant.",
+    "Add the chopped scallions and cook for 2-3 minutes until softened.",
+    "Push the scallion mixture to one side of the pan.",
+    "Add the remaining 1 tablespoon of vegetable oil to the other side of the pan.",
+    "Add the cooked rice to the pan and stir-fry for 2-3 minutes until combined with the scallion mixture.",
+    "Add the soy sauce and stir-fry for another minute.",
+    "Transfer the scallion fried rice to a serving platter and serve immediately.",
+    "Optional: garnish with additional chopped scallions and serve with your favorite American-style side dishes."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "american",
+    "fried",
+    "rice",
+    "scallions",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-american-scallions-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T22:39:15.914Z"
+}
