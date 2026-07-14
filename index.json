@@ -1445,17 +1445,16 @@
   },
   {
     "slug": "airy-aerated-dutch-falafel-wrap",
-    "title": "Airy Aerated Dutch Falafel Wrap",
+    "title": "Crispy Falafel Wrap",
     "tags": [
-      "dutch-cuisine",
-      "easy-lunch",
-      "healthy-snack",
-      "pescatarian",
-      "quick-dinner",
-      "steamed-food"
+      "vegan",
+      "quick",
+      "easy",
+      "middle-eastern",
+      "healthy"
     ],
-    "cuisine": "Dutch",
-    "totalTimeMin": 30,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 15,
     "shard": "a"
   },
   {
@@ -5777,17 +5776,15 @@
   },
   {
     "slug": "aromatic-savory-saudi-arabian-lamb-noodles",
-    "title": "Aromatic Savory Saudi Arabian Lamb Noodles",
+    "title": "Saudi Lamb Noodle Stew",
     "tags": [
+      "saudi",
       "lamb",
       "noodles",
-      "one-pot",
-      "paleo",
-      "saudi-arabian",
-      "weeknight"
+      "stew"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 35,
+    "cuisine": "saudi",
+    "totalTimeMin": 60,
     "shard": "a"
   },
   {
