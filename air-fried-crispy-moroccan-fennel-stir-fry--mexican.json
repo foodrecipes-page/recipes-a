@@ -1,0 +1,89 @@
+{
+  "slug": "air-fried-crispy-moroccan-fennel-stir-fry--mexican",
+  "title": "Crispy Moroccan Chicken Fajitas",
+  "description": "Spicy chicken stir-fry with fennel, onions, and peppers, served with crispy tortillas.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into thin strips"
+    },
+    {
+      "name": "fennel",
+      "amount": "1 medium bulb",
+      "notes": "sliced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "red bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "crispy tortillas",
+      "amount": "4-6 tortillas",
+      "notes": ""
+    },
+    {
+      "name": "fry oil",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "mexican seasoning",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the fry oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes.",
+    "Add the sliced fennel, onion, and red bell pepper to the skillet and cook until the vegetables are tender, about 5 minutes.",
+    "Add the mexican seasoning, cumin, and paprika to the skillet and stir to combine.",
+    "Warm the crispy tortillas by wrapping them in a damp paper towel and microwaving for 20-30 seconds.",
+    "Assemble the fajitas by placing the cooked chicken and vegetable mixture onto the tortillas.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "fajitas",
+    "vegetarian",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-moroccan-fennel-stir-fry--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:04:39.582Z"
+}
