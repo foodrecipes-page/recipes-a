@@ -1,0 +1,73 @@
+{
+  "slug": "air-fried-crispy-moroccan-fennel-stir-fry--french",
+  "title": "Pan-Seared Fennel with Crispy Fried Onion",
+  "description": "A simple yet flavorful French dish featuring pan-seared fennel and crispy fried onions.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "fennel",
+      "amount": "1 bulb",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Slice the fennel bulb into 1/4-inch thick wedges.",
+    "2. In a large skillet, melt 1 tablespoon of butter over medium heat.",
+    "3. Add the sliced fennel to the skillet and cook for 5-7 minutes, or until tender.",
+    "4. Meanwhile, slice the onion into thin rings.",
+    "5. Heat the remaining 1 tablespoon of butter in a separate skillet over medium-high heat.",
+    "6. Add the onion rings to the skillet and fry until crispy, about 3-4 minutes.",
+    "7. Season the fennel with salt, black pepper, and garlic powder.",
+    "8. Serve the pan-seared fennel with crispy fried onions on top."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "fennel",
+    "onion",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-moroccan-fennel-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:04:53.319Z"
+}
