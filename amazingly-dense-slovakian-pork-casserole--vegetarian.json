@@ -1,0 +1,82 @@
+{
+  "slug": "amazingly-dense-slovakian-pork-casserole--vegetarian",
+  "title": "Slovakian Mushroom Casserole",
+  "description": "A hearty, flavorful casserole from Slovakia, made with sautéed mushrooms and potatoes, perfect for a comforting meal.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "mushrooms",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium, peeled and diced"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced"
+    },
+    {
+      "name": "caraway seeds",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "dried thyme",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, heat 1 tablespoon of vegetable oil over medium heat.",
+    "Add the sliced mushrooms and cook until they release their moisture and start to brown, about 5 minutes.",
+    "Add the diced onion and minced garlic to the skillet and cook for another 2-3 minutes.",
+    "Add the diced potatoes, caraway seeds, and dried thyme to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Transfer the skillet mixture to a 9x13 inch baking dish.",
+    "Drizzle the remaining 1 tablespoon of vegetable oil over the top of the casserole.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for another 15-20 minutes, or until the potatoes are tender and the top is golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "mushroom",
+    "casserole",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-dense-slovakian-pork-casserole--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:04:01.848Z"
+}
