@@ -1,0 +1,66 @@
+{
+  "slug": "aerated-funky-saudi-arabian-casserole-tagine--vegan",
+  "title": "Saudi Vegan Tagine Casserole",
+  "description": "A hearty, flavorful Moroccan-inspired casserole made with saudi and vegan ingredients.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saudi",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Arabian",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Funky",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Aerated",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Casserole",
+      "amount": "1"
+    },
+    {
+      "name": "Tagine",
+      "amount": "1"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Heat the saudi in a large skillet over medium heat.",
+    "Add the arabian, funky, and aerated to the skillet, and cook for 2 minutes.",
+    "Stir in the casserole and tagine. Cook for 1 minute.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for 10-15 minutes, or until the top is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "moroccan",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-funky-saudi-arabian-casserole-tagine--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:04:18.176Z"
+}
