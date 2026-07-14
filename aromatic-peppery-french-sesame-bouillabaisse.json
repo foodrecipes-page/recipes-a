@@ -1,0 +1,87 @@
+{
+  "slug": "aromatic-peppery-french-sesame-bouillabaisse",
+  "title": "Bouillabaisse with Croutons",
+  "description": "A classic French fish stew originating from Marseille, typically served with croutons and a dollop of rouille.",
+  "cuisine": "French",
+  "diet": [
+    "fish",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Aromatic Fish (such as Mullet or Sea Bass)",
+      "amount": "1 whole fish, cut into 8 pieces",
+      "notes": ""
+    },
+    {
+      "name": "French Bouquet Garni",
+      "amount": "1 bunch",
+      "notes": "Thyme, Bay Leaves, Parsley"
+    },
+    {
+      "name": "Peppery Rouille",
+      "amount": "1 cup",
+      "notes": "Mayonnaise, Harissa, Chopped Garlic"
+    },
+    {
+      "name": "Croutons",
+      "amount": "1 baguette, cut into 1/2-inch cubes",
+      "notes": "French bread, Olive Oil"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "2 tablespoons",
+      "notes": "For garnish"
+    },
+    {
+      "name": "White Wine",
+      "amount": "1 cup",
+      "notes": "Dry white wine, such as Chablis"
+    },
+    {
+      "name": "Fish Stock",
+      "amount": "4 cups",
+      "notes": "Homemade or store-bought stock"
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": "For serving"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of butter in a large Dutch oven over medium heat.",
+    "Add the Aromatic Fish pieces and cook until browned on both sides, about 5 minutes.",
+    "Add the White Wine and bring to a boil.",
+    "Scrape up any browned bits from the bottom of the pot.",
+    "Add the Fish Stock, bring to a boil, then reduce the heat to low and simmer for 10 minutes.",
+    "Add the French Bouquet Garni and cook for an additional 5 minutes.",
+    "Meanwhile, prepare the croutons by tossing the bread cubes with 1 tablespoon of olive oil and 1/2 teaspoon of salt.",
+    "Bake the croutons in a preheated oven at 350°F (180°C) for 10-12 minutes, or until crispy.",
+    "To serve, place a piece of Aromatic Fish on each plate, spoon some of the Bouillabaisse over the top, and garnish with a dollop of Peppery Rouille, a sprinkle of Sesame Seeds, and a few croutons.",
+    "Serve with a side of crusty French bread and a dollop of Unsalted Butter."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "fish",
+    "seafood",
+    "lunch",
+    "stew",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-peppery-french-sesame-bouillabaisse",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:48:49.386Z"
+}
