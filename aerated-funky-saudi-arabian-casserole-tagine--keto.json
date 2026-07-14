@@ -1,0 +1,67 @@
+{
+  "slug": "aerated-funky-saudi-arabian-casserole-tagine--keto",
+  "title": "Saudian Keto Tagine Casserole",
+  "description": "A rich and flavorful casserole originating from the Arabian region, adapted to fit a keto diet. This tagine-inspired dish is perfect for a satisfying keto meal.",
+  "cuisine": "Arabian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Saudian casserole",
+      "amount": "1 large"
+    },
+    {
+      "name": "Aerated cheese",
+      "amount": "1 cup shredded"
+    },
+    {
+      "name": "Funky sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Arabian spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the Saudian casserole into 1-inch cubes.",
+    "In a large skillet, heat the funky sauce over medium heat. Add the Arabian spices and cook for 1 minute.",
+    "Add the casserole cubes to the skillet and cook until lightly browned, about 5 minutes.",
+    "Transfer the casserole mixture to a 9x13 inch baking dish.",
+    "Sprinkle the aerated cheese evenly over the casserole mixture.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly.",
+    "Garnish with chopped fresh parsley and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "arabian",
+    "tagine",
+    "casserole"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 32,
+    "carbs": 10,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-funky-saudi-arabian-casserole-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:03:03.492Z"
+}
