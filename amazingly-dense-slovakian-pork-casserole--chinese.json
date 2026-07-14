@@ -1,0 +1,91 @@
+{
+  "slug": "amazingly-dense-slovakian-pork-casserole--chinese",
+  "title": "Slovakian Pork Casserole with Chinese Flair",
+  "description": "A hearty Slovakian dish with a Chinese twist, featuring slow-cooked pork and a savory sauce. Perfect for a chilly evening.",
+  "cuisine": "Chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, boneless",
+      "amount": "1.5 pounds",
+      "notes": null
+    },
+    {
+      "name": "Slovakian dark rye bread, cubed",
+      "amount": "1 cup",
+      "notes": "day-old bread works best"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion, chopped",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "2 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger, minced",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Five-spice powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": null,
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 300°F (150°C).",
+    "In a large Dutch oven, heat the oil over medium heat. Add the onion and cook until softened, about 5 minutes.",
+    "Add the garlic and ginger; cook for 1 minute.",
+    "Add the pork and cook until browned on all sides, about 5 minutes.",
+    "Add the bread, soy sauce, brown sugar, and five-spice powder. Stir to combine.",
+    "Cover the pot and transfer to the preheated oven. Braise for 2 1/2 hours, or until the pork is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with scallions if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "slovakian",
+    "chinese",
+    "casserole",
+    "pork"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 32,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-dense-slovakian-pork-casserole--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:04:05.699Z"
+}
