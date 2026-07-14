@@ -1,0 +1,73 @@
+{
+  "slug": "aromatic-russian-comte-pilaf",
+  "title": "Comte and Russian Pilaf",
+  "description": "A flavorful pilaf dish featuring Comte cheese, Russian spices, and aromatic herbs.",
+  "cuisine": "European",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Comte cheese",
+      "amount": "1 cup, grated",
+      "notes": ""
+    },
+    {
+      "name": "Russian pilaf mix",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 2 cups of water in a large saucepan.",
+    "Add 1 tsp of salt and 1 tsp of black pepper.",
+    "Add 2 cups of aromatic rice and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 15-20 minutes.",
+    "In a separate pan, heat 1 cup of Russian pilaf mix until fragrant.",
+    "Add grated Comte cheese and stir until melted.",
+    "Fluff cooked rice with a fork and mix with cheese and pilaf mixture.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "european",
+    "vegetarian",
+    "cheese",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-russian-comte-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:44:56.302Z"
+}
