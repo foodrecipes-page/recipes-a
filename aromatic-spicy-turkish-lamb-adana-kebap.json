@@ -1,0 +1,88 @@
+{
+  "slug": "aromatic-spicy-turkish-lamb-adana-kebap",
+  "title": "Adana Kebap",
+  "description": "A classic Turkish dish originating from Adana, this kebap is made with lamb and spices. Serve with rice, salad, or flatbread for a complete meal.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Turkish Spice Mix",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Spicy Red Pepper Paste",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Aromatic Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Bread",
+      "amount": "4-6 slices",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Combine lamb, Turkish Spice Mix, Spicy Red Pepper Paste, garlic, and onion in a bowl. Mix well and let it marinate for at least 30 minutes.",
+    "Heat Aromatic Olive Oil in a large skillet over medium-high heat. Remove the lamb from the marinade and cook for 3-4 minutes per side, or until cooked to your liking.",
+    "Transfer the lamb to a plate and cover with foil to keep warm.",
+    "Reduce the heat to medium and add a bit more oil to the skillet if needed. Add the bread and cook for 2-3 minutes per side, or until toasted.",
+    "Serve the lamb with the toasted bread, salad, or rice. Enjoy!",
+    "Optional: Grill the lamb for a smoky flavor or cook it in a grill pan for a crispy exterior.",
+    "Make sure to cook the lamb to an internal temperature of at least 63°C (145°F) for food safety.",
+    "Let the lamb rest for 5-7 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "kebap"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": "30g",
+    "carbs": "20g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-spicy-turkish-lamb-adana-kebap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T17:56:02.289Z"
+}
