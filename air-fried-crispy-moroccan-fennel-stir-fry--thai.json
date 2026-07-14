@@ -1,0 +1,81 @@
+{
+  "slug": "air-fried-crispy-moroccan-fennel-stir-fry--thai",
+  "title": "Crispy Fennel Stir Fry",
+  "description": "A simple Thai-inspired dish featuring crispy fennel and a crunchy fried element. This recipe can be served as a side or as part of a larger meal.",
+  "cuisine": "thai",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fennel Bulb",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Fried Shallots",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 small piece",
+      "notes": null
+    },
+    {
+      "name": "Galangal",
+      "amount": "1 small piece",
+      "notes": null
+    },
+    {
+      "name": "Chili Pepper",
+      "amount": "1 small",
+      "notes": null
+    },
+    {
+      "name": "Fried Egg",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a pan over medium-high heat.",
+    "Add the fennel bulb and cook until crispy, about 5 minutes.",
+    "Add the fried shallots, ginger, galangal, and chili pepper to the pan and cook for an additional 2 minutes.",
+    "Push the vegetables to one side of the pan and crack the fried egg into the other side.",
+    "Scramble the egg until cooked through, then mix it with the vegetables.",
+    "Season with salt and pepper to taste.",
+    "Garnish with chopped cilantro and serve hot.",
+    "Serve with steamed rice or noodles for a filling meal."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "medium",
+  "tags": [
+    "crispy",
+    "fennel",
+    "stir-fry",
+    "thai"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 25,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-moroccan-fennel-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:04:34.200Z"
+}
