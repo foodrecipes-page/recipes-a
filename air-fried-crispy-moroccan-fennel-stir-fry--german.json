@@ -1,0 +1,56 @@
+{
+  "slug": "air-fried-crispy-moroccan-fennel-stir-fry--german",
+  "title": "Braised German Fennel with Crispy Fried Onions",
+  "description": "A hearty German side dish featuring caramelized fennel and crispy fried onions.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Fennel",
+      "amount": "2 bulbs, sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large, thinly sliced"
+    },
+    {
+      "name": "Butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a large skillet, melt butter over medium heat.",
+    "2. Add sliced fennel and cook, stirring occasionally, until caramelized and tender, about 20 minutes.",
+    "3. Meanwhile, separate onion slices into individual rings.",
+    "4. In a separate pan, fry onion rings in batches until crispy and golden brown, about 2 minutes per batch.",
+    "5. Drain fried onions on paper towels.",
+    "6. To assemble the dish, place braised fennel on a serving platter or individual plates, topping with crispy fried onions.",
+    "7. Season with salt and black pepper to taste."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "vegetarian",
+    "fennel",
+    "onions"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-moroccan-fennel-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:04:19.488Z"
+}
