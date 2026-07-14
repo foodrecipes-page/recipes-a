@@ -1,0 +1,78 @@
+{
+  "slug": "amazingly-dense-slovakian-pork-casserole--vegan",
+  "title": "Slovakian-Style Vegan Casserole",
+  "description": "A hearty, satisfying casserole inspired by Slovakian cuisine, made with plant-based ingredients and no animal products.",
+  "cuisine": "Slovakian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Dense, Slovakian bread (cut into 1-inch cubes)",
+      "amount": "2 cups",
+      "notes": "Use a dense, hearty bread for best results"
+    },
+    {
+      "name": "Amazingly rich vegetable broth",
+      "amount": "2 cups",
+      "notes": "Use a store-bought or homemade broth for added depth of flavor"
+    },
+    {
+      "name": "Sautéed mushrooms (such as cremini or shiitake)",
+      "amount": "1 cup",
+      "notes": "Sauté until tender and fragrant"
+    },
+    {
+      "name": "Diced bell peppers",
+      "amount": "1 cup",
+      "notes": "Any color bell pepper works well"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "Add a pop of color and freshness"
+    },
+    {
+      "name": "Vegan sour cream alternative",
+      "amount": "1/2 cup",
+      "notes": "Choose a store-bought or homemade option"
+    },
+    {
+      "name": "Slovakian-style paprika",
+      "amount": "1 tsp",
+      "notes": "Use a high-quality paprika for best flavor"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large skillet, sauté the mushrooms and bell peppers until tender. Set aside.",
+    "In a large mixing bowl, combine the bread, vegetable broth, sautéed mushrooms and bell peppers, parsley, and vegan sour cream alternative.",
+    "Stir in the Slovakian-style paprika.",
+    "Transfer the mixture to a 9x13-inch baking dish.",
+    "Bake for 25-30 minutes, or until the top is golden brown and the casserole is hot throughout.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "slovakian",
+    "casserole",
+    "gluten-free",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-dense-slovakian-pork-casserole--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:04:22.238Z"
+}
