@@ -1,0 +1,97 @@
+{
+  "slug": "aerated-funky-saudi-arabian-casserole-tagine--mexican",
+  "title": "Mexican Tagine Casserole",
+  "description": "A fusion of Mexican and Middle Eastern flavors, this casserole combines the spicy kick of Mexican cuisine with the rich flavors of a traditional tagine.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "arabian casserole",
+      "amount": "1",
+      "notes": "available in most international markets"
+    },
+    {
+      "name": "saudi saffron",
+      "amount": "1/4 tsp",
+      "notes": "optional, but recommended for authentic flavor"
+    },
+    {
+      "name": "funky guacamole",
+      "amount": "1/2 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 lb",
+      "notes": "or substitute with other protein of choice"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "diced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "chili powder",
+      "amount": "1 tsp",
+      "notes": "ground"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 tsp",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the casserole according to package instructions. Drain excess liquid.",
+    "In a large skillet, heat 1 tablespoon of oil over medium-high heat.",
+    "Add the chicken and cook until browned, about 5-7 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the onion and garlic to the skillet and cook until softened, about 3-4 minutes.",
+    "Stir in cumin, chili powder, salt, and pepper.",
+    "Return the chicken to the skillet and stir to combine.",
+    "In a large casserole dish, layer the cooked casserole, chicken mixture, and guacamole.",
+    "Bake for 20-25 minutes or until the casserole is heated through and the flavors have melded together.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tagine",
+    "casserole",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-funky-saudi-arabian-casserole-tagine--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:03:07.500Z"
+}
