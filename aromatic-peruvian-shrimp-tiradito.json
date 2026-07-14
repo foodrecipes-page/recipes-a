@@ -1,0 +1,83 @@
+{
+  "slug": "aromatic-peruvian-shrimp-tiradito",
+  "title": "Peruvian Shrimp Tiramito",
+  "description": "A fusion of Peruvian and Japanese flavors, this dish combines the freshness of seafood with the boldness of Peruvian spices.",
+  "cuisine": "Peruvian",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "large shrimp",
+      "amount": "12",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Peruvian aji amarillo pepper",
+      "amount": "1",
+      "notes": "diced"
+    },
+    {
+      "name": "red onion",
+      "amount": "1/2",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "firm tofu",
+      "amount": "4 oz",
+      "notes": "diced"
+    },
+    {
+      "name": "tamarind paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a blender or food processor, combine aji amarillo pepper, red onion, garlic, and 1 tablespoon of the soy sauce, and blend until smooth.",
+    "2. In a large skillet, heat 1 tablespoon of oil over medium-high. Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "3. Transfer the cooked shrimp to a plate and set aside.",
+    "4. In the same skillet, add the remaining 1 tablespoon of oil and cook the diced tofu until golden brown, about 3-4 minutes.",
+    "5. Add the blended aji amarillo mixture to the skillet and cook for 1-2 minutes, stirring constantly.",
+    "6. Stir in the tamarind paste, brown sugar, and 1 tablespoon of water. Bring the mixture to a simmer and cook for 2-3 minutes, until slightly thickened.",
+    "7. Add the cooked shrimp back into the skillet and toss to coat with the aji amarillo sauce.",
+    "8. Serve the shrimp mixture on top of the diced tofu and garnish with additional aji amarillo pepper, if desired.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "seafood",
+    "shrimp",
+    "aji amarillo",
+    "tamarind"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-peruvian-shrimp-tiradito",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T01:31:24.839Z"
+}
