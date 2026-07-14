@@ -1,0 +1,71 @@
+{
+  "slug": "aromatic-smoke-hot-malaysian-bananas-fried-rice",
+  "title": "Malaysian-Style Fried Rice",
+  "description": "A flavorful and easy-to-make fried rice dish inspired by Malaysian cuisine, perfect for a quick weeknight dinner.",
+  "cuisine": "malaysian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "cooked rice",
+      "amount": "2 cups",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "aromatic oil",
+      "amount": "2 tablespoons",
+      "notes": "such as vegetable or canola oil"
+    },
+    {
+      "name": "hot sauce",
+      "amount": "1 tablespoon",
+      "notes": "optional, for added heat"
+    },
+    {
+      "name": "smoked paprika",
+      "amount": "1 teaspoon",
+      "notes": "for added smokiness"
+    },
+    {
+      "name": "bananas",
+      "amount": "1 ripe",
+      "notes": "diced"
+    },
+    {
+      "name": "fry",
+      "amount": "1 cup",
+      "notes": "diced, such as shallots or scallions"
+    }
+  ],
+  "instructions": [
+    "Heat the aromatic oil in a large skillet or wok over medium-high heat.",
+    "Add the hot sauce and smoked paprika, and stir-fry for 1 minute.",
+    "Add the diced bananas and fry until they start to caramelize, about 3-4 minutes.",
+    "Add the cooked rice to the skillet or wok, breaking up any clumps with a spatula.",
+    "Stir-fry the rice with the bananas and spices for about 5 minutes, until everything is well combined.",
+    "Taste and adjust the seasoning as needed, then serve hot.",
+    "Optional: garnish with additional fry and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried-rice",
+    "malaysian-cuisine",
+    "easy-recipe"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoke-hot-malaysian-bananas-fried-rice",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T16:56:04.948Z"
+}
