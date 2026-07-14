@@ -1,0 +1,77 @@
+{
+  "slug": "awesome-aromatic-turkish-lamb-stew",
+  "title": "Turkish Lamb Stew",
+  "description": "A hearty and aromatic Turkish-inspired lamb stew, perfect for a cold winter evening.",
+  "cuisine": "Turkish",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "500g",
+      "notes": "shoulder or shank cuts work well"
+    },
+    {
+      "name": "awesome",
+      "amount": "1 tsp",
+      "notes": "optional, to taste"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tsp",
+      "notes": "ground cumin and coriander work well"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": "beef or lamb broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pan over medium heat.",
+    "Add lamb and cook until browned on all sides, about 5 minutes.",
+    "Add onion and garlic and cook until softened, about 5 minutes.",
+    "Stir in tomato paste, awesome, and aromatic. Cook for 1 minute.",
+    "Add stew and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with parsley or cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "turkish",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/awesome-aromatic-turkish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T20:09:32.170Z"
+}
