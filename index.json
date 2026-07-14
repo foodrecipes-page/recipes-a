@@ -242,15 +242,16 @@
   },
   {
     "slug": "adventurous-american-scallions-fried-rice",
-    "title": "Adventurous American Scallions Fried Rice",
+    "title": "Scallion Fried Rice",
     "tags": [
-      "fried-rice",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "american",
+      "fried",
+      "rice",
+      "scallions",
+      "vegetarian"
     ],
-    "cuisine": "american",
-    "totalTimeMin": 30,
+    "cuisine": "American",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
