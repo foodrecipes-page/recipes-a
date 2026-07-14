@@ -1,0 +1,75 @@
+{
+  "slug": "aromatic-savory-saudi-arabian-lamb-noodles",
+  "title": "Saudi Lamb Noodle Stew",
+  "description": "A hearty Saudi-inspired stew made with tender lamb and flavorful noodles. This comforting dish is perfect for a chilly evening.",
+  "cuisine": "saudi",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "saudi",
+      "amount": "2 tablespoons",
+      "notes": "Sahlab spice blend"
+    },
+    {
+      "name": "noodles",
+      "amount": "1 cup",
+      "notes": "Saudi-style rice noodles"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tablespoon",
+      "notes": "Middle Eastern spice blend"
+    },
+    {
+      "name": "savory",
+      "amount": "1 teaspoon",
+      "notes": "powdered onion"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": "for stew"
+    }
+  ],
+  "instructions": [
+    "Heat the oven to 300°F (150°C).",
+    "In a large Dutch oven, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the lamb and cook until browned, about 5 minutes.",
+    "Add the saudi spice blend and cook for 1 minute.",
+    "Add the noodles and cook for 2 minutes.",
+    "Add the water and bring to a boil.",
+    "Transfer the pot to the oven and simmer for 30 minutes.",
+    "Stir in the aromatic spice blend and savory powder.",
+    "Serve hot, garnished with toasted almonds and chopped fresh parsley."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi",
+    "lamb",
+    "noodles",
+    "stew"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-savory-saudi-arabian-lamb-noodles",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T08:08:35.711Z"
+}
