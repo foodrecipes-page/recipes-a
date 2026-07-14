@@ -7128,17 +7128,14 @@
   },
   {
     "slug": "awesome-aromatic-turkish-lamb-stew",
-    "title": "Awesome Aromatic Turkish Lamb Stew",
+    "title": "Turkish Lamb Stew",
     "tags": [
-      "comfort-food",
-      "hearty-stew",
-      "jain-friendly",
-      "lamb-based",
-      "rye-bread",
-      "turkish-cuisine"
+      "lamb",
+      "turkish",
+      "stew"
     ],
     "cuisine": "Turkish",
-    "totalTimeMin": 180,
+    "totalTimeMin": 105,
     "shard": "a"
   },
   {
