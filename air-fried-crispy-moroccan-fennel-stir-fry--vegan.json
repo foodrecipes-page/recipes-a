@@ -1,0 +1,79 @@
+{
+  "slug": "air-fried-crispy-moroccan-fennel-stir-fry--vegan",
+  "title": "Crispy Fennel Moroccan Stir Fry",
+  "description": "A vegan stir fry dish with crispy fennel, inspired by Moroccan flavors.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Fennel",
+      "amount": "1 bulb",
+      "notes": "Cut into thick slices"
+    },
+    {
+      "name": "Moroccan Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Firm Tofu",
+      "amount": "1 block",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Red Pepper",
+      "amount": "1",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onion and red pepper, and cook until tender, about 5 minutes.",
+    "Add the fennel and cook for an additional 3-4 minutes.",
+    "Add the garlic, Moroccan Spice Blend, and firm tofu, and stir to combine.",
+    "Cook for an additional 2-3 minutes, or until the tofu is golden brown.",
+    "Stir in the chopped parsley.",
+    "Serve hot, garnished with additional parsley if desired.",
+    "Garnish with additional Moroccan Spice Blend if desired.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "moroccan",
+    "stirfry",
+    "fennel",
+    "crispy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-moroccan-fennel-stir-fry--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-12T06:05:01.422Z"
+}
