@@ -1190,14 +1190,16 @@
   },
   {
     "slug": "air-fried-crispy-japanese-casabe-stir-fry",
-    "title": "Air-Fried Crispy Japanese Casabe Stir-Fry",
+    "title": "Japanese Crispy Air-Fried Casabe Fritters",
     "tags": [
-      "air-fried-crispy",
-      "sweet-japanese-dish",
-      "casabe-stir-fry"
+      "casabe",
+      "japanese",
+      "air-fried",
+      "crispy",
+      "snack"
     ],
     "cuisine": "Japanese",
-    "totalTimeMin": null,
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
