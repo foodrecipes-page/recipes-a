@@ -828,16 +828,15 @@
   },
   {
     "slug": "aerated-malt-middle-eastern-bread-fatteh",
-    "title": "Aerated Malt Middle-eastern Bread Fatteh",
+    "title": "Eastern Fattoush Bread Salad",
     "tags": [
-      "high-protein",
+      "salad",
       "middle-eastern",
-      "one-pan",
-      "show-off",
-      "weeknight"
+      "gluten-free",
+      "vegan"
     ],
-    "cuisine": "middle-eastern",
-    "totalTimeMin": 80,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -10484,6 +10483,68 @@
     ],
     "cuisine": null,
     "totalTimeMin": 27,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-pineapple-tart--italian",
+    "title": "Italian Pineapple Tart",
+    "tags": [
+      "italian",
+      "dessert",
+      "pineapple",
+      "tart"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-pineapple-tart--chinese",
+    "title": "Sweet and Sour Pineapple Stir-Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "pineapple"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-pineapple-tart--vegetarian",
+    "title": "Tart Pineapple Salad",
+    "tags": [
+      "pineapple",
+      "salad",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 10,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-pineapple-tart--keto",
+    "title": "Adventurous Pork Chops",
+    "tags": [
+      "keto",
+      "pork-chops",
+      "adventurous-seasoning"
+    ],
+    "cuisine": "American",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crumbly-garlic-peruvian-crumble--german",
+    "title": "Sauerbraten-German Pot Roast",
+    "tags": [
+      "german",
+      "beef",
+      "sauerbraten"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 210,
     "shard": "a"
   }
 ]
