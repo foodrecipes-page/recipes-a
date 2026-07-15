@@ -1,0 +1,62 @@
+{
+  "slug": "adventurous-pineapple-tart--gluten-free",
+  "title": "Grilled Pineapple Skewers with Tart Glaze",
+  "description": "Sweet and tangy grilled pineapple skewers with a tart glaze, perfect for a quick and easy gluten-free snack. This recipe is perfect for adventurous eaters and pineapple lovers alike.",
+  "cuisine": null,
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "pineapple",
+      "amount": "1 cup",
+      "notes": "Fresh pineapple chunks"
+    },
+    {
+      "name": "tart",
+      "amount": "1 tablespoon",
+      "notes": "Lemon juice or vinegar"
+    },
+    {
+      "name": "adventurous",
+      "amount": "1/2 teaspoon",
+      "notes": "Spicy chili flakes (optional)"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tablespoon",
+      "notes": "For brushing pineapple"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Thread pineapple chunks onto skewers.",
+    "Brush coconut oil onto pineapple.",
+    "Season with adventurous seasoning (if using).",
+    "Grill pineapple for 2-3 minutes per side, or until caramelized.",
+    "Mix tart glaze ingredients and brush onto grilled pineapple.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "snack",
+    "pineapple",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 30,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pineapple-tart--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:16:19.274Z"
+}
