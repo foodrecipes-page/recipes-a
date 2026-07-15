@@ -1,0 +1,73 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--chinese",
+  "title": "Jersey Royal Potatoes with Floral Notes",
+  "description": "A unique twist on traditional roasted potatoes, infused with floral notes and a hint of Ukrainian flair.",
+  "cuisine": "chinese",
+  "diet": [
+    null
+  ],
+  "meal": null,
+  "ingredients": [
+    {
+      "name": "Royal Potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "Floral Honey",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Ukrainian Dill",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Jersey Sea Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Aerated Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Babka Crumbs",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Peel and chop the potatoes into 1-inch cubes.",
+    "In a bowl, mix together honey, dill, and sea salt.",
+    "Add the potatoes to the bowl and toss to coat with the honey mixture.",
+    "Drizzle with aerated olive oil and toss again.",
+    "Transfer the potatoes to a baking sheet and top with babka crumbs (if using).",
+    "Roast in the preheated oven for 20-25 minutes, or until golden brown.",
+    "Serve hot, garnished with additional dill if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "potatoes",
+    "floral-notes",
+    "ukrainian-flair"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:58:25.024Z"
+}
