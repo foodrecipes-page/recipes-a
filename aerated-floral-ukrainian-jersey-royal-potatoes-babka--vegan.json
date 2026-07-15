@@ -1,0 +1,70 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--vegan",
+  "title": "Vegan Babka and Potato Hash",
+  "description": "A delicious and hearty vegan dish combining the rich flavors of Ukrainian babka with the earthy taste of potatoes.",
+  "cuisine": "ukrainian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "ukrainian babka",
+      "amount": "2 cups, cubed"
+    },
+    {
+      "name": "potatoes",
+      "amount": "3 large, peeled and diced"
+    },
+    {
+      "name": "floral oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "royal salt",
+      "amount": "a pinch"
+    },
+    {
+      "name": "aerated vinegar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "jersey thyme",
+      "amount": "1 sprig"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 400°F (200°C).",
+    "2. In a large bowl, toss the cubed babka with 1 tablespoon of floral oil, a pinch of royal salt, and 1 tablespoon of aerated vinegar until well combined.",
+    "3. Spread the babka mixture in a single layer on a baking sheet.",
+    "4. Roast the babka in the preheated oven for 15-20 minutes or until lightly toasted.",
+    "5. While the babka is roasting, heat the remaining 1 tablespoon of floral oil in a large skillet over medium heat.",
+    "6. Add the diced potatoes to the skillet and cook for 5-7 minutes or until they start to brown.",
+    "7. Add the roasted babka to the skillet with the potatoes and toss to combine.",
+    "8. Add the sprig of jersey thyme to the skillet and toss to combine.",
+    "9. Cook for an additional 2-3 minutes or until the potatoes and babka are well combined.",
+    "10. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ukrainian",
+    "vegan",
+    "breakfast",
+    "hash",
+    "potatoes"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:58:20.868Z"
+}
