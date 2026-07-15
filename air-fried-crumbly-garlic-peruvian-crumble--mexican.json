@@ -1,0 +1,71 @@
+{
+  "slug": "air-fried-crumbly-garlic-peruvian-crumble--mexican",
+  "title": "Mexican Crispy Chicken",
+  "description": "A flavorful Mexican dish with crispy chicken, perfect for lunch or dinner. The combination of garlic and crispy texture makes it irresistible.",
+  "cuisine": "mexican",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breasts",
+      "amount": "4",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "peruvian garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "crumbly tortilla chips",
+      "amount": "1 cup",
+      "notes": "crushed"
+    },
+    {
+      "name": "crumb",
+      "amount": "1/2 cup",
+      "notes": "milk-bread"
+    },
+    {
+      "name": "frying oil",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the chicken breasts with salt and pepper.",
+    "In a shallow dish, mix together the crushed tortilla chips and crumb.",
+    "Dip each chicken breast in the milk, then coat in the tortilla chip mixture, pressing gently to adhere.",
+    "Heat about 1/4 inch of oil in a large skillet over medium-high heat.",
+    "Fry the chicken breasts until golden brown, about 3-4 minutes per side.",
+    "Transfer the chicken to a baking sheet and bake for an additional 10-12 minutes, or until cooked through.",
+    "While the chicken is baking, mix together the minced garlic and milk in a small bowl.",
+    "After the chicken has baked for 5 minutes, brush the garlic-milk mixture on top of the chicken.",
+    "Continue baking for the remaining 5 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "crispy",
+    "garlic"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crumbly-garlic-peruvian-crumble--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:52:42.590Z"
+}
