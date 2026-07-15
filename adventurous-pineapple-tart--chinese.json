@@ -1,0 +1,87 @@
+{
+  "slug": "adventurous-pineapple-tart--chinese",
+  "title": "Sweet and Sour Pineapple Stir-Fry",
+  "description": "A classic Chinese dish with a twist, combining tart pineapple with savory ingredients for a flavorful and refreshing meal.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pineapple",
+      "amount": "1 cup",
+      "notes": "fresh pineapple chunks"
+    },
+    {
+      "name": "adventurous",
+      "amount": "1 tablespoon",
+      "notes": "Chinese five-spice powder"
+    },
+    {
+      "name": "tart",
+      "amount": "2 tablespoons",
+      "notes": "rice vinegar"
+    },
+    {
+      "name": "oil",
+      "amount": "1 tablespoon",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": "brown sugar"
+    },
+    {
+      "name": "sesame oil",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the oil in a large skillet or wok over medium-high heat.",
+    "Add the garlic and ginger and stir-fry for 1 minute.",
+    "Add the pineapple and stir-fry for 2-3 minutes.",
+    "In a small bowl, whisk together the soy sauce, sugar, and rice vinegar.",
+    "Pour the sauce over the pineapple and stir-fry for an additional 2 minutes.",
+    "Sprinkle the five-spice powder over the top and stir-fry for 1 minute.",
+    "Taste and adjust the seasoning as needed.",
+    "Serve hot, garnished with sesame oil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "pineapple"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pineapple-tart--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:50:51.684Z"
+}
