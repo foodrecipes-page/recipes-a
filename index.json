@@ -4959,17 +4959,17 @@
   },
   {
     "slug": "aromatic-indian-paneer-paneer-tikka",
-    "title": "Aromatic Indian Paneer Tikka",
+    "title": "Paneer Tikka Masala",
     "tags": [
-      "high-protein",
+      "paneer",
+      "tikka",
+      "masala",
       "indian",
-      "keto-friendly",
-      "one-pan",
-      "quick",
-      "vegetarian"
+      "curry",
+      "dinner"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 35,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
