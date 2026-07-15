@@ -1,0 +1,84 @@
+{
+  "slug": "air-fried-herbs-vietnamese-stir-fry--german",
+  "title": "German Style Stir Fry with Herbs",
+  "description": "A twist on traditional German cuisine, this dish combines the flavors of herbs and stir-frying techniques.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bamboo shoots",
+      "amount": "1 cup",
+      "notes": "Canned or fresh"
+    },
+    {
+      "name": "Herbs",
+      "amount": "1/4 cup",
+      "notes": "Chopped fresh parsley, dill, and chives"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "Sliced"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onions and cook until softened, about 3-4 minutes.",
+    "Add bell peppers and cook for another 3-4 minutes.",
+    "Add carrots and cook for 4-5 minutes.",
+    "Add potatoes and cook for 5-6 minutes.",
+    "Add bamboo shoots and herbs, stir-fry for 1-2 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with additional herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stir-fry",
+    "herbs"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-herbs-vietnamese-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:54:07.277Z"
+}
