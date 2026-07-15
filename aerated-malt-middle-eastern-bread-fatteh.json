@@ -1,0 +1,73 @@
+{
+  "slug": "aerated-malt-middle-eastern-bread-fatteh",
+  "title": "Eastern Fattoush Bread Salad",
+  "description": "A refreshing salad made with toasted pita bread, mixed greens, and a zesty dressing, inspired by the flavors of the Middle East. Serve chilled for a perfect side dish or light meal.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pita Bread",
+      "amount": "4-6 slices",
+      "notes": "day-old or toasted"
+    },
+    {
+      "name": "Mixed Greens",
+      "amount": "4 cups",
+      "notes": "such as lettuce, parsley, and mint"
+    },
+    {
+      "name": "Eastern-Style Vinaigrette",
+      "amount": "1/4 cup",
+      "notes": "see below for recipe"
+    },
+    {
+      "name": "Chopped Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped Scallions",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Fried Capers",
+      "amount": "2 tablespoons",
+      "notes": "see below for recipe"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (175°C).",
+    "2. Cut the pita bread into 1-inch pieces and toast in the oven for 5-7 minutes, or until crispy.",
+    "3. In a large bowl, combine the mixed greens, toasted pita bread, and chopped parsley and scallions (if using).",
+    "4. In a small bowl, whisk together the Eastern-Style Vinaigrette ingredients.",
+    "5. Pour the vinaigrette over the salad and toss to combine.",
+    "6. Sprinkle the fried capers over the top of the salad.",
+    "7. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "salad",
+    "middle-eastern",
+    "gluten-free",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-malt-middle-eastern-bread-fatteh",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T01:53:13.724Z"
+}
