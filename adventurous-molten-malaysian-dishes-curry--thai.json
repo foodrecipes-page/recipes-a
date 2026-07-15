@@ -1,0 +1,83 @@
+{
+  "slug": "adventurous-molten-malaysian-dishes-curry--thai",
+  "title": "Spicy Thai Street Curry",
+  "description": "A flavorful and spicy curry dish inspired by the flavors of Thailand. This recipe serves a crowd and is perfect for adventurous eaters.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Thai red curry paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pan over medium heat.",
+    "Add the curry paste and cook for 1-2 minutes, stirring constantly.",
+    "Add the coconut milk, fish sauce, and sugar. Stir to combine.",
+    "Add the chicken breast and cook until browned on all sides.",
+    "Add the bell peppers and cook until tender.",
+    "Stir in the chopped Thai basil leaves.",
+    "Season with salt and black pepper to taste.",
+    "Simmer for 10-15 minutes or until the chicken is cooked through."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "spicy",
+    "curry",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 28
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-molten-malaysian-dishes-curry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:51:18.655Z"
+}
