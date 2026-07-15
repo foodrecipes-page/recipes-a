@@ -1,0 +1,82 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--italian",
+  "title": "Italian Royal Potatoes",
+  "description": "A classic Italian side dish with a royal twist, made with tender potatoes and aromatic flavors.",
+  "cuisine": "italian",
+  "diet": [
+    null
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "4 large",
+      "notes": "peeled"
+    },
+    {
+      "name": "Jersey royal potatoes",
+      "amount": "2 large",
+      "notes": "peeled"
+    },
+    {
+      "name": "floral olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "aerated parmesan cheese",
+      "amount": "1/2 cup",
+      "notes": "grated"
+    },
+    {
+      "name": "Babka breadcrumbs",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "ukrainian garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "1 tbsp",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Boil the potatoes in salted water until tender, about 15-20 minutes.",
+    "Drain the potatoes and let them cool slightly.",
+    "In a bowl, mix together olive oil, parmesan cheese, breadcrumbs, garlic, salt, and parsley.",
+    "Add the cooled potatoes to the bowl and toss to coat with the mixture.",
+    "Transfer the potatoes to a baking sheet lined with parchment paper.",
+    "Bake in the preheated oven for 15-20 minutes, or until golden brown.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "side-dish",
+    "royal-potatoes"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:58:40.447Z"
+}
