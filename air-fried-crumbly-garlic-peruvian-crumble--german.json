@@ -1,0 +1,90 @@
+{
+  "slug": "air-fried-crumbly-garlic-peruvian-crumble--german",
+  "title": "Sauerbraten-German Pot Roast",
+  "description": "A classic German pot roast dish marinated in vinegar, water, and spices, then slow-cooked to perfection.",
+  "cuisine": "german",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef pot roast",
+      "amount": "2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "vinegar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "bay leaves",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine vinegar, sugar, salt, and pepper.",
+    "Add the sliced onion and mix well.",
+    "Add the beef pot roast and mix until coated.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 days.",
+    "Preheat oven to 300°F (150°C).",
+    "Remove the pot roast from the marinade and place it in a large Dutch oven.",
+    "Add the browned onions and bay leaves to the pot.",
+    "Cover the pot with a lid and transfer it to the preheated oven.",
+    "Braise the pot roast for 3 hours or until tender.",
+    "Remove the pot roast from the oven and let it rest for 10 minutes.",
+    "Slice the pot roast against the grain and serve."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 180,
+  "totalTimeMin": 210,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "sauerbraten"
+  ],
+  "nutrition": {
+    "calories": 620,
+    "protein": 55,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crumbly-garlic-peruvian-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:51:04.381Z"
+}
