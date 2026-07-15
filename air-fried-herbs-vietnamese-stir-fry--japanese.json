@@ -1,0 +1,70 @@
+{
+  "slug": "air-fried-herbs-vietnamese-stir-fry--japanese",
+  "title": "Japanese Stir-Fried Vegetables",
+  "description": "A simple and flavorful Japanese dish made with stir-fried vegetables, perfect for a quick lunch or dinner.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Mixed Vegetables (bell peppers, carrots, broccoli)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "1 tablespoon",
+      "notes": "low sodium"
+    },
+    {
+      "name": "Hoisin Sauce",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 teaspoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add mixed vegetables and cook for 3-4 minutes, or until tender-crisp.",
+    "In a small bowl, whisk together soy sauce and hoisin sauce.",
+    "Pour the sauce over the vegetables and stir to combine.",
+    "Add grated ginger and minced garlic, and stir-fry for 1 minute.",
+    "Serve hot, garnished with chopped herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-herbs-vietnamese-stir-fry--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:56:03.476Z"
+}
