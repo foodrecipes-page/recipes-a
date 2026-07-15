@@ -1,0 +1,79 @@
+{
+  "slug": "adventurous-pineapple-tart--german",
+  "title": "Lebkuchen-Glazed Pineapple Skewers",
+  "description": "A sweet and tangy twist on traditional German lebkuchen, these skewers combine caramelized pineapple with a hint of spicy ginger.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Adventurous (Ginger)",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Tart (Lemon)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Granulated Sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Water",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Lebkuchen (German Spice Cake)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Unsalted Butter",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Cut the pineapple into 1-inch chunks and set aside.",
+    "Peel the ginger and slice into thin rounds.",
+    "In a medium saucepan, combine the sugar, water, and lemon juice. Bring to a boil over medium heat, stirring occasionally.",
+    "Reduce the heat to low and simmer for 5-7 minutes, or until the syrup has thickened slightly.",
+    "Add the ginger to the syrup and cook for an additional 1-2 minutes.",
+    "Thread a pineapple chunk, a piece of ginger, and a piece of lebkuchen onto each skewer.",
+    "Brush the skewers with the syrup, making sure to coat all surfaces.",
+    "Melt the butter in a small saucepan over low heat.",
+    "Brush the melted butter over the skewers, then sprinkle with granulated sugar.",
+    "Serve immediately, or refrigerate for up to 2 hours before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "pineapple",
+    "glazed",
+    "skewers",
+    "lebkuchen"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 1,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pineapple-tart--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:59:02.921Z"
+}
