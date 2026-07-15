@@ -6895,17 +6895,15 @@
   },
   {
     "slug": "austere-spanish-hummus-paella",
-    "title": "austere spanish hummus paella",
+    "title": "Spanish Paella",
     "tags": [
-      "breakfast",
-      "hummus",
-      "one-pan",
-      "paella",
       "spanish",
-      "weeknight"
+      "paella",
+      "seafood",
+      "chicken"
     ],
-    "cuisine": "spanish",
-    "totalTimeMin": 35,
+    "cuisine": "Spanish",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
