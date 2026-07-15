@@ -1,0 +1,86 @@
+{
+  "slug": "adventurous-molten-malaysian-dishes-curry--german",
+  "title": "Malaysian Currywurst",
+  "description": "A twist on the classic German currywurst, featuring Malaysian flavors and spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Currywurst Sausage",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian Curry Paste",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ketchup",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Brown Sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Apple Cider Vinegar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped, for garnish",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1 medium, thinly sliced",
+      "notes": ""
+    },
+    {
+      "name": "Bamboo Skewers",
+      "amount": "for serving",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Grill the Currywurst Sausage over medium-high heat until browned and cooked through.",
+    "Slice the sausage into 1-inch pieces and place on a serving platter.",
+    "In a small saucepan, combine the Malaysian Curry Paste, ketchup, brown sugar, apple cider vinegar, and vegetable oil.",
+    "Bring the mixture to a simmer over medium heat and cook for 2-3 minutes, stirring constantly.",
+    "Brush the curry sauce over the sliced sausage and sprinkle with chopped cilantro.",
+    "Serve the Currywurst with sliced onions and bamboo skewers on the side."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "currywurst",
+    "malaysian",
+    "german"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-molten-malaysian-dishes-curry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:51:24.462Z"
+}
