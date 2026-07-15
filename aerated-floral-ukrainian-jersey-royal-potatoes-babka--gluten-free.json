@@ -1,0 +1,58 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--gluten-free",
+  "title": "Floral Jersey Creamer Potatoes",
+  "description": "A gluten-free side dish that combines the natural sweetness of potatoes with the delicate flavor of floral notes. This recipe is easy to prepare and yields a delicious result.",
+  "cuisine": "European",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "side",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "4 large"
+    },
+    {
+      "name": "Jersey cream",
+      "amount": "250ml"
+    },
+    {
+      "name": "Floral honey",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "Royal salt",
+      "amount": "pinch"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "chopped, for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 200°C (400°F).",
+    "Wash and peel the potatoes, then chop them into 1-inch cubes.",
+    "Place the potatoes on a baking sheet, drizzle with olive oil, and sprinkle with salt.",
+    "Roast the potatoes in the oven for 20 minutes.",
+    "In a separate saucepan, heat the Jersey cream over medium heat.",
+    "Add the floral honey to the cream and stir until dissolved.",
+    "Remove the potatoes from the oven and toss them with the cream mixture.",
+    "Return the potatoes to the oven and roast for an additional 10 minutes.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "gluten-free",
+    "side-dish",
+    "potatoes",
+    "creamy"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:24:45.300Z"
+}
