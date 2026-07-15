@@ -1,0 +1,79 @@
+{
+  "slug": "air-fried-crumbly-garlic-peruvian-crumble--thai",
+  "title": "Thai Crispy Fried Wontons",
+  "description": "Crispy fried wontons filled with a savory Peruvian-inspired garlic mixture, perfect as a snack or appetizer.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian garlic mixture (garlic, air, crumbly, fried)",
+      "amount": "1 cup",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Wonton wrappers",
+      "amount": "1 package",
+      "notes": "available at most Asian markets"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 cup",
+      "notes": "for frying"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "optional"
+    },
+    {
+      "name": "Crumbly fried garlic",
+      "amount": "1/4 cup",
+      "notes": "optional garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F.",
+    "Cut the wonton wrappers into triangles.",
+    "Place a small spoonful of Peruvian garlic mixture in the center of each triangle.",
+    "Dip your finger in water and run it along the edges of the wonton wrapper.",
+    "Fold the wrapper into a triangle and press the edges together to seal.",
+    "Fry the wontons in batches until golden brown, about 2-3 minutes per batch.",
+    "Drain the wontons on paper towels.",
+    "Serve hot with soy sauce and sesame oil for dipping, if desired.",
+    "Garnish with crumbly fried garlic, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "snack",
+    "fried",
+    "crispy"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crumbly-garlic-peruvian-crumble--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:51:20.347Z"
+}
