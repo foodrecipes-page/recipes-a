@@ -1,0 +1,68 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--german",
+  "title": "Ukrainian Babka German-Style Potato Pie",
+  "description": "A unique twist on a classic babka, this German-inspired dish combines the flaky pastry with a Ukrainian-style potato filling.",
+  "cuisine": "german",
+  "diet": [],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough (Babka)",
+      "amount": "1 package",
+      "notes": "Store-bought or homemade"
+    },
+    {
+      "name": "Ukrainian-Style Potato Filling",
+      "amount": "2 large potatoes, peeled and diced",
+      "notes": ""
+    },
+    {
+      "name": "Royal Jersey Butter",
+      "amount": "2 tablespoons",
+      "notes": "Softened"
+    },
+    {
+      "name": "Aerated Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Herbal Notes (optional)",
+      "amount": "chopped fresh parsley or dill",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the babka pastry dough to a thickness of about 1/4 inch (6 mm).",
+    "In a separate pan, sauté the diced potatoes in a little bit of butter until they're tender.",
+    "Add the chopped parsley or dill (if using) to the potatoes and stir to combine.",
+    "Transfer the potato mixture to one half of the rolled-out pastry dough, leaving a 1/2 inch border around the edges.",
+    "Fold the other half of the pastry dough over the filling, pressing the edges to seal.",
+    "Brush the top of the pastry with a little bit of water and sprinkle with aerated salt.",
+    "Bake the pie for 25-30 minutes, or until the pastry is golden brown.",
+    "Remove from the oven and let cool for a few minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "ukrainian",
+    "potatoes",
+    "babka",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:56:35.079Z"
+}
