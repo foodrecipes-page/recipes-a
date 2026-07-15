@@ -1,0 +1,61 @@
+{
+  "slug": "adventurous-pineapple-tart--vegan",
+  "title": "Tropical Vegan Tart",
+  "description": "A refreshing vegan dessert featuring a tart crust and a tangy pineapple filling.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Tart",
+      "amount": "1 sheet, thawed"
+    },
+    {
+      "name": "Adventurous (Date syrup)",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Coconut cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Roll out the tart sheet and place it in a tart pan.",
+    "In a blender, mix together pineapple, date syrup, coconut cream, and lemon juice.",
+    "Pour the pineapple mixture into the tart crust.",
+    "Bake for 35-40 minutes or until the filling is set.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "tropical",
+    "vegan",
+    "dessert",
+    "pineapple"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pineapple-tart--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:16:22.363Z"
+}
