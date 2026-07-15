@@ -1,0 +1,92 @@
+{
+  "slug": "adventurous-umami-irish-dishes-bake",
+  "title": "Irish Beef Stew",
+  "description": "A hearty Irish stew made with tender beef, potatoes, and carrots. Perfect for a chilly evening.",
+  "cuisine": "Irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "onion",
+      "amount": "1 large",
+      "notes": "chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "fresh thyme",
+      "amount": "1 tablespoon",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat. Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside. Add the onion and cook until softened, about 5 minutes.",
+    "Add the carrots and potatoes to the pot and cook for 5 minutes.",
+    "Add the flour to the pot and cook for 1 minute.",
+    "Gradually add the beef broth and red wine to the pot, whisking constantly.",
+    "Return the beef to the pot and bring to a boil. Reduce the heat to low and simmer, covered, for 1 1/2 hours.",
+    "Season with salt and pepper to taste. Serve hot, garnished with fresh thyme."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 90,
+  "totalTimeMin": 105,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "beef",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-umami-irish-dishes-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T03:36:50.206Z"
+}
