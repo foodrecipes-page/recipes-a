@@ -1,0 +1,73 @@
+{
+  "slug": "air-fried-herbs-vietnamese-stir-fry--thai",
+  "title": "Thai Stir-Fried Basil Chicken",
+  "description": "A classic Thai dish made with stir-fried chicken, basil, and chilies. Serve with steamed rice for a delicious and flavorful meal.",
+  "cuisine": "thai",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 lb"
+    },
+    {
+      "name": "Thai basil",
+      "amount": "2 cups, chopped"
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1-2, sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves, minced"
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a wok or large skillet over medium-high heat.",
+    "Add garlic and chili pepper, stir-fry for 1 minute.",
+    "Add chicken, stir-fry until cooked through.",
+    "Add basil, fish sauce, sugar, and soy sauce, stir-fry for 1 minute.",
+    "Serve hot over steamed rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "chicken",
+    "basil",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-herbs-vietnamese-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:54:20.533Z"
+}
