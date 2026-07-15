@@ -612,17 +612,15 @@
   },
   {
     "slug": "adventurous-umami-irish-dishes-bake",
-    "title": "Adventurous Umami Irish Dish Bake",
+    "title": "Irish Beef Stew",
     "tags": [
-      "adventurous",
       "irish",
-      "keto",
-      "one-pan",
-      "umami",
-      "weeknight"
+      "beef",
+      "stew",
+      "comfort-food"
     ],
-    "cuisine": "irish",
-    "totalTimeMin": 175,
+    "cuisine": "Irish",
+    "totalTimeMin": 105,
     "shard": "a"
   },
   {
@@ -10942,6 +10940,124 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--italian",
+    "title": "Italian Royal Potatoes",
+    "tags": [
+      "italian",
+      "side-dish",
+      "royal-potatoes"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-pineapple-tart--mexican",
+    "title": "Tropical Pineapple Tostada",
+    "tags": [
+      "mexican",
+      "vegetarian",
+      "snack"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-pineapple-tart--indian",
+    "title": "Tart Pineapple Indian Chicken Tikka",
+    "tags": [
+      "indian",
+      "chicken",
+      "grilled",
+      "pineapple"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-pineapple-tart--french",
+    "title": "Tart Pineapple Crumble",
+    "tags": [
+      "french",
+      "dessert",
+      "pineapple",
+      "crumble",
+      "tart",
+      "oat"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-pineapple-tart--german",
+    "title": "Lebkuchen-Glazed Pineapple Skewers",
+    "tags": [
+      "german",
+      "pineapple",
+      "glazed",
+      "skewers",
+      "lebkuchen"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-pineapple-tart--gluten-free",
+    "title": "Grilled Pineapple Skewers with Tart Glaze",
+    "tags": [
+      "gluten-free",
+      "snack",
+      "pineapple",
+      "grilled"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-pineapple-tart--vegan",
+    "title": "Tropical Vegan Tart",
+    "tags": [
+      "tropical",
+      "vegan",
+      "dessert",
+      "pineapple"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--vegetarian",
+    "title": "Jersey Royal Potato Gratin",
+    "tags": [
+      "potato",
+      "gratin",
+      "vegetarian",
+      "comfort-food"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 70,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--gluten-free",
+    "title": "Floral Jersey Creamer Potatoes",
+    "tags": [
+      "gluten-free",
+      "side-dish",
+      "potatoes",
+      "creamy"
+    ],
+    "cuisine": "European",
+    "totalTimeMin": 40,
     "shard": "a"
   }
 ]
