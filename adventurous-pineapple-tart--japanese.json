@@ -1,0 +1,77 @@
+{
+  "slug": "adventurous-pineapple-tart--japanese",
+  "title": "Adventurous Tart Pineapple Gyoza",
+  "description": "A twist on traditional Japanese gyoza, filled with a sweet and tangy tart pineapple mixture, perfect for adventurous eaters.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup, diced"
+    },
+    {
+      "name": "Tart",
+      "amount": "2 tablespoons, jam"
+    },
+    {
+      "name": "Adventurous",
+      "amount": "1/4 cup, chopped fresh cilantro"
+    },
+    {
+      "name": "Gyoza Wrappers",
+      "amount": "20 pieces"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Water",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Combine pineapple, tart, adventurous, and soy sauce in a bowl.",
+    "Mix well and set aside.",
+    "Heat sesame oil in a pan over medium-high heat.",
+    "Add gyoza wrappers and cook for 2-3 minutes on each side, until crispy.",
+    "Add pineapple mixture to cooked gyoza and cook for an additional 2 minutes.",
+    "Serve hot with sugar and salt to taste.",
+    "Serve with water on the side for dipping."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "snack",
+    "adventurous",
+    "pineapple",
+    "tart"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 2,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pineapple-tart--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:51:12.059Z"
+}
