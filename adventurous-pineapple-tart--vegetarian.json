@@ -1,0 +1,67 @@
+{
+  "slug": "adventurous-pineapple-tart--vegetarian",
+  "title": "Tart Pineapple Salad",
+  "description": "A twist on a classic salad with the addition of tart pineapple, perfect for adventurous eaters. Enjoy as a light snack or side dish.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "2 cups, diced"
+    },
+    {
+      "name": "Tart",
+      "amount": "1 cup, crumbled feta cheese"
+    },
+    {
+      "name": "Adventurous",
+      "amount": "1/4 cup, chopped fresh mint"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Balsamic Vinegar",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "1 tbsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine pineapple, tart, adventurous, salt, and pepper.",
+    "2. In a small bowl, whisk together balsamic vinegar and olive oil.",
+    "3. Pour the dressing over the pineapple mixture and toss to coat.",
+    "4. Serve immediately, garnished with additional fresh mint if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "pineapple",
+    "salad",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 150,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pineapple-tart--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:50:54.850Z"
+}
