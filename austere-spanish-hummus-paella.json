@@ -1,0 +1,96 @@
+{
+  "slug": "austere-spanish-hummus-paella",
+  "title": "Spanish Paella",
+  "description": "A classic Spanish dish made with saffron-infused rice, seafood, and chicken. This recipe serves four and is perfect for a weeknight dinner.",
+  "cuisine": "Spanish",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Spanish rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Artichoke hearts",
+      "amount": "1 can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Hummus",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Austere broth",
+      "amount": "2 cups",
+      "notes": "chicken or vegetable broth"
+    },
+    {
+      "name": "Saffron",
+      "amount": "1/2 teaspoon",
+      "notes": "dried"
+    },
+    {
+      "name": "Smoked paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the austere broth in a large paella pan over medium-high heat.",
+    "Add the saffron and smoked paprika (if using). Stir to combine.",
+    "Add the chicken to the pan and cook until browned, about 5 minutes.",
+    "Add the shrimp to the pan and cook until pink, about 3 minutes.",
+    "Add the artichoke hearts to the pan and cook for 1 minute.",
+    "Stir in the hummus and cook for 1 minute.",
+    "Add the Spanish rice to the pan and stir to combine.",
+    "Cook the paella for 20-25 minutes, or until the rice is tender and the liquid has been absorbed.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with chopped fresh parsley (if desired).",
+    "Serve the hummus on the side for dipping."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "spanish",
+    "paella",
+    "seafood",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 45,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/austere-spanish-hummus-paella",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-13T15:37:05.823Z"
+}
