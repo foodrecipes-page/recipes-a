@@ -1,0 +1,70 @@
+{
+  "slug": "air-fried-crumbly-garlic-peruvian-crumble--gluten-free",
+  "title": "Peruvian Crispy Fried Fish Bites",
+  "description": "A crispy, gluten-free Peruvian-style fried fish bites recipe with a hint of garlic.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Peruvian Fish Fillets",
+      "amount": "1 pound",
+      "notes": "any white fish works"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Gluten-Free Breadcrumbs",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Peruvian Crumble",
+      "amount": "1/2 cup",
+      "notes": "optional for extra flavor"
+    }
+  ],
+  "instructions": [
+    "Cut fish into bite-sized pieces. Season with salt and pepper.",
+    "In a shallow dish, mix together breadcrumbs and crumble.",
+    "In a separate shallow dish, beat the egg.",
+    "Dip each fish piece into the egg, then coat in breadcrumb mixture.",
+    "Heat about 1/2-inch of oil in a large skillet over medium-high heat.",
+    "When oil is hot, add coated fish pieces and fry until golden brown.",
+    "Flip and fry the other side.",
+    "Drain on paper towels.",
+    "Serve hot with a squeeze of lime and a sprinkle of garlic."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "peruvian",
+    "gluten-free",
+    "fish",
+    "crispy",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crumbly-garlic-peruvian-crumble--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:55:27.440Z"
+}
