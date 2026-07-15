@@ -1,0 +1,73 @@
+{
+  "slug": "air-fried-crumbly-garlic-peruvian-crumble--keto",
+  "title": "Peruvian Crispy Fried Chicken Keto Bites",
+  "description": "A low-carb, crispy fried chicken recipe with Peruvian flavors and a crumbly coating. Perfect for a keto diet.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Crumble (almond flour)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fried (coconut oil)",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Egg",
+      "amount": "1 large"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "2. In a bowl, mix together the crumble, garlic powder, paprika, salt, and black pepper.",
+    "3. Cut the chicken breast into small pieces and dip each piece into the beaten egg, then coat in the crumble mixture.",
+    "4. Fry the chicken pieces in batches until golden brown and crispy, about 5-6 minutes per batch.",
+    "5. Remove the fried chicken from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "6. Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "peruvian",
+    "chicken",
+    "fried"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 26,
+    "carbs": 5,
+    "fat": 22
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crumbly-garlic-peruvian-crumble--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:52:59.077Z"
+}
