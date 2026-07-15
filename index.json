@@ -10546,5 +10546,402 @@
     "cuisine": "german",
     "totalTimeMin": 210,
     "shard": "a"
+  },
+  {
+    "slug": "adventurous-pineapple-tart--japanese",
+    "title": "Adventurous Tart Pineapple Gyoza",
+    "tags": [
+      "japanese",
+      "snack",
+      "adventurous",
+      "pineapple",
+      "tart"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-molten-malaysian-dishes-curry--thai",
+    "title": "Spicy Thai Street Curry",
+    "tags": [
+      "thai",
+      "spicy",
+      "curry",
+      "chicken"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crumbly-garlic-peruvian-crumble--thai",
+    "title": "Thai Crispy Fried Wontons",
+    "tags": [
+      "thai",
+      "snack",
+      "fried",
+      "crispy"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-molten-malaysian-dishes-curry--german",
+    "title": "Malaysian Currywurst",
+    "tags": [
+      "currywurst",
+      "malaysian",
+      "german"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crumbly-garlic-peruvian-crumble--french",
+    "title": "French Garlic Crumble Tart",
+    "tags": [
+      "french",
+      "garlic",
+      "crumble",
+      "vegetarian"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crumbly-garlic-peruvian-crumble--mexican",
+    "title": "Mexican Crispy Chicken",
+    "tags": [
+      "mexican",
+      "chicken",
+      "crispy",
+      "garlic"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-molten-malaysian-dishes-curry--indian",
+    "title": "Chicken Korma Curry",
+    "tags": [
+      "chicken",
+      "curry",
+      "indian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crumbly-garlic-peruvian-crumble--indian",
+    "title": "Crispy Fried Spiced Potato Fritters",
+    "tags": [
+      "snack",
+      "indian",
+      "fritters",
+      "potatoes",
+      "cheese"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-molten-malaysian-dishes-curry--keto",
+    "title": "Keto Malaysian Curry",
+    "tags": [
+      "keto",
+      "malaysian",
+      "curry",
+      "dinner"
+    ],
+    "cuisine": "Malaysian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crumbly-garlic-peruvian-crumble--keto",
+    "title": "Peruvian Crispy Fried Chicken Keto Bites",
+    "tags": [
+      "keto",
+      "peruvian",
+      "chicken",
+      "fried"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-molten-malaysian-dishes-curry--mexican",
+    "title": "Malaysian Chicken Curry with a Mexican Twist",
+    "tags": [
+      "mexican",
+      "mexican-curry",
+      "chicken",
+      "curry",
+      "fusion"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crumbly-garlic-peruvian-crumble--vegetarian",
+    "title": "Peruvian Crispy Cauliflower Bites",
+    "tags": [
+      "easy",
+      "snack",
+      "vegetarian",
+      "peruvian"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 22,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crumbly-garlic-peruvian-crumble--italian",
+    "title": "Italian Crispy Fried Garlic Bites",
+    "tags": [
+      "italian",
+      "garlic",
+      "fried",
+      "snack"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crumbly-garlic-peruvian-crumble--japanese",
+    "title": "Japanese Crispy Chicken Karaage",
+    "tags": [
+      "japanese",
+      "chicken",
+      "snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-molten-malaysian-dishes-curry--italian",
+    "title": "Saffron Risotto with Molten Curry Sauce",
+    "tags": [
+      "italian",
+      "risotto",
+      "curry",
+      "saffron"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-herbs-vietnamese-stir-fry--german",
+    "title": "German Style Stir Fry with Herbs",
+    "tags": [
+      "german",
+      "stir-fry",
+      "herbs"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-herbs-vietnamese-stir-fry--indian",
+    "title": "Indian-Style Stir Fry",
+    "tags": [
+      "indian",
+      "chicken",
+      "stir-fry"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-herbs-vietnamese-stir-fry--thai",
+    "title": "Thai Stir-Fried Basil Chicken",
+    "tags": [
+      "thai",
+      "chicken",
+      "basil",
+      "stir-fry"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-herbs-vietnamese-stir-fry--keto",
+    "title": "Vietnamese Keto Beef Stir Fry",
+    "tags": [
+      "keto",
+      "beef",
+      "stir-fry",
+      "vietnamese"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-herbs-vietnamese-stir-fry--mexican",
+    "title": "Crispy Fried Fish Tacos",
+    "tags": [
+      "mexican",
+      "fish-tacos",
+      "fried-fish"
+    ],
+    "cuisine": "Mexican",
+    "totalTimeMin": 22,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-molten-malaysian-dishes-curry--gluten-free",
+    "title": "Malaysian Curry Chicken",
+    "tags": [
+      "curry",
+      "chicken",
+      "malaysian",
+      "gluten-free"
+    ],
+    "cuisine": "malaysian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crumbly-garlic-peruvian-crumble--gluten-free",
+    "title": "Peruvian Crispy Fried Fish Bites",
+    "tags": [
+      "peruvian",
+      "gluten-free",
+      "fish",
+      "crispy",
+      "fried"
+    ],
+    "cuisine": "Peruvian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-herbs-vietnamese-stir-fry--japanese",
+    "title": "Japanese Stir-Fried Vegetables",
+    "tags": [
+      "japanese",
+      "vegetarian"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--german",
+    "title": "Ukrainian Babka German-Style Potato Pie",
+    "tags": [
+      "german",
+      "ukrainian",
+      "potatoes",
+      "babka",
+      "pie"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--french",
+    "title": "French Royal Potato Cakes",
+    "tags": [
+      "french",
+      "potatoes",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--keto",
+    "title": "Ukrainian Royal Keto Babka",
+    "tags": [
+      "keto",
+      "babka",
+      "ukrainian"
+    ],
+    "cuisine": "Ukrainian",
+    "totalTimeMin": 50,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--indian",
+    "title": "Royal Indian Babka Biryani",
+    "tags": [
+      "indian",
+      "babka",
+      "biryani",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--mexican",
+    "title": "Jersey Royal Potato Tacos",
+    "tags": [
+      "mexican",
+      "tacos",
+      "potato"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--japanese",
+    "title": "Japanese Royal Babka Tempura",
+    "tags": [
+      "japanese-tempura",
+      "babka-dough",
+      "veggie-snack"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--vegan",
+    "title": "Vegan Babka and Potato Hash",
+    "tags": [
+      "ukrainian",
+      "vegan",
+      "breakfast",
+      "hash",
+      "potatoes"
+    ],
+    "cuisine": "ukrainian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--chinese",
+    "title": "Jersey Royal Potatoes with Floral Notes",
+    "tags": [
+      "chinese",
+      "potatoes",
+      "floral-notes",
+      "ukrainian-flair"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
