@@ -1,0 +1,66 @@
+{
+  "slug": "air-fried-crispy-japanese-casabe-stir-fry",
+  "title": "Japanese Crispy Air-Fried Casabe Fritters",
+  "description": "Crispy, air-fried Japanese fritters made with casabe flour, perfect as a snack or side dish.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "casabe flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "water",
+      "amount": "1 cup"
+    },
+    {
+      "name": "stir-fry sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "japanese soy sauce",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine casabe flour and water. Mix until a dough forms.",
+    "2. Knead the dough for 10 minutes until smooth.",
+    "3. Divide the dough into 8 equal pieces.",
+    "4. Shape each piece into a ball and then flatten slightly into a disk.",
+    "5. Heat 1-2 inches of oil in a deep frying pan over medium-high heat.",
+    "6. When the oil is hot, add 2-3 fritters to the pan and fry until crispy and golden brown, about 2-3 minutes per side.",
+    "7. Remove the fritters from the oil and place on a paper towel-lined plate to drain excess oil.",
+    "8. In a small bowl, mix together stir-fry sauce, soy sauce, and sugar.",
+    "9. Brush the sauce mixture onto the fritters while still warm.",
+    "10. Serve the fritters hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "casabe",
+    "japanese",
+    "air-fried",
+    "crispy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-japanese-casabe-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T14:58:53.533Z"
+}
