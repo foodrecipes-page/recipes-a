@@ -1,0 +1,60 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--japanese",
+  "title": "Japanese Royal Babka Tempura",
+  "description": "A unique fusion of Ukrainian babka dough and Japanese tempura, this dish features a light and airy interior with a crispy exterior.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Royal Babka Dough",
+      "amount": "250g"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "1L"
+    },
+    {
+      "name": "Jersey Royal Potatoes",
+      "amount": "4",
+      "notes": "peeled and cut into 1-inch pieces"
+    },
+    {
+      "name": "Floral Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable oil to 350°F (175°C).",
+    "Prepare the babka dough according to the package instructions.",
+    "Cut the dough into 1-inch cubes.",
+    "Dredge the potato pieces in the flour, shaking off excess.",
+    "Dip the floured potatoes in the beaten egg, then coat in the cubed babka dough.",
+    "Fry the tempura in batches until golden brown, about 3-4 minutes.",
+    "Drain the tempura on paper towels.",
+    "Sprinkle with floral salt to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese-tempura",
+    "babka-dough",
+    "veggie-snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 25,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:58:18.301Z"
+}
