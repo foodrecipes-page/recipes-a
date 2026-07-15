@@ -1,0 +1,96 @@
+{
+  "slug": "aromatic-spicy-malaysian-pork-curry",
+  "title": "Malaysian Pork Curry",
+  "description": "A flavorful and spicy Malaysian-style curry made with pork and a blend of aromatic spices.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "500g",
+      "notes": ""
+    },
+    {
+      "name": "Malaysian curry paste",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Spicy",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Fish sauce",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Coconut milk",
+      "amount": "200ml",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large pan over medium-high heat.",
+    "Add the onion and garlic and cook until softened.",
+    "Add the Malaysian curry paste and cook for 1 minute.",
+    "Add the pork and cook until browned on all sides.",
+    "Add the spicy, aromatic, fish sauce, and sugar, and stir to combine.",
+    "Pour in the coconut milk and bring the mixture to a simmer.",
+    "Reduce the heat to medium-low and cook for 20 minutes or until the pork is tender.",
+    "Season with salt to taste.",
+    "Serve hot over rice or noodles."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "malaysian",
+    "curry",
+    "pork",
+    "spicy",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-spicy-malaysian-pork-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T16:00:15.118Z"
+}
