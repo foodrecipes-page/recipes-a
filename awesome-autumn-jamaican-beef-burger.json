@@ -1,0 +1,86 @@
+{
+  "slug": "awesome-autumn-jamaican-beef-burger",
+  "title": "Jamaican Beef Burger",
+  "description": "A flavorful beef burger infused with the warmth of Jamaican spices.",
+  "cuisine": "jamaican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "beef patties",
+      "amount": "4",
+      "notes": "80/20 ground beef"
+    },
+    {
+      "name": "jamaican jerk seasoning",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "burger buns",
+      "amount": "4",
+      "notes": ""
+    },
+    {
+      "name": "chopped onion",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "lettuce",
+      "amount": "4 leaves",
+      "notes": ""
+    },
+    {
+      "name": "tomato",
+      "amount": "2",
+      "notes": ""
+    },
+    {
+      "name": "cheese",
+      "amount": "4 slices",
+      "notes": "cheddar or mozzarella"
+    },
+    {
+      "name": "jamaican hot sauce",
+      "amount": "1 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "avocado",
+      "amount": "2",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a grill or grill pan to medium-high heat.",
+    "2. Season the beef patties with Jamaican jerk seasoning.",
+    "3. Grill the beef patties for 4-5 minutes per side, or until cooked through.",
+    "4. Meanwhile, toast the burger buns on the grill.",
+    "5. Assemble the burgers with lettuce, tomato, cheese, and a slice of onion.",
+    "6. Drizzle with Jamaican hot sauce, if desired.",
+    "7. Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "jamaican",
+    "beef",
+    "burger"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 36,
+    "carbs": 24,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/awesome-autumn-jamaican-beef-burger",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T07:55:18.011Z"
+}
