@@ -1,0 +1,81 @@
+{
+  "slug": "adventurous-molten-malaysian-dishes-curry--keto",
+  "title": "Keto Malaysian Curry",
+  "description": "A flavorful and spicy curry dish from Malaysia, adapted to fit a keto diet. This recipe combines the rich flavors of Malaysian cuisine with a low-carb twist.",
+  "cuisine": "Malaysian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Malaysian Curry Paste",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Coconut Oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Fish Sauce",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Honey",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Chili Flakes",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "Heat the coconut oil in a large skillet over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-6 minutes.",
+    "Remove the chicken from the skillet and set aside.",
+    "Add the Malaysian curry paste to the skillet and cook for 1-2 minutes, until fragrant.",
+    "Add the fish sauce, lime juice, honey, chili flakes, salt, and black pepper to the skillet.",
+    "Stir to combine and cook for an additional 1-2 minutes.",
+    "Return the chicken to the skillet and stir to coat with the curry sauce.",
+    "Cook for an additional 2-3 minutes, until the chicken is fully coated.",
+    "Serve immediately, garnished with fresh cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "malaysian",
+    "curry",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 10,
+    "fat": 43
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-molten-malaysian-dishes-curry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:52:57.050Z"
+}
