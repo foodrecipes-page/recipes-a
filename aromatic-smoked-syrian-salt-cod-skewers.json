@@ -1,0 +1,69 @@
+{
+  "slug": "aromatic-smoked-syrian-salt-cod-skewers",
+  "title": "Smoked Cod Skewers with Aromatic Spice",
+  "description": "A flavorful and easy-to-make dish that combines the delicate taste of cod with aromatic spices and a smoky touch. Perfect for a quick snack or light meal.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "fish",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "cod",
+      "amount": "4 fillets (120g each)",
+      "notes": "Fresh or frozen"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tbsp",
+      "notes": "A mix of paprika, garlic powder, and onion powder"
+    },
+    {
+      "name": "smoked",
+      "amount": "1 tbsp",
+      "notes": "Smoked paprika"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "skewers",
+      "amount": "10 wooden skewers",
+      "notes": "Soak in water for 30 minutes before use"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. Cut the cod fillets into 1-inch cubes.",
+    "3. In a small bowl, mix together aromatic and smoked spices.",
+    "4. Thread a piece of cod, a few tentacles of squid, and a sprinkle of spice onto each skewer.",
+    "5. Brush the skewers with a little oil and season with salt.",
+    "6. Grill the skewers for 8-10 minutes on each side, or until the fish is cooked through.",
+    "7. Serve hot, garnished with fresh parsley or lemon wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fish",
+    "skewers",
+    "grilled",
+    "easy",
+    "quick"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 35,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoked-syrian-salt-cod-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T17:35:30.463Z"
+}
