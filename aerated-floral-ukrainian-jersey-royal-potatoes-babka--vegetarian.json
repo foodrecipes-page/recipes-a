@@ -1,0 +1,61 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--vegetarian",
+  "title": "Jersey Royal Potato Gratin",
+  "description": "A creamy, flavorful potato gratin perfect for a cozy evening. This vegetarian dish is sure to please even the pickiest eaters.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Jersey potatoes",
+      "amount": "3-4 large"
+    },
+    {
+      "name": "Aerated cheese",
+      "amount": "1 cup, shredded"
+    },
+    {
+      "name": "Floral butter",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Ukrainian bread crumbs",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Peel the potatoes and slice them into 1/8-inch thick rounds.",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover them. Bring to a boil over high heat, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Drain the potatoes and set them aside to dry.",
+    "In a separate saucepan, melt the floral butter over medium heat. Add the shredded aerated cheese and stir until it's well combined and melted.",
+    "In a greased 9x13-inch baking dish, create a layer of potatoes. Top with a layer of the cheese mixture, followed by a sprinkle of Ukrainian bread crumbs.",
+    "Repeat this process two more times, ending with a layer of potatoes on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the top is golden brown and the potatoes are tender.",
+    "Remove from the oven and let it rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "potato",
+    "gratin",
+    "vegetarian",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 16
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T04:22:50.044Z"
+}
