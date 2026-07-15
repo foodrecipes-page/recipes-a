@@ -1,0 +1,96 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--indian",
+  "title": "Royal Indian Babka Biryani",
+  "description": "A unique fusion of Indian and Eastern European flavors, featuring the rich taste of babka in a traditional biryani dish.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jersey Royal Potatoes",
+      "amount": "2 large",
+      "notes": ""
+    },
+    {
+      "name": "Ukrainian Babka",
+      "amount": "1 loaf, crumbled",
+      "notes": ""
+    },
+    {
+      "name": "Floral Aerated Biscuits",
+      "amount": "1 package, crushed",
+      "notes": ""
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium, chopped",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches, grated",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves, minced",
+      "notes": ""
+    },
+    {
+      "name": "Garam Masala",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Red Chili Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a pan over medium heat.",
+    "Add the chopped onion and sauté until it is translucent.",
+    "Add the grated ginger and sauté for 1 minute.",
+    "Add the minced garlic and sauté for another minute.",
+    "Add the crumbled babka, crushed biscuits, garam masala, turmeric, and red chili powder.",
+    "Mix well and cook for 2-3 minutes.",
+    "Add the chopped potatoes and mix well.",
+    "Cook for 5-7 minutes or until the potatoes are tender.",
+    "Season with salt to taste.",
+    "Serve hot garnished with fresh cilantro.",
+    "Garnish with crushed biscuits if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "babka",
+    "biryani",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:57:55.876Z"
+}
