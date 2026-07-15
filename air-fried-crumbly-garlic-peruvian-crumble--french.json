@@ -1,0 +1,58 @@
+{
+  "slug": "air-fried-crumbly-garlic-peruvian-crumble--french",
+  "title": "French Garlic Crumble Tart",
+  "description": "A French-inspired tart that combines the flavors of garlic and crumble. This is a simple and delicious dish that's perfect for any occasion.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Crumble",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Peruvian Crumble (or substitute with other type of crumble)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Fried Garlic Oil",
+      "amount": "2 tablespoons"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F.",
+    "Roll out a sheet of puff pastry and place it on a baking sheet.",
+    "Spread a layer of fried garlic oil on the pastry.",
+    "Mix the crumble and peruvian crumble together and sprinkle it on top of the pastry.",
+    "Bake for 20-25 minutes or until the crust is golden brown.",
+    "Remove from oven and let cool for a few minutes.",
+    "Cut into slices and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "garlic",
+    "crumble",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crumbly-garlic-peruvian-crumble--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:51:50.962Z"
+}
