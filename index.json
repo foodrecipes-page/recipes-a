@@ -11053,5 +11053,18 @@
     "cuisine": "European",
     "totalTimeMin": 40,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-dense-brazilian-beef-skewers--mexican",
+    "title": "Grilled Beef Skewers with Brazilian Chimichurri",
+    "tags": [
+      "beef",
+      "grilled",
+      "mexican",
+      "skewers"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 38,
+    "shard": "a"
   }
 ]
