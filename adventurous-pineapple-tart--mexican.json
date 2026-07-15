@@ -1,0 +1,73 @@
+{
+  "slug": "adventurous-pineapple-tart--mexican",
+  "title": "Tropical Pineapple Tostada",
+  "description": "A twist on traditional Mexican street food, this tostada combines the sweetness of pineapple with spicy tartness.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Pineapple",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Tart",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Adventurous (Avocado)",
+      "amount": "1 ripe avocado, diced"
+    },
+    {
+      "name": "Tortilla Chips",
+      "amount": "6-8 chips"
+    },
+    {
+      "name": "Sour Cream",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup chopped"
+    },
+    {
+      "name": "Lime Juice",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Toast tortilla chips in the oven at 350°F (175°C) for 5 minutes, or until crispy.",
+    "2. In a separate pan, heat the tart over low heat.",
+    "3. In a bowl, combine diced pineapple, avocado, and chopped cilantro.",
+    "4. Assemble the tostada by placing toasted tortilla chips on a plate, topping with the pineapple-avocado mixture, and drizzling with sour cream, lime juice, and heated tart.",
+    "5. Season with salt to taste.",
+    "6. Serve immediately and enjoy!",
+    "7. Garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "mexican",
+    "vegetarian",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pineapple-tart--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:58:50.548Z"
+}
