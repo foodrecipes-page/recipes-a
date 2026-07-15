@@ -1,0 +1,64 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--french",
+  "title": "French Royal Potato Cakes",
+  "description": "Delicate French-style potato cakes with a delicate floral twist. Serve as a side dish or snack for your next dinner party.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "nut-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "ukrainian potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "floral",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "babka",
+      "amount": "1/4 cup",
+      "notes": "crumbs"
+    },
+    {
+      "name": "royal",
+      "amount": "1/4 cup",
+      "notes": "softened butter"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine grated potatoes, floral, and babka crumbs.",
+    "In a separate bowl, mix royal butter with a pinch of salt.",
+    "Add the wet ingredients to the dry ingredients and mix until just combined.",
+    "Using a 1/4 cup measuring cup, scoop out potato mixture and shape into patties.",
+    "Heat a large skillet over medium-high heat and add a small amount of oil.",
+    "Add potato patties and cook for 3-4 minutes on each side, until golden brown.",
+    "Transfer the patties to a baking sheet and bake in the preheated oven for 10-12 minutes, until crispy.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "potatoes",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:56:58.381Z"
+}
