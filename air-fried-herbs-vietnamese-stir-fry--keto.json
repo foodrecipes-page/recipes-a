@@ -1,0 +1,79 @@
+{
+  "slug": "air-fried-herbs-vietnamese-stir-fry--keto",
+  "title": "Vietnamese Keto Beef Stir Fry",
+  "description": "Quick and easy keto stir fry with beef, herbs, and a hint of Vietnamese flavors. This dish can be cooked in under 30 minutes and is perfect for a weeknight dinner.",
+  "cuisine": "Vietnamese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Beef strips (sirloin)",
+      "amount": "1 pound",
+      "notes": "Cut into thin strips"
+    },
+    {
+      "name": "Vietnamese stir-fry sauce",
+      "amount": "2 tablespoons",
+      "notes": "Make sure it's sugar-free"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "For cooking"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": "Adjust to your liking"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": "Adjust to your liking"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add beef strips and cook until browned, about 3-4 minutes.",
+    "Remove beef from the skillet and set aside.",
+    "Add 2 cloves of minced garlic and cook for 1 minute, until fragrant.",
+    "Add 2 tablespoons of Vietnamese stir-fry sauce and stir to combine.",
+    "Return beef to the skillet and stir to coat with the sauce.",
+    "Cook for an additional 2-3 minutes, until the sauce has thickened.",
+    "Stir in chopped cilantro and season with salt and black pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "beef",
+    "stir-fry",
+    "vietnamese"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 42,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-herbs-vietnamese-stir-fry--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:55:10.951Z"
+}
