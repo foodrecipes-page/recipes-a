@@ -1,0 +1,77 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--keto",
+  "title": "Ukrainian Royal Keto Babka",
+  "description": "A keto twist on the classic Ukrainian babka, using royal ingredients and minimal carbs.",
+  "cuisine": "Ukrainian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Royal potatoes",
+      "amount": "3 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Floral ukrainian cheese",
+      "amount": "1 cup",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Aerated eggs",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Jersey cream cheese",
+      "amount": "1/2 cup",
+      "notes": "softened"
+    },
+    {
+      "name": "Babka spice blend",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/4 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large bowl, combine grated potatoes, ukrainian cheese, eggs, and cream cheese.",
+    "Mix well and add the babka spice blend and salt. Stir to combine.",
+    "Transfer the mixture to a greased 9x5-inch loaf pan.",
+    "Bake for 35-40 minutes, or until the babka is golden brown and set.",
+    "Remove from the oven and let cool for 10 minutes.",
+    "Transfer to a wire rack to cool completely.",
+    "Just before serving, garnish with fresh parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "babka",
+    "ukrainian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:57:54.027Z"
+}
