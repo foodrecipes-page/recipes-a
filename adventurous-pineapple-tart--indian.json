@@ -1,0 +1,94 @@
+{
+  "slug": "adventurous-pineapple-tart--indian",
+  "title": "Tart Pineapple Indian Chicken Tikka",
+  "description": "A twist on the classic Indian dish, with a tangy pineapple twist. Perfect for adventurous eaters!",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "500g",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "pineapple juice",
+      "amount": "250ml",
+      "notes": null
+    },
+    {
+      "name": "yogurt",
+      "amount": "200g",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "tart jam",
+      "amount": "150g",
+      "notes": null
+    },
+    {
+      "name": "garam masala",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 tsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together yogurt, garam masala, cumin powder, coriander powder, cayenne pepper, and salt.",
+    "Add the chicken to the marinade and mix until coated.",
+    "Cover and refrigerate for at least 30 minutes.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated chicken onto skewers.",
+    "Grill for 8-10 minutes per side, or until cooked through.",
+    "Meanwhile, mix together pineapple juice, tart jam, and lemon juice.",
+    "Brush the glaze over the grilled chicken during the last 2 minutes of cooking.",
+    "Serve hot, garnished with cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "grilled",
+    "pineapple"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-pineapple-tart--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:58:56.330Z"
+}
