@@ -1,0 +1,67 @@
+{
+  "slug": "air-fried-crumbly-garlic-peruvian-crumble--japanese",
+  "title": "Japanese Crispy Chicken Karaage",
+  "description": "A classic Japanese dish, crispy fried chicken karaage is perfect for snacking or as a meal. This recipe uses a simple marinade and a light dusting of flour to achieve the perfect crunch.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "pescatarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dusting"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "peruvian chili powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "crumbly mozzarella cheese",
+      "amount": "1/4 cup",
+      "notes": "for garnish (optional)"
+    }
+  ],
+  "instructions": [
+    "1. Cut the chicken breast into bite-sized pieces and place in a large bowl.",
+    "2. In a blender or food processor, combine flour, garlic, and chili powder. Blend until smooth.",
+    "3. Pour the flour mixture over the chicken and toss to coat.",
+    "4. Heat about 1-inch of oil in a large skillet over medium-high heat.",
+    "5. Add the coated chicken to the oil and fry until golden brown and crispy, about 5-7 minutes.",
+    "6. Remove the chicken from the oil with a slotted spoon and place on a paper towel-lined plate to drain excess oil.",
+    "7. Serve hot and garnish with crumbly mozzarella cheese if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "chicken",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crumbly-garlic-peruvian-crumble--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:53:56.344Z"
+}
