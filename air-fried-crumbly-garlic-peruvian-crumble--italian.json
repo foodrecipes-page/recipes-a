@@ -1,0 +1,65 @@
+{
+  "slug": "air-fried-crumbly-garlic-peruvian-crumble--italian",
+  "title": "Italian Crispy Fried Garlic Bites",
+  "description": "A crispy and flavorful Italian appetizer made with garlic and a crunchy coating. These bites are perfect for snacking or as a side dish.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "250g",
+      "notes": "About 6-8 cloves"
+    },
+    {
+      "name": "Flour",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Breadcrumbs",
+      "amount": "1 cup",
+      "notes": "Panko or plain"
+    },
+    {
+      "name": "Eggs",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oil in a deep frying pan to 350°F (180°C).",
+    "Peel the garlic cloves and separate them into individual buds.",
+    "In a bowl, mix together the flour and a pinch of salt.",
+    "In another bowl, beat the eggs.",
+    "In a third bowl, place the breadcrumbs.",
+    "Dip each garlic bud into the flour mixture, then the eggs, and finally the breadcrumbs.",
+    "Fry the coated garlic in batches until golden brown, about 2-3 minutes.",
+    "Remove the fried garlic from the oil with a slotted spoon and place on paper towels to drain excess oil.",
+    "Serve the crispy garlic bites hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "garlic",
+    "fried",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 10,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crumbly-garlic-peruvian-crumble--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:53:23.901Z"
+}
