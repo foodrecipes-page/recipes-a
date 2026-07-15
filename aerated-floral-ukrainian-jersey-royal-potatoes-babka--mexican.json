@@ -1,0 +1,84 @@
+{
+  "slug": "aerated-floral-ukrainian-jersey-royal-potatoes-babka--mexican",
+  "title": "Jersey Royal Potato Tacos",
+  "description": "Mexican-inspired tacos filled with crispy Jersey Royal potatoes, topped with a floral salsa and fresh herbs.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Jersey Royal potatoes",
+      "amount": "2 large",
+      "notes": "peeled and cut into 1 cm wedges"
+    },
+    {
+      "name": "Floral oil",
+      "amount": "2 tbsp",
+      "notes": "for frying"
+    },
+    {
+      "name": "Ukrainian rye flour",
+      "amount": "1 cup",
+      "notes": "for taco shells"
+    },
+    {
+      "name": "Aerated water",
+      "amount": "1 cup",
+      "notes": "for taco shells"
+    },
+    {
+      "name": "Babka",
+      "amount": "1/2 cup",
+      "notes": "cubed and toasted for garnish"
+    },
+    {
+      "name": "Royal salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped for garnish"
+    },
+    {
+      "name": "Lime juice",
+      "amount": "2 tbsp",
+      "notes": "for serving"
+    }
+  ],
+  "instructions": [
+    "Preheat oil in a deep frying pan to 180°C.",
+    "Fry potato wedges in batches until golden and crispy.",
+    "In a separate pan, warm Ukrainian rye flour over low heat.",
+    "Add Aerated water to the pan and stir to form a dough.",
+    "Knead the dough for 5 minutes until pliable.",
+    "Divide the dough into 6 equal pieces and shape into tacos.",
+    "Fry tacos in hot oil until crispy and golden.",
+    "Fill tacos with fried potato wedges, toasted babka, and chopped cilantro.",
+    "Drizzle with floral oil and serve with a squeeze of lime juice."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "tacos",
+    "potato"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 6,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-floral-ukrainian-jersey-royal-potatoes-babka--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:57:58.053Z"
+}
