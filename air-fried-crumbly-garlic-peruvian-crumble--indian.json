@@ -1,0 +1,59 @@
+{
+  "slug": "air-fried-crumbly-garlic-peruvian-crumble--indian",
+  "title": "Crispy Fried Spiced Potato Fritters",
+  "description": "A crispy fried and flavorful Indian inspired snack made with potatoes and spices. Serve with a side of chutney for a delightful experience.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fried Crumbly Cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine grated potatoes, minced garlic, and crumbled cheese. Mix well.",
+    "Add 1/2 cup of water to the mixture and knead until a dough forms.",
+    "Divide the dough into 6 equal portions and shape each into a ball.",
+    "Heat oil in a deep frying pan over medium heat.",
+    "When the oil is hot, flatten each ball into a patty and fry until golden brown.",
+    "Flip the patties and fry until the other side is also golden brown.",
+    "Drain the fried fritters on paper towels and serve hot.",
+    "Serve with a side of chutney for a delightful experience."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 6,
+  "difficulty": "easy",
+  "tags": [
+    "snack",
+    "indian",
+    "fritters",
+    "potatoes",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crumbly-garlic-peruvian-crumble--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T02:52:49.201Z"
+}
