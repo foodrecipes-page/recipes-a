@@ -1,0 +1,66 @@
+{
+  "slug": "aromatic-smoked-syrian-salt-cod-skewers--vegan",
+  "title": "Smoked Syrian Skewers",
+  "description": "Vegan skewers with a smoky twist, perfect for a summer evening. The flavors of the Syrian spices complement the smokiness of the grilled vegetables.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "aesthetic skewers",
+      "amount": "12 sticks",
+      "notes": null
+    },
+    {
+      "name": "smoked eggplant",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "syrian pepper",
+      "amount": "2 large",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "aromatic spices",
+      "amount": "1 tsp",
+      "notes": "a mix of cumin, coriander, and paprika"
+    }
+  ],
+  "instructions": [
+    "Preheat the grill to 400°F (200°C).",
+    "Cut the smoked eggplant and Syrian pepper into bite-sized pieces.",
+    "Thread the eggplant, pepper, and aromatic spices onto the skewers.",
+    "Brush the skewers with a little oil and season with salt to taste.",
+    "Grill the skewers for 10-12 minutes, turning occasionally.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "middle-eastern",
+    "grilled",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 4
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-smoked-syrian-salt-cod-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-14T18:24:26.939Z"
+}
