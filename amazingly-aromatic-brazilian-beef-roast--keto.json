@@ -1,0 +1,69 @@
+{
+  "slug": "amazingly-aromatic-brazilian-beef-roast--keto",
+  "title": "Brazilian-Style Roast Beef with Aromatics",
+  "description": "A flavorful and savory keto roast beef dish with aromatic vegetables, perfect for a low-carb dinner.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast beef (2 lbs)",
+      "amount": "2 lbs",
+      "notes": "Choose a high-quality cut"
+    },
+    {
+      "name": "Aromatics (onion, garlic, and bell pepper)",
+      "amount": "1 large onion, 3 cloves garlic, 2 bell peppers",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Brazilian spices (cumin, coriander, and chili powder)",
+      "amount": "1 tsp each",
+      "notes": "Mix together"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "For rubbing the roast"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "For seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 325°F (165°C).",
+    "Season the roast beef with salt, Brazilian spices, and olive oil, rubbing it evenly.",
+    "In a large Dutch oven, sear the roast beef over medium-high heat until browned on all sides.",
+    "Remove the roast beef and set it aside.",
+    "Add the chopped aromatics to the pot and cook until they start to soften.",
+    "Return the roast beef to the pot, cover it with a lid, and transfer it to the preheated oven.",
+    "Roast the beef in the oven for 2-3 hours or until it reaches your desired level of doneness.",
+    "Let the roast beef rest for 10-15 minutes before slicing and serving.",
+    "Serve with the aromatic vegetables and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 150,
+  "totalTimeMin": 160,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "keto",
+    "beef",
+    "roast",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 5,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-aromatic-brazilian-beef-roast--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T00:48:23.697Z"
+}
