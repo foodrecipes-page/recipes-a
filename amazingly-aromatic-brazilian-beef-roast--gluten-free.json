@@ -1,0 +1,97 @@
+{
+  "slug": "amazingly-aromatic-brazilian-beef-roast--gluten-free",
+  "title": "Brazilian-Style Roast Beef",
+  "description": "A flavorful and tender roast beef dish with a hint of Brazilian spices, served gluten-free.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Roast",
+      "amount": "2.5 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Beef broth",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Coffee",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Brown sugar",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Cumin",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Paprika",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 325°F (160°C).",
+    "Season the roast with salt, black pepper, cumin, and paprika.",
+    "Heat a large Dutch oven over medium-high heat. Sear the roast until browned on all sides.",
+    "Remove the roast from the pot and set aside.",
+    "Add the chopped onion to the pot and cook until it's softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the beef broth, coffee, and brown sugar to the pot, scraping up any browned bits.",
+    "Return the roast to the pot and cover with a lid.",
+    "Transfer the pot to the preheated oven and roast for 2 1/2 to 3 hours, or until the roast reaches an internal temperature of 135°F (57°C) for medium-rare.",
+    "Remove the roast from the pot and let it rest for 10 minutes before slicing and serving.",
+    "Serve with the juices from the pot spooned over the top."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 6,
+  "difficulty": "hard",
+  "tags": [
+    "gluten-free",
+    "beef",
+    "roast",
+    "brazilian",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 55,
+    "carbs": 10,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-aromatic-brazilian-beef-roast--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T02:07:13.946Z"
+}
