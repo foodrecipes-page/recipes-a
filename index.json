@@ -11066,5 +11066,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 38,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-smoked-syrian-salt-cod-skewers--vegan",
+    "title": "Smoked Syrian Skewers",
+    "tags": [
+      "vegan",
+      "middle-eastern",
+      "grilled",
+      "summer"
+    ],
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 20,
+    "shard": "a"
   }
 ]
