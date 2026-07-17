@@ -1,0 +1,74 @@
+{
+  "slug": "aromatic-uruguayan-broccoli-gratin",
+  "title": "Uruguayan Broccoli Gratin",
+  "description": "A twist on the classic gratin, this dish combines the rich flavors of Uruguay with the earthy goodness of broccoli.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "broccoli",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 head of garlic, minced",
+      "notes": null
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup, shredded",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 375°F (190°C).",
+    "2. Rinse the broccoli and cut it into florets.",
+    "3. In a large skillet, heat the olive oil over medium heat.",
+    "4. Add the minced garlic and sauté for 1-2 minutes, until fragrant.",
+    "5. Add the broccoli to the skillet and cook for 3-4 minutes, until tender.",
+    "6. In a separate bowl, mix the gratin and a pinch of salt and pepper.",
+    "7. Transfer the broccoli to a baking dish and top with the gratin mixture.",
+    "8. Bake for 15-20 minutes, until the top is golden brown and the gratin is bubbly.",
+    "9. Serve hot, garnished with additional gratin if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "uruguayan",
+    "vegetarian",
+    "gratin",
+    "broccoli"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-uruguayan-broccoli-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T13:42:01.874Z"
+}
