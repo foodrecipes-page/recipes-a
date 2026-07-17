@@ -11106,5 +11106,17 @@
     "cuisine": "Brazilian",
     "totalTimeMin": 170,
     "shard": "a"
+  },
+  {
+    "slug": "amazing-char-grilled-filipino-tofu-skewers--italian",
+    "title": "Grilled Italian-Style Skewers",
+    "tags": [
+      "italian",
+      "veggie",
+      "grilled"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 18,
+    "shard": "a"
   }
 ]
