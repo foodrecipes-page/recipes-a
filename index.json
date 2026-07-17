@@ -11115,5 +11115,18 @@
     "cuisine": "italian",
     "totalTimeMin": 18,
     "shard": "a"
+  },
+  {
+    "slug": "abundant-irish-iceberg-lettuce-tagine--chinese",
+    "title": "Stir-Fried Irish Lettuce",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "vegetarian",
+      "vegan"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 15,
+    "shard": "a"
   }
 ]
