@@ -3487,14 +3487,13 @@
   },
   {
     "slug": "ancho-crunch-bowl",
-    "title": "Ancho Crunch Bowl",
+    "title": "Spicy Ancho Crunch Bowl",
     "tags": [
-      "ancho-chilli",
-      "quinoa",
-      "low-carb",
-      "korean"
+      "mexican",
+      "vegetarian",
+      "bowl"
     ],
-    "cuisine": "Korean",
+    "cuisine": "Mexican",
     "totalTimeMin": 35,
     "shard": "a"
   },
