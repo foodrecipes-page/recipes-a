@@ -6709,18 +6709,15 @@
   },
   {
     "slug": "aromatic-uruguayan-broccoli-gratin",
-    "title": "Aromatic Uruguayan Broccoli Gratin",
+    "title": "Uruguayan Broccoli Gratin",
     "tags": [
-      "bechamel-sauce",
-      "broccoli",
+      "uruguayan",
+      "vegetarian",
       "gratin",
-      "low-carb-friendly",
-      "one-pan",
-      "uruguayan-cuisine",
-      "weeknight-dinner"
+      "broccoli"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "cuisine": "uruguayan",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
