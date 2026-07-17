@@ -1,0 +1,79 @@
+{
+  "slug": "aromatic-japanese-tofu-shio-ramen--mexican",
+  "title": "Tofu Ramen Tacos",
+  "description": "A fusion twist on traditional ramen, featuring crispy tofu and served in a taco shell.",
+  "cuisine": "mexican",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block, drained and cut into small pieces"
+    },
+    {
+      "name": "Ramen",
+      "amount": "1 package, broken into small pieces"
+    },
+    {
+      "name": "Aromatic oil",
+      "amount": "2 tablespoons",
+      "notes": "such as sesame or peanut oil"
+    },
+    {
+      "name": "Japanese soy sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Shio",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Taco shells",
+      "amount": "4-6 shells"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "chopped, for garnish"
+    },
+    {
+      "name": "Lime wedges",
+      "amount": "4-6 wedges"
+    }
+  ],
+  "instructions": [
+    "Heat the aromatic oil in a large skillet over medium-high heat.",
+    "Add the broken ramen pieces and cook until crispy, about 3-4 minutes.",
+    "Add the tofu pieces to the skillet and cook until golden brown, about 3-4 minutes.",
+    "In a small bowl, whisk together the Japanese soy sauce and Shio.",
+    "Add the soy sauce mixture to the skillet and stir to combine.",
+    "Cook for an additional 1-2 minutes, until the tofu and ramen are well coated.",
+    "Warm the taco shells according to package instructions.",
+    "Assemble the tacos by spooning the tofu and ramen mixture into the shells.",
+    "Garnish with chopped cilantro and serve with lime wedges."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "ramen",
+    "tacos",
+    "tofu",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-japanese-tofu-shio-ramen--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T17:44:12.888Z"
+}
