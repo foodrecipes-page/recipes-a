@@ -1,0 +1,72 @@
+{
+  "slug": "amazing-char-grilled-filipino-tofu-skewers--italian",
+  "title": "Grilled Italian-Style Skewers",
+  "description": "A quick and easy recipe for delicious skewers made with tofu, amazing sauce, and grilled to perfection. Perfect for a light and healthy meal.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "tofu",
+      "amount": "1 block, drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "amazing sauce",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "grilled skewers",
+      "amount": "4-6"
+    },
+    {
+      "name": "filipino-style marinade",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, whisk together amazing sauce, olive oil, garlic powder, salt, and pepper.",
+    "Thread tofu, grilled skewers, and filipino-style marinade onto skewers, leaving a little space between each piece.",
+    "Brush skewers with sauce mixture, making sure to coat all the ingredients.",
+    "Grill skewers for 8-10 minutes, turning occasionally, or until tofu is golden brown and charred.",
+    "Serve hot, garnished with additional amazing sauce if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "veggie",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-char-grilled-filipino-tofu-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T11:35:14.144Z"
+}
