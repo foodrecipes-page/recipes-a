@@ -1,0 +1,62 @@
+{
+  "slug": "abundant-irish-iceberg-lettuce-tagine--chinese",
+  "title": "Stir-Fried Irish Lettuce",
+  "description": "A quick and easy Chinese-inspired stir-fry recipe featuring Irish lettuce as the main ingredient.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Irish Lettuce",
+      "amount": "2 heads"
+    },
+    {
+      "name": "Abundant",
+      "amount": "1 cup mixed bell peppers",
+      "notes": "any color bell pepper works"
+    },
+    {
+      "name": "Iceberg Lettuce",
+      "amount": "1/4 cup chopped",
+      "notes": "for garnish"
+    },
+    {
+      "name": "Tagine",
+      "amount": "2 tablespoons",
+      "notes": "or vegetable oil"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of Tagine in a large skillet or wok over medium-high heat.",
+    "Add the mixed bell peppers and cook until they start to soften, about 3-4 minutes.",
+    "Add the Irish Lettuce and cook until it's wilted, about 2-3 minutes.",
+    "Season with salt and pepper to taste.",
+    "Transfer the stir-fry to a serving platter.",
+    "Garnish with chopped Iceberg Lettuce and serve immediately.",
+    "Serve hot over rice or noodles, if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/abundant-irish-iceberg-lettuce-tagine--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-15T14:43:51.655Z"
+}
