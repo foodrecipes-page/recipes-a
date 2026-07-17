@@ -11128,5 +11128,19 @@
     "cuisine": "chinese",
     "totalTimeMin": 15,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-japanese-tofu-shio-ramen--mexican",
+    "title": "Tofu Ramen Tacos",
+    "tags": [
+      "mexican",
+      "ramen",
+      "tacos",
+      "tofu",
+      "vegan"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
