@@ -11138,5 +11138,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "acidic-greek-rice-avgolemono-soup--mexican",
+    "title": "Mexican Avgolemono Soup",
+    "tags": [
+      "mexican",
+      "soup",
+      "citrus",
+      "comfort-food"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
