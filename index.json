@@ -6265,17 +6265,14 @@
   },
   {
     "slug": "aromatic-spicy-canadian-napa-cabbage-stir-fry",
-    "title": "Aromatic Spicy Canadian Napa Cabbage Stir Fry",
+    "title": "Spicy Stir-Fried Napa Cabbage",
     "tags": [
-      "canadian-cuisine",
-      "one-pan",
-      "quick-meal",
-      "seafood",
-      "spicy-food",
-      "stir-fry"
+      "stir-fry",
+      "easy",
+      "quick"
     ],
-    "cuisine": "Canadian",
-    "totalTimeMin": 35,
+    "cuisine": "Asian",
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
