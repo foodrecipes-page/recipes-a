@@ -11188,5 +11188,18 @@
     "cuisine": "indian",
     "totalTimeMin": 45,
     "shard": "a"
+  },
+  {
+    "slug": "acidic-tender-kenyan-rice-flour-crepe--chinese",
+    "title": "Kenyan Crepes",
+    "tags": [
+      "chinese",
+      "kenyan",
+      "fusion",
+      "breakfast"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
