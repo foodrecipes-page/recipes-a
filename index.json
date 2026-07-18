@@ -556,16 +556,15 @@
   },
   {
     "slug": "adventurous-syrian-dish-wrap",
-    "title": "Syrian Massaman Lamb Wrap",
+    "title": "Syrian Chicken Shawarma Wrap",
     "tags": [
-      "adventurous",
-      "high-protein",
-      "one-pan",
+      "chicken",
+      "shawarma",
       "syrian",
-      "weeknight"
+      "middle-eastern"
     ],
-    "cuisine": "Syrian",
-    "totalTimeMin": 50,
+    "cuisine": "syrian",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -11150,6 +11149,44 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-flaky-egyptian-refried-beans-flatbread--vegan",
+    "title": "Egyptian Bean Wrap",
+    "tags": [
+      "vegan",
+      "lunch",
+      "wrap",
+      "middle-eastern"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-algerian-quinoa-tagine--german",
+    "title": "German Quinoa Tagine",
+    "tags": [
+      "german",
+      "quinoa",
+      "tagine"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-canadian-lentil-stew--indian",
+    "title": "Canadian Lentil Stew",
+    "tags": [
+      "lentil",
+      "stew",
+      "indian",
+      "comfort food"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
     "shard": "a"
   }
 ]
