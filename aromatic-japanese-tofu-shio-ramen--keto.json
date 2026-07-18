@@ -1,0 +1,82 @@
+{
+  "slug": "aromatic-japanese-tofu-shio-ramen--keto",
+  "title": "Japanese Shio Ramen Tofu Bowl",
+  "description": "A keto-friendly twist on traditional ramen, featuring a rich shio broth, pan-seared tofu, and aromatic noodles.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Tofu",
+      "amount": "1 block (14 oz)",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic Ramen Noodles",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Shio Ramen Broth Mix",
+      "amount": "2 packets",
+      "notes": ""
+    },
+    {
+      "name": "Japanese Sesame Oil",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Green Onions",
+      "amount": "1 bunch",
+      "notes": ""
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of water to a boil and cook the ramen noodles according to the package instructions.",
+    "In a separate pan, heat the sesame oil over medium heat and add the green onions. Cook until softened.",
+    "Add the shio ramen broth mix to the pan and stir to combine.",
+    "Cut the tofu into bite-sized pieces and pan-fry in a separate pan until golden brown.",
+    "To assemble the bowls, divide the cooked noodles between four bowls, followed by the shio broth, tofu, and garnishes.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "ramen",
+    "noodles",
+    "tofu",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 24,
+    "carbs": 20,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-japanese-tofu-shio-ramen--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T12:17:01.606Z"
+}
