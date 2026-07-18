@@ -1,0 +1,81 @@
+{
+  "slug": "air-fried-syrian-pork-stir-fry--chinese",
+  "title": "Crispy Pork Stir Fry",
+  "description": "A quick and delicious Chinese-inspired dish made with crispy pork and stir-fried vegetables.",
+  "cuisine": "chinese",
+  "diet": [
+    "meat",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork",
+      "amount": "1 pound",
+      "notes": "sliced into thin strips"
+    },
+    {
+      "name": "oil",
+      "amount": "2 tablespoons",
+      "notes": "for frying"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": "sliced"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "syrup",
+      "amount": "1 tablespoon",
+      "notes": "for glaze"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of oil in a wok or large skillet over medium-high heat.",
+    "Add the pork and cook until crispy, about 5 minutes.",
+    "Remove the pork from the wok and set aside.",
+    "Add the remaining 1 tablespoon of oil to the wok.",
+    "Add the onion and bell pepper and cook until tender, about 3-4 minutes.",
+    "Add the garlic and cook for 1 minute.",
+    "Return the pork to the wok and add the soy sauce.",
+    "Stir-fry for 1-2 minutes, until the pork is coated in the sauce.",
+    "Brush the syrup over the pork and stir-fry for another minute.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "pork",
+    "quick-and-easy"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-syrian-pork-stir-fry--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:10:05.924Z"
+}
