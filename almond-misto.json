@@ -1,0 +1,87 @@
+{
+  "slug": "almond-misto",
+  "title": "Misto Crusted Almond Cake",
+  "description": "A moist and flavorful almond cake topped with a delicate misto crumb.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups",
+      "notes": "sifted"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "eggs",
+      "amount": "3",
+      "notes": ""
+    },
+    {
+      "name": "misto",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "almond extract",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "melted"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (180°C).",
+    "Grease two 6-inch cake pans and line the bottoms with parchment paper.",
+    "In a medium bowl, whisk together the almond flour, sugar, baking powder, and salt.",
+    "In a large bowl, whisk together the eggs, melted butter, and almond extract.",
+    "Gradually add the dry ingredients to the wet ingredients and mix until well combined.",
+    "Divide the batter evenly between the prepared pans.",
+    "Bake for 20-25 minutes or until a toothpick inserted into the center comes out clean.",
+    "Allow the cakes to cool in the pans for 5 minutes before transferring them to a wire rack to cool completely.",
+    "To make the misto crust, pulse the misto in a food processor until it reaches a fine crumb.",
+    "Sift the crumb into a bowl and mix in 1/4 cup of granulated sugar.",
+    "Dust the cooled cakes with the misto crust and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "cake",
+    "almond",
+    "misto"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 32,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-misto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:17:15.216Z"
+}
