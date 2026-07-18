@@ -5934,17 +5934,15 @@
   },
   {
     "slug": "aromatic-silky-thai-chicken-curry",
-    "title": "Aromatic Silky Thai Chicken Curry",
+    "title": "Thai Chicken Curry",
     "tags": [
-      "comfort-food",
-      "dairy-free",
-      "gluten-free",
-      "paleo-friendly",
-      "spicy",
-      "thai-cuisine"
+      "chicken",
+      "curry",
+      "thai",
+      "dinner"
     ],
     "cuisine": "Thai",
-    "totalTimeMin": 45,
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -11213,6 +11211,20 @@
     ],
     "cuisine": null,
     "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-mediterannean-yogurt-crumble--thai",
+    "title": "Thai Crumble Fried Chicken",
+    "tags": [
+      "thai",
+      "chicken",
+      "fried",
+      "crumble",
+      "mediterranean"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 55,
     "shard": "a"
   }
 ]
