@@ -1,0 +1,58 @@
+{
+  "slug": "air-fried-starch-delight--keto",
+  "title": "Crispy Fried Delight Bites",
+  "description": "A crispy fried keto delight in bite-sized form, perfect as a snack or dessert.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Delight",
+      "amount": "1 cup",
+      "notes": "preferably a sweet or savory delight"
+    },
+    {
+      "name": "Starch",
+      "amount": "1/2 cup",
+      "notes": "a low-carb starch like almond flour or coconut flour"
+    },
+    {
+      "name": "Air",
+      "amount": "as needed",
+      "notes": "for frying, do not attempt to use air as a primary ingredient"
+    }
+  ],
+  "instructions": [
+    "Preheat the air fryer to 400°F (200°C).",
+    "Cut the delight into small bite-sized pieces.",
+    "In a bowl, mix together the starch and a pinch of salt.",
+    "Dip each delight piece into the starch mixture, coating evenly.",
+    "Place the coated delight pieces in the air fryer basket.",
+    "Fry the delight bites for 5-7 minutes, or until crispy and golden brown.",
+    "Remove the delight bites from the air fryer and place on a paper towel-lined plate.",
+    "Serve the crispy fried delight bites immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "fried",
+    "delight",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 5,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-starch-delight--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T07:10:28.569Z"
+}
