@@ -11251,5 +11251,19 @@
     "cuisine": "Japanese",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "ambrosial-uruguayan-milk-crumble--german",
+    "title": "German Crumble Cake",
+    "tags": [
+      "german",
+      "dessert",
+      "cake",
+      "crumble",
+      "ambrosial"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 50,
+    "shard": "a"
   }
 ]
