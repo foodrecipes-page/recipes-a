@@ -1,0 +1,65 @@
+{
+  "slug": "ambrosial-uruguayan-milk-crumble--german",
+  "title": "German Crumble Cake",
+  "description": "A classic German dessert made with a sweet crumble topping and a hint of ambrosial flavor. Perfect for a cozy evening with family and friends.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "ambrosial sugar",
+      "amount": "1 cup",
+      "notes": "You can replace with regular sugar if ambrosial is not available"
+    },
+    {
+      "name": "uruguayan wheat flour",
+      "amount": "2 cups",
+      "notes": "Any all-purpose flour will do"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "Whole milk or low-fat milk works well"
+    },
+    {
+      "name": "crumble",
+      "amount": "1/2 cup",
+      "notes": "Store-bought or homemade crumble topping"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Grease a 9-inch (23cm) round cake pan and set aside.",
+    "In a large mixing bowl, whisk together the ambrosial sugar, uruguayan wheat flour, and a pinch of salt.",
+    "Add the milk and mix until a smooth batter forms.",
+    "Pour the batter into the prepared cake pan.",
+    "In a separate bowl, mix the crumble topping with a bit of sugar and a pinch of salt.",
+    "Spread the crumble topping evenly over the batter.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from the oven and let cool for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "dessert",
+    "cake",
+    "crumble",
+    "ambrosial"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 4,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ambrosial-uruguayan-milk-crumble--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T13:31:39.938Z"
+}
