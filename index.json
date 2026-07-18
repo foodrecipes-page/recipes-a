@@ -7058,15 +7058,14 @@
   },
   {
     "slug": "avocado-breeze",
-    "title": "Avocado Breeze",
+    "title": "Avocado Toast",
     "tags": [
-      "avocado",
-      "ginger",
-      "lauric-alkaline",
-      "dairy-free"
+      "breakfast",
+      "healthy",
+      "quick"
     ],
-    "cuisine": "Indian",
-    "totalTimeMin": 15,
+    "cuisine": "American",
+    "totalTimeMin": 7,
     "shard": "a"
   },
   {
@@ -11237,6 +11236,19 @@
       "verde-honey"
     ],
     "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-japanese-tofu-shio-ramen--keto",
+    "title": "Japanese Shio Ramen Tofu Bowl",
+    "tags": [
+      "ramen",
+      "noodles",
+      "tofu",
+      "keto"
+    ],
+    "cuisine": "Japanese",
     "totalTimeMin": 25,
     "shard": "a"
   }
