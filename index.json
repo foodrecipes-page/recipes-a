@@ -11262,5 +11262,17 @@
     "cuisine": "german",
     "totalTimeMin": 50,
     "shard": "a"
+  },
+  {
+    "slug": "almond-bliss-sickness-soup--mexican",
+    "title": "Mexican Almond Soup",
+    "tags": [
+      "mexican",
+      "soup",
+      "vegetarian"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
