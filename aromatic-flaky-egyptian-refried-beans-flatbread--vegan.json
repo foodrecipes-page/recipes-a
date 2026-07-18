@@ -1,0 +1,74 @@
+{
+  "slug": "aromatic-flaky-egyptian-refried-beans-flatbread--vegan",
+  "title": "Egyptian Bean Wrap",
+  "description": "A delicious and healthy vegan wrap filled with refried beans, flaky flatbread, and aromatic spices.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Refried Beans",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Flaky Flatbread",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Aromatic Spices",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Egyptian Flatbread",
+      "amount": "2 pieces"
+    },
+    {
+      "name": "Chopped Onions",
+      "amount": "1/2 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Chopped Cilantro",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Lemon Juice",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat a dry pan over medium heat.",
+    "Warm the flatbread in the pan for 1 minute on each side.",
+    "Spread 1/2 cup of refried beans on each piece of flatbread.",
+    "Sprinkle aromatic spices over the beans.",
+    "Add chopped onions and cilantro if desired.",
+    "Drizzle lemon juice over the top if desired.",
+    "Fold the flatbread in half to enclose the filling.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 5,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "lunch",
+    "wrap",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-flaky-egyptian-refried-beans-flatbread--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:02:54.914Z"
+}
