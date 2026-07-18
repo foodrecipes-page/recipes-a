@@ -11274,5 +11274,18 @@
     "cuisine": "mexican",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "air-fried-syrian-pork-stir-fry--chinese",
+    "title": "Crispy Pork Stir Fry",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "pork",
+      "quick-and-easy"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "a"
   }
 ]
