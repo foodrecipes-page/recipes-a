@@ -2236,15 +2236,15 @@
   },
   {
     "slug": "almond-misto",
-    "title": "Almond Misto",
+    "title": "Misto Crusted Almond Cake",
     "tags": [
+      "italian",
+      "cake",
       "almond",
-      "dumpling",
-      "citrusy",
-      "croatian"
+      "misto"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 50,
+    "cuisine": "italian",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -11200,6 +11200,19 @@
     ],
     "cuisine": "chinese",
     "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-starch-delight--keto",
+    "title": "Crispy Fried Delight Bites",
+    "tags": [
+      "keto",
+      "fried",
+      "delight",
+      "snack"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "a"
   }
 ]
