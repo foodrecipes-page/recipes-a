@@ -1,0 +1,79 @@
+{
+  "slug": "apricot-miel-verde--italian",
+  "title": "Grilled Apricot with Verde Miel Glaze",
+  "description": "A sweet and savory Italian dessert featuring grilled apricots topped with a verde honey glaze.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "apricot",
+      "amount": "4",
+      "notes": "halved"
+    },
+    {
+      "name": "miel",
+      "amount": "2 tbsp",
+      "notes": "verde honey"
+    },
+    {
+      "name": "verde",
+      "amount": "1 tsp",
+      "notes": "green food coloring (optional)"
+    },
+    {
+      "name": "balsamic vinegar",
+      "amount": "1 tbsp",
+      "notes": "for reduction"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for grilling"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "fresh mint leaves",
+      "amount": "4",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium heat.",
+    "Brush apricot halves with olive oil and season with salt.",
+    "Grill apricots for 2-3 minutes per side or until caramelized.",
+    "Meanwhile, reduce balsamic vinegar in a small saucepan until thickened.",
+    "In a separate saucepan, combine verde honey and green food coloring (if using).",
+    "Bring honey mixture to a simmer over low heat.",
+    "Brush grilled apricots with reduced balsamic vinegar and then with verde honey glaze.",
+    "Garnish with fresh mint leaves and serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "dessert",
+    "grilled-apricot",
+    "verde-honey"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 1,
+    "carbs": 28,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/apricot-miel-verde--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T11:46:06.507Z"
+}
