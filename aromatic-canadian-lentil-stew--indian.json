@@ -1,0 +1,68 @@
+{
+  "slug": "aromatic-canadian-lentil-stew--indian",
+  "title": "Canadian Lentil Stew",
+  "description": "A hearty and comforting Indian-inspired stew made with lentils and Canadian bacon.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "lentil",
+      "amount": "1 cup",
+      "notes": "red or brown lentils work well"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 medium onions, diced",
+      "notes": null
+    },
+    {
+      "name": "canadian",
+      "amount": "4 slices, diced",
+      "notes": null
+    },
+    {
+      "name": "stew",
+      "amount": "2 medium carrots, diced",
+      "notes": null
+    },
+    {
+      "name": "water",
+      "amount": "4 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the onions and cook until they start to brown.",
+    "Add the diced Canadian bacon and cook until browned.",
+    "Add the lentils, carrots, and water to the pot.",
+    "Bring to a boil, then reduce heat to low and simmer for 30 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "lentil",
+    "stew",
+    "indian",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-canadian-lentil-stew--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:33:52.503Z"
+}
