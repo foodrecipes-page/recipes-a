@@ -1,0 +1,65 @@
+{
+  "slug": "acidic-tender-kenyan-rice-flour-crepe--chinese",
+  "title": "Kenyan Crepes",
+  "description": "A unique fusion of traditional Kenyan and Chinese cuisines, combining the tender texture of crepes with the acidity of a Kenyan-inspired sauce.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "rice",
+      "amount": "1 cup",
+      "notes": "short grain"
+    },
+    {
+      "name": "kenyan",
+      "amount": "1/4 cup",
+      "notes": "Kenyan spice blend"
+    },
+    {
+      "name": "tender",
+      "amount": "1/2 cup",
+      "notes": "tender meat (beef or pork), sliced"
+    },
+    {
+      "name": "acidic",
+      "amount": "2 tablespoons",
+      "notes": "rice vinegar"
+    }
+  ],
+  "instructions": [
+    "Combine flour, rice, and Kenyan spice blend in a bowl.",
+    "Gradually add water to form a smooth batter.",
+    "Heat a crepe pan and cook crepes for 2 minutes per side.",
+    "In a separate pan, cook tender meat until browned.",
+    "Add rice vinegar to the pan and stir to combine.",
+    "Serve crepes with tender meat and Kenyan sauce.",
+    "Roll up crepes and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "kenyan",
+    "fusion",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 30,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acidic-tender-kenyan-rice-flour-crepe--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T04:30:11.245Z"
+}
