@@ -11226,5 +11226,18 @@
     "cuisine": "thai",
     "totalTimeMin": 55,
     "shard": "a"
+  },
+  {
+    "slug": "apricot-miel-verde--italian",
+    "title": "Grilled Apricot with Verde Miel Glaze",
+    "tags": [
+      "italian",
+      "dessert",
+      "grilled-apricot",
+      "verde-honey"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
