@@ -6907,17 +6907,14 @@
   },
   {
     "slug": "authentic-amber-irish-cheese-casserole",
-    "title": "Authentic Amber Irish Cheese Casserole",
+    "title": "Irish Cheese Casserole",
     "tags": [
-      "casserole",
-      "comfort-food",
-      "irish-cuisine",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "irish",
+      "cheese-casserole",
+      "comfort-food"
     ],
     "cuisine": "Irish",
-    "totalTimeMin": 45,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
