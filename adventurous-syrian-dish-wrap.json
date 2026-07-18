@@ -1,0 +1,83 @@
+{
+  "slug": "adventurous-syrian-dish-wrap",
+  "title": "Syrian Chicken Shawarma Wrap",
+  "description": "A flavorful and spicy chicken shawarma wrap filled with juicy chicken, crunchy vegetables, and creamy tzatziki sauce, all wrapped in a warm pita bread.",
+  "cuisine": "syrian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Middle Eastern spice blend (sumac, cumin, coriander, paprika)",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "Lemon juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Chopped onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chopped cucumber",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Chopped tomato",
+      "amount": "1 medium"
+    },
+    {
+      "name": "Tzatziki sauce (yogurt, cucumber, garlic, dill)",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Pita bread",
+      "amount": "4-6"
+    },
+    {
+      "name": "Chopped fresh parsley",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together the Middle Eastern spice blend, lemon juice, and olive oil to make the marinade.",
+    "Add the chicken to the marinade and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat the grill to medium-high heat.",
+    "Remove the chicken from the marinade and grill for 5-7 minutes per side, or until cooked through.",
+    "Let the chicken rest for 5 minutes before slicing.",
+    "Warm the pita bread by wrapping it in foil and heating it in the oven for a few minutes.",
+    "Assemble the shawarma by slicing the chicken and placing it in the pita bread with the chopped onion, cucumber, tomato, and tzatziki sauce.",
+    "Garnish with chopped fresh parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "shawarma",
+    "syrian",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 40,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-syrian-dish-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T02:55:44.693Z"
+}
