@@ -1,0 +1,86 @@
+{
+  "slug": "aromatic-algerian-quinoa-tagine--german",
+  "title": "German Quinoa Tagine",
+  "description": "A German-inspired twist on traditional North African tagine, featuring quinoa and aromatic spices.",
+  "cuisine": "german",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "quinoa",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "algerian spice blend",
+      "amount": "2 tsp",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "zucchini",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "crushed tomatoes",
+      "amount": "1 can",
+      "notes": "14.5 oz"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "aromatic spice blend",
+      "amount": "1 tsp",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add garlic and cook for 1 minute.",
+    "Add carrots and zucchini, cooking until tender, about 5 minutes.",
+    "Stir in quinoa, tomatoes, algerian spice blend, and aromatic spice blend.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20-25 minutes or until quinoa is tender.",
+    "Fluff with a fork and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "quinoa",
+    "tagine"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-algerian-quinoa-tagine--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T03:07:32.151Z"
+}
