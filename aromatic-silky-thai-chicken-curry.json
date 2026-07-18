@@ -1,0 +1,92 @@
+{
+  "slug": "aromatic-silky-thai-chicken-curry",
+  "title": "Thai Chicken Curry",
+  "description": "A flavorful Thai-inspired chicken curry made with aromatic spices and silky coconut milk.",
+  "cuisine": "Thai",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "aromatic curry paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 oz)",
+      "notes": "full-fat"
+    },
+    {
+      "name": "thai basil",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "silky olive oil",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "curry powder",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat the silky olive oil in a large pan over medium-high heat.",
+    "Add the chicken breast and cook until browned, about 5-6 minutes.",
+    "Add the aromatic curry paste and cook for 1-2 minutes, until fragrant.",
+    "Pour in the coconut milk and stir in the thai basil, fish sauce, sugar, curry powder, salt, and pepper.",
+    "Bring the mixture to a simmer and cook for 10-15 minutes, until the chicken is cooked through.",
+    "Serve hot, garnished with additional thai basil if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "curry",
+    "thai",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-silky-thai-chicken-curry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T09:46:53.384Z"
+}
