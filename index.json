@@ -271,14 +271,12 @@
   },
   {
     "slug": "adventurous-aromatic-turkish-lamb-kebabs",
-    "title": "Adventurous Aromatic Turkish Lamb Kebabs",
+    "title": "Turkish Lamb Kebabs",
     "tags": [
-      "bamboo-steamer",
-      "healthy-dinner",
-      "lamb-recipes",
-      "macrobiotic",
-      "turkish-food",
-      "wine-based-sauce"
+      "turkish",
+      "lamb",
+      "kebabs",
+      "aromatic"
     ],
     "cuisine": "Turkish",
     "totalTimeMin": 40,
@@ -2749,17 +2747,14 @@
   },
   {
     "slug": "amazingly-aromatic-british-prune-scones",
-    "title": "Amazingly Aromatic British Prune Scones",
+    "title": "Classic British Prune Scones",
     "tags": [
-      "breakfast-ideas",
-      "british-brunch",
-      "cheese-pull",
-      "halal-friendly",
-      "prune-scones",
-      "yeast-dough"
+      "british",
+      "scones",
+      "breakfast"
     ],
     "cuisine": "British",
-    "totalTimeMin": 40,
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
@@ -4942,17 +4937,16 @@
   },
   {
     "slug": "aromatic-indian-lentils-dal-tadka",
-    "title": "Aromatic Indian Lentils Dal Tadka",
+    "title": "Indian-Style Lentil Dal",
     "tags": [
-      "brunch-ideas",
-      "comfort-food",
-      "gluten-free",
-      "indian-cuisine",
-      "lentil-recipes",
-      "vegetarian-meals"
+      "indian",
+      "lentils",
+      "dal",
+      "vegetarian",
+      "vegan"
     ],
     "cuisine": "Indian",
-    "totalTimeMin": 50,
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
