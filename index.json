@@ -3465,18 +3465,15 @@
   },
   {
     "slug": "amorous-mustard-uruguayan-lamb-terrine",
-    "title": "Amorous Mustard Uruguayan Lamb Terrine",
+    "title": "Uruguayan Lamb Terrine",
     "tags": [
-      "bain-marie",
       "lamb",
       "mustard",
-      "romantic",
-      "terrine",
       "uruguayan",
-      "velvety"
+      "terrine"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 75,
+    "totalTimeMin": 65,
     "shard": "a"
   },
   {
@@ -11402,6 +11399,32 @@
     ],
     "cuisine": "Brazilian",
     "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "artichoke-infused-briny-mediterranean-garlic-bake--german",
+    "title": "Briny German Artichoke Bake",
+    "tags": [
+      "german",
+      "vegan",
+      "gluten-free",
+      "artichoke",
+      "bake"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-umami-irish-dishes-bake--vegetarian",
+    "title": "Irish Umami Bake",
+    "tags": [
+      "vegan-free",
+      "irish",
+      "umami"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 45,
     "shard": "a"
   }
 ]
