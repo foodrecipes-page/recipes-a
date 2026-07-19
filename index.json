@@ -11294,5 +11294,32 @@
     "cuisine": "Japanese",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-uruguayan-rhubarb-pie--vegan",
+    "title": "Vegan Uruguayan Rhubarb Pie",
+    "tags": [
+      "vegan",
+      "uruguayan",
+      "rhubarb",
+      "pie"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 65,
+    "shard": "a"
+  },
+  {
+    "slug": "airy-italian-herring-pan-fried-gnocchi--chinese",
+    "title": "Pan-Fried Gnocchi with Italian Seasoning",
+    "tags": [
+      "chinese",
+      "italian",
+      "pescatarian",
+      "gnocchi",
+      "pan-fried"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
