@@ -1,0 +1,86 @@
+{
+  "slug": "adventurous-aromatic-saudi-arabian-pork-belly-kebabs--vegan",
+  "title": "Spicy Arabian Lentil Stew",
+  "description": "A flavorful and aromatic stew originating from the Arabian Peninsula, made with lentils and a blend of spices.",
+  "cuisine": "arabian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "red lentils",
+      "amount": "1 cup",
+      "notes": "rinsed and drained"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "aromatic spice blend",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "coriander",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "cayenne pepper",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "water",
+      "amount": "4 cups"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion, garlic, and ginger. Cook until the onion is translucent.",
+    "Add the spice blend, cumin, coriander, and cayenne pepper. Cook for 1 minute.",
+    "Add the red lentils and water. Bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lentils",
+    "arabian",
+    "stew",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-aromatic-saudi-arabian-pork-belly-kebabs--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:25:08.883Z"
+}
