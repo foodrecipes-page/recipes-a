@@ -1,0 +1,71 @@
+{
+  "slug": "airy-japanese-chicken-tendon-bake--vegetarian",
+  "title": "Japanese Tofu Bake",
+  "description": "A simple vegetarian dish featuring pan-seared tofu, baked to perfection with a crispy topping. This recipe is perfect for a weeknight dinner.",
+  "cuisine": "Japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "firm tofu",
+      "amount": "1 block (14 oz)",
+      "notes": "drained and cut into 1-inch cubes"
+    },
+    {
+      "name": "japanese breadcrumbs",
+      "amount": "1 cup",
+      "notes": "preferably panko"
+    },
+    {
+      "name": "airy vegetable oil",
+      "amount": "2 tbsp",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tbsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "maple syrup",
+      "amount": "1 tsp",
+      "notes": "for marinade"
+    },
+    {
+      "name": "dried seaweed",
+      "amount": "1 sheet",
+      "notes": "for garnish"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Marinate the tofu in a mixture of soy sauce and maple syrup for at least 15 minutes.",
+    "Pan-fry the tofu in airy vegetable oil until golden brown on all sides.",
+    "Transfer the tofu to a baking dish and top with japanese breadcrumbs.",
+    "Bake for 15-20 minutes, or until the breadcrumbs are crispy and golden brown.",
+    "Garnish with dried seaweed and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "tofu",
+    "japanese",
+    "vegetarian",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 20,
+    "carbs": 10,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-japanese-chicken-tendon-bake--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T22:18:33.568Z"
+}
