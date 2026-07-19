@@ -1,0 +1,91 @@
+{
+  "slug": "aromatic-indian-lentils-dal-tadka",
+  "title": "Indian-Style Lentil Dal",
+  "description": "A flavorful and comforting Indian-inspired lentil dish made with red or brown lentils, aromatic spices, and a tadka of onions and spices. This recipe is a classic example of a simple and nutritious dal that's perfect for a weeknight dinner.",
+  "cuisine": "Indian",
+  "diet": [
+    "vegetarian",
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Red or Brown Lentils",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": ""
+    },
+    {
+      "name": "Cumin Seeds",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Coriander Powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Turmeric Powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Tadka (Ghee or Oil)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Fresh Cilantro",
+      "amount": "chopped (for garnish)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Rinse the lentils and soak them in water for 30 minutes. Drain and set aside.",
+    "Heat oil in a pan over medium heat. Add cumin seeds and let them sizzle for a few seconds.",
+    "Add the chopped onion and sauté until it's translucent.",
+    "Add the ginger and sauté for another minute.",
+    "Add the coriander powder, turmeric powder, and salt. Mix well.",
+    "Add the lentils and 2 cups of water. Bring to a boil, then reduce the heat to low and simmer for 20-25 minutes or until the lentils are cooked.",
+    "Heat the tadka in a small pan over low heat. Add it to the lentil mixture and mix well.",
+    "Taste and adjust the seasoning as needed.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "lentils",
+    "dal",
+    "vegetarian",
+    "vegan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 18,
+    "carbs": 40,
+    "fat": 9
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-indian-lentils-dal-tadka",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:32:04.155Z"
+}
