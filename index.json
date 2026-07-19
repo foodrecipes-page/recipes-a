@@ -3819,18 +3819,15 @@
   },
   {
     "slug": "aromatic-asian-chinese-pork-dim-sum",
-    "title": "Aromatic Asian Chinese Pork Dim Sum",
+    "title": "Classic Pork Dumplings",
     "tags": [
-      "asian-inspired",
-      "dim-sum",
-      "flexitarian",
-      "grilled",
-      "pork-dishes",
-      "robata-grill",
-      "spicy"
+      "chinese",
+      "dumplings",
+      "pork",
+      "dim sum"
     ],
     "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
