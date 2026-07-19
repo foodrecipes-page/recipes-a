@@ -1,0 +1,75 @@
+{
+  "slug": "amorous-mustard-uruguayan-lamb-terrine",
+  "title": "Uruguayan Lamb Terrine",
+  "description": "A flavorful and savory terrine made with tender lamb, served with a tangy mustard sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound, boneless and finely chopped",
+      "notes": "Make sure to handle the lamb at a safe temperature to avoid bacterial contamination."
+    },
+    {
+      "name": "Uruguayan",
+      "amount": "2 tablespoons of Uruguayan spices",
+      "notes": "You can adjust the amount according to your preference."
+    },
+    {
+      "name": "Terrine",
+      "amount": "1 cup of terrine meat",
+      "notes": "You can use a store-bought terrine or make your own at home."
+    },
+    {
+      "name": "Mustard",
+      "amount": "2 tablespoons of Dijon mustard",
+      "notes": "You can adjust the amount according to your preference."
+    },
+    {
+      "name": "Amorous",
+      "amount": "1 cup of chopped fresh parsley",
+      "notes": "You can use fresh or dried parsley according to your preference."
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a large mixing bowl, combine the chopped lamb, Uruguayan spices, and terrine meat.",
+    "Mix well until the ingredients are evenly distributed.",
+    "Transfer the mixture to a terrine mold or a small loaf pan.",
+    "Cover the terrine with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 20-25 minutes, or until the terrine is cooked through.",
+    "While the terrine is baking, prepare the mustard sauce by mixing the Dijon mustard with a little bit of water until you get a smooth consistency.",
+    "Once the terrine is done, let it cool for a few minutes before slicing and serving with the mustard sauce.",
+    "Garnish with chopped parsley and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 45,
+  "totalTimeMin": 65,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "mustard",
+    "uruguayan",
+    "terrine"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 5,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amorous-mustard-uruguayan-lamb-terrine",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:27:35.113Z"
+}
