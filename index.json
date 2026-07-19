@@ -11321,5 +11321,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "almond-adventurer--indian",
+    "title": "Indian Almond Ladoo",
+    "tags": [
+      "ladoo",
+      "almond",
+      "indian-sweets",
+      "traditional-dessert"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 20,
+    "shard": "a"
   }
 ]
