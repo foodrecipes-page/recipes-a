@@ -256,17 +256,16 @@
   },
   {
     "slug": "adventurous-aromatic-saudi-arabian-pork-belly-kebabs",
-    "title": "Adventurous Aromatic Saudi Arabian Pork Belly Kebabs",
+    "title": "Saudi Arabian Pork Belly Kebabs",
     "tags": [
-      "grilled",
-      "high-protein",
-      "one-pan",
-      "pork-belly",
       "saudi-arabian",
-      "weeknight"
+      "kebabs",
+      "pork-belly",
+      "aromatic",
+      "adventurous"
     ],
     "cuisine": "Saudi Arabian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -11346,6 +11345,31 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "anchovy-toast-delight--french",
+    "title": "Anchovy Toast",
+    "tags": [
+      "french",
+      "appetizer",
+      "snack"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 10,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-crispy-indian-beans-fritters--french",
+    "title": "Crispy French Fritters with Indian Beans",
+    "tags": [
+      "french",
+      "beans",
+      "snack",
+      "fritters"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 20,
     "shard": "a"
   }
 ]
