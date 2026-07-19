@@ -1,0 +1,67 @@
+{
+  "slug": "anchovy-toast-delight--french",
+  "title": "Anchovy Toast",
+  "description": "A simple French appetizer featuring anchovies on toast.",
+  "cuisine": "French",
+  "diet": [
+    "gluten",
+    "dairy-free"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "anchovy",
+      "amount": "6",
+      "notes": null
+    },
+    {
+      "name": "toasted bread",
+      "amount": "4 slices",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "lemon wedges",
+      "amount": "2",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oven to 350°F (180°C).",
+    "2. Arrange the bread slices on a baking sheet.",
+    "3. Bake the bread for 5 minutes or until lightly toasted.",
+    "4. Meanwhile, rinse the anchovies and pat dry with a paper towel.",
+    "5. Place the anchovies on top of the toasted bread.",
+    "6. Sprinkle with salt and pepper to taste.",
+    "7. Serve immediately with lemon wedges."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "appetizer",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 15,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/anchovy-toast-delight--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T01:51:19.563Z"
+}
