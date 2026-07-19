@@ -1,0 +1,82 @@
+{
+  "slug": "aromatic-australian-chicken-skewers--chinese",
+  "title": "Chinese Chicken Skewers with Aromatic Flavor",
+  "description": "This easy-to-make Chinese dish features marinated chicken skewers with a blend of aromatic spices, perfect for a quick lunch or dinner.",
+  "cuisine": "chinese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Australian olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "aromatic spice mix",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade blend"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1 tablespoon",
+      "notes": "low-sodium"
+    },
+    {
+      "name": "brown sugar",
+      "amount": "1 tablespoon",
+      "notes": "for marinade"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12 bamboo skewers",
+      "notes": "soaked in water for 30 minutes"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together soy sauce, brown sugar, garlic, and ginger.",
+    "Add chicken pieces to the marinade and mix well.",
+    "Thread marinated chicken onto skewers, leaving a small space between each piece.",
+    "Brush olive oil onto the skewers to prevent sticking.",
+    "Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
+    "Serve immediately, garnished with chopped green onions and sesame seeds if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 16,
+  "totalTimeMin": 36,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "grilled",
+    "skewers",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": "35g",
+    "carbs": "10g",
+    "fat": "12g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-australian-chicken-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T10:07:30.100Z"
+}
