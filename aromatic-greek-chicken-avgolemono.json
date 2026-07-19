@@ -1,0 +1,91 @@
+{
+  "slug": "aromatic-greek-chicken-avgolemono",
+  "title": "Greek Chicken Avgolemono Soup",
+  "description": "A classic Greek soup made with chicken, lemons, and egg, finished with aromatic herbs.",
+  "cuisine": "Greek",
+  "diet": [
+    "dairy-free",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "boneless and skinless"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 sprigs of fresh parsley",
+      "notes": "chopped"
+    },
+    {
+      "name": "avgolemono",
+      "amount": "4 large egg yolks",
+      "notes": "and 2 tablespoons freshly squeezed lemon juice"
+    },
+    {
+      "name": "lemon",
+      "amount": "2 tablespoons freshly squeezed juice",
+      "notes": null
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped",
+      "notes": null
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves, minced",
+      "notes": null
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": null
+    },
+    {
+      "name": "white rice",
+      "amount": "1/2 cup",
+      "notes": "uncooked"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large pot over medium heat.",
+    "Add the chopped onion and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the chicken and cook until browned on all sides, about 5-7 minutes.",
+    "Add the chicken broth, white rice, and chopped parsley to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 15-20 minutes.",
+    "While the soup is cooking, whisk together the egg yolks and lemon juice in a small bowl.",
+    "Once the soup is cooked, stir in the egg yolk mixture and cook for an additional 2-3 minutes, or until the soup has thickened slightly.",
+    "Season the soup with salt and pepper to taste.",
+    "Serve hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "greek",
+    "soup",
+    "chicken",
+    "avgolemono"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-greek-chicken-avgolemono",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T06:13:59.760Z"
+}
