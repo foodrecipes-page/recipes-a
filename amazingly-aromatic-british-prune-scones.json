@@ -1,0 +1,80 @@
+{
+  "slug": "amazingly-aromatic-british-prune-scones",
+  "title": "Classic British Prune Scones",
+  "description": "A traditional British recipe for sweet scones made with dried prunes.",
+  "cuisine": "British",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "prunes",
+      "amount": "1/2 cup",
+      "notes": "dried"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "granulated sugar",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "baking powder",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "cold unsalted butter",
+      "amount": "1/2 cup",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "heavy cream",
+      "amount": "3/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C). Line a baking sheet with parchment paper.",
+    "In a large mixing bowl, whisk together flour, sugar, baking powder, and salt.",
+    "Add cold butter to the dry ingredients and use a pastry blender or your fingers to work it into the mixture until it resembles coarse crumbs.",
+    "Stir in dried prunes.",
+    "Pour in heavy cream and stir the mixture until it forms a dough.",
+    "Turn the dough out onto a floured surface and gently knead it a few times until it comes together.",
+    "Pat the dough into a circle that is about 1 inch (2.5 cm) thick.",
+    "Use a biscuit cutter or the rim of a glass to cut out scones. You should be able to get about 8-10 scones.",
+    "Place the scones on the prepared baking sheet, leaving about 1 inch (2.5 cm) of space between each scone.",
+    "Bake for 15-20 minutes, or until the scones are golden brown.",
+    "Remove the scones from the oven and let them cool on a wire rack for 5-10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "easy",
+  "tags": [
+    "british",
+    "scones",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-aromatic-british-prune-scones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:47:38.004Z"
+}
