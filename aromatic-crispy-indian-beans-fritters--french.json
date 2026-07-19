@@ -1,0 +1,61 @@
+{
+  "slug": "aromatic-crispy-indian-beans-fritters--french",
+  "title": "Crispy French Fritters with Indian Beans",
+  "description": "A delicious and crispy fritter dish made with Indian beans, perfect for a snack or side dish in any French-inspired meal.",
+  "cuisine": "french",
+  "diet": [
+    null
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Indian beans",
+      "amount": "250g",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tsp",
+      "notes": "Optional"
+    },
+    {
+      "name": "crispy",
+      "amount": "1 cup",
+      "notes": "Panko breadcrumbs"
+    },
+    {
+      "name": "fritters",
+      "amount": "1 cup",
+      "notes": "Homemade or store-bought"
+    }
+  ],
+  "instructions": [
+    "1. Preheat the oil in a deep frying pan to 180°C.",
+    "2. In a bowl, mix together the Indian beans, aromatic, crispy, and fritters.",
+    "3. Using a spoon, drop small amounts of the mixture into the hot oil.",
+    "4. Fry for 3-4 minutes or until golden brown.",
+    "5. Remove from the oil and place on a paper towel-lined plate.",
+    "6. Repeat with the remaining mixture."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "beans",
+    "snack",
+    "fritters"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crispy-indian-beans-fritters--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:16:51.047Z"
+}
