@@ -1,0 +1,83 @@
+{
+  "slug": "artichoke-infused-briny-mediterranean-garlic-bake--german",
+  "title": "Briny German Artichoke Bake",
+  "description": "A hearty German-inspired artichoke bake with a rich, briny flavor.",
+  "cuisine": "german",
+  "diet": [
+    "vegan",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "artichoke",
+      "amount": "1 (14 oz) can",
+      "notes": "drained and chopped"
+    },
+    {
+      "name": "infused olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "mediterranean seasoning",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "bake",
+      "amount": "1 sheet",
+      "notes": "thawed and cut into 1-inch squares"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped fresh parsley",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, combine chopped artichoke, minced garlic, and mediterranean seasoning.",
+    "In a separate bowl, mix together infused olive oil, salt, and black pepper.",
+    "Brush the bake squares with the oil mixture.",
+    "Spoon the artichoke mixture onto the bake squares, leaving a 1-inch border around the edges.",
+    "Top with additional parsley if desired.",
+    "Bake for 20-25 minutes or until the bake is golden brown and the artichoke mixture is heated through.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "vegan",
+    "gluten-free",
+    "artichoke",
+    "bake"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 5,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/artichoke-infused-briny-mediterranean-garlic-bake--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T14:44:33.075Z"
+}
