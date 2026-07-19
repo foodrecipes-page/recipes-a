@@ -1,0 +1,84 @@
+{
+  "slug": "adventurous-aromatic-saudi-arabian-pork-belly-kebabs",
+  "title": "Saudi Arabian Pork Belly Kebabs",
+  "description": "Tender pork belly marinated in a blend of Saudi spices and grilled to perfection, served with a side of aromatic rice.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork belly",
+      "amount": "1 kg",
+      "notes": "Skin removed"
+    },
+    {
+      "name": "aromatic rice",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "adventurous spice mix",
+      "amount": "2 tbsp",
+      "notes": "Blend of Saudi spices"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together adventurous spice mix, olive oil, garlic, lemon juice, salt, and black pepper.",
+    "Add the pork belly to the marinade and mix well to coat.",
+    "Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat grill to medium-high heat.",
+    "Remove the pork belly from the marinade and cook for 5-7 minutes per side, or until caramelized and cooked through.",
+    "Let the pork rest for 5 minutes before slicing into thick strips.",
+    "Serve with a side of aromatic rice and your favorite kebab toppings.",
+    "Optional: serve with additional adventurous spice mix on the side for added flavor."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 15,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "saudi-arabian",
+    "kebabs",
+    "pork-belly",
+    "aromatic",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-aromatic-saudi-arabian-pork-belly-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T02:04:20.470Z"
+}
