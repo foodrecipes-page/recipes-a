@@ -1,0 +1,82 @@
+{
+  "slug": "aromatic-asian-chinese-pork-dim-sum",
+  "title": "Classic Pork Dumplings",
+  "description": "A traditional Chinese dish, these dumplings are a staple of Chinese cuisine. They can be steamed or pan-fried, and are best served with a dipping sauce.",
+  "cuisine": "Chinese",
+  "diet": [
+    "pork"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Ground Pork",
+      "amount": "1 pound",
+      "notes": "You can also use ground chicken or beef if you prefer."
+    },
+    {
+      "name": "All-Purpose Flour",
+      "amount": "2 cups",
+      "notes": "You can also use a combination of all-purpose and bread flour."
+    },
+    {
+      "name": "Water",
+      "amount": "1/2 cup",
+      "notes": "You may need to add more or less water depending on the humidity in your area."
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 teaspoon",
+      "notes": "You can adjust the amount of salt to taste."
+    },
+    {
+      "name": "Aromatic",
+      "amount": "2 cloves garlic, minced",
+      "notes": "You can also use ginger or leeks for added flavor."
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tablespoons",
+      "notes": "You can use any neutral-tasting oil for frying."
+    },
+    {
+      "name": "Dim Sum Wrappers",
+      "amount": "20 pieces",
+      "notes": "You can also make your own dumpling wrappers from scratch."
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine the ground pork, salt, and aromatic.",
+    "Mix everything together until just combined. Be careful not to overmix.",
+    "Add the water to the mixture and mix until everything is well combined.",
+    "Knead the dough for 5-10 minutes until it becomes smooth and elastic.",
+    "Divide the dough into 20 equal pieces.",
+    "Roll out each piece into a thin circle.",
+    "Place a tablespoon of the pork mixture in the center of each circle.",
+    "Fold the dough over the filling to form a half-moon shape, and press the edges together to seal the dumpling.",
+    "Repeat with the remaining dough and filling.",
+    "To cook the dumplings, bring a large pot of water to a boil.",
+    "Add the dumplings to the pot and cook for 5-7 minutes, or until they float to the surface.",
+    "Serve the dumplings hot with your favorite dipping sauce."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 15,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "dumplings",
+    "pork",
+    "dim sum"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-asian-chinese-pork-dim-sum",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T09:26:06.087Z"
+}
