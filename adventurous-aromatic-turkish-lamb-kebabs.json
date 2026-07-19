@@ -1,0 +1,83 @@
+{
+  "slug": "adventurous-aromatic-turkish-lamb-kebabs",
+  "title": "Turkish Lamb Kebabs",
+  "description": "A flavorful and aromatic Turkish dish made with lamb, spices, and herbs, perfect for a quick dinner.",
+  "cuisine": "Turkish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder, boneless and cut into 1-inch cubes",
+      "amount": "500g",
+      "notes": null
+    },
+    {
+      "name": "Turkish chili flakes",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Garlic, minced",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Wooden skewers",
+      "amount": "10-12",
+      "notes": "Soak in water for 30 minutes before use"
+    }
+  ],
+  "instructions": [
+    "1. Preheat grill to medium-high heat.",
+    "2. In a large bowl, whisk together olive oil, chili flakes, garlic, parsley, salt, and black pepper.",
+    "3. Add the lamb cubes to the bowl and mix until they are well coated with the marinade.",
+    "4. Thread the lamb cubes onto the wooden skewers, leaving a little space between each piece.",
+    "5. Brush the grill with some oil to prevent sticking.",
+    "6. Grill the lamb kebabs for 8-10 minutes per side, or until cooked through.",
+    "7. Remove the kebabs from the grill and let them rest for 5 minutes before serving.",
+    "8. Serve the lamb kebabs hot, garnished with additional parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkish",
+    "lamb",
+    "kebabs",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-aromatic-turkish-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-16T20:41:41.410Z"
+}
