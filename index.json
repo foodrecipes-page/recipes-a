@@ -11281,5 +11281,18 @@
     "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "a"
+  },
+  {
+    "slug": "airy-japanese-chicken-tendon-bake--vegetarian",
+    "title": "Japanese Tofu Bake",
+    "tags": [
+      "tofu",
+      "japanese",
+      "vegetarian",
+      "bake"
+    ],
+    "cuisine": "Japanese",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
