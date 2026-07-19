@@ -11334,5 +11334,18 @@
     "cuisine": "indian",
     "totalTimeMin": 20,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-authentic-northern-thai-chicken-kao-mun-gai--french",
+    "title": "Chicken Kao Mun Gai",
+    "tags": [
+      "chicken",
+      "rice",
+      "thaifrench",
+      "comfortfood"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 40,
+    "shard": "a"
   }
 ]
