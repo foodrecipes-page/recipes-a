@@ -3413,13 +3413,14 @@
   },
   {
     "slug": "ambrosial-thai-tofu-curry",
-    "title": "Ambrosial Thai Tofu Curry",
+    "title": "Thai Ambrosial Curry with Tofu",
     "tags": [
-      "thai",
-      "dinner"
+      "thaicurry",
+      "tofu",
+      "vegan"
     ],
-    "cuisine": "thai",
-    "totalTimeMin": 40,
+    "cuisine": "Thai",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -11368,6 +11369,19 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 20,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-aromatic-saudi-arabian-pork-belly-kebabs--vegan",
+    "title": "Spicy Arabian Lentil Stew",
+    "tags": [
+      "lentils",
+      "arabian",
+      "stew",
+      "vegan"
+    ],
+    "cuisine": "arabian",
+    "totalTimeMin": 30,
     "shard": "a"
   }
 ]
