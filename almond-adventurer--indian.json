@@ -1,0 +1,65 @@
+{
+  "slug": "almond-adventurer--indian",
+  "title": "Indian Almond Ladoo",
+  "description": "A traditional Indian sweet treat made with almonds, perfect for any occasion.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup"
+    },
+    {
+      "name": "ghee",
+      "amount": "1/4 cup",
+      "notes": "clarified butter"
+    },
+    {
+      "name": "sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/2 teaspoon"
+    },
+    {
+      "name": "salt",
+      "amount": "1/4 teaspoon"
+    }
+  ],
+  "instructions": [
+    "1. In a pan, heat the ghee over medium heat.",
+    "2. Add the almonds and roast until lightly browned.",
+    "3. In a separate pan, combine the sugar, cardamom powder, and salt.",
+    "4. Cook over medium heat, stirring constantly, until the sugar dissolves.",
+    "5. Add the roasted almonds to the sugar mixture and stir until well combined.",
+    "6. Remove from heat and let cool slightly.",
+    "7. Using your hands, shape the mixture into small ladoos.",
+    "8. Serve immediately or store in an airtight container for up to 5 days."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "ladoo",
+    "almond",
+    "indian-sweets",
+    "traditional-dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 30,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-adventurer--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T00:42:27.600Z"
+}
