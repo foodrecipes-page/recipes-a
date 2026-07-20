@@ -11425,5 +11425,32 @@
     "cuisine": "Irish",
     "totalTimeMin": 45,
     "shard": "a"
+  },
+  {
+    "slug": "amazingly-crisp-german-paneer-skillet--keto",
+    "title": "Keto German Pan-Seared Paneer",
+    "tags": [
+      "german",
+      "keto",
+      "paneer",
+      "skillet"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 23,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-rich-kenyan-lamb-tagine--italian",
+    "title": "Kenyan Lamb Tagine with Italian Twist",
+    "tags": [
+      "italian",
+      "kebab",
+      "lamb",
+      "tagine",
+      "fusion"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 190,
+    "shard": "a"
   }
 ]
