@@ -1,0 +1,90 @@
+{
+  "slug": "airy-flaky-norwegian-lamb-puff--french",
+  "title": "French Lamb Flaky Pie",
+  "description": "A traditional French-inspired dish featuring a flaky crust filled with tender lamb. Perfect for a special occasion or dinner party.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flaky Pastry Dough (Norwegian Puff Pastry)",
+      "amount": "1 sheet, thawed",
+      "notes": ""
+    },
+    {
+      "name": "Lamb Shoulder",
+      "amount": "1 (1.5-2 pound) piece",
+      "notes": "Boneless and tied with kitchen twine"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Fresh Thyme",
+      "amount": "2 sprigs",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Airy Egg Wash",
+      "amount": "1 egg, beaten",
+      "notes": "For brushing pastry"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 400°F (200°C).",
+    "Roll out the puff pastry sheet to a thickness of about 1/8 inch.",
+    "Transfer the pastry to a 9x13 inch baking dish, trimming any excess.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the lamb shoulder and cook until browned on all sides, about 5 minutes.",
+    "Transfer the lamb to a plate and set aside.",
+    "Add the chopped onion to the skillet and cook until softened, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Return the lamb to the skillet and add the thyme, salt, and pepper.",
+    "Pour in 1 cup of beef broth and bring to a simmer.",
+    "Cover the skillet with a lid and transfer to the preheated oven.",
+    "Bake for 20 minutes, then reduce the oven temperature to 375°F (190°C) and continue baking for an additional 20-25 minutes, or until the lamb is tender.",
+    "Remove the lamb from the oven and let rest for 10 minutes before slicing.",
+    "Brush the edges of the pastry with the beaten egg for a golden glaze.",
+    "Return the pie to the oven and bake for an additional 5-7 minutes, or until the pastry is golden brown.",
+    "Serve the lamb pie hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": "4-6",
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "lamb",
+    "pie"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 40
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-flaky-norwegian-lamb-puff--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T01:40:56.654Z"
+}
