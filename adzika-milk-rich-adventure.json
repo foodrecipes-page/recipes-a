@@ -1,0 +1,73 @@
+{
+  "slug": "adzika-milk-rich-adventure",
+  "title": "Creamy Adzuki Bean Soup",
+  "description": "A comforting and nutrient-rich soup made with adzuki beans, perfect for a chilly evening. The addition of milk gives it a creamy texture.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "adzuki beans",
+      "amount": "1 cup, dried"
+    },
+    {
+      "name": "milk",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece"
+    },
+    {
+      "name": "vegetable broth",
+      "amount": "4 cups"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the vegetable broth in a large pot over medium heat.",
+    "Add the onion, garlic, and ginger to the pot and sauté until the onion is translucent.",
+    "Add the adzuki beans to the pot and cook for 1-2 minutes.",
+    "Pour in the milk and bring the mixture to a simmer.",
+    "Reduce the heat to low and let the soup simmer for 30-40 minutes, or until the adzuki beans are tender.",
+    "Season the soup with salt and black pepper to taste.",
+    "Serve the soup hot, garnished with chopped green onions if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 40,
+  "totalTimeMin": 55,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "adzuki-beans",
+    "soup",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": "10g",
+    "carbs": "40g",
+    "fat": "10g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adzika-milk-rich-adventure",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T20:55:36.180Z"
+}
