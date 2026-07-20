@@ -11482,5 +11482,17 @@
     "cuisine": "german",
     "totalTimeMin": 16,
     "shard": "a"
+  },
+  {
+    "slug": "airy-flaky-norwegian-lamb-puff--french",
+    "title": "French Lamb Flaky Pie",
+    "tags": [
+      "french",
+      "lamb",
+      "pie"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 60,
+    "shard": "a"
   }
 ]
