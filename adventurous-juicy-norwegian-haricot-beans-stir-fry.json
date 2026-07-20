@@ -1,0 +1,70 @@
+{
+  "slug": "adventurous-juicy-norwegian-haricot-beans-stir-fry",
+  "title": "Haricot Bean Stir Fry",
+  "description": "A simple and flavorful Stir Fry dish made with Norwegian haricot beans, perfect for a quick dinner.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Norwegian Haricot Beans",
+      "amount": "250g",
+      "notes": "Canned or cooked from scratch"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Juicy Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Adventurous Bell Pepper",
+      "amount": "1 large",
+      "notes": "Any color"
+    },
+    {
+      "name": "2 cloves of Garlic",
+      "amount": "minced",
+      "notes": null
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat olive oil in a large skillet over medium-high heat.",
+    "Add diced onion and bell pepper, cook for 5 minutes or until tender.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add Norwegian haricot beans, stir to combine with vegetables.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "norwegian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-juicy-norwegian-haricot-beans-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T18:12:24.194Z"
+}
