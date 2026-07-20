@@ -11449,5 +11449,17 @@
     "cuisine": "italian",
     "totalTimeMin": 190,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-asian-chinese-pork-dim-sum--japanese",
+    "title": "Pan-Seared Pork Buns",
+    "tags": [
+      "japanese",
+      "pork",
+      "buns"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
