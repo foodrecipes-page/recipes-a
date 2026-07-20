@@ -5244,16 +5244,14 @@
   },
   {
     "slug": "aromatic-midnight-chinese-rice-shui-zhu-yu",
-    "title": "Aromatic Midnight Chinese Rice Shui Zhu Yu",
+    "title": "Stir-Fried Midnight Rice Bowl",
     "tags": [
-      "chinese-cuisine",
-      "midnight-craving",
-      "one-pan",
-      "vegetarian",
-      "weeknight"
+      "midnight-rice",
+      "stir-fry",
+      "chinese-cuisine"
     ],
-    "cuisine": "Chinese",
-    "totalTimeMin": 30,
+    "cuisine": "chinese",
+    "totalTimeMin": 20,
     "shard": "a"
   },
   {
@@ -5635,16 +5633,15 @@
   },
   {
     "slug": "aromatic-russian-beef-pilaf",
-    "title": "Aromatic Russian Beef Pilaf",
+    "title": "Beef and Pilaf Bowl",
     "tags": [
-      "beef-recipes",
-      "hot-stone-plate",
-      "low-sodium",
-      "one-pot",
-      "russian-cuisine"
+      "beef",
+      "pilaf",
+      "russian",
+      "aromatic"
     ],
     "cuisine": "Russian",
-    "totalTimeMin": 40,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
