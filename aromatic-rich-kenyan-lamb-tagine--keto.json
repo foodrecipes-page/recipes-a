@@ -1,0 +1,82 @@
+{
+  "slug": "aromatic-rich-kenyan-lamb-tagine--keto",
+  "title": "Kenyan Lamb Tagine",
+  "description": "A flavorful and aromatic dish from Kenya, made with lamb and a rich tagine sauce, suitable for a keto diet.",
+  "cuisine": "Kenyan",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Tagine spice blend",
+      "amount": "2 teaspoons",
+      "notes": null
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Tomato paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Chicken broth",
+      "amount": "1 cup",
+      "notes": "make sure it's low-carb"
+    }
+  ],
+  "instructions": [
+    "1. Heat the coconut oil in a large Dutch oven over medium heat.",
+    "2. Add the onion, garlic, and ginger, and cook until the onion is translucent.",
+    "3. Add the lamb and cook until browned on all sides.",
+    "4. Add the tagine spice blend, tomato paste, and chicken broth. Stir well to combine.",
+    "5. Bring the mixture to a boil, then cover the pot and transfer it to the oven.",
+    "6. Cook the tagine in the oven at 300°F (150°C) for 2 hours, or until the lamb is tender.",
+    "7. Serve the tagine hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 120,
+  "totalTimeMin": 135,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenyan",
+    "lamb",
+    "tagine",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-rich-kenyan-lamb-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T22:36:42.939Z"
+}
