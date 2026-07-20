@@ -3319,16 +3319,15 @@
   },
   {
     "slug": "amazingly-tender-uruguayan-bun-empanadas",
-    "title": "Uruguayan Bun Empanadas",
+    "title": "Uruguayan Empanadas",
     "tags": [
-      "baked-goods",
-      "homemade",
-      "snack-time",
-      "south-american",
-      "vegetarian"
+      "beef",
+      "empanada",
+      "uruguayan",
+      "latin"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
