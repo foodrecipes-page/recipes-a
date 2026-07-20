@@ -1,0 +1,88 @@
+{
+  "slug": "aromatic-asian-chinese-pork-dim-sum--japanese",
+  "title": "Pan-Seared Pork Buns",
+  "description": "A twist on the traditional dim sum, these pan-seared pork buns are filled with tender pork and served with a side of spicy sauce.",
+  "cuisine": "japanese",
+  "diet": [
+    "meat",
+    "pork"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Pork shoulder",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Bok choy",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Buns",
+      "amount": "4-6",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Sugar",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Cornstarch",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Scallions",
+      "amount": "1 bunch",
+      "notes": null
+    },
+    {
+      "name": "Spicy sauce",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    }
+  ],
+  "instructions": [
+    "Preheat a skillet or wok over medium-high heat.",
+    "Add 1 tablespoon of oil and cook the pork until browned, about 5 minutes.",
+    "Add the grated ginger and cook for an additional minute.",
+    "Add the soy sauce, sugar, and cornstarch mixture and cook until the sauce has thickened.",
+    "Add the bok choy and cook until wilted.",
+    "Split the buns in half and toast until lightly browned.",
+    "Assemble the buns by spooning the pork mixture onto the bottom half of the bun and topping with scallions.",
+    "Serve with a side of spicy sauce."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "pork",
+    "buns"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-asian-chinese-pork-dim-sum--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:13:03.740Z"
+}
