@@ -1,0 +1,79 @@
+{
+  "slug": "amazingly-tender-uruguayan-bun-empanadas",
+  "title": "Uruguayan Empanadas",
+  "description": "A classic Uruguayan recipe for empanadas. Flaky pastry pockets filled with tender beef and onions.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "beef",
+    "meat"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Ground Beef",
+      "amount": "500g",
+      "notes": "80% lean"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1/2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Egg",
+      "amount": "1",
+      "notes": "Beaten"
+    },
+    {
+      "name": "Water",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine ground beef, chopped onion, salt, and black pepper. Mix well.",
+    "2. Divide the dough into 8 equal pieces. Roll out each piece into a thin circle.",
+    "3. Place about 1/4 cup of the beef mixture in the center of each dough circle.",
+    "4. Fold the dough over the filling, forming a half-moon shape, and press the edges together to seal.",
+    "5. Brush the tops of the empanadas with the beaten egg.",
+    "6. Heat a large skillet over medium-high heat.",
+    "7. Cook the empanadas for 2-3 minutes on each side, until golden brown.",
+    "8. Serve warm."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "empanada",
+    "uruguayan",
+    "latin"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-tender-uruguayan-bun-empanadas",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T15:31:05.877Z"
+}
