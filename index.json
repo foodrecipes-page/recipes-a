@@ -6690,17 +6690,15 @@
   },
   {
     "slug": "aromatic-uruguayan-ham-stew",
-    "title": "Aromatic Uruguayan Ham Stew",
+    "title": "Ham and Stew Aromatic Stew",
     "tags": [
-      "clay-pot",
-      "glassy-stew",
-      "kid-friendly",
-      "spicy",
-      "uruguayan",
-      "whole30-friendly"
+      "stew",
+      "ham",
+      "beef",
+      "comfort-food"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 60,
+    "cuisine": null,
+    "totalTimeMin": 110,
     "shard": "a"
   },
   {
