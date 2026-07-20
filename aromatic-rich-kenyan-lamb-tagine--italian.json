@@ -1,0 +1,97 @@
+{
+  "slug": "aromatic-rich-kenyan-lamb-tagine--italian",
+  "title": "Kenyan Lamb Tagine with Italian Twist",
+  "description": "A fusion of Kenyan and Italian flavors, this hearty lamb tagine is made with aromatic spices and rich flavors.",
+  "cuisine": "italian",
+  "diet": [
+    "meat",
+    "pork-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic",
+      "amount": "1 teaspoon ground cumin",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic",
+      "amount": "1 teaspoon ground coriander",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic",
+      "amount": "1/2 teaspoon turmeric",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic",
+      "amount": "1/2 teaspoon cinnamon",
+      "notes": ""
+    },
+    {
+      "name": "Rich",
+      "amount": "1 cup lamb broth",
+      "notes": ""
+    },
+    {
+      "name": "Kenyan",
+      "amount": "2 tablespoons Kenyan coconut oil",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat the Kenyan coconut oil in a large Dutch oven or clay pot over medium-high heat.",
+    "2. Sear the lamb shoulder until browned on all sides, about 5 minutes. Remove from pot and set aside.",
+    "3. Reduce heat to medium and add the onion, garlic, and ginger. Cook until the onion is softened, about 5 minutes.",
+    "4. Stir in the cumin, coriander, turmeric, and cinnamon. Cook for 1 minute.",
+    "5. Add the lamb broth and bring to a boil.",
+    "6. Return the lamb to the pot, cover, and transfer to the oven. Braise for 2 1/2 hours, or until the lamb is tender.",
+    "7. Remove the pot from the oven and let rest for 10 minutes.",
+    "8. Serve the lamb with the sauce spooned over the top.",
+    "9. Garnish with fresh herbs, if desired.",
+    "10. Serve with crusty bread or over rice."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 160,
+  "totalTimeMin": 190,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "kebab",
+    "lamb",
+    "tagine",
+    "fusion"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-rich-kenyan-lamb-tagine--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T17:07:56.389Z"
+}
