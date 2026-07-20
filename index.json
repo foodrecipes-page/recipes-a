@@ -11470,5 +11470,17 @@
     "cuisine": "Kenyan",
     "totalTimeMin": 135,
     "shard": "a"
+  },
+  {
+    "slug": "alert-salty-egyptian-salmon-wrap--german",
+    "title": "German Smoked Salmon Wrap",
+    "tags": [
+      "german",
+      "smoked-salmon",
+      "breakfast"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 16,
+    "shard": "a"
   }
 ]
