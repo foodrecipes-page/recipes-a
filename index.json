@@ -11457,5 +11457,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-rich-kenyan-lamb-tagine--keto",
+    "title": "Kenyan Lamb Tagine",
+    "tags": [
+      "kenyan",
+      "lamb",
+      "tagine",
+      "keto"
+    ],
+    "cuisine": "Kenyan",
+    "totalTimeMin": 135,
+    "shard": "a"
   }
 ]
