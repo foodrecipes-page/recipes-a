@@ -1,0 +1,89 @@
+{
+  "slug": "aromatic-russian-beef-pilaf",
+  "title": "Beef and Pilaf Bowl",
+  "description": "A hearty beef and pilaf bowl, inspired by Russian cuisine, with aromatic flavors.",
+  "cuisine": "Russian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Beef (sirloin steak)",
+      "amount": "400g",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf (rice mix)",
+      "amount": "250g",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic oil (olive oil)",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Dried thyme",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 200°C (400°F).",
+    "Season the beef with salt and black pepper.",
+    "Heat 1 tbsp of aromatic oil in a large pan over medium-high heat.",
+    "Sear the beef for 2-3 minutes per side, then transfer to a baking sheet.",
+    "Bake in the oven for 12-15 minutes, or until the beef reaches 63°C (145°F).",
+    "In the same pan, add the remaining 1 tbsp of aromatic oil.",
+    "Add the sliced onion and cook for 5 minutes, or until softened.",
+    "Add the minced garlic and cook for 1 minute, or until fragrant.",
+    "Add the pilaf mix and cook for 2 minutes, stirring constantly.",
+    "Add 250ml of hot water and bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 10-12 minutes, or until the liquid is absorbed.",
+    "Fluff the pilaf with a fork and stir in dried thyme.",
+    "Slice the cooked beef against the grain and serve with the pilaf."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "beef",
+    "pilaf",
+    "russian",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": "40g",
+    "carbs": "40g",
+    "fat": "25g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-russian-beef-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T19:24:05.012Z"
+}
