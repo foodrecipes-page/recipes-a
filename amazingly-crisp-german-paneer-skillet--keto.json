@@ -1,0 +1,83 @@
+{
+  "slug": "amazingly-crisp-german-paneer-skillet--keto",
+  "title": "Keto German Pan-Seared Paneer",
+  "description": "A low-carb twist on a classic German dish, featuring crispy paneer and a skillet-seared crust.",
+  "cuisine": "german",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "almond flour",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "skillet",
+      "amount": "1",
+      "notes": "for pan-frying"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (optional)",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Preheat a skillet over medium-high heat.",
+    "2. In a shallow dish, mix together almond flour and parmesan cheese.",
+    "3. Coat the paneer in the almond flour mixture, shaking off excess.",
+    "4. Add olive oil to the preheated skillet and swirl to coat.",
+    "5. Pan-fry the coated paneer for 2-3 minutes on each side, until golden brown.",
+    "6. Remove the paneer from the skillet and season with salt and pepper to taste.",
+    "7. Garnish with chopped parsley, if desired.",
+    "8. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 8,
+  "totalTimeMin": 23,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "keto",
+    "paneer",
+    "skillet"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 6,
+    "fat": 45
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-crisp-german-paneer-skillet--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T16:51:50.377Z"
+}
