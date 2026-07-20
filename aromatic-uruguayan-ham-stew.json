@@ -1,0 +1,94 @@
+{
+  "slug": "aromatic-uruguayan-ham-stew",
+  "title": "Ham and Stew Aromatic Stew",
+  "description": "A flavorful stew made with ham and stew meat, with the added aroma of aromatic spices.",
+  "cuisine": null,
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Ham",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "Uruguayan Stew Meat",
+      "amount": "2 pounds",
+      "notes": null
+    },
+    {
+      "name": "Aromatic",
+      "amount": "2 tablespoons",
+      "notes": "dried thyme and rosemary"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Carrots",
+      "amount": "4 medium",
+      "notes": null
+    },
+    {
+      "name": "Potatoes",
+      "amount": "3 large",
+      "notes": null
+    },
+    {
+      "name": "Tomato Paste",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "All-purpose Flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Beef Broth",
+      "amount": "2 cups",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add the diced onion and cook until browned, about 5 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ham and stew meat, cooking until browned on all sides.",
+    "Add the carrots, potatoes, tomato paste, flour, and beef broth.",
+    "Stir to combine, then bring to a boil.",
+    "Reduce heat to low and simmer for 1.5 hours, or until the meat is tender.",
+    "Season with dried thyme and rosemary to taste.",
+    "Serve hot, garnished with fresh herbs if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "stew",
+    "ham",
+    "beef",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 53,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-uruguayan-ham-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T02:01:29.544Z"
+}
