@@ -1,0 +1,81 @@
+{
+  "slug": "alert-salty-egyptian-salmon-wrap--german",
+  "title": "German Smoked Salmon Wrap",
+  "description": "A crispy German-style wrap filled with smoked salmon, creamy sauce, and crunchy vegetables.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Smoked Salmon Fillets",
+      "amount": "4 oz",
+      "notes": ""
+    },
+    {
+      "name": "German-Style Wrap",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Cream Cheese",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Cucumber",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "Chopped Onion",
+      "amount": "1/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "Dill",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Alert Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Start by preheating a pan over medium heat.",
+    "Place the smoked salmon fillets in the pan and cook for 2-3 minutes per side.",
+    "While the salmon is cooking, prepare the wrap by spreading the cream cheese on it.",
+    "Add the chopped cucumber and onion on top of the cream cheese.",
+    "Once the salmon is cooked, place it on top of the vegetables.",
+    "Sprinkle the chopped dill and salt to taste.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 6,
+  "totalTimeMin": 16,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "smoked-salmon",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/alert-salty-egyptian-salmon-wrap--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-17T23:51:07.435Z"
+}
