@@ -1,0 +1,83 @@
+{
+  "slug": "aromatic-jamaican-goat-stew--vegan",
+  "title": "Jamaican Stew",
+  "description": "A flavorful stew made with aromatic spices and hearty vegetables, perfect for a comforting meal. This recipe is free from animal products, making it suitable for vegans.",
+  "cuisine": "Caribbean",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Jamaican",
+      "amount": "1 teaspoon"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium, chopped"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "potatoes",
+      "amount": "2 medium, peeled and chopped"
+    },
+    {
+      "name": "tomato",
+      "amount": "2 medium, chopped"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup, vegetable broth"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium-high heat.",
+    "Add onion, bell pepper, and carrots. Cook until the vegetables are tender.",
+    "Add the potatoes, tomato, and stew. Stir to combine.",
+    "Add aromatic and Jamaican spices. Stir to combine.",
+    "Bring the stew to a boil, then reduce the heat to low and simmer, covered, for 20 minutes.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, garnished with chopped fresh herbs if desired.",
+    "Serve with rice or bread for a filling meal."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "caribbean",
+    "stew",
+    "comfortfood"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 5,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-jamaican-goat-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T05:13:27.582Z"
+}
