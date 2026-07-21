@@ -1,0 +1,92 @@
+{
+  "slug": "aromatic-greek-chicken-avgolemono--mexican",
+  "title": "Mexican Chicken Avgolemono Soup",
+  "description": "A twist on traditional avgolemono, this Mexican-inspired soup combines the bright citrus flavors of avgolemono with tender chicken, aromatic spices, and a hint of Greek yogurt.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "boneless, skinless chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "aromatic rice",
+      "amount": "2 cups",
+      "notes": "uncooked"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "4 cups",
+      "notes": "low sodium"
+    },
+    {
+      "name": "avgolemono",
+      "amount": "2 tablespoons",
+      "notes": "avgolemono sauce, store-bought or homemade"
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1 cup",
+      "notes": "plain, full-fat"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "smoked"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/4 teaspoon",
+      "notes": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium-high heat.",
+    "Add the chicken and cook until browned on all sides and cooked through, about 5-7 minutes.",
+    "Remove the chicken from the pot and set aside.",
+    "Add the rice to the pot and cook, stirring constantly, for 2-3 minutes.",
+    "Add the chicken broth, cumin, paprika, salt, and pepper to the pot.",
+    "Bring the mixture to a boil, then reduce the heat to low and simmer for 15-20 minutes, or until the rice is tender.",
+    "Stir in the avgolemono sauce and cook for an additional 2-3 minutes.",
+    "Return the chicken to the pot and stir to combine.",
+    "Stir in the Greek yogurt and cook for an additional 1-2 minutes, or until heated through.",
+    "Serve the soup hot, garnished with chopped fresh cilantro if desired.",
+    "Serve with warm flour tortillas, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 25,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "soup",
+    "mexican",
+    "avgolemono",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-greek-chicken-avgolemono--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T15:16:46.386Z"
+}
