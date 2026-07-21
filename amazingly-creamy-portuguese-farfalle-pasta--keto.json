@@ -1,0 +1,83 @@
+{
+  "slug": "amazingly-creamy-portuguese-farfalle-pasta--keto",
+  "title": "Creamy Portuguese Farfalle Bake",
+  "description": "A keto-friendly take on the classic Portuguese pasta bake, featuring creamy farfalle and savory flavors.",
+  "cuisine": "Portuguese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "farfalle pasta",
+      "amount": "8 oz",
+      "notes": "preferably gluten-free"
+    },
+    {
+      "name": "cream cheese",
+      "amount": "8 oz",
+      "notes": null
+    },
+    {
+      "name": "grated cheddar cheese",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "diced ham",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "chopped scallions",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "garlic powder",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook the farfalle pasta according to package instructions until al dente. Drain and set aside.",
+    "In a large skillet, melt the cream cheese over medium heat.",
+    "Add the grated cheddar cheese and stir until melted and smooth.",
+    "Add the diced ham, chopped scallions, salt, black pepper, and garlic powder to the skillet. Stir to combine.",
+    "Add the cooked farfalle pasta to the skillet and toss to coat with the cheesy ham mixture.",
+    "Transfer the pasta mixture to a baking dish and top with additional grated cheddar cheese if desired.",
+    "Bake in the preheated oven for 15-20 minutes, or until the top is golden brown and the cheese is bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "portuguese",
+    "baked-pasta"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 34,
+    "carbs": 6,
+    "fat": 44
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-creamy-portuguese-farfalle-pasta--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T17:25:00.345Z"
+}
