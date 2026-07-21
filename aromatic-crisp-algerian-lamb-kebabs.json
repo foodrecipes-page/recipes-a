@@ -1,0 +1,76 @@
+{
+  "slug": "aromatic-crisp-algerian-lamb-kebabs",
+  "title": "Lamb Kebabs with Algerian Spices",
+  "description": "A flavorful and aromatic lamb kebab dish with Algerian spices, great for a quick dinner or outdoor BBQ.",
+  "cuisine": "North African",
+  "diet": [
+    "gluten-free",
+    "meat-based"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb",
+      "amount": "1 pound",
+      "notes": "Cut into 1-inch cubes"
+    },
+    {
+      "name": "Algerian spice blend",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "Crisp onion",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Aromatic bell pepper",
+      "amount": "1 large",
+      "notes": "Thinly sliced"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. In a small bowl, mix together Algerian spice blend, salt, and black pepper.",
+    "2. Add the spice mixture to the lamb cubes and mix well to coat.",
+    "3. Heat the olive oil in a large skillet over medium-high heat.",
+    "4. Add the lamb cubes and cook until browned, about 5-7 minutes.",
+    "5. Remove the lamb from the skillet and set aside.",
+    "6. Add the sliced onion and bell pepper to the skillet and cook until tender, about 5 minutes.",
+    "7. Return the lamb to the skillet and stir to combine with the vegetables.",
+    "8. Cook for an additional 2-3 minutes, until the lamb is cooked through.",
+    "9. Serve hot, garnished with additional Algerian spices if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "kebabs",
+    "algerian",
+    "spices"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crisp-algerian-lamb-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T03:23:56.110Z"
+}
