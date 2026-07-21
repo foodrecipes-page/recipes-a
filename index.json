@@ -11516,5 +11516,18 @@
     "cuisine": "thai",
     "totalTimeMin": 125,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-spicy-filipino-beef-kaldereta--mexican",
+    "title": "Kaldereta Beef Tacos",
+    "tags": [
+      "mexican",
+      "beef",
+      "kaldereta",
+      "tacos"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
