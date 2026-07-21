@@ -11578,5 +11578,17 @@
     "cuisine": "mexican",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "amazingly-creamy-portuguese-farfalle-pasta--keto",
+    "title": "Creamy Portuguese Farfalle Bake",
+    "tags": [
+      "keto",
+      "portuguese",
+      "baked-pasta"
+    ],
+    "cuisine": "Portuguese",
+    "totalTimeMin": 30,
+    "shard": "a"
   }
 ]
