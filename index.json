@@ -11538,5 +11538,18 @@
     "cuisine": "vegan",
     "totalTimeMin": 60,
     "shard": "a"
+  },
+  {
+    "slug": "amber-uruguayan-tofu-stew--vegan",
+    "title": "Uruguayan Amber Stew",
+    "tags": [
+      "vegan",
+      "uruguayan",
+      "stew",
+      "comfort-food"
+    ],
+    "cuisine": "uruguayan",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
