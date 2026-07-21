@@ -1,0 +1,93 @@
+{
+  "slug": "aromatic-silky-saudi-arabian-lamb-tagine--thai",
+  "title": "Thai-Style Lamb Tagine",
+  "description": "A flavorful Thai-inspired lamb tagine recipe, blending aromatic spices and silky smooth coconut milk.",
+  "cuisine": "thai",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless lamb shoulder or neck"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": "grated fresh ginger and 1 tablespoon grated fresh lemongrass"
+    },
+    {
+      "name": "saudi",
+      "amount": "2 tablespoons",
+      "notes": "date syrup"
+    },
+    {
+      "name": "coconut milk",
+      "amount": "1 can",
+      "notes": "full-fat coconut milk"
+    },
+    {
+      "name": "arabian",
+      "amount": "2 tablespoons",
+      "notes": "cinnamon powder"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "turmeric powder",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "tagine",
+      "amount": "1 cup",
+      "notes": "chicken or beef broth"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven or clay tagine over medium heat.",
+    "Add lamb and cook until browned on all sides, about 5-7 minutes.",
+    "Add aromatic spices, cumin powder, turmeric powder, salt, and black pepper. Stir to combine.",
+    "Pour in date syrup and broth, then bring to a boil.",
+    "Reduce heat to low, cover, and simmer for 1 1/2 hours, or until lamb is tender.",
+    "Stir in coconut milk and continue to simmer for another 10-15 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh cilantro leaves."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 105,
+  "totalTimeMin": 125,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "lamb",
+    "tagine",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-silky-saudi-arabian-lamb-tagine--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T11:11:59.592Z"
+}
