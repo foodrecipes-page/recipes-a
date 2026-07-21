@@ -2629,17 +2629,14 @@
   },
   {
     "slug": "amazing-polish-pork-dumplings",
-    "title": "Amazing Polish Pork Dumplings",
+    "title": "Polish Pork and Dumplings",
     "tags": [
-      "high-protein",
-      "indulgent",
-      "keto-friendly",
-      "one-pan",
-      "pork-lovers",
-      "weeknight"
+      "polish",
+      "pork",
+      "dumplings"
     ],
     "cuisine": "Polish",
-    "totalTimeMin": 38,
+    "totalTimeMin": 150,
     "shard": "a"
   },
   {
@@ -11528,6 +11525,18 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-brazilian-kabocha-wrap--vegan",
+    "title": "Brazilian Kabocha Wrap",
+    "tags": [
+      "vegan",
+      "gluten-free",
+      "low-calorie"
+    ],
+    "cuisine": "vegan",
+    "totalTimeMin": 60,
     "shard": "a"
   }
 ]
