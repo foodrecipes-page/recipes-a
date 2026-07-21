@@ -1,0 +1,66 @@
+{
+  "slug": "avocado-banana-nutty-paneer-sweet-watermelon--italian",
+  "title": "Italian Watermelon and Paneer Salad",
+  "description": "A refreshing Italian-inspired salad featuring paneer, watermelon, and a hint of nutty sweetness.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "8 oz",
+      "notes": "cut into small cubes"
+    },
+    {
+      "name": "watermelon",
+      "amount": "4 cups diced",
+      "notes": "seedless"
+    },
+    {
+      "name": "nutty",
+      "amount": "2 tbsp chopped almonds",
+      "notes": "optional"
+    },
+    {
+      "name": "sweet",
+      "amount": "2 tbsp honey",
+      "notes": "adjust to taste"
+    },
+    {
+      "name": "avocado",
+      "amount": "1 ripe, diced",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine paneer, watermelon, and nutty (if using).",
+    "2. In a small bowl, whisk together sweet and a pinch of salt.",
+    "3. Pour the sweet mixture over the paneer mixture and toss to coat.",
+    "4. Cover the bowl with plastic wrap and refrigerate for at least 30 minutes to allow the flavors to meld.",
+    "5. Just before serving, top the salad with diced avocado (if using).",
+    "6. Serve chilled and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 0,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "salad",
+    "summer",
+    "veggie"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 18,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/avocado-banana-nutty-paneer-sweet-watermelon--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:58:09.172Z"
+}
