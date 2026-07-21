@@ -1,0 +1,88 @@
+{
+  "slug": "aerated-brazilian-kabocha-wrap--vegan",
+  "title": "Brazilian Kabocha Wrap",
+  "description": "A delicious and healthy vegan wrap filled with roasted kabocha and topped with aerated slaw.",
+  "cuisine": "vegan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "kabocha squash",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "aerated vegan coleslaw",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "whole wheat wrap",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "bell pepper",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "tomato",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "avocado",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Pierce the kabocha squash with a fork and roast in the oven for 45-50 minutes, or until tender.",
+    "While the squash is roasting, prepare the slaw by mixing the aerated coleslaw with lime juice and salt in a bowl.",
+    "Once the squash is cooked, remove it from the oven and let it cool for a few minutes.",
+    "Slice the cooled squash into thin strips.",
+    "Warm the wrap in the microwave for 20-30 seconds.",
+    "Spread a layer of slaw on the wrap, followed by sliced cucumber, bell pepper, tomato, and avocado.",
+    "Place the roasted squash on top of the vegetables.",
+    "Fold the wrap to enclose the filling and serve immediately."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 45,
+  "totalTimeMin": 60,
+  "servings": 1,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "gluten-free",
+    "low-calorie"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": "5g",
+    "carbs": "40g",
+    "fat": "15g"
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-brazilian-kabocha-wrap--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T13:11:15.454Z"
+}
