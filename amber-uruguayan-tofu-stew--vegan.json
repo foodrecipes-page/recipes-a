@@ -1,0 +1,61 @@
+{
+  "slug": "amber-uruguayan-tofu-stew--vegan",
+  "title": "Uruguayan Amber Stew",
+  "description": "A hearty and flavorful Uruguayan-inspired stew made with amber and tofu, perfect for a comforting vegan meal.",
+  "cuisine": "uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "amber",
+      "amount": "2 cups"
+    },
+    {
+      "name": "uruguayan",
+      "amount": "1 teaspoon",
+      "notes": "ground"
+    },
+    {
+      "name": "tofu",
+      "amount": "1 block",
+      "notes": "extra-firm"
+    },
+    {
+      "name": "stew",
+      "amount": "1 can",
+      "notes": "diced tomatoes"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of oil in a large pot over medium heat.",
+    "Add the ground uruguayan and cook for 1-2 minutes, until fragrant.",
+    "Add the diced stew and cook for 2-3 minutes, until the vegetables are tender.",
+    "Add the tofu and cook for an additional 2 minutes, until heated through.",
+    "Stir in the amber and cook for 1-2 minutes, until well combined.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "uruguayan",
+    "stew",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amber-uruguayan-tofu-stew--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T14:18:00.278Z"
+}
