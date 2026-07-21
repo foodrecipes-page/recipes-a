@@ -4213,17 +4213,15 @@
   },
   {
     "slug": "aromatic-crisp-algerian-lamb-kebabs",
-    "title": "Aromatic Crisp Algerian Lamb Kebabs",
+    "title": "Lamb Kebabs with Algerian Spices",
     "tags": [
-      "algerian",
-      "grilled",
-      "high-protein",
       "lamb",
-      "one-pan",
-      "weeknight"
+      "kebabs",
+      "algerian",
+      "spices"
     ],
-    "cuisine": "Algerian",
-    "totalTimeMin": 32,
+    "cuisine": "North African",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
