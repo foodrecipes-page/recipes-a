@@ -11503,5 +11503,18 @@
     "cuisine": "Caribbean",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-silky-saudi-arabian-lamb-tagine--thai",
+    "title": "Thai-Style Lamb Tagine",
+    "tags": [
+      "thai",
+      "lamb",
+      "tagine",
+      "aromatic"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 125,
+    "shard": "a"
   }
 ]
