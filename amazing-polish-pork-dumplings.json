@@ -1,0 +1,84 @@
+{
+  "slug": "amazing-polish-pork-dumplings",
+  "title": "Polish Pork and Dumplings",
+  "description": "A hearty Polish-inspired dish featuring tender pork and fluffy dumplings.",
+  "cuisine": "Polish",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork shoulder",
+      "amount": "1 1/2 pounds",
+      "notes": ""
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "warm water",
+      "amount": "3/4 cup",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine flour and salt. Gradually add warm water, mixing until a dough forms.",
+    "2. Knead the dough for 5-7 minutes, until smooth and elastic.",
+    "3. Divide the dough into 8 equal pieces.",
+    "4. Roll each piece into a thin circle.",
+    "5. Heat olive oil in a large skillet over medium heat. Cook the dumplings for 2-3 minutes on each side, until golden brown.",
+    "6. In a separate pan, cook the pork shoulder over medium-high heat until browned on all sides.",
+    "7. Reduce heat to medium-low and cook the pork for 1-2 hours, until tender and falling apart.",
+    "8. Slice the cooked pork into thin strips.",
+    "9. Serve the pork with the dumplings and sautéed onion and garlic.",
+    "10. Season with black pepper to taste."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 120,
+  "totalTimeMin": 150,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "polish",
+    "pork",
+    "dumplings"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-polish-pork-dumplings",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T12:39:52.604Z"
+}
