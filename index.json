@@ -11551,5 +11551,32 @@
     "cuisine": "uruguayan",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "avocado-banana-nutty-paneer-sweet-watermelon--italian",
+    "title": "Italian Watermelon and Paneer Salad",
+    "tags": [
+      "italian",
+      "salad",
+      "summer",
+      "veggie"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-greek-chicken-avgolemono--mexican",
+    "title": "Mexican Chicken Avgolemono Soup",
+    "tags": [
+      "chicken",
+      "soup",
+      "mexican",
+      "avgolemono",
+      "aromatic"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
