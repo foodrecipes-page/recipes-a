@@ -11490,5 +11490,18 @@
     "cuisine": "french",
     "totalTimeMin": 60,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-jamaican-goat-stew--vegan",
+    "title": "Jamaican Stew",
+    "tags": [
+      "vegan",
+      "caribbean",
+      "stew",
+      "comfortfood"
+    ],
+    "cuisine": "Caribbean",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
