@@ -1,0 +1,72 @@
+{
+  "slug": "aromatic-dense-japanese-blackeye-peas-soup--keto",
+  "title": "Japanese-Style Blackeye Pea Stir Fry",
+  "description": "A flavorful and nutritious keto-friendly stir fry made with blackeye peas, aromatic spices, and a hint of Japanese flavors.",
+  "cuisine": "Japanese",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Blackeye Peas",
+      "amount": "1 cup",
+      "notes": "drained and rinsed"
+    },
+    {
+      "name": "Aromatic Oil",
+      "amount": "2 tablespoons",
+      "notes": "such as sesame or avocado oil"
+    },
+    {
+      "name": "Dense Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Japanese Ginger",
+      "amount": "1 tablespoon",
+      "notes": "grated"
+    },
+    {
+      "name": "Coconut Aminos",
+      "amount": "2 tablespoons",
+      "notes": "or low-carb soy sauce"
+    },
+    {
+      "name": "Green Peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    }
+  ],
+  "instructions": [
+    "Heat the aromatic oil in a large skillet over medium-high heat.",
+    "Add the dense garlic and Japanese ginger; sauté for 1 minute.",
+    "Add the blackeye peas and green peas; stir to combine.",
+    "Cook for 5 minutes or until the peas are tender.",
+    "Stir in the coconut aminos; cook for an additional 1-2 minutes.",
+    "Season with salt and pepper to taste.",
+    "Serve hot over a bed of shredded lettuce or with a side of cauliflower rice."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "japanese",
+    "stir-fry",
+    "blackeye-peas"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 15,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-dense-japanese-blackeye-peas-soup--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T21:42:52.857Z"
+}
