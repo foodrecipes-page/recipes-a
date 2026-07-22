@@ -1,0 +1,88 @@
+{
+  "slug": "ayurvedic-friendly-garlicky-tender-spanish-gambas-al-ajillo-paella--german",
+  "title": "Spanish-Style German Paella",
+  "description": "A fusion of Spanish and German flavors, this paella recipe combines garlicky sausage with tender chicken and a hint of Spanish spices.",
+  "cuisine": "german",
+  "diet": [
+    "friendly"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Garlicky sausage",
+      "amount": "1 pound",
+      "notes": "Spanish-style garlicky sausage"
+    },
+    {
+      "name": "Tender chicken",
+      "amount": "1 1/2 pounds",
+      "notes": "Boneless, skinless chicken thighs"
+    },
+    {
+      "name": "Spanish paella rice",
+      "amount": "1 cup",
+      "notes": "Specialty rice for paella"
+    },
+    {
+      "name": "Al ajillo oil",
+      "amount": "2 tablespoons",
+      "notes": "Garlic-infused olive oil"
+    },
+    {
+      "name": "Gambas broth",
+      "amount": "2 cups",
+      "notes": "Spanish-style seafood broth"
+    },
+    {
+      "name": "Tender vegetables",
+      "amount": "1 cup",
+      "notes": "Mixed bell peppers, onions, and tomatoes"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1 teaspoon",
+      "notes": "To taste"
+    },
+    {
+      "name": "Paprika",
+      "amount": "1/2 teaspoon",
+      "notes": "Smoked or sweet paprika"
+    }
+  ],
+  "instructions": [
+    "Heat the al ajillo oil in a large paella pan over medium-high heat.",
+    "Add the garlicky sausage and cook until browned, about 5 minutes.",
+    "Add the tender chicken and cook until browned, about 5 minutes.",
+    "Add the Spanish paella rice and cook for 1-2 minutes, until lightly toasted.",
+    "Add the gambas broth and bring to a boil.",
+    "Add the tender vegetables, salt, black pepper, and paprika. Stir to combine.",
+    "Reduce heat to low and simmer, covered, for 20-25 minutes, or until the rice is cooked and the liquid has been absorbed.",
+    "Remove from heat and let rest for 5 minutes before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "spanish",
+    "paella",
+    "chicken"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 40,
+    "carbs": 60,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/ayurvedic-friendly-garlicky-tender-spanish-gambas-al-ajillo-paella--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T00:02:18.713Z"
+}
