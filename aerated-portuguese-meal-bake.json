@@ -1,0 +1,73 @@
+{
+  "slug": "aerated-portuguese-meal-bake",
+  "title": "Baked Meal with Aerated Twist",
+  "description": "A unique meal recipe that combines the simplicity of baking with the lightness of an aerated twist.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Portuguese Meal",
+      "amount": "500g",
+      "notes": "Choose a gluten-free option"
+    },
+    {
+      "name": "Bake",
+      "amount": "250g",
+      "notes": "Self-raising flour or gluten-free alternative"
+    },
+    {
+      "name": "Aerated",
+      "amount": "200ml",
+      "notes": "Whipped cream or whipped topping"
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Black Pepper",
+      "amount": "1 tsp",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "For greasing"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 180°C (350°F).",
+    "2. Grease a 20cm (8 inch) square baking dish with olive oil.",
+    "3. In a large bowl, mix together the Portuguese meal, bake, salt, and black pepper.",
+    "4. Press the mixture into the prepared baking dish.",
+    "5. Bake for 20-25 minutes or until lightly golden.",
+    "6. Remove from the oven and let cool for 10 minutes.",
+    "7. Top with aerated and serve warm.",
+    "8. Slice into squares and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lunch",
+    "easy-meal",
+    "baked-dish"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-portuguese-meal-bake",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T01:30:07.242Z"
+}
