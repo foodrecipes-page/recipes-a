@@ -943,16 +943,14 @@
   },
   {
     "slug": "aerated-portuguese-meal-bake",
-    "title": "Aerated Portuguese Meal Bake",
+    "title": "Baked Meal with Aerated Twist",
     "tags": [
-      "chicken",
-      "high-protein",
-      "macrobiotic",
-      "one-pan",
-      "weeknight"
+      "lunch",
+      "easy-meal",
+      "baked-dish"
     ],
-    "cuisine": "portuguese",
-    "totalTimeMin": 50,
+    "cuisine": null,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
