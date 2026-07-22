@@ -1,0 +1,80 @@
+{
+  "slug": "adventurer-s-spicy-flank-steak--chinese",
+  "title": "Stir Fried Flank Steak with Peppers",
+  "description": "A classic Chinese dish featuring marinated flank steak, stir-fried with peppers and spices.",
+  "cuisine": "chinese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Flank Steak",
+      "amount": "1 pound"
+    },
+    {
+      "name": "Bell Peppers",
+      "amount": "2"
+    },
+    {
+      "name": "Onion",
+      "amount": "1"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "Soy Sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Sesame Oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Sesame Seeds",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Slice the flank steak into thin strips.",
+    "2. In a small bowl, whisk together soy sauce, sesame oil, and sesame seeds.",
+    "3. Add the sliced steak to the marinade and mix well.",
+    "4. Let the steak marinate for at least 30 minutes.",
+    "5. Heat a wok or large skillet over high heat.",
+    "6. Add 1 tablespoon of sesame oil to the wok and swirl to coat.",
+    "7. Add the sliced onions and bell peppers to the wok and stir-fry for 2-3 minutes.",
+    "8. Add the marinated steak to the wok and stir-fry for 3-4 minutes, or until cooked to your liking.",
+    "9. Season with salt and pepper to taste.",
+    "10. Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "stir-fry",
+    "beef"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurer-s-spicy-flank-steak--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:42:45.105Z"
+}
