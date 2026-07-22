@@ -5434,16 +5434,15 @@
   },
   {
     "slug": "aromatic-peruvian-shrimp-chupe-de-camarones",
-    "title": "Aromatic Peruvian Shrimp Chupe de Camarones",
+    "title": "Camarones al Ajillo",
     "tags": [
-      "flexitarian",
-      "high-protein",
-      "one-pan",
-      "peruvian",
-      "weeknight"
+      "seafood",
+      "shrimp",
+      "garlic",
+      "peruvian"
     ],
-    "cuisine": "peruvian",
-    "totalTimeMin": 25,
+    "cuisine": "Peruvian",
+    "totalTimeMin": 15,
     "shard": "a"
   },
   {
