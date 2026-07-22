@@ -6328,17 +6328,15 @@
   },
   {
     "slug": "aromatic-spicy-saudi-arabian-serrano-ham-kebabs",
-    "title": "Aromatic Spicy Saudi Arabian Serrano Ham Kebabs",
+    "title": "Saudi Arabian Kebabs",
     "tags": [
-      "grilled-meats",
       "kebabs",
-      "low-fat",
-      "saudi-arabian-cuisine",
-      "spicy-food",
-      "sunday-lunch"
+      "saudi-arabian",
+      "grilled",
+      "middle-eastern"
     ],
-    "cuisine": "Saudi Arabian",
-    "totalTimeMin": 32,
+    "cuisine": "Middle Eastern",
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
@@ -11588,6 +11586,31 @@
       "baked-pasta"
     ],
     "cuisine": "Portuguese",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-monsoon-slovakian-yogurt-stir-fry--thai",
+    "title": "Spicy Thai Stir-Fry",
+    "tags": [
+      "thai",
+      "stir-fry",
+      "slovakian-sausage",
+      "spicy"
+    ],
+    "cuisine": "Thai",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurer-s-spicy-flank-steak--chinese",
+    "title": "Stir Fried Flank Steak with Peppers",
+    "tags": [
+      "chinese",
+      "stir-fry",
+      "beef"
+    ],
+    "cuisine": "chinese",
     "totalTimeMin": 30,
     "shard": "a"
   }
