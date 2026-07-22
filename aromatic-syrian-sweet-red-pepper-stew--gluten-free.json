@@ -1,0 +1,78 @@
+{
+  "slug": "aromatic-syrian-sweet-red-pepper-stew--gluten-free",
+  "title": "Gluten-Free Stew with Sweet Pepper",
+  "description": "A hearty and flavorful stew made with sweet peppers and aromatic spices, perfect for a cold evening.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "sweet pepper",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tsp",
+      "notes": "dry"
+    },
+    {
+      "name": "syrian",
+      "amount": "1 tsp",
+      "notes": "crushed"
+    },
+    {
+      "name": "red pepper",
+      "amount": "1/4 tsp",
+      "notes": "flaked"
+    },
+    {
+      "name": "stew",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups",
+      "notes": ""
+    },
+    {
+      "name": "gluten-free broth",
+      "amount": "1 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add the aromatic and cook for 1 minute.",
+    "Add the sweet pepper and cook for 5 minutes.",
+    "Add the syrian and red pepper and cook for 1 minute.",
+    "Add the stew and water, bring to a boil.",
+    "Reduce heat to low and simmer for 20 minutes.",
+    "Add the gluten-free broth and simmer for 10 more minutes.",
+    "Season with salt and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 30,
+  "totalTimeMin": 45,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "gluten-free",
+    "stew",
+    "middle eastern",
+    "sweet pepper"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-syrian-sweet-red-pepper-stew--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:54:27.517Z"
+}
