@@ -11650,5 +11650,18 @@
     "cuisine": "Middle Eastern",
     "totalTimeMin": 45,
     "shard": "a"
+  },
+  {
+    "slug": "ayurvedic-friendly-garlicky-tender-spanish-gambas-al-ajillo-paella--german",
+    "title": "Spanish-Style German Paella",
+    "tags": [
+      "german",
+      "spanish",
+      "paella",
+      "chicken"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 45,
+    "shard": "a"
   }
 ]
