@@ -1,0 +1,73 @@
+{
+  "slug": "aerated-monsoon-slovakian-yogurt-stir-fry--thai",
+  "title": "Spicy Thai Stir-Fry",
+  "description": "A quick and flavorful Thai-inspired stir-fry made with the freshest ingredients.",
+  "cuisine": "Thai",
+  "diet": [],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian sausage",
+      "amount": "1 pound, sliced"
+    },
+    {
+      "name": "Fry onions",
+      "amount": "1/2 cup, sliced"
+    },
+    {
+      "name": "Aerated tomatoes",
+      "amount": "1 can, diced"
+    },
+    {
+      "name": "Monsoon peppers",
+      "amount": "1 cup, sliced"
+    },
+    {
+      "name": "Stir-fry sauce",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "1 tablespoon"
+    },
+    {
+      "name": "Thai basil leaves",
+      "amount": "1/4 cup, chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of vegetable oil in a large skillet over medium-high heat.",
+    "Add the sliced onions and cook until translucent, about 3-4 minutes.",
+    "Add the sliced Slovakian sausage and cook until browned, about 4-5 minutes.",
+    "Add the sliced Monsoon peppers and cook until tender, about 4-5 minutes.",
+    "Add the diced Aerated tomatoes, stir-fry sauce, and cooked sausage mixture to the skillet.",
+    "Stir in the chopped Thai basil leaves and cook for 1 minute.",
+    "Serve the spicy stir-fry hot, garnished with additional Thai basil leaves if desired.",
+    "Garnish with a dollop of yogurt to cool down the heat."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "thai",
+    "stir-fry",
+    "slovakian-sausage",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-monsoon-slovakian-yogurt-stir-fry--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:18:21.498Z"
+}
