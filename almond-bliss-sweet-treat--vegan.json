@@ -1,0 +1,63 @@
+{
+  "slug": "almond-bliss-sweet-treat--vegan",
+  "title": "Sweet Almond Bliss Bites",
+  "description": "Vegan sweet treats made with almond flour and blissful ingredients.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond flour",
+      "amount": "1 1/2 cups"
+    },
+    {
+      "name": "dates",
+      "amount": "1 cup",
+      "notes": "pitted"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/4 cup"
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "almond milk",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a food processor, grind the dates into a paste.",
+    "In a large bowl, combine the almond flour, coconut sugar, and vanilla extract.",
+    "Add the date paste to the dry ingredients and mix until well combined.",
+    "Add the almond milk and mix until a dough forms.",
+    "Roll the dough into small balls and place on a baking sheet lined with parchment paper.",
+    "Bake for 15-20 minutes or until lightly golden brown.",
+    "Let cool completely before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "dessert",
+    "almond-flour"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-bliss-sweet-treat--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T22:31:09.539Z"
+}
