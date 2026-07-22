@@ -1,0 +1,68 @@
+{
+  "slug": "aromatic-spicy-saudi-arabian-serrano-ham-kebabs",
+  "title": "Saudi Arabian Kebabs",
+  "description": "A classic Middle Eastern dish featuring marinated kebabs grilled to perfection. Serve with a side of spicy sauce for added flavor.",
+  "cuisine": "Middle Eastern",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "kebabs",
+      "amount": "500g",
+      "notes": "beef or lamb"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2",
+      "notes": "onions, chopped"
+    },
+    {
+      "name": "saudi",
+      "amount": "1",
+      "notes": "arabic spice blend"
+    },
+    {
+      "name": "serrano",
+      "amount": "1",
+      "notes": "chopped, for garnish"
+    },
+    {
+      "name": "ham",
+      "amount": "0g",
+      "notes": "not included in this recipe"
+    }
+  ],
+  "instructions": [
+    "1. In a large bowl, combine kebabs, aromatic onions, saudi spice blend, and 2 tbsp olive oil. Mix well.",
+    "2. Let the mixture marinate for at least 30 minutes.",
+    "3. Preheat grill to medium-high heat.",
+    "4. Thread marinated kebabs onto skewers.",
+    "5. Grill kebabs for 8-10 minutes, turning occasionally.",
+    "6. Meanwhile, prepare spicy sauce by combining 1/2 cup yogurt, 1 tbsp harissa, and 1 tbsp lemon juice.",
+    "7. Grill the serrano peppers for 2-3 minutes, until slightly charred.",
+    "8. Serve kebabs hot with spicy sauce and garnished with grilled serrano peppers."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kebabs",
+    "saudi-arabian",
+    "grilled",
+    "middle-eastern"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-spicy-saudi-arabian-serrano-ham-kebabs",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T18:20:56.600Z"
+}
