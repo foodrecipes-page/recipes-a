@@ -1,0 +1,83 @@
+{
+  "slug": "aromatic-peruvian-shrimp-chupe-de-camarones",
+  "title": "Camarones al Ajillo",
+  "description": "A Peruvian-inspired garlic shrimp dish, typically served with rice or bread.",
+  "cuisine": "Peruvian",
+  "diet": [
+    "seafood"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chupe de camarones",
+      "amount": "1 cup",
+      "notes": "frozen or fresh"
+    },
+    {
+      "name": "shrimp",
+      "amount": "12 count",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 stalks",
+      "notes": "chopped (garlic)"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "white wine",
+      "amount": "1/4 cup",
+      "notes": "optional"
+    },
+    {
+      "name": "Peruvian aji amarillo sauce",
+      "amount": "2 tbsp",
+      "notes": "or garlic sauce"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the chopped garlic and sauté for 1 minute.",
+    "Add the shrimp and cook until pink, about 2-3 minutes per side.",
+    "If using white wine, add it to the skillet and cook until reduced, about 1-2 minutes.",
+    "Add the chupe de camarones and stir to combine.",
+    "If using aji amarillo sauce, add it to the skillet and stir to combine.",
+    "Season with salt and black pepper to taste.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "seafood",
+    "shrimp",
+    "garlic",
+    "peruvian"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 25,
+    "carbs": 20,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-peruvian-shrimp-chupe-de-camarones",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T03:18:27.481Z"
+}
