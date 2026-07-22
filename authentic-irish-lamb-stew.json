@@ -1,0 +1,97 @@
+{
+  "slug": "authentic-irish-lamb-stew",
+  "title": "Classic Irish Lamb Stew",
+  "description": "A hearty, slow-cooked lamb stew originating from Ireland, typically served with crusty bread.",
+  "cuisine": "irish",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1 pound",
+      "notes": "cut into 1-inch cubes"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Potatoes",
+      "amount": "2 large",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "All-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for dusting lamb"
+    },
+    {
+      "name": "Guinness stout",
+      "amount": "1 cup",
+      "notes": "or substitute with beef broth"
+    },
+    {
+      "name": "Red wine vinegar",
+      "amount": "2 tablespoons",
+      "notes": "optional"
+    },
+    {
+      "name": "Fresh thyme",
+      "amount": "2 sprigs",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "1. Season the lamb with salt and pepper.",
+    "2. Dust the lamb with flour, shaking off excess.",
+    "3. Heat oil in a large Dutch oven over medium-high heat.",
+    "4. Sear the lamb until browned, about 5 minutes.",
+    "5. Remove the lamb from the pot and set aside.",
+    "6. Reduce heat to medium and sauté the onion until softened, about 5 minutes.",
+    "7. Add the carrots and potatoes; cook for 5 minutes.",
+    "8. Add the garlic, thyme, and flour; cook for 1 minute.",
+    "9. Add the Guinness stout, wine vinegar (if using), and browned lamb.",
+    "10. Return the lamb to the pot and bring to a boil.",
+    "11. Cover the pot and transfer to the oven.",
+    "12. Braise the stew for 2 1/2 hours, or until the lamb is tender.",
+    "13. Serve hot, garnished with fresh herbs."
+  ],
+  "prepTimeMin": 25,
+  "cookTimeMin": 150,
+  "totalTimeMin": 175,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "lamb",
+    "stew",
+    "hearty"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 44,
+    "carbs": 40,
+    "fat": 32
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/authentic-irish-lamb-stew",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-18T23:14:37.333Z"
+}
