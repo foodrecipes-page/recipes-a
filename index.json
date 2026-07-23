@@ -11689,5 +11689,31 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-snappy-brazilian-lamb-pasta--vegetarian",
+    "title": "Brazilian Pasta with Aromatic Vegetables",
+    "tags": [
+      "vegetarian",
+      "pasta",
+      "brazilian"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-silky-saudi-arabian-lamb-tagine--keto",
+    "title": "Saudi Lamb Tagine",
+    "tags": [
+      "lamb",
+      "tagine",
+      "saudi",
+      "arabic",
+      "keto"
+    ],
+    "cuisine": "Saudi",
+    "totalTimeMin": 120,
+    "shard": "a"
   }
 ]
