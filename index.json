@@ -11667,5 +11667,18 @@
     "cuisine": "italian",
     "totalTimeMin": 15,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-light-french-chicken-gratin--vegetarian",
+    "title": "Vegetarian French Gratin",
+    "tags": [
+      "vegetarian",
+      "french",
+      "gratin",
+      "comfortfood"
+    ],
+    "cuisine": "French",
+    "totalTimeMin": 45,
+    "shard": "a"
   }
 ]
