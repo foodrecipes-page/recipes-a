@@ -11677,5 +11677,17 @@
     "cuisine": "French",
     "totalTimeMin": 45,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-japanese-chicken-kushiyaki--french",
+    "title": "Japanese-Style Chicken Kushiyaki",
+    "tags": [
+      "chicken",
+      "grilled",
+      "japanese-french"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
