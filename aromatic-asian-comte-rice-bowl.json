@@ -1,0 +1,66 @@
+{
+  "slug": "aromatic-asian-comte-rice-bowl",
+  "title": "Comte Rice Bowl",
+  "description": "A flavorful and easy-to-make rice bowl dish featuring Comte cheese and aromatic spices.",
+  "cuisine": "asian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Comte cheese",
+      "amount": "1/2 cup, shredded"
+    },
+    {
+      "name": "aromatic rice seasoning",
+      "amount": "2 teaspoons"
+    },
+    {
+      "name": "bowl",
+      "amount": ""
+    },
+    {
+      "name": "water",
+      "amount": "2 cups"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a medium saucepan over medium heat.",
+    "Add 2 cups of water and bring to a boil.",
+    "Add 1 cup of rice and reduce heat to low.",
+    "Simmer for 15-20 minutes or until the water is absorbed.",
+    "Fluff the rice with a fork and stir in 2 teaspoons of aromatic rice seasoning.",
+    "Transfer the cooked rice to a bowl and top with 1/2 cup of shredded Comte cheese.",
+    "Serve immediately and enjoy."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 20,
+  "totalTimeMin": 25,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "asian",
+    "rice",
+    "lunch",
+    "easy"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-asian-comte-rice-bowl",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T14:48:56.744Z"
+}
