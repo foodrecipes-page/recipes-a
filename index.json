@@ -3830,16 +3830,14 @@
   },
   {
     "slug": "aromatic-asian-comte-rice-bowl",
-    "title": "Aromatic Asian Comte Rice Bowl",
+    "title": "Comte Rice Bowl",
     "tags": [
-      "comte-cheese",
-      "malaysian-cuisine",
-      "quick-fix",
-      "satvik-friendly",
-      "stone-bowl-recipe",
-      "vegetarian-meal"
+      "asian",
+      "rice",
+      "lunch",
+      "easy"
     ],
-    "cuisine": "Malaysian",
+    "cuisine": "asian",
     "totalTimeMin": 25,
     "shard": "a"
   },
