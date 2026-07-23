@@ -1,0 +1,73 @@
+{
+  "slug": "aromatic-japanese-chicken-kushiyaki--french",
+  "title": "Japanese-Style Chicken Kushiyaki",
+  "description": "A French twist on the classic Japanese dish, with succulent chicken kushiyaki and a hint of French flair.",
+  "cuisine": "french",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1-2 lbs"
+    },
+    {
+      "name": "aromatic oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "japanese soy sauce",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "kushiyaki skewers",
+      "amount": "10-12"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves"
+    },
+    {
+      "name": "ginger",
+      "amount": "1 tsp, grated"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak kushiyaki skewers in water for at least 30 minutes.",
+    "Cut the chicken breast into bite-sized pieces and thread onto skewers.",
+    "In a small bowl, whisk together aromatic oil, soy sauce, garlic, ginger, and honey.",
+    "Brush the mixture onto the chicken and season with black pepper.",
+    "Grill the kushiyaki for 8-10 minutes, or until the chicken is cooked through.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "japanese-french"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-japanese-chicken-kushiyaki--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T19:23:34.681Z"
+}
