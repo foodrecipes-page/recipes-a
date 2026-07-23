@@ -1,0 +1,83 @@
+{
+  "slug": "aromatic-crisp-croatian-pork-skewers",
+  "title": "Croatian Pork Skewers",
+  "description": "A delicious and flavorful dish featuring marinated pork skewers with a hint of Croatian spices, served with a side of crunchy vegetables.",
+  "cuisine": "Croatian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pork shoulder, cut into 1-inch cubes",
+      "amount": "1 pound",
+      "notes": ""
+    },
+    {
+      "name": "Croatian spice blend (paprika, garlic powder, salt, black pepper)",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Crisp red bell pepper, cut into 1-inch pieces",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onion, cut into 1-inch pieces",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Skewers",
+      "amount": "12",
+      "notes": ""
+    },
+    {
+      "name": "Fresh parsley, chopped",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Lemon wedges",
+      "amount": "2",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together Croatian spice blend and olive oil.",
+    "Add pork cubes to the spice mixture and marinate for at least 30 minutes.",
+    "Thread marinated pork, bell pepper, and onion onto skewers.",
+    "Grill skewers for 8-10 minutes per side, or until pork reaches an internal temperature of 145°F.",
+    "Let skewers rest for 5 minutes before serving.",
+    "Garnish with parsley and serve with lemon wedges.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "grilling",
+    "pork",
+    "skewers",
+    "croatian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crisp-croatian-pork-skewers",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T18:11:00.324Z"
+}
