@@ -11660,5 +11660,19 @@
     "cuisine": "german",
     "totalTimeMin": 45,
     "shard": "a"
+  },
+  {
+    "slug": "air-fried-air-pan-avocado-wrap--italian",
+    "title": "Avocado Italian Wrap",
+    "tags": [
+      "italian",
+      "chicken",
+      "avocado",
+      "wrap",
+      "lunch"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 15,
+    "shard": "a"
   }
 ]
