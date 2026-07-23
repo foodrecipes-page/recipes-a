@@ -4216,18 +4216,15 @@
   },
   {
     "slug": "aromatic-crisp-croatian-pork-skewers",
-    "title": "Aromatic Crisp Croatian Pork Skewers",
+    "title": "Croatian Pork Skewers",
     "tags": [
-      "broiled",
-      "brunch",
-      "croatian",
-      "gluten-free",
-      "low-calorie",
+      "grilling",
       "pork",
-      "skewers"
+      "skewers",
+      "croatian"
     ],
     "cuisine": "Croatian",
-    "totalTimeMin": 32,
+    "totalTimeMin": 33,
     "shard": "a"
   },
   {
