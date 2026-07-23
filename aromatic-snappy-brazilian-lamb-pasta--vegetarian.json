@@ -1,0 +1,61 @@
+{
+  "slug": "aromatic-snappy-brazilian-lamb-pasta--vegetarian",
+  "title": "Brazilian Pasta with Aromatic Vegetables",
+  "description": "A flavorful and vibrant vegetarian pasta dish, inspired by the cuisine of Brazil, featuring aromatic vegetables and snappy texture.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pasta",
+      "amount": "1 pound",
+      "notes": "linguine or fettuccine work well"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 large onion, chopped",
+      "notes": "such as red bell pepper, zucchini, and mushrooms"
+    },
+    {
+      "name": "snappy",
+      "amount": "1 cup of snow peas, sliced",
+      "notes": "or snap peas"
+    },
+    {
+      "name": "brazilian",
+      "amount": "2 cloves of garlic, minced",
+      "notes": "and 1 tablespoon of olive oil"
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil and cook pasta according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add chopped onion and cook for 3-4 minutes until softened.",
+    "Add minced garlic and cook for 1 minute.",
+    "Add sliced snow peas and cook for 2-3 minutes until tender.",
+    "Stir in cooked pasta and season with salt and pepper to taste.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegetarian",
+    "pasta",
+    "brazilian"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-snappy-brazilian-lamb-pasta--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:18:47.691Z"
+}
