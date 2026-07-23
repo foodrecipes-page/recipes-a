@@ -1,0 +1,77 @@
+{
+  "slug": "air-fried-air-pan-avocado-wrap--italian",
+  "title": "Avocado Italian Wrap",
+  "description": "A simple Italian-inspired wrap filled with avocado and crispy fried chicken.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "1 ripe",
+      "notes": ""
+    },
+    {
+      "name": "Wrap",
+      "amount": "1 large flour",
+      "notes": ""
+    },
+    {
+      "name": "Chicken breast",
+      "amount": "1 boneless, skinless",
+      "notes": "cut into strips"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "for frying",
+      "notes": ""
+    },
+    {
+      "name": "Italian seasoning",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "1. Heat about 1/2 inch of olive oil in a pan over medium-high heat.",
+    "2. Add the chicken strips and cook until golden brown and cooked through.",
+    "3. Season with salt, pepper, and Italian seasoning.",
+    "4. Meanwhile, slice the avocado and toast the wrap.",
+    "5. Assemble the wrap by spreading the avocado on the wrap, then adding the fried chicken.",
+    "6. Fold the wrap in half and serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chicken",
+    "avocado",
+    "wrap",
+    "lunch"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-air-pan-avocado-wrap--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T11:10:26.759Z"
+}
