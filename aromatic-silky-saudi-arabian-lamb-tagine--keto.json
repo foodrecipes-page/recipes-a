@@ -1,0 +1,73 @@
+{
+  "slug": "aromatic-silky-saudi-arabian-lamb-tagine--keto",
+  "title": "Saudi Lamb Tagine",
+  "description": "A flavorful and aromatic tagine dish made with lamb, inspired by Saudi cuisine. This keto-friendly recipe is perfect for a special occasion or a cozy night in.",
+  "cuisine": "Saudi",
+  "diet": [
+    "keto"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1.5 lbs",
+      "notes": "cut into small pieces"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": "ground cumin and coriander"
+    },
+    {
+      "name": "silky",
+      "amount": "1/4 cup",
+      "notes": "olive oil"
+    },
+    {
+      "name": "saudi",
+      "amount": "1 tablespoon",
+      "notes": "ground cinnamon"
+    },
+    {
+      "name": "arabian",
+      "amount": "1 tablespoon",
+      "notes": "ground ginger"
+    },
+    {
+      "name": "tagine",
+      "amount": "1",
+      "notes": "traditional clay pot or Dutch oven"
+    }
+  ],
+  "instructions": [
+    "Preheat the tagine or Dutch oven over medium heat.",
+    "Add the olive oil and sauté the lamb until browned, about 5 minutes.",
+    "Add the cumin, coriander, cinnamon, and ginger. Stir well to combine.",
+    "Add 1 cup of water to the tagine and bring to a boil.",
+    "Reduce the heat to low and simmer, covered, for 1 1/2 hours, or until the lamb is tender.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with fresh parsley or cilantro."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "tagine",
+    "saudi",
+    "arabic",
+    "keto"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 5,
+    "fat": 42
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-silky-saudi-arabian-lamb-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T20:59:36.883Z"
+}
