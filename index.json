@@ -1669,18 +1669,15 @@
   },
   {
     "slug": "airy-crunchy-middle-eastern-almonds-falafel",
-    "title": "Airy Crunchy Middle-Eastern Almonds Falafel",
+    "title": "Middle Eastern Falafel Wrap",
     "tags": [
-      "almonds",
-      "gluten-free",
-      "jain",
       "middle-eastern",
-      "one-pan",
-      "snack",
-      "vegan"
+      "falafel",
+      "vegetarian",
+      "gluten-free"
     ],
     "cuisine": "Middle Eastern",
-    "totalTimeMin": 30,
+    "totalTimeMin": 22,
     "shard": "a"
   },
   {
