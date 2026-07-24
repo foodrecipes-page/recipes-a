@@ -1,0 +1,87 @@
+{
+  "slug": "aromatic-syrian-sweet-red-pepper-stew--german",
+  "title": "German Braised Beef Stew",
+  "description": "A hearty and flavorful German-style beef stew made with tender beef, aromatic vegetables, and a rich red wine sauce.",
+  "cuisine": "german",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "beef stew meat",
+      "amount": "1 pound",
+      "notes": null
+    },
+    {
+      "name": "aromatic (onion, carrot, celery)",
+      "amount": "1 large onion, 2 cloves",
+      "notes": null
+    },
+    {
+      "name": "sweet (red bell pepper)",
+      "amount": "2 medium",
+      "notes": null
+    },
+    {
+      "name": "red wine",
+      "amount": "1 cup",
+      "notes": null
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups",
+      "notes": null
+    },
+    {
+      "name": "stew (tomato)",
+      "amount": "1 can",
+      "notes": null
+    },
+    {
+      "name": "flour",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Add the beef and cook until browned, about 5 minutes.",
+    "Remove the beef from the pot and set aside.",
+    "Add the onion, carrot, and celery to the pot and cook until the vegetables are softened, about 5 minutes.",
+    "Add the red bell pepper and cook for an additional 2 minutes.",
+    "Add the red wine to the pot and bring to a boil, scraping up any browned bits from the bottom of the pot.",
+    "Return the beef to the pot and add the beef broth, stew, and flour.",
+    "Bring the stew to a boil, then cover the pot and transfer it to the oven.",
+    "Braise the stew in the preheated oven for 2 1/2 hours, or until the beef is tender.",
+    "Season the stew with salt and pepper to taste.",
+    "Serve the stew hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "beef",
+    "stew",
+    "braised",
+    "comfort food"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-syrian-sweet-red-pepper-stew--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:17:57.117Z"
+}
