@@ -1328,17 +1328,14 @@
   },
   {
     "slug": "air-fried-nutty-mediterranean-cashews-stir-fry",
-    "title": "Air-Fried Nutty Mediterranean Cashews Stir-fry",
+    "title": "Nutty Mediterranean Cashew Stir Fry",
     "tags": [
-      "nutty",
-      "tender",
-      "cozy",
       "mediterranean",
-      "air-fried",
-      "halal-friendly"
+      "vegetarian",
+      "stir-fry"
     ],
     "cuisine": "Mediterranean",
-    "totalTimeMin": 15,
+    "totalTimeMin": 25,
     "shard": "a"
   },
   {
@@ -11750,6 +11747,18 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-algerian-quinoa-tagine--keto",
+    "title": "Algerian Quinoa Tagine",
+    "tags": [
+      "keto",
+      "quinoa",
+      "north-african"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 40,
     "shard": "a"
   }
 ]
