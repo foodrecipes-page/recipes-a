@@ -11727,5 +11727,32 @@
     "cuisine": "italian",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-thai-cabbage-kanom-ko--indian",
+    "title": "Kanom Krok with Cabbage and Aromatic Spices",
+    "tags": [
+      "indian",
+      "street-food",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-portuguese-meal-bake--mexican",
+    "title": "Aerated Chicken Tacos",
+    "tags": [
+      "mexican",
+      "chicken",
+      "tacos",
+      "cumin",
+      "chili"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 45,
+    "shard": "a"
   }
 ]
