@@ -1,0 +1,101 @@
+{
+  "slug": "adventurous-mediterranean-lamb-tagine--indian",
+  "title": "Lamb Tagine with Indian Spices",
+  "description": "A flavorful and aromatic lamb tagine dish infused with Indian spices, perfect for a special occasion.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Lamb shoulder",
+      "amount": "1.5 kg",
+      "notes": "cut into 2-inch pieces"
+    },
+    {
+      "name": "Ghee",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "2 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Ginger",
+      "amount": "2 inches",
+      "notes": "grated"
+    },
+    {
+      "name": "Garlic",
+      "amount": "4 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Red chili powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "1 bunch",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat ghee in a large pan over medium heat.",
+    "Add onion and cook until softened, about 5 minutes.",
+    "Add ginger and garlic and cook for another minute.",
+    "Add cumin powder, coriander powder, turmeric powder, and red chili powder. Cook for 1 minute.",
+    "Add lamb pieces and cook until browned, about 5-7 minutes.",
+    "Add 2 cups of water and bring to a boil.",
+    "Reduce heat to low and simmer, covered, for 1 1/2 hours.",
+    "Season with salt to taste.",
+    "Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 90,
+  "totalTimeMin": 120,
+  "servings": 4,
+  "difficulty": "hard",
+  "tags": [
+    "lamb",
+    "tagine",
+    "indian",
+    "spicy",
+    "slow-cooked"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-mediterranean-lamb-tagine--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:56:51.393Z"
+}
