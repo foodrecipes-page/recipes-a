@@ -11715,5 +11715,18 @@
     "cuisine": "Saudi",
     "totalTimeMin": 120,
     "shard": "a"
+  },
+  {
+    "slug": "aerated-monsoon-slovakian-yogurt-stir-fry--italian",
+    "title": "Monsoon Italian Stir Fry",
+    "tags": [
+      "italian",
+      "stir-fry",
+      "monsoon-peppers",
+      "slovakian-onions"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
