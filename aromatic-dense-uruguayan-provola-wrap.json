@@ -1,0 +1,63 @@
+{
+  "slug": "aromatic-dense-uruguayan-provola-wrap",
+  "title": "Uruguayan Provolone Wrap",
+  "description": "A simple, savory wrap filled with sautéed provola and served with a side of aromatic sauce.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Provolone cheese",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Aromatic sauce",
+      "amount": "2 tablespoons",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Wrap",
+      "amount": "1",
+      "notes": "Large, soft flour tortilla"
+    },
+    {
+      "name": "Dense bread",
+      "amount": "1/4 cup, cubed",
+      "notes": "Optional, for added texture"
+    }
+  ],
+  "instructions": [
+    "1. Preheat a pan over medium heat.",
+    "2. Cube the provola cheese and add to the pan.",
+    "3. Cook, stirring occasionally, until the cheese is melted and slightly browned.",
+    "4. Warm the wrap by wrapping it in a damp paper towel and microwaving for 10-15 seconds.",
+    "5. Spoon the provola mixture onto the center of the wrap.",
+    "6. Drizzle with aromatic sauce.",
+    "7. Top with cubed dense bread, if using.",
+    "8. Fold the bottom half of the wrap up over the filling, then fold in the sides and roll into a tight cylinder.",
+    "9. Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 5,
+  "totalTimeMin": 10,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "quick",
+    "easy",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 300,
+    "protein": 20,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-dense-uruguayan-provola-wrap",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T03:58:50.776Z"
+}
