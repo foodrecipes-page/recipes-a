@@ -1,0 +1,80 @@
+{
+  "slug": "aromatic-snappy-malaysian-blackberry-skillet--japanese",
+  "title": "Pan-Seared Blackberry Pork Chops",
+  "description": "A twist on the classic pork chop, inspired by Japanese flavors and featuring a sweet and tangy blackberry glaze.",
+  "cuisine": "japanese",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "pork chops",
+      "amount": "4 chops (6 oz each)",
+      "notes": ""
+    },
+    {
+      "name": "aromatic rice vinegar",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "snappy sesame oil",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "malaysian chili flakes",
+      "amount": "1/4 tsp",
+      "notes": ""
+    },
+    {
+      "name": "blackberries",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "for cooking"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Season the pork chops with salt, pepper, and chili flakes.",
+    "Heat the skillet over medium-high heat.",
+    "Add the sesame oil to the skillet and sear the pork chops for 2-3 minutes per side.",
+    "Transfer the skillet to the oven and bake for 10-12 minutes, or until the pork chops reach an internal temperature of 145°F (63°C).",
+    "While the pork chops are cooking, mix the rice vinegar and honey in a small bowl.",
+    "Add the blackberries to the bowl and mash them with a fork until they form a sauce.",
+    "Brush the blackberry sauce over the pork chops during the last 2 minutes of cooking.",
+    "Remove the skillet from the oven and let the pork chops rest for 5 minutes before serving.",
+    "Serve the pork chops with additional blackberry sauce, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "blackberry",
+    "pork",
+    "grill"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-snappy-malaysian-blackberry-skillet--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T10:12:42.502Z"
+}
