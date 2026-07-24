@@ -11758,5 +11758,32 @@
     "cuisine": "North African",
     "totalTimeMin": 40,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-snappy-malaysian-blackberry-skillet--japanese",
+    "title": "Pan-Seared Blackberry Pork Chops",
+    "tags": [
+      "japanese",
+      "blackberry",
+      "pork",
+      "grill"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-syrian-sweet-red-pepper-stew--german",
+    "title": "German Braised Beef Stew",
+    "tags": [
+      "german",
+      "beef",
+      "stew",
+      "braised",
+      "comfort food"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 170,
+    "shard": "a"
   }
 ]
