@@ -1,0 +1,83 @@
+{
+  "slug": "aromatic-silky-mediterranean-turkey-ham-pilaf",
+  "title": "Turkey and Ham Pilaf Casserole",
+  "description": "A hearty and flavorful casserole made with turkey, ham, pilaf, and a blend of Mediterranean spices.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "meat",
+    "dairy-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Turkey breast",
+      "amount": "1 pound, sliced",
+      "notes": ""
+    },
+    {
+      "name": "Ham",
+      "amount": "8 ounces, diced",
+      "notes": ""
+    },
+    {
+      "name": "Pilaf",
+      "amount": "1 cup",
+      "notes": "uncooked"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "2 teaspoons",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the pilaf according to package instructions.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the sliced turkey and cook until browned, about 5 minutes.",
+    "Add the diced ham and cook for an additional 2 minutes.",
+    "Stir in the Mediterranean seasoning, salt, and black pepper.",
+    "Combine the cooked pilaf with the turkey and ham mixture.",
+    "Transfer the mixture to a 9x13 inch baking dish.",
+    "Cover with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is lightly browned.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "turkey",
+    "ham",
+    "pilaf",
+    "casserole",
+    "mediterranean"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-silky-mediterranean-turkey-ham-pilaf",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T02:20:31.817Z"
+}
