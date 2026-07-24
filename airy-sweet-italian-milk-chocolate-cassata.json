@@ -1,0 +1,66 @@
+{
+  "slug": "airy-sweet-italian-milk-chocolate-cassata",
+  "title": "Tiramisu Cassata",
+  "description": "A creative twist on traditional Italian cassata, this dessert combines the flavors of tiramisu with the classic sweet bread.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "airy",
+      "amount": "1 (1 pound) loaf"
+    },
+    {
+      "name": "sweet",
+      "amount": "1 cup"
+    },
+    {
+      "name": "italian",
+      "amount": "1 cup mascarpone cheese"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chocolate",
+      "amount": "1 cup, grated"
+    },
+    {
+      "name": "cassata",
+      "amount": "1 (12-ounce) package, ladyfingers"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 350°F (175°C).",
+    "Cut the airy loaf into 1/2-inch slices.",
+    "Dip the ladyfingers in the milk for 3-5 seconds on each side.",
+    "In a large bowl, combine the mascarpone cheese, sweet, and chocolate. Mix until smooth.",
+    "To assemble the cassata, start with a layer of ladyfingers, followed by a layer of the mascarpone mixture, and repeat.",
+    "Top the cassata with the airy slices and refrigerate for at least 3 hours.",
+    "Serve chilled, garnished with additional chocolate shavings if desired."
+  ],
+  "prepTimeMin": 30,
+  "cookTimeMin": 0,
+  "totalTimeMin": 180,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "dessert",
+    "tiramisu",
+    "cassata"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-sweet-italian-milk-chocolate-cassata",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T07:36:46.652Z"
+}
