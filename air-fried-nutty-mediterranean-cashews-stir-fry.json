@@ -1,0 +1,81 @@
+{
+  "slug": "air-fried-nutty-mediterranean-cashews-stir-fry",
+  "title": "Nutty Mediterranean Cashew Stir Fry",
+  "description": "A flavorful and crunchy mediterranean-inspired stir fry made with toasted cashews and a hint of nutty flavor.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Cashews",
+      "amount": "1 cup",
+      "notes": "toasted"
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "sliced"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Feta cheese",
+      "amount": "1/2 cup",
+      "notes": "crumbled"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of olive oil in a large skillet over medium-high heat.",
+    "Add the sliced bell peppers and onions and cook until tender, about 5 minutes.",
+    "Add the minced garlic and cook for an additional 1 minute.",
+    "Add the toasted cashews and cook for 1-2 minutes, until fragrant.",
+    "Stir in the Mediterranean seasoning and cook for 1 minute.",
+    "Remove from heat and stir in the crumbled feta cheese.",
+    "Garnish with chopped parsley and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "mediterranean",
+    "vegetarian",
+    "stir-fry"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 30,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-nutty-mediterranean-cashews-stir-fry",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:42:14.681Z"
+}
