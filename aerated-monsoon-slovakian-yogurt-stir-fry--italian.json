@@ -1,0 +1,91 @@
+{
+  "slug": "aerated-monsoon-slovakian-yogurt-stir-fry--italian",
+  "title": "Monsoon Italian Stir Fry",
+  "description": "A quick and easy stir fry dish with a Monsoon twist, made with Slovakian ingredients and Italian flair.",
+  "cuisine": "italian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Monsoon peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Slovakian onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Yogurt",
+      "amount": "2 tablespoons",
+      "notes": "for serving"
+    },
+    {
+      "name": "Aerated water",
+      "amount": "2 tablespoons",
+      "notes": "for sauce"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh basil",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Fry spice",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat the olive oil in a large skillet over medium-high heat.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Add the sliced onions and cook until softened, about 3-4 minutes.",
+    "Add the Monsoon peppers and cook until tender, about 5 minutes.",
+    "In a small bowl, whisk together the yogurt and aerated water.",
+    "Pour the yogurt sauce over the vegetables and stir to combine.",
+    "Season with salt, black pepper, and fry spice (if using).",
+    "Serve hot, garnished with chopped fresh basil.",
+    "Serve with additional yogurt on the side, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "stir-fry",
+    "monsoon-peppers",
+    "slovakian-onions"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 15,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-monsoon-slovakian-yogurt-stir-fry--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-19T23:08:03.528Z"
+}
