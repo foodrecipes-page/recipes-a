@@ -1,0 +1,62 @@
+{
+  "slug": "aromatic-algerian-quinoa-tagine--keto",
+  "title": "Algerian Quinoa Tagine",
+  "description": "A hearty, flavorful dish from North Africa, made with quinoa and aromatic spices. Perfect for a keto diet.",
+  "cuisine": "North African",
+  "diet": [
+    "keto"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Quinoa",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Algerian Aromatic Spice Blend",
+      "amount": "2 tsp",
+      "notes": ""
+    },
+    {
+      "name": "Tagine",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "Chicken Breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. Rinse the quinoa in a fine-mesh strainer and drain well.",
+    "3. In a large bowl, whisk together the Algerian Aromatic Spice Blend and 2 cups of water.",
+    "4. Add the quinoa to the bowl and stir to coat.",
+    "5. Bring the quinoa mixture to a boil, then reduce the heat to low, cover, and simmer for 15-20 minutes or until the quinoa is tender and the water has been absorbed.",
+    "6. While the quinoa cooks, season the chicken breast with salt and pepper.",
+    "7. Heat a large skillet over medium-high heat and cook the chicken until browned and cooked through.",
+    "8. Serve the chicken on top of the cooked quinoa, garnished with fresh herbs and a side of tagine for serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "keto",
+    "quinoa",
+    "north-african"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 45,
+    "carbs": 20,
+    "fat": 30
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-algerian-quinoa-tagine--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T06:57:24.362Z"
+}
