@@ -11785,5 +11785,19 @@
     "cuisine": "german",
     "totalTimeMin": 170,
     "shard": "a"
+  },
+  {
+    "slug": "adventurous-mediterranean-lamb-tagine--indian",
+    "title": "Lamb Tagine with Indian Spices",
+    "tags": [
+      "lamb",
+      "tagine",
+      "indian",
+      "spicy",
+      "slow-cooked"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 120,
+    "shard": "a"
   }
 ]
