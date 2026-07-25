@@ -1,0 +1,73 @@
+{
+  "slug": "acidic-tender-kenyan-rice-flour-crepe--japanese",
+  "title": "Japanese Crepe with Kenyan Kenkey Filling",
+  "description": "A unique fusion dish blending Japanese crepe with traditional Kenyan kenkey. Crispy crepe wraps tender, slightly acidic kenkey.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Kenyan kenkey",
+      "amount": "1 cup",
+      "notes": "Traditionally made from fermented corn dough"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 1/2 cups",
+      "notes": "For crepe batter"
+    },
+    {
+      "name": "acidic",
+      "amount": "1 tablespoon",
+      "notes": "Lemon juice or vinegar for adding flavor"
+    },
+    {
+      "name": "tender",
+      "amount": "1 cup",
+      "notes": "Softened tofu or scrambled eggs for added texture"
+    },
+    {
+      "name": "flour",
+      "amount": "1/4 cup",
+      "notes": "For dusting crepe pan"
+    },
+    {
+      "name": "crepe",
+      "amount": "1",
+      "notes": "Homemade or store-bought crepe"
+    }
+  ],
+  "instructions": [
+    "Combine rice flour, acidic, and tender in a bowl.",
+    "Mix well and set aside.",
+    "Heat a non-stick pan and dust it with flour.",
+    "Pour crepe batter and cook until edges start to curl.",
+    "Place the cooked crepe on a flat surface.",
+    "Spread the kenkey mixture on one half of the crepe.",
+    "Fold the crepe in half to enclose the filling.",
+    "Serve hot with your favorite toppings."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "kenkey",
+    "japanese-food",
+    "crepe",
+    "fusion-cuisine"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 10,
+    "carbs": 25,
+    "fat": 5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/acidic-tender-kenyan-rice-flour-crepe--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T20:54:51.048Z"
+}
