@@ -2064,15 +2064,14 @@
   },
   {
     "slug": "allspice-butter-egg-delight",
-    "title": "Allspice Butter Egg Delight",
+    "title": "Buttery Allspice Delight Muffin",
     "tags": [
-      "egg-free",
-      "allspice",
-      "buttery",
-      "creamy"
+      "breakfast",
+      "baked-goods",
+      "muffin"
     ],
-    "cuisine": "Uruguayan",
-    "totalTimeMin": 15,
+    "cuisine": "American",
+    "totalTimeMin": 30,
     "shard": "a"
   },
   {
@@ -11989,6 +11988,20 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 55,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-crisp-german-paneer-skillet--indian",
+    "title": "Crispy Paneer Skillet",
+    "tags": [
+      "indian",
+      "paneer",
+      "skillet",
+      "crispy",
+      "vegetarian"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "a"
   }
 ]
