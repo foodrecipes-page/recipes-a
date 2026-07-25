@@ -1,0 +1,99 @@
+{
+  "slug": "amazingly-aromatic-brazilian-chicken-skewers--chinese",
+  "title": "Aromatic Brazilian Chicken Skewers",
+  "description": "Grilled skewers of marinated chicken, inspired by the flavors of Brazil, with an aromatic twist.",
+  "cuisine": "chinese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "1/4 cup",
+      "notes": null
+    },
+    {
+      "name": "honey",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "greek yogurt",
+      "amount": "1/4 cup",
+      "notes": "full-fat"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "ginger",
+      "amount": "1-inch piece",
+      "notes": null
+    },
+    {
+      "name": "cumin",
+      "amount": "1 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 teaspoon",
+      "notes": null
+    },
+    {
+      "name": "bamboo skewers",
+      "amount": "10-12",
+      "notes": "soak in water for 30 minutes"
+    },
+    {
+      "name": "fresh cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "In a blender or food processor, combine soy sauce, honey, greek yogurt, garlic, ginger, cumin, paprika, salt, and black pepper. Blend until smooth.",
+    "Add the chicken to the marinade and mix until the chicken is well coated. Cover the bowl with plastic wrap and refrigerate for at least 2 hours or overnight.",
+    "Preheat the grill to medium-high heat. Thread the marinated chicken onto the bamboo skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, turning occasionally, until the chicken is cooked through and slightly charred.",
+    "Sprinkle the skewers with chopped cilantro and serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chinese",
+    "grilled",
+    "skewers",
+    "chicken",
+    "aromatic"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-aromatic-brazilian-chicken-skewers--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:08:46.904Z"
+}
