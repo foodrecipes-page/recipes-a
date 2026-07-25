@@ -11888,5 +11888,30 @@
     "cuisine": "indian",
     "totalTimeMin": 32,
     "shard": "a"
+  },
+  {
+    "slug": "artichoke-infused-briny-mediterranean-garlic-bake--indian",
+    "title": "Artichoke and Briny Mediterranean Bake",
+    "tags": [
+      "indian",
+      "vegetarian",
+      "artichoke"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "acidic-tender-kenyan-rice-flour-crepe--japanese",
+    "title": "Japanese Crepe with Kenyan Kenkey Filling",
+    "tags": [
+      "kenkey",
+      "japanese-food",
+      "crepe",
+      "fusion-cuisine"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 30,
+    "shard": "a"
   }
 ]
