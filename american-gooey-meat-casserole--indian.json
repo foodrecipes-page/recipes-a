@@ -1,0 +1,101 @@
+{
+  "slug": "american-gooey-meat-casserole--indian",
+  "title": "Sloppy American-Style Chicken Casserole",
+  "description": "A delicious casserole with a gooey, meaty twist, inspired by Indian flavors. This dish is perfect for a comforting meal.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "Boneless and skinless"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1/2 pound",
+      "notes": "80/20 lean to fat ratio"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "tomato puree",
+      "amount": "1 cup",
+      "notes": "Canned"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 teaspoons",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "cumin powder",
+      "amount": "1 teaspoon",
+      "notes": "Adjust to taste"
+    },
+    {
+      "name": "chicken broth",
+      "amount": "1 cup",
+      "notes": "Low sodium"
+    },
+    {
+      "name": "basmati rice",
+      "amount": "1 cup",
+      "notes": "Uncooked"
+    },
+    {
+      "name": "shredded mozzarella cheese",
+      "amount": "1 cup",
+      "notes": "Low-fat"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "Cook the basmati rice according to package instructions.",
+    "In a large skillet, heat 2 tablespoons of oil over medium-high heat.",
+    "Add the chopped onion and cook until translucent, about 3-4 minutes.",
+    "Add the minced garlic and cook for an additional minute.",
+    "Add the ground beef and cook until browned, breaking it up with a spoon as it cooks.",
+    "Add the curry powder and cumin powder, and cook for 1 minute.",
+    "Stir in the tomato puree and chicken broth, and bring the mixture to a simmer.",
+    "Reduce the heat to low and let it cook while you prepare the chicken.",
+    "Season the chicken breast with salt and pepper, and cook in a separate skillet over medium-high heat until browned and cooked through.",
+    "Shred the cooked chicken with two forks and add it to the skillet with the meat mixture.",
+    "Stir in the cooked rice and shredded mozzarella cheese.",
+    "Transfer the mixture to a 9x13 inch baking dish and top with additional shredded cheese.",
+    "Bake in the preheated oven for 20-25 minutes, or until the cheese is melted and bubbly."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 35,
+  "totalTimeMin": 55,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "casserole",
+    "indian",
+    "chicken",
+    "ground-beef",
+    "cheese"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/american-gooey-meat-casserole--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:11:01.528Z"
+}
