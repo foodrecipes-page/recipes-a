@@ -11849,5 +11849,19 @@
     "cuisine": "Scottish",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-vietnamese-chwinamul-pho--vegetarian",
+    "title": "Vegetarian Chwinamul Pho",
+    "tags": [
+      "vegetarian",
+      "vietnamese",
+      "soup",
+      "noodles",
+      "chwinamul"
+    ],
+    "cuisine": "Vietnamese",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
