@@ -1,0 +1,66 @@
+{
+  "slug": "amazing-herbal-moroccan-kiwifruit-chebakia",
+  "title": "Moroccan Kiwifruit Chebakia",
+  "description": "A sweet and tangy dessert fusion of traditional Moroccan chebakia with the freshness of kiwifruit.",
+  "cuisine": "Moroccan",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Moroccan spices (cinnamon, ginger, cardamom)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Kiwifruit",
+      "amount": "2 large"
+    },
+    {
+      "name": "Honey",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large bowl, whisk together flour, sugar, and spices.",
+    "Roll out dough on a floured surface to 1/4 inch thickness.",
+    "Cut into diamond shapes and place on a baking sheet lined with parchment paper.",
+    "Bake for 20-25 minutes or until golden brown.",
+    "Meanwhile, puree kiwifruit in a blender or food processor.",
+    "Strain kiwifruit puree through a fine-mesh sieve into a bowl.",
+    "Add honey to kiwifruit puree and mix well.",
+    "Drizzle kiwifruit glaze over warm chebakia.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "kiwifruit",
+    "chebakia",
+    "moroccan",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 2,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-herbal-moroccan-kiwifruit-chebakia",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:17:40.882Z"
+}
