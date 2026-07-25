@@ -1,0 +1,75 @@
+{
+  "slug": "authentic-charred-scottish-sausage-skewers--keto",
+  "title": "Scottish Sausage Skewers",
+  "description": "A keto-friendly twist on traditional Scottish food, these charred Scottish sausage skewers are perfect for a quick and easy meal.",
+  "cuisine": "Scottish",
+  "diet": [
+    "keto"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Scottish sausage",
+      "amount": "4",
+      "notes": "look for a low-carb option"
+    },
+    {
+      "name": "Bell peppers",
+      "amount": "2",
+      "notes": "any color"
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "Mushrooms",
+      "amount": "1 cup",
+      "notes": "button or cremini"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10",
+      "notes": "soak in water for 30 minutes before use"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tbsp",
+      "notes": "for brushing"
+    },
+    {
+      "name": "Garlic powder",
+      "amount": "1 tsp",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Soak skewers in water for at least 30 minutes.",
+    "Thread Scottish sausage, bell peppers, onions, and mushrooms onto skewers.",
+    "Brush with olive oil and season with garlic powder (if using).",
+    "Grill for 10-12 minutes, turning occasionally, until sausage is cooked through and vegetables are charred.",
+    "Serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "scottish",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 24,
+    "carbs": 5,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/authentic-charred-scottish-sausage-skewers--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:21:13.387Z"
+}
