@@ -1,0 +1,69 @@
+{
+  "slug": "adventurous-american-scallions-fried-rice--indian",
+  "title": "Spicy Fried Rice",
+  "description": "A flavorful and spicy fried rice dish made with a blend of Indian spices and American-style fried rice. Serve as a main course or side dish.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "American-style fried rice",
+      "amount": "2 cups"
+    },
+    {
+      "name": "Scallions",
+      "amount": "1/2 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Indian spices",
+      "amount": "1 tsp",
+      "notes": "curry powder, turmeric, cumin, coriander"
+    },
+    {
+      "name": "Adventurous spice blend",
+      "amount": "1 tsp",
+      "notes": "optional, for extra heat"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Vegetable oil",
+      "amount": "2 tbsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet or wok over medium-high heat.",
+    "Add scallions and cook until they start to soften, about 2 minutes.",
+    "Add Indian spices and adventurous spice blend (if using) and cook for 1 minute, stirring constantly.",
+    "Add fried rice and stir to combine with spices.",
+    "Cook for 2-3 minutes, breaking up any clumps with a spatula.",
+    "Season with salt to taste.",
+    "Serve hot, garnished with additional scallions if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 8,
+  "totalTimeMin": 18,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "indian",
+    "spicy",
+    "fried-rice"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-american-scallions-fried-rice--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T13:51:51.753Z"
+}
