@@ -11964,5 +11964,31 @@
     "cuisine": "german",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "avocado-breeze--thai",
+    "title": "Thai Avocado Salad",
+    "tags": [
+      "thaifood",
+      "salad",
+      "vegetarian"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 10,
+    "shard": "a"
+  },
+  {
+    "slug": "american-gooey-meat-casserole--indian",
+    "title": "Sloppy American-Style Chicken Casserole",
+    "tags": [
+      "casserole",
+      "indian",
+      "chicken",
+      "ground-beef",
+      "cheese"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 55,
+    "shard": "a"
   }
 ]
