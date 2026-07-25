@@ -2603,17 +2603,15 @@
   },
   {
     "slug": "amazing-herbal-moroccan-kiwifruit-chebakia",
-    "title": "Amazing Herbal Moroccan Kiwifruit Chebakia",
+    "title": "Moroccan Kiwifruit Chebakia",
     "tags": [
-      "dessert-recipes",
-      "flexitarian-friendly",
-      "hangover-cure",
-      "herbal-remedies",
-      "moroccan-cuisine",
-      "snack-ideas"
+      "kiwifruit",
+      "chebakia",
+      "moroccan",
+      "dessert"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 50,
+    "totalTimeMin": 45,
     "shard": "a"
   },
   {
@@ -11862,6 +11860,33 @@
     ],
     "cuisine": "Vietnamese",
     "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-herbs-irish-pasta--vegetarian",
+    "title": "Irish Pasta Primavera",
+    "tags": [
+      "irish",
+      "vegetarian",
+      "pasta",
+      "spring-vegetables"
+    ],
+    "cuisine": "Irish",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-tunisian-sugar-stir-fry--indian",
+    "title": "Tunisian Chicken Tikka",
+    "tags": [
+      "chicken",
+      "grilled",
+      "indian",
+      "north african",
+      "spicy"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 32,
     "shard": "a"
   }
 ]
