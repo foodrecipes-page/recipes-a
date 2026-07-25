@@ -1,0 +1,75 @@
+{
+  "slug": "amber-american-drumsticks-bowl--italian",
+  "title": "Italian Drumsticks",
+  "description": "Crispy and flavorful Italian-style chicken drumsticks. Perfect for a quick dinner.",
+  "cuisine": "italian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken drumsticks",
+      "amount": "1 pound",
+      "notes": "4-6 pieces"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "1 cup",
+      "notes": "for dredging"
+    },
+    {
+      "name": "eggs",
+      "amount": "2 large",
+      "notes": "beaten for egg wash"
+    },
+    {
+      "name": "italian seasonings",
+      "amount": "1 teaspoon",
+      "notes": "dried basil, oregano, thyme"
+    },
+    {
+      "name": "parmesan cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup",
+      "notes": "italian-style"
+    },
+    {
+      "name": "olive oil",
+      "amount": "1/2 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 400°F (200°C).",
+    "Dredge the chicken drumsticks in the flour, shaking off excess.",
+    "Dip the floured drumsticks in the beaten eggs, making sure they are fully coated.",
+    "Roll the egg-coated drumsticks in the italian seasonings, pressing the coating onto the meat.",
+    "Place the coated drumsticks on a baking sheet lined with parchment paper.",
+    "Drizzle with olive oil and sprinkle with parmesan cheese.",
+    "Bake the drumsticks for 20-25 minutes, or until cooked through.",
+    "Sprinkle with additional parmesan cheese and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 25,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "italian",
+    "chicken",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amber-american-drumsticks-bowl--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:38:26.809Z"
+}
