@@ -12003,5 +12003,18 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "a"
+  },
+  {
+    "slug": "almond-sunrise-bowl--keto",
+    "title": "Sunrise Keto Almond Bowl",
+    "tags": [
+      "keto",
+      "breakfast",
+      "almond",
+      "sunflower-seeds"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 12,
+    "shard": "a"
   }
 ]
