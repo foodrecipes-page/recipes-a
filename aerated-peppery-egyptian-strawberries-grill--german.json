@@ -1,0 +1,65 @@
+{
+  "slug": "aerated-peppery-egyptian-strawberries-grill--german",
+  "title": "Grilled Bratwurst with Egyptian Spices",
+  "description": "A classic German dish with a twist of Egyptian spices, served with a side of peppery sauerkraut.",
+  "cuisine": "german",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Bratwurst",
+      "amount": "4"
+    },
+    {
+      "name": "Egyptian spices (cumin, coriander, cinnamon)",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "Aerated bread",
+      "amount": "4"
+    },
+    {
+      "name": "Peppery sauerkraut",
+      "amount": "1 cup"
+    },
+    {
+      "name": "Grill",
+      "amount": "1"
+    },
+    {
+      "name": "Strawberries",
+      "amount": "1 cup (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "Season Bratwurst with Egyptian spices.",
+    "Grill Bratwurst for 5-7 minutes per side, or until cooked through.",
+    "Warm Aerated bread on the grill.",
+    "Serve Bratwurst on bread with a side of peppery sauerkraut.",
+    "Garnish with sliced strawberries.",
+    "Serve immediately."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "german",
+    "bbq",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 30,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-peppery-egyptian-strawberries-grill--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T22:20:22.696Z"
+}
