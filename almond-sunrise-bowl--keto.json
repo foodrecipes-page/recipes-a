@@ -1,0 +1,73 @@
+{
+  "slug": "almond-sunrise-bowl--keto",
+  "title": "Sunrise Keto Almond Bowl",
+  "description": "A keto-friendly breakfast bowl made with almonds, sunflower seeds, and a touch of sweetness.",
+  "cuisine": null,
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "almonds",
+      "amount": "1 cup",
+      "notes": "slivered"
+    },
+    {
+      "name": "sunflower seeds",
+      "amount": "1/2 cup",
+      "notes": ""
+    },
+    {
+      "name": "bowl",
+      "amount": "1",
+      "notes": "for serving"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "2 tbsp",
+      "notes": "melted"
+    },
+    {
+      "name": "honey",
+      "amount": "1 tsp",
+      "notes": ""
+    },
+    {
+      "name": "vanilla extract",
+      "amount": "1/4 tsp",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Spread the slivered almonds on a baking sheet.",
+    "Roast the almonds in the oven for 5-7 minutes, or until lightly toasted.",
+    "In a small bowl, mix together the melted coconut oil, honey, and vanilla extract.",
+    "Pour the mixture over the toasted almonds and stir to combine.",
+    "Spoon the almond mixture into a bowl.",
+    "Sprinkle the sunflower seeds over the top.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 7,
+  "totalTimeMin": 12,
+  "servings": 1,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "breakfast",
+    "almond",
+    "sunflower-seeds"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 10,
+    "carbs": 5,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-sunrise-bowl--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T01:37:48.175Z"
+}
