@@ -1,0 +1,69 @@
+{
+  "slug": "aromatic-tunisian-sugar-stir-fry--indian",
+  "title": "Tunisian Chicken Tikka",
+  "description": "A North African twist on the Indian classic, marinated in tunisian spices and grilled to perfection.",
+  "cuisine": "indian",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "boneless, skinless"
+    },
+    {
+      "name": "tunisian spice blend",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "aromatic oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "sugar",
+      "amount": "1 teaspoon",
+      "notes": "optional"
+    },
+    {
+      "name": "yogurt",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a blender or food processor, combine tunisian spice blend, aromatic oil, sugar, yogurt, and lemon juice. Blend until smooth.",
+    "Add chicken to the marinade and mix well. Cover and refrigerate for at least 2 hours or overnight.",
+    "Remove chicken from marinade and grill for 6-8 minutes per side, or until cooked through.",
+    "Let chicken rest for 5 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "grilled",
+    "indian",
+    "north african",
+    "spicy"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-tunisian-sugar-stir-fry--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:59:54.225Z"
+}
