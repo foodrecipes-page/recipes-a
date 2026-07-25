@@ -11913,5 +11913,56 @@
     "cuisine": "japanese",
     "totalTimeMin": 30,
     "shard": "a"
+  },
+  {
+    "slug": "amber-american-drumsticks-bowl--italian",
+    "title": "Italian Drumsticks",
+    "tags": [
+      "italian",
+      "chicken",
+      "dinner"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 40,
+    "shard": "a"
+  },
+  {
+    "slug": "algerian-clotted-cream-crumble--vegetarian",
+    "title": "Algerian Crumble Cream Dessert",
+    "tags": [
+      "algerian",
+      "crumble",
+      "dessert",
+      "cream"
+    ],
+    "cuisine": "North African",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "amazingly-aromatic-brazilian-chicken-skewers--chinese",
+    "title": "Aromatic Brazilian Chicken Skewers",
+    "tags": [
+      "chinese",
+      "grilled",
+      "skewers",
+      "chicken",
+      "aromatic"
+    ],
+    "cuisine": "chinese",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aerated-peppery-egyptian-strawberries-grill--german",
+    "title": "Grilled Bratwurst with Egyptian Spices",
+    "tags": [
+      "german",
+      "bbq",
+      "grilled"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
