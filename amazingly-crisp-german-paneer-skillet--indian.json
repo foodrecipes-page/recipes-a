@@ -1,0 +1,89 @@
+{
+  "slug": "amazingly-crisp-german-paneer-skillet--indian",
+  "title": "Crispy Paneer Skillet",
+  "description": "A flavorful Indian-inspired dish featuring crispy paneer, served in a skillet with a blend of spices.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian",
+    "dairy"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "paneer",
+      "amount": "250g"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "gram flour",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "ghee or oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "skillet",
+      "amount": "",
+      "notes": "any material"
+    },
+    {
+      "name": "cumin seeds",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "coriander powder",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "garam masala",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "chopped cilantro",
+      "amount": "1/4 cup"
+    }
+  ],
+  "instructions": [
+    "1. Cut the paneer into 1-inch cubes.",
+    "2. In a shallow dish, mix together the all-purpose flour, gram flour, and a pinch of salt.",
+    "3. Dredge the paneer cubes in the flour mixture, shaking off excess.",
+    "4. Heat 1 tablespoon of ghee or oil in a skillet over medium-high heat.",
+    "5. Add the cumin seeds and let them sizzle for 1-2 seconds.",
+    "6. Add the paneer cubes and cook until golden brown on all sides, about 2-3 minutes.",
+    "7. Remove the paneer from the skillet and set aside.",
+    "8. In the same skillet, add the remaining 1 tablespoon of ghee or oil.",
+    "9. Add the coriander powder, garam masala, and a pinch of salt. Cook for 1 minute, stirring constantly.",
+    "10. Add the cooked paneer back to the skillet and toss with the spice mixture.",
+    "11. Garnish with chopped cilantro and serve hot."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "paneer",
+    "skillet",
+    "crispy",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazingly-crisp-german-paneer-skillet--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:41:11.027Z"
+}
