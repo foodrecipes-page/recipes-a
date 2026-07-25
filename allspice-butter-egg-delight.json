@@ -1,0 +1,63 @@
+{
+  "slug": "allspice-butter-egg-delight",
+  "title": "Buttery Allspice Delight Muffin",
+  "description": "A sweet and savory muffin, perfect for breakfast or snack time. The combination of butter and allspice creates a warm and comforting flavor.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "butter",
+      "amount": "1/2 cup",
+      "notes": "unsalted"
+    },
+    {
+      "name": "egg",
+      "amount": "1 large",
+      "notes": null
+    },
+    {
+      "name": "allspice",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "delight",
+      "amount": "1 cup",
+      "notes": "all-purpose flour"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Line a 12-cup muffin tin with paper liners.",
+    "In a large bowl, cream together butter and egg until light and fluffy.",
+    "Add the allspice and mix until well combined.",
+    "Gradually add the delight (flour) and mix until a smooth batter forms.",
+    "Divide the batter evenly among the muffin cups.",
+    "Bake for 18-20 minutes or until a toothpick inserted into the center comes out clean.",
+    "Allow muffins to cool in the tin for 5 minutes before transferring to a wire rack to cool completely."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 12,
+  "difficulty": "easy",
+  "tags": [
+    "breakfast",
+    "baked-goods",
+    "muffin"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 3,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/allspice-butter-egg-delight",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T00:31:17.478Z"
+}
