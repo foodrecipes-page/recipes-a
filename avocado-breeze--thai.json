@@ -1,0 +1,79 @@
+{
+  "slug": "avocado-breeze--thai",
+  "title": "Thai Avocado Salad",
+  "description": "A refreshing Thai-inspired salad made with ripe avocados, crunchy vegetables, and a zesty dressing.",
+  "cuisine": "thai",
+  "diet": [
+    null
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "avocado",
+      "amount": "2 ripe",
+      "notes": null
+    },
+    {
+      "name": "red onion",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "cucumber",
+      "amount": "1 medium",
+      "notes": null
+    },
+    {
+      "name": "chili pepper",
+      "amount": "1 small",
+      "notes": null
+    },
+    {
+      "name": "fish sauce",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Chop the avocado, red onion, cucumber, and chili pepper into small pieces.",
+    "In a large bowl, combine the chopped vegetables.",
+    "In a small bowl, whisk together the fish sauce, lime juice, salt, and pepper.",
+    "Pour the dressing over the vegetables and toss to coat.",
+    "Serve immediately and garnish with fresh cilantro, if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 0,
+  "totalTimeMin": 10,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "thaifood",
+    "salad",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 240,
+    "protein": 3,
+    "carbs": 18,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/avocado-breeze--thai",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T23:00:50.608Z"
+}
