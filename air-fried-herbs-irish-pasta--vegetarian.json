@@ -1,0 +1,95 @@
+{
+  "slug": "air-fried-herbs-irish-pasta--vegetarian",
+  "title": "Irish Pasta Primavera",
+  "description": "A colorful and flavorful vegetarian pasta dish inspired by Ireland, featuring sautéed herbs and spring vegetables.",
+  "cuisine": "Irish",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Pasta",
+      "amount": "8 oz",
+      "notes": ""
+    },
+    {
+      "name": "Fresh herbs (such as parsley, basil, and dill)",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Irish butter",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Olive oil",
+      "amount": "1 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Bell peppers (any color)",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Onions",
+      "amount": "1",
+      "notes": ""
+    },
+    {
+      "name": "Baby carrots",
+      "amount": "1 cup",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Bring a large pot of salted water to a boil.",
+    "Cook the pasta according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, heat the olive oil over medium heat.",
+    "Add the garlic and sauté for 1 minute until fragrant.",
+    "Add the sliced bell peppers and onions. Cook for 5 minutes, until they start to soften.",
+    "Add the baby carrots and cook for an additional 3-4 minutes, until all the vegetables are tender.",
+    "Stir in the chopped fresh herbs.",
+    "Add the cooked pasta to the skillet, tossing to combine with the vegetables and herbs. If the pasta seems dry, add some of the reserved pasta water.",
+    "Season with salt and black pepper to taste.",
+    "Serve hot, topped with additional chopped herbs if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 15,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "vegetarian",
+    "pasta",
+    "spring-vegetables"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 45,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-herbs-irish-pasta--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T17:32:32.764Z"
+}
