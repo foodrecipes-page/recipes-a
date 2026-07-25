@@ -1,0 +1,58 @@
+{
+  "slug": "algerian-clotted-cream-crumble--vegetarian",
+  "title": "Algerian Crumble Cream Dessert",
+  "description": "A rich and creamy Algerian-inspired dessert topped with a crunchy crumble.",
+  "cuisine": "North African",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Algerian semolina cake",
+      "amount": "1",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Clotted cream",
+      "amount": "250g",
+      "notes": "room temperature"
+    },
+    {
+      "name": "Crumbly butter mixture",
+      "amount": "100g",
+      "notes": "see below for crumble mixture"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the Algerian semolina cake into 1-inch (2.5 cm) cubes.",
+    "In a separate bowl, mix the clotted cream and a pinch of sugar.",
+    "Add the clotted cream mixture on top of the cake cubes.",
+    "Make the crumble mixture by mixing 50g of butter with 50g of sugar and 100g of crumbly mixture.",
+    "Spread the crumble mixture evenly over the top of the cake and cream mixture.",
+    "Bake for 20-25 minutes or until the top is golden brown and the cake is heated through.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "algerian",
+    "crumble",
+    "dessert",
+    "cream"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/algerian-clotted-cream-crumble--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T21:51:06.504Z"
+}
