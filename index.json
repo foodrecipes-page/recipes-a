@@ -29,16 +29,15 @@
   },
   {
     "slug": "ablaze-charred-croatian-quinoa-pilaf",
-    "title": "Ablaze Charred Croatian Quinoa Pilaf",
+    "title": "Croatian Quinoa Pilaf",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "low-glycemic",
-      "one-pan",
-      "smoky",
-      "vegan"
+      "quinoa",
+      "pilaf",
+      "croatian",
+      "vegetarian",
+      "gluten-free"
     ],
-    "cuisine": "Croatian",
+    "cuisine": "croatian",
     "totalTimeMin": 30,
     "shard": "a"
   },
@@ -11798,6 +11797,31 @@
     ],
     "cuisine": "indian",
     "totalTimeMin": 120,
+    "shard": "a"
+  },
+  {
+    "slug": "airy-syrian-chicken-kebabs--indian",
+    "title": "Chicken Kebab Tikka Masala",
+    "tags": [
+      "indian",
+      "chicken",
+      "kebabs",
+      "tikki-masala"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-american-scallions-fried-rice--indian",
+    "title": "Spicy Fried Rice",
+    "tags": [
+      "indian",
+      "spicy",
+      "fried-rice"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 18,
     "shard": "a"
   }
 ]
