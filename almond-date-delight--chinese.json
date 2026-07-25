@@ -1,0 +1,68 @@
+{
+  "slug": "almond-date-delight--chinese",
+  "title": "Chinese Almond Date Delight",
+  "description": "A sweet and crunchy Chinese dessert made with almond, date, and a hint of delight.",
+  "cuisine": "chinese",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "almond",
+      "amount": "1 cup sliced"
+    },
+    {
+      "name": "date",
+      "amount": "1 cup pitted"
+    },
+    {
+      "name": "delight",
+      "amount": "1 tsp vanilla extract"
+    },
+    {
+      "name": "honey",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "coconut oil",
+      "amount": "1 tbsp"
+    },
+    {
+      "name": "rice flour",
+      "amount": "1 cup"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "In a bowl, mix together almond, date, and delight.",
+    "Add honey and coconut oil, and stir until well combined.",
+    "Add rice flour and mix until a dough forms.",
+    "Roll out the dough into a thin sheet.",
+    "Cut into desired shapes and place on a baking sheet.",
+    "Bake for 15-20 minutes or until lightly golden.",
+    "Allow to cool before serving."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "chinese",
+    "dessert",
+    "almond",
+    "date",
+    "delight"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 3,
+    "carbs": 35,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-date-delight--chinese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-20T15:13:32.198Z"
+}
