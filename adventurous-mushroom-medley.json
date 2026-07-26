@@ -1,0 +1,55 @@
+{
+  "slug": "adventurous-mushroom-medley",
+  "title": "Pan-Seared Mushroom and Adventurous Medley Stir Fry",
+  "description": "A flavorful stir fry made with sautéed mushrooms, adventurous vegetables, and a hint of spices.",
+  "cuisine": "Asian",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "adventurous",
+      "amount": "1 cup",
+      "notes": "any combination of bell peppers, onions, carrots, and snow peas"
+    },
+    {
+      "name": "mushroom",
+      "amount": "8 oz",
+      "notes": "button, cremini, or shiitake"
+    },
+    {
+      "name": "medley",
+      "amount": "1 cup",
+      "notes": "any combination of broccoli, cauliflower, and zucchini"
+    }
+  ],
+  "instructions": [
+    "Heat 2 tablespoons of vegetable oil in a large skillet over medium-high heat.",
+    "Add the adventurous and cook until tender, about 5 minutes.",
+    "Add the mushroom and cook until browned, about 3 minutes.",
+    "Add the medley and stir-fry for 2 minutes.",
+    "Season with soy sauce and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 10,
+    "carbs": 30,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-mushroom-medley",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T11:29:50.799Z"
+}
