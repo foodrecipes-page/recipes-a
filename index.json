@@ -1336,14 +1336,15 @@
   },
   {
     "slug": "air-fried-pinto-bean-show-stopper",
-    "title": "Air-Fried Pinto Bean Show-Stopper",
+    "title": "Pinto Bean Chili",
     "tags": [
-      "pinto beans",
-      "air fried",
-      "german cuisine"
+      "chili",
+      "pinto-beans",
+      "lunch",
+      "american"
     ],
-    "cuisine": "German",
-    "totalTimeMin": 35,
+    "cuisine": "American",
+    "totalTimeMin": 40,
     "shard": "a"
   },
   {
@@ -12101,6 +12102,19 @@
     ],
     "cuisine": "italian",
     "totalTimeMin": 31,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-pillowy-uruguayan-rice-bake--vegan",
+    "title": "Uru Vegan Bake",
+    "tags": [
+      "vegan",
+      "snack",
+      "comfort-food",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 35,
     "shard": "a"
   }
 ]
