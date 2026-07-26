@@ -1,36 +1,32 @@
 {
   "slug": "aerated-monsoon-slovakian-yogurt-stir-fry--italian",
-  "title": "Monsoon Italian Stir Fry",
-  "description": "A quick and easy stir fry dish with a Monsoon twist, made with Slovakian ingredients and Italian flair.",
+  "title": "Monsoon Chicken Fettuccine",
+  "description": "A creamy, flavorful pasta dish featuring chicken and monsoon cheese, inspired by Italian cuisine.",
   "cuisine": "italian",
   "diet": [
-    "vegetarian"
+    "dairy"
   ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Monsoon peppers",
-      "amount": "2",
-      "notes": "any color"
+      "name": "Fettuccine",
+      "amount": "8 oz",
+      "notes": ""
     },
     {
-      "name": "Slovakian onions",
-      "amount": "1",
-      "notes": "thinly sliced"
+      "name": "Boneless, skinless chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
     },
     {
-      "name": "Yogurt",
-      "amount": "2 tablespoons",
-      "notes": "for serving"
+      "name": "Monsoon cheese",
+      "amount": "1 cup, shredded",
+      "notes": ""
     },
     {
-      "name": "Aerated water",
-      "amount": "2 tablespoons",
-      "notes": "for sauce"
-    },
-    {
-      "name": "Olive oil",
-      "amount": "2 tablespoons"
+      "name": "Butter",
+      "amount": "2 tbsp",
+      "notes": ""
     },
     {
       "name": "Garlic",
@@ -38,54 +34,43 @@
       "notes": "minced"
     },
     {
-      "name": "Fresh basil",
-      "amount": "1/4 cup",
-      "notes": "chopped"
-    },
-    {
       "name": "Salt",
-      "amount": "to taste"
+      "amount": "",
+      "notes": "to taste"
     },
     {
       "name": "Black pepper",
-      "amount": "to taste"
-    },
-    {
-      "name": "Fry spice",
-      "amount": "1 teaspoon",
-      "notes": "optional"
+      "amount": "",
+      "notes": "to taste"
     }
   ],
   "instructions": [
-    "Heat the olive oil in a large skillet over medium-high heat.",
-    "Add the minced garlic and cook for 1 minute.",
-    "Add the sliced onions and cook until softened, about 3-4 minutes.",
-    "Add the Monsoon peppers and cook until tender, about 5 minutes.",
-    "In a small bowl, whisk together the yogurt and aerated water.",
-    "Pour the yogurt sauce over the vegetables and stir to combine.",
-    "Season with salt, black pepper, and fry spice (if using).",
-    "Serve hot, garnished with chopped fresh basil.",
-    "Serve with additional yogurt on the side, if desired."
+    "Bring a large pot of salted water to a boil. Cook fettuccine according to package instructions until al dente. Reserve 1 cup of pasta water before draining.",
+    "In a large skillet, melt 1 tbsp of butter over medium heat. Add chicken and cook until browned and cooked through, about 5-6 minutes. Remove from heat and set aside.",
+    "In the same skillet, add the remaining 1 tbsp of butter. Add garlic and cook for 1 minute until fragrant.",
+    "Stir in monsoon cheese until melted and smooth. Season with salt and black pepper to taste.",
+    "Add cooked fettuccine to the skillet and toss with cheese sauce until well combined. If needed, add some reserved pasta water to achieve a creamy consistency.",
+    "Return chicken to the skillet and toss everything together until coated in cheese sauce.",
+    "Serve hot, garnished with additional monsoon cheese if desired."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
   "totalTimeMin": 25,
-  "servings": 2,
-  "difficulty": "easy",
+  "servings": 4,
+  "difficulty": "medium",
   "tags": [
     "italian",
-    "stir-fry",
-    "monsoon-peppers",
-    "slovakian-onions"
+    "chicken",
+    "pasta"
   ],
   "nutrition": {
-    "calories": 250,
-    "protein": 15,
-    "carbs": 30,
-    "fat": 10
+    "calories": 540,
+    "protein": 43,
+    "carbs": 45,
+    "fat": 24
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/aerated-monsoon-slovakian-yogurt-stir-fry--italian",
   "providerUsed": "groq",
-  "createdAt": "2026-07-19T23:08:03.528Z"
+  "createdAt": "2026-07-21T14:09:49.173Z"
 }
