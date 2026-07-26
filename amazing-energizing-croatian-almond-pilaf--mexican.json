@@ -1,0 +1,87 @@
+{
+  "slug": "amazing-energizing-croatian-almond-pilaf--mexican",
+  "title": "Croatian Chicken Fajitas",
+  "description": "A twist on classic Mexican fajitas featuring Croatian paprika and chicken. Serve with warm flour tortillas, sour cream, and salsa.",
+  "cuisine": "mexican",
+  "diet": [
+    "meat"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": "cut into strips"
+    },
+    {
+      "name": "Croatian paprika",
+      "amount": "2 tablespoons",
+      "notes": "smoked paprika"
+    },
+    {
+      "name": "almond",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "pilaf",
+      "amount": "1 cup",
+      "notes": "cooked"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "garlic",
+      "amount": "1 clove",
+      "notes": "minced"
+    },
+    {
+      "name": "lime juice",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add chicken and cook until browned, about 5-6 minutes.",
+    "Remove chicken and set aside.",
+    "Add garlic and cook for 1 minute.",
+    "Add paprika and cook for 1 minute.",
+    "Add pilaf and stir to combine.",
+    "Return chicken to skillet and stir to combine.",
+    "Cook for an additional 2-3 minutes.",
+    "Stir in almond and lime juice.",
+    "Season with salt and pepper to taste.",
+    "Serve hot with warm flour tortillas, sour cream, and salsa."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "fajitas",
+    "paprika"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 20,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-energizing-croatian-almond-pilaf--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:39:16.752Z"
+}
