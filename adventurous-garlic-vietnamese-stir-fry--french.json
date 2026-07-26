@@ -1,0 +1,73 @@
+{
+  "slug": "adventurous-garlic-vietnamese-stir-fry--french",
+  "title": "Vietnamese Stir Fry with French Influence",
+  "description": "A fusion dish that combines the flavors of Vietnam with the finesse of French cuisine. Stir-fry is a quick and easy meal that can be made with a variety of ingredients. This recipe features a flavorful Vietnamese-inspired sauce, stir-fried with some French flair.",
+  "cuisine": "french",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Adventurous",
+      "amount": "1 lb",
+      "notes": "such as chicken, beef, or tofu"
+    },
+    {
+      "name": "Vietnamese",
+      "amount": "2 tablespoons",
+      "notes": "fish sauce"
+    },
+    {
+      "name": "French",
+      "amount": "1 tablespoon",
+      "notes": "butter"
+    },
+    {
+      "name": "Stir Fry",
+      "amount": "1 cup",
+      "notes": "mixed vegetables, such as bell peppers, carrots, and broccoli"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste"
+    }
+  ],
+  "instructions": [
+    "Heat the butter in a large skillet or wok over medium-high heat.",
+    "Add the minced garlic and cook for 1-2 minutes, until fragrant.",
+    "Add the adventurous protein of your choice and cook until browned, about 5 minutes.",
+    "Add the mixed vegetables and cook until tender, about 3-4 minutes.",
+    "In a small bowl, whisk together the fish sauce and a pinch of salt and pepper.",
+    "Pour the sauce over the protein and vegetables and stir-fry for an additional 1-2 minutes.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "vietnamese",
+    "stir-fry",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 35,
+    "carbs": 20,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-garlic-vietnamese-stir-fry--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T06:47:29.430Z"
+}
