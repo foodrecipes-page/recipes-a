@@ -1,0 +1,73 @@
+{
+  "slug": "artisanal-norwegian-pasta-pasta",
+  "title": "Norwegian Pasta Bake",
+  "description": "A hearty and flavorful pasta bake featuring Norwegian ingredients and artisanal flair.",
+  "cuisine": "Norwegian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Artisanal Feta Cheese",
+      "amount": "8 oz",
+      "notes": "crumbly"
+    },
+    {
+      "name": "Norwegian Brown Sauce",
+      "amount": "2 cups",
+      "notes": "homemade or store-bought"
+    },
+    {
+      "name": "Pasta",
+      "amount": "12 oz",
+      "notes": "penne or fusilli work well"
+    },
+    {
+      "name": "Fresh Parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Olive Oil",
+      "amount": "2 tbsp",
+      "notes": "for baking"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cook pasta according to package instructions until al dente.",
+    "In a large skillet, heat olive oil over medium heat.",
+    "Add minced garlic and cook for 1-2 minutes until fragrant.",
+    "Stir in Norwegian Brown Sauce and bring to a simmer.",
+    "Add cooked pasta to the skillet and toss to coat.",
+    "Transfer pasta mixture to a baking dish and top with crumbled Artisanal Feta Cheese.",
+    "Bake in preheated oven for 15-20 minutes until cheese is melted and bubbly.",
+    "Garnish with chopped Fresh Parsley before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "norwegian",
+    "pasta-bake",
+    "comfort-food"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 25,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/artisanal-norwegian-pasta-pasta",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T21:30:31.279Z"
+}
