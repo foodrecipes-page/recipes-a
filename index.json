@@ -12056,5 +12056,30 @@
     "cuisine": "german",
     "totalTimeMin": 140,
     "shard": "a"
+  },
+  {
+    "slug": "authentic-amber-irish-cheese-casserole--indian",
+    "title": "Amber Irish Cheese Casserole",
+    "tags": [
+      "indian",
+      "cheese",
+      "beer",
+      "casserole"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-peruvian-shrimp-chupe-de-camarones--indian",
+    "title": "Peruvian-Style Shrimp Biryani",
+    "tags": [
+      "indian-cuisine",
+      "shrimp",
+      "biryani"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
