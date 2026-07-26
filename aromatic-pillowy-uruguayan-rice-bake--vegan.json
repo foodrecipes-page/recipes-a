@@ -1,0 +1,66 @@
+{
+  "slug": "aromatic-pillowy-uruguayan-rice-bake--vegan",
+  "title": "Uru Vegan Bake",
+  "description": "A hearty Uruguayan-inspired vegan bake filled with aromatic spices and pillowy rice. Perfect for a comforting snack or light lunch.",
+  "cuisine": "Uruguayan",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "uruguayan",
+      "amount": "1 cup",
+      "notes": "Uruguayan flatbread or focaccia"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tsp",
+      "notes": "dried oregano or thyme"
+    },
+    {
+      "name": "pillowy",
+      "amount": "1 cup",
+      "notes": "cooked rice"
+    },
+    {
+      "name": "rice",
+      "amount": "1/2 cup",
+      "notes": "uncooked, for extra texture"
+    },
+    {
+      "name": "bake",
+      "amount": "1/2 cup",
+      "notes": "unsweetened bake mix or oat flour"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Cut the Uruguayan flatbread into bite-sized pieces.",
+    "In a large bowl, mix together cooked rice, uncooked rice, unsweetened bake mix or oat flour, and dried oregano or thyme.",
+    "Add the baked pieces to the bowl and stir until well combined.",
+    "Transfer the mixture to a baking dish and bake for 20-25 minutes, or until lightly toasted.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "snack",
+    "comfort-food",
+    "uruguayan"
+  ],
+  "nutrition": {
+    "calories": 250,
+    "protein": 5,
+    "carbs": 40,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-pillowy-uruguayan-rice-bake--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:33:30.450Z"
+}
