@@ -4131,17 +4131,16 @@
   },
   {
     "slug": "aromatic-citrus-italian-coconut-frittata",
-    "title": "Aromatic Citrus Italian Coconut Frittata",
+    "title": "Italian Frittata with Citrus and Coconut",
     "tags": [
-      "breakfast",
-      "citrus",
-      "coconut",
-      "frittata",
       "italian",
-      "quick"
+      "breakfast",
+      "frittata",
+      "coconut",
+      "citrus"
     ],
     "cuisine": "Italian",
-    "totalTimeMin": 25,
+    "totalTimeMin": 27,
     "shard": "a"
   },
   {
@@ -11702,12 +11701,11 @@
   },
   {
     "slug": "aerated-monsoon-slovakian-yogurt-stir-fry--italian",
-    "title": "Monsoon Italian Stir Fry",
+    "title": "Monsoon Chicken Fettuccine",
     "tags": [
       "italian",
-      "stir-fry",
-      "monsoon-peppers",
-      "slovakian-onions"
+      "chicken",
+      "pasta"
     ],
     "cuisine": "italian",
     "totalTimeMin": 25,
