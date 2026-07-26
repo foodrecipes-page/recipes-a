@@ -1,0 +1,91 @@
+{
+  "slug": "aromatic-peruvian-shrimp-chupe-de-camarones--indian",
+  "title": "Peruvian-Style Shrimp Biryani",
+  "description": "A flavorful and aromatic Indian-inspired dish made with succulent shrimp and Peruvian spices.",
+  "cuisine": "indian",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Aromatic Basmati Rice",
+      "amount": "1 cup",
+      "notes": "preferably day-old rice"
+    },
+    {
+      "name": "Peruvian-Style Spice Blend",
+      "amount": "2 tsp",
+      "notes": "see notes for spice blend recipe"
+    },
+    {
+      "name": "Large Shrimp",
+      "amount": "1 pound",
+      "notes": "peeled and deveined"
+    },
+    {
+      "name": "Chupe de Camarones",
+      "amount": "1/2 cup",
+      "notes": "see notes for chupe de camarones recipe"
+    },
+    {
+      "name": "Vegetable Oil",
+      "amount": "2 tbsp",
+      "notes": ""
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "grated"
+    },
+    {
+      "name": "Cilantro",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add onion, garlic, and ginger; sauté until onion is translucent.",
+    "Add Peruvian-Style Spice Blend and cook for 1 minute.",
+    "Add shrimp and cook until pink and cooked through.",
+    "Add chupe de camarones and stir to combine.",
+    "Cook rice according to package instructions.",
+    "Fluff cooked rice with a fork and stir in chopped cilantro.",
+    "To assemble biryani, place a layer of cooked rice in a large serving dish.",
+    "Top with shrimp and chupe de camarones mixture.",
+    "Repeat layers one more time, finishing with a layer of rice on top.",
+    "Serve hot and garnish with additional cilantro if desired."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian-cuisine",
+    "shrimp",
+    "biryani"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 30,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-peruvian-shrimp-chupe-de-camarones--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T10:32:59.640Z"
+}
