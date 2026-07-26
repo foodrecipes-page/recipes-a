@@ -12042,5 +12042,19 @@
     "cuisine": "french",
     "totalTimeMin": 25,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-charred-tunisian-lamb-tagine--german",
+    "title": "Tunisian Lamb Tagine",
+    "tags": [
+      "german",
+      "tunisian",
+      "lamb",
+      "tagine",
+      "aromatic"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 140,
+    "shard": "a"
   }
 ]
