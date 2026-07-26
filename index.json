@@ -12076,5 +12076,18 @@
     "cuisine": "indian",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "airy-sweet-italian-milk-chocolate-cassata--gluten-free",
+    "title": "Cassata Cake",
+    "tags": [
+      "italian",
+      "dessert",
+      "gluten-free",
+      "cake"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 45,
+    "shard": "a"
   }
 ]
