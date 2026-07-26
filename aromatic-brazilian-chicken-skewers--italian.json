@@ -1,0 +1,78 @@
+{
+  "slug": "aromatic-brazilian-chicken-skewers--italian",
+  "title": "Brazilian Chicken Skewers with Italian Twist",
+  "description": "A fusion of Italian flavors with the bold taste of Brazil, these skewers are perfect for a summer evening. Marinate chicken in a mix of herbs and spices and grill to perfection.",
+  "cuisine": "italian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 1/2 pounds",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "Aromatic skewers",
+      "amount": "4-5",
+      "notes": "for grilling"
+    },
+    {
+      "name": "Brazilian seasoning",
+      "amount": "2 tablespoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "Olive oil",
+      "amount": "2 tablespoons",
+      "notes": "for brushing skewers"
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "Fresh parsley",
+      "amount": "1/4 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "Salt and pepper",
+      "amount": "",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat (400°F/200°C).",
+    "In a large bowl, whisk together Brazilian seasoning, olive oil, garlic, salt, and pepper.",
+    "Add chicken to the marinade and mix well to coat.",
+    "Thread chicken onto skewers, leaving a little space between each piece.",
+    "Brush skewers with olive oil and season with salt and pepper.",
+    "Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
+    "Transfer skewers to a plate and sprinkle with parsley.",
+    "Serve immediately and enjoy!"
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 16,
+  "totalTimeMin": 31,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "italian",
+    "chicken",
+    "skewers",
+    "summer"
+  ],
+  "nutrition": {
+    "calories": 360,
+    "protein": 35,
+    "carbs": 10,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-brazilian-chicken-skewers--italian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T18:05:47.198Z"
+}
