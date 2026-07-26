@@ -12016,5 +12016,18 @@
     "cuisine": null,
     "totalTimeMin": 12,
     "shard": "a"
+  },
+  {
+    "slug": "ablaze-tunisian-provola-kebabs--italian",
+    "title": "Tunisian-Style Grilled Kebabs with Provolone",
+    "tags": [
+      "italian",
+      "grilled",
+      "kebabs",
+      "provolone"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
