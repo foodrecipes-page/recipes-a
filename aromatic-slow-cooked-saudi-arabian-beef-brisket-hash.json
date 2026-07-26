@@ -1,0 +1,91 @@
+{
+  "slug": "aromatic-slow-cooked-saudi-arabian-beef-brisket-hash",
+  "title": "Saudi Arabian Beef Brisket Hash",
+  "description": "A flavorful and hearty Saudi Arabian dish made with slow-cooked beef brisket and hash browned with aromatic spices.",
+  "cuisine": "Saudi Arabian",
+  "diet": [
+    "meat"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "beef brisket",
+      "amount": "1.5 pounds",
+      "notes": "first cut"
+    },
+    {
+      "name": "aromatic spices",
+      "amount": "1 tablespoon",
+      "notes": "blend of cumin, coriander, and cinnamon"
+    },
+    {
+      "name": "cooking oil",
+      "amount": "2 tablespoons",
+      "notes": "vegetable or canola oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "hash",
+      "amount": "1 cup",
+      "notes": "diced"
+    },
+    {
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": "kosher or sea salt"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/2 teaspoon",
+      "notes": "freshly ground"
+    },
+    {
+      "name": "lemon juice",
+      "amount": "2 tablespoons",
+      "notes": "freshly squeezed"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear the beef brisket until browned on both sides, about 5 minutes per side.",
+    "Remove the brisket from the pot and set aside.",
+    "Add the onion and garlic to the pot and cook until the onion is translucent, about 5 minutes.",
+    "Add the aromatic spices, salt, and black pepper to the pot and cook for 1 minute.",
+    "Add the hash to the pot and cook until browned, about 5 minutes.",
+    "Return the brisket to the pot and add the lemon juice.",
+    "Cover the pot and transfer it to the oven.",
+    "Bake the brisket at 300°F (150°C) for 2 1/2 hours, or until tender.",
+    "Let the brisket rest for 10 minutes before slicing and serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "breakfast",
+    "beef",
+    "brisket",
+    "hash",
+    "arabic"
+  ],
+  "nutrition": {
+    "calories": 520,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-slow-cooked-saudi-arabian-beef-brisket-hash",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T09:25:28.213Z"
+}
