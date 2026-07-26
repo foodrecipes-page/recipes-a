@@ -12029,5 +12029,18 @@
     "cuisine": "italian",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "adventurous-garlic-vietnamese-stir-fry--french",
+    "title": "Vietnamese Stir Fry with French Influence",
+    "tags": [
+      "french",
+      "vietnamese",
+      "stir-fry",
+      "adventurous"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
