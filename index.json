@@ -12089,5 +12089,18 @@
     "cuisine": "italian",
     "totalTimeMin": 45,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-brazilian-chicken-skewers--italian",
+    "title": "Brazilian Chicken Skewers with Italian Twist",
+    "tags": [
+      "italian",
+      "chicken",
+      "skewers",
+      "summer"
+    ],
+    "cuisine": "italian",
+    "totalTimeMin": 31,
+    "shard": "a"
   }
 ]
