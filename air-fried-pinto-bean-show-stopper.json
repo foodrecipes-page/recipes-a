@@ -1,0 +1,83 @@
+{
+  "slug": "air-fried-pinto-bean-show-stopper",
+  "title": "Pinto Bean Chili",
+  "description": "A hearty, comforting chili made with pinto beans and a blend of spices.",
+  "cuisine": "American",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "pinto beans",
+      "amount": "1 cup (cooked)"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "ground beef",
+      "amount": "1 lb",
+      "notes": "browned"
+    },
+    {
+      "name": "canned diced tomatoes",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chili powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 tsp"
+    }
+  ],
+  "instructions": [
+    "Brown the ground beef in a large pot over medium-high heat.",
+    "Add the chopped onion and cook until softened.",
+    "Add the minced garlic and cook for 1 minute.",
+    "Stir in chili powder, cumin, salt, and pepper.",
+    "Add the cooked pinto beans, canned diced tomatoes, and browned ground beef.",
+    "Bring to a simmer and let cook for 20 minutes.",
+    "Taste and adjust seasoning as needed.",
+    "Serve hot, garnished with chopped fresh cilantro if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 20,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chili",
+    "pinto-beans",
+    "lunch",
+    "american"
+  ],
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbs": 40,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-pinto-bean-show-stopper",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T20:01:02.815Z"
+}
