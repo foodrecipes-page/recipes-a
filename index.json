@@ -4629,16 +4629,15 @@
   },
   {
     "slug": "aromatic-egyptian-pak-choi-stew",
-    "title": "Aromatic Egyptian Pak Choi Stew",
+    "title": "Pak Choi and Aromatic Beef Stew",
     "tags": [
-      "egyptian",
-      "fodmap-friendly",
-      "healthy",
-      "one-pot",
-      "vegetarian"
+      "beef",
+      "pak-choi",
+      "stew",
+      "asian"
     ],
-    "cuisine": "Egyptian",
-    "totalTimeMin": 30,
+    "cuisine": "Asian",
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -6773,17 +6772,14 @@
   },
   {
     "slug": "artisanal-norwegian-pasta-pasta",
-    "title": "Pan-Seared Artisanal Norwegian Pasta with Smoked Paprika Emulsion",
+    "title": "Norwegian Pasta Bake",
     "tags": [
-      "gluten-free",
-      "healthy",
-      "norwegian-cuisine",
-      "one-pan",
-      "vegan-option",
-      "weeknight"
+      "norwegian",
+      "pasta-bake",
+      "comfort-food"
     ],
     "cuisine": "Norwegian",
-    "totalTimeMin": 20,
+    "totalTimeMin": 35,
     "shard": "a"
   },
   {
@@ -12115,6 +12111,19 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "amazing-energizing-croatian-almond-pilaf--mexican",
+    "title": "Croatian Chicken Fajitas",
+    "tags": [
+      "mexican",
+      "chicken",
+      "fajitas",
+      "paprika"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 25,
     "shard": "a"
   }
 ]
