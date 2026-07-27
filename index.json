@@ -12137,5 +12137,31 @@
     "cuisine": "german",
     "totalTimeMin": 20,
     "shard": "a"
+  },
+  {
+    "slug": "adventurous-umami-irish-dishes-bake--french",
+    "title": "Baked Irish Shepherd's Pie",
+    "tags": [
+      "irish",
+      "shepherds-pie",
+      "baked",
+      "lamb"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 45,
+    "shard": "a"
+  },
+  {
+    "slug": "amazing-acidic-slovakian-minced-beef-dumplings--japanese",
+    "title": "Japanese Beef Dumplings",
+    "tags": [
+      "japanese",
+      "beef",
+      "dumplings",
+      "omnivore"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 32,
+    "shard": "a"
   }
 ]
