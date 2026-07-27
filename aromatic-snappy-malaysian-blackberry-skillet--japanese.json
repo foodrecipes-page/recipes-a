@@ -1,60 +1,45 @@
 {
   "slug": "aromatic-snappy-malaysian-blackberry-skillet--japanese",
-  "title": "Pan-Seared Blackberry Pork Chops",
-  "description": "A twist on the classic pork chop, inspired by Japanese flavors and featuring a sweet and tangy blackberry glaze.",
+  "title": "Japanese Blackberry Teriyaki Skillet",
+  "description": "A sweet and savory Japanese-inspired dish made with fresh blackberries and a hint of teriyaki sauce, cooked to perfection in a skillet.",
   "cuisine": "japanese",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": null,
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "pork chops",
-      "amount": "4 chops (6 oz each)",
-      "notes": ""
-    },
-    {
-      "name": "aromatic rice vinegar",
-      "amount": "2 tbsp",
-      "notes": ""
-    },
-    {
-      "name": "snappy sesame oil",
-      "amount": "1 tsp",
-      "notes": ""
-    },
-    {
-      "name": "malaysian chili flakes",
-      "amount": "1/4 tsp",
-      "notes": ""
-    },
-    {
-      "name": "blackberries",
-      "amount": "1 cup",
-      "notes": "fresh or frozen"
-    },
-    {
       "name": "skillet",
-      "amount": "",
-      "notes": "for cooking"
+      "amount": "1"
     },
     {
-      "name": "honey",
-      "amount": "2 tbsp",
-      "notes": "optional"
+      "name": "aromatic",
+      "amount": "2 tablespoons",
+      "notes": "sliced"
+    },
+    {
+      "name": "snappy",
+      "amount": "1 cup",
+      "notes": "chopped"
+    },
+    {
+      "name": "malaysian",
+      "amount": "2 tablespoons",
+      "notes": "teriyaki sauce"
+    },
+    {
+      "name": "blackberry",
+      "amount": "1 cup",
+      "notes": "fresh"
     }
   ],
   "instructions": [
-    "Preheat the oven to 400°F (200°C).",
-    "Season the pork chops with salt, pepper, and chili flakes.",
     "Heat the skillet over medium-high heat.",
-    "Add the sesame oil to the skillet and sear the pork chops for 2-3 minutes per side.",
-    "Transfer the skillet to the oven and bake for 10-12 minutes, or until the pork chops reach an internal temperature of 145°F (63°C).",
-    "While the pork chops are cooking, mix the rice vinegar and honey in a small bowl.",
-    "Add the blackberries to the bowl and mash them with a fork until they form a sauce.",
-    "Brush the blackberry sauce over the pork chops during the last 2 minutes of cooking.",
-    "Remove the skillet from the oven and let the pork chops rest for 5 minutes before serving.",
-    "Serve the pork chops with additional blackberry sauce, if desired."
+    "Add the sliced aromatic and cook until fragrant, about 1-2 minutes.",
+    "Add the chopped snappy and cook until tender, about 3-4 minutes.",
+    "Pour in the teriyaki sauce and stir to coat the snappy.",
+    "Add the fresh blackberries and cook for an additional 2-3 minutes, until they start to break down.",
+    "Reduce heat to medium-low and simmer for 5 minutes, stirring occasionally.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional blackberries if desired."
   ],
   "prepTimeMin": 10,
   "cookTimeMin": 15,
@@ -64,17 +49,17 @@
   "tags": [
     "japanese",
     "blackberry",
-    "pork",
-    "grill"
+    "skillet",
+    "teriyaki"
   ],
   "nutrition": {
-    "calories": 350,
-    "protein": 35,
-    "carbs": 10,
-    "fat": 20
+    "calories": 320,
+    "protein": 20,
+    "carbs": 40,
+    "fat": 10
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-snappy-malaysian-blackberry-skillet--japanese",
   "providerUsed": "groq",
-  "createdAt": "2026-07-20T10:12:42.502Z"
+  "createdAt": "2026-07-21T22:05:01.918Z"
 }
