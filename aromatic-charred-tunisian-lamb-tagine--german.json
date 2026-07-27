@@ -1,95 +1,83 @@
 {
   "slug": "aromatic-charred-tunisian-lamb-tagine--german",
-  "title": "Tunisian Lamb Tagine",
-  "description": "A flavorful, aromatic dish with a rich history, blending Tunisian and German flavors in a traditional tagine.",
+  "title": "Lamb Tagine with German Twist",
+  "description": "A classic North African lamb tagine with a twist of German flavors, featuring aromatic spices and a charred, smoky taste.",
   "cuisine": "german",
-  "diet": null,
+  "diet": [
+    "meat"
+  ],
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "lamb",
-      "amount": "500g",
-      "notes": "cut into small pieces"
+      "name": "Lamb Shoulder",
+      "amount": "1.5 lbs",
+      "notes": "Cut into 2-inch pieces"
     },
     {
-      "name": "aromatic",
-      "amount": "2 tbsp",
-      "notes": "ground cumin, coriander, and cinnamon"
+      "name": "Onions",
+      "amount": "1 large",
+      "notes": "Chopped"
     },
     {
-      "name": "tunisian",
-      "amount": "2 tbsp",
-      "notes": "ras el hanout spice blend"
-    },
-    {
-      "name": "charred",
-      "amount": "1/4 cup",
-      "notes": "chopped dates, preserved and charred"
-    },
-    {
-      "name": "olive oil",
-      "amount": "2 tbsp",
-      "notes": "for cooking"
-    },
-    {
-      "name": "onion",
-      "amount": "1 medium",
-      "notes": "chopped"
-    },
-    {
-      "name": "garlic",
+      "name": "Garlic",
       "amount": "3 cloves",
-      "notes": "minced"
+      "notes": "Minced"
     },
     {
-      "name": "canned tomatoes",
-      "amount": "400g",
-      "notes": "crushed"
-    },
-    {
-      "name": "chicken broth",
-      "amount": "250ml",
-      "notes": "low-sodium"
-    },
-    {
-      "name": "honey",
+      "name": "Tunisian Chermoula",
       "amount": "2 tbsp",
-      "notes": "optional"
+      "notes": "Ready-made or homemade"
+    },
+    {
+      "name": "German Beer",
+      "amount": "1/2 cup",
+      "notes": "Dark beer such as Bock or Schwarzbier"
+    },
+    {
+      "name": "Aromatic Spices",
+      "amount": "1 tsp",
+      "notes": "Mixed spice blend (cinnamon, cumin, coriander)"
+    },
+    {
+      "name": "Salt and Pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "Charred Lemons",
+      "amount": "2",
+      "notes": "Sliced and charred over an open flame"
     }
   ],
   "instructions": [
-    "Heat the olive oil in the tagine or a large Dutch oven over medium heat.",
-    "Sear the lamb pieces until browned, then set aside.",
-    "Add the chopped onion to the pot and cook until softened, about 5 minutes.",
-    "Add the minced garlic and cook for another minute, until fragrant.",
-    "Add the aromatic spice blend and cook for 1-2 minutes, until fragrant.",
-    "Add the seared lamb, crushed tomatoes, chicken broth, and preserved dates.",
-    "Bring to a boil, then cover and transfer the tagine to the oven.",
-    "Bake at 160°C for 2 hours, or until the lamb is tender and the sauce has thickened.",
-    "Remove from the oven and stir in the honey, if using.",
+    "Heat oil in a large Dutch oven over medium heat.",
+    "Sear the lamb pieces until browned, about 5 minutes. Remove from pot and set aside.",
+    "Add onions to the pot and cook until caramelized, about 10 minutes.",
+    "Add garlic, chermoula, beer, and aromatic spices to the pot. Stir to combine.",
+    "Return the lamb to the pot, cover, and transfer to the oven.",
+    "Bake at 300°F (150°C) for 2 1/2 hours, or until the lamb is tender.",
     "Season with salt and pepper to taste.",
-    "Serve hot, garnished with fresh herbs or a side of couscous."
+    "Serve the lamb with charred lemons and steamed vegetables."
   ],
   "prepTimeMin": 20,
-  "cookTimeMin": 120,
-  "totalTimeMin": 140,
+  "cookTimeMin": 150,
+  "totalTimeMin": 170,
   "servings": 4,
   "difficulty": "medium",
   "tags": [
-    "german",
-    "tunisian",
     "lamb",
+    "german",
+    "north-african",
     "tagine",
-    "aromatic"
+    "beer"
   ],
   "nutrition": {
-    "calories": 420,
-    "protein": 35,
+    "calories": 550,
+    "protein": 45,
     "carbs": 30,
-    "fat": 25
+    "fat": 35
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-charred-tunisian-lamb-tagine--german",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T07:31:30.580Z"
+  "createdAt": "2026-07-22T07:55:33.123Z"
 }
