@@ -1,0 +1,66 @@
+{
+  "slug": "aromatic-croatian-potatoes-gratin",
+  "title": "Potato Gratin",
+  "description": "A simple and delicious potato dish that's perfect for a weeknight dinner. This potato gratin is a great way to use up leftover potatoes and can be served as a side dish or a light lunch.",
+  "cuisine": "european",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "potatoes",
+      "amount": "2 large",
+      "notes": "peeled and thinly sliced"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1/4 cup",
+      "notes": "chopped fresh parsley"
+    },
+    {
+      "name": "croatian",
+      "amount": "1/2 cup",
+      "notes": "grated cheese"
+    },
+    {
+      "name": "gratin",
+      "amount": "1 cup",
+      "notes": "bechamel sauce"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large saucepan, combine the sliced potatoes and enough cold water to cover them.",
+    "Bring the water to a boil over high heat, then reduce the heat to medium-low and simmer for 5 minutes.",
+    "Drain the potatoes and set them aside to cool slightly.",
+    "In a greased 9x13 inch baking dish, create a layer of potatoes.",
+    "Pour some of the bechamel sauce over the potatoes, followed by a sprinkle of cheese.",
+    "Repeat this process until all the ingredients are used up, finishing with a layer of cheese on top.",
+    "Cover the dish with aluminum foil and bake for 30 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the top is golden brown.",
+    "Sprinkle with chopped parsley before serving."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "potatoes",
+    "gratin",
+    "cheese",
+    "bechamel"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 12,
+    "carbs": 40,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-croatian-potatoes-gratin",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:42:17.230Z"
+}
