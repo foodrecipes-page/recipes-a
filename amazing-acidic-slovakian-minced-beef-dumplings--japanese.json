@@ -1,0 +1,73 @@
+{
+  "slug": "amazing-acidic-slovakian-minced-beef-dumplings--japanese",
+  "title": "Japanese Beef Dumplings",
+  "description": "A traditional Japanese dish featuring pan-fried beef dumplings served with a tangy dipping sauce. This recipe showcases the flavors of Japan with the comfort of homemade dumplings.",
+  "cuisine": "japanese",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Slovakian Beef",
+      "amount": "0.5 kg",
+      "notes": ""
+    },
+    {
+      "name": "minced",
+      "amount": "2 cups",
+      "notes": "For dumpling filling"
+    },
+    {
+      "name": "Dumplings",
+      "amount": "20",
+      "notes": "Homemade or store-bought"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": "For pan-frying"
+    },
+    {
+      "name": "soy sauce",
+      "amount": "2 tablespoons",
+      "notes": "For dipping sauce"
+    },
+    {
+      "name": "acidic",
+      "amount": "1 tablespoon",
+      "notes": "For dipping sauce"
+    }
+  ],
+  "instructions": [
+    "In a large bowl, combine Slovakian beef, minced garlic, and a pinch of salt. Mix well.",
+    "Lay dumpling wrappers on a flat surface. Place a tablespoon of beef mixture in the center of each wrapper.",
+    "Dip your finger in water and run it along the edge of the wrapper. Fold the wrapper into a triangle and press the edges together to seal.",
+    "Heat sesame oil in a large skillet over medium-high heat. When the oil is hot, add the dumplings and cook until the bottoms are golden brown.",
+    "Add 2 cups of water to the skillet and cover with a lid. Bring to a boil, then reduce the heat to medium-low and simmer for 10-12 minutes.",
+    "While the dumplings are cooking, prepare the dipping sauce by mixing soy sauce and acidic ingredient in a small bowl.",
+    "Once the dumplings are cooked, remove them from the skillet and serve with the dipping sauce.",
+    "Garnish with chopped green onions and a sprinkle of sesame seeds, if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 12,
+  "totalTimeMin": 32,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "beef",
+    "dumplings",
+    "omnivore"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 25,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-acidic-slovakian-minced-beef-dumplings--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:59:38.862Z"
+}
