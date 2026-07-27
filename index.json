@@ -12163,5 +12163,17 @@
     "cuisine": "japanese",
     "totalTimeMin": 32,
     "shard": "a"
+  },
+  {
+    "slug": "aerated-portuguese-meal-bake--japanese",
+    "title": "Japanese-Style Cake",
+    "tags": [
+      "japanese",
+      "cake",
+      "dessert"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 50,
+    "shard": "a"
   }
 ]
