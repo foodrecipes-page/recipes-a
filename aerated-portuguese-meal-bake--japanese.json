@@ -1,0 +1,75 @@
+{
+  "slug": "aerated-portuguese-meal-bake--japanese",
+  "title": "Japanese-Style Cake",
+  "description": "A delicious and light Japanese-inspired cake made with aerated Portuguese meal and perfect for dessert.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Portuguese meal",
+      "amount": "250g",
+      "notes": null
+    },
+    {
+      "name": "Aerated eggs",
+      "amount": "4",
+      "notes": null
+    },
+    {
+      "name": "Granulated sugar",
+      "amount": "200g",
+      "notes": null
+    },
+    {
+      "name": "Melted unsalted butter",
+      "amount": "120g",
+      "notes": "at room temperature"
+    },
+    {
+      "name": "Vanilla extract",
+      "amount": "2 tsp",
+      "notes": null
+    },
+    {
+      "name": "Baking powder",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 180°C (350°F) and grease a 20cm (8-inch) round cake pan.",
+    "Sift together the Portuguese meal, sugar, and baking powder in a medium bowl.",
+    "In a large bowl, whisk together the melted butter, eggs, and vanilla extract.",
+    "Add the sifted dry ingredients to the wet ingredients and mix until just combined.",
+    "Pour the batter into the prepared cake pan and smooth the top.",
+    "Bake for 35-40 minutes or until a toothpick inserted in the center comes out clean.",
+    "Remove from the oven and let cool in the pan for 5 minutes before transferring to a wire rack to cool completely.",
+    "Once the cake is completely cool, slice and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "cake",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 6,
+    "carbs": 45,
+    "fat": 14
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aerated-portuguese-meal-bake--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T03:10:47.054Z"
+}
