@@ -4362,17 +4362,15 @@
   },
   {
     "slug": "aromatic-croatian-potatoes-gratin",
-    "title": "Aromatic Croatian Potatoes Gratin",
+    "title": "Potato Gratin",
     "tags": [
-      "anti-inflammatory",
-      "broil",
-      "cheese-pull",
-      "one-pan",
-      "potato-gratin",
-      "vegetarian"
+      "potatoes",
+      "gratin",
+      "cheese",
+      "bechamel"
     ],
-    "cuisine": "Croatian",
-    "totalTimeMin": 45,
+    "cuisine": "european",
+    "totalTimeMin": 60,
     "shard": "a"
   },
   {
@@ -12212,6 +12210,32 @@
     ],
     "cuisine": "japanese",
     "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-australian-chicken-thigh-casserole--indian",
+    "title": "Australian Chicken Casserole",
+    "tags": [
+      "indian",
+      "chicken",
+      "casserole",
+      "easy-indian-recipe"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 60,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-buttery-venezuelan-plantains-casserole--thai",
+    "title": "Plantain and Butter Casserole with a Twist",
+    "tags": [
+      "casserole",
+      "thai",
+      "plantains",
+      "buttery"
+    ],
+    "cuisine": "thai",
+    "totalTimeMin": 40,
     "shard": "a"
   }
 ]
