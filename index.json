@@ -12174,5 +12174,18 @@
     "cuisine": "japanese",
     "totalTimeMin": 50,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-flaky-algerian-semolina-grill--vegan",
+    "title": "Vegan Semolina Cakes with Grilled Fruits",
+    "tags": [
+      "vegan",
+      "dessert",
+      "semolina",
+      "grilled"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
