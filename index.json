@@ -12036,16 +12036,16 @@
   },
   {
     "slug": "aromatic-charred-tunisian-lamb-tagine--german",
-    "title": "Tunisian Lamb Tagine",
+    "title": "Lamb Tagine with German Twist",
     "tags": [
-      "german",
-      "tunisian",
       "lamb",
+      "german",
+      "north-african",
       "tagine",
-      "aromatic"
+      "beer"
     ],
     "cuisine": "german",
-    "totalTimeMin": 140,
+    "totalTimeMin": 170,
     "shard": "a"
   },
   {
@@ -12199,6 +12199,19 @@
     ],
     "cuisine": "Uruguayan",
     "totalTimeMin": 31,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-citrus-italian-coconut-frittata--japanese",
+    "title": "Japanese Coconut Frittata",
+    "tags": [
+      "coconut",
+      "frittata",
+      "japanese",
+      "breakfast"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 35,
     "shard": "a"
   }
 ]
