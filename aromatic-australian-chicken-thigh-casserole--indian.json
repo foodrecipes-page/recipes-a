@@ -1,0 +1,58 @@
+{
+  "slug": "aromatic-australian-chicken-thigh-casserole--indian",
+  "title": "Australian Chicken Casserole",
+  "description": "A delicious Indian-inspired casserole made with tender chicken and aromatic spices.",
+  "cuisine": "indian",
+  "diet": [
+    "non-vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thigh",
+      "amount": "1",
+      "notes": "bone-in and skin-on"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 tbsp",
+      "notes": "garam masala"
+    },
+    {
+      "name": "australian",
+      "amount": "1 cup",
+      "notes": "chicken casserole mix"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken with salt, pepper, and garam masala. Heat oil in a pan over medium heat and sear the chicken until browned.",
+    "Transfer the chicken to a 9x13 inch baking dish and set aside.",
+    "Add the chicken casserole mix to the pan and cook until lightly toasted.",
+    "Pour the casserole mix over the chicken and cover with foil.",
+    "Bake for 35-40 minutes or until the chicken is cooked through and the casserole is hot and bubbly.",
+    "Remove the foil and bake for an additional 5-10 minutes to brown the top.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 40,
+  "totalTimeMin": 60,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "chicken",
+    "casserole",
+    "easy-indian-recipe"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 35,
+    "carbs": 30,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-australian-chicken-thigh-casserole--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T08:41:07.704Z"
+}
