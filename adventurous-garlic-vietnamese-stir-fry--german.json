@@ -1,0 +1,82 @@
+{
+  "slug": "adventurous-garlic-vietnamese-stir-fry--german",
+  "title": "German-Style Stir Fry with Garlic",
+  "description": "A twist on traditional German cuisine, this stir fry combines the bold flavors of Germany with the quick cooking method of Asia.",
+  "cuisine": "german",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": ""
+    },
+    {
+      "name": "adventurous",
+      "amount": "1 cup",
+      "notes": "bell peppers"
+    },
+    {
+      "name": "vietnamese",
+      "amount": "1 cup",
+      "notes": "rice noodles"
+    },
+    {
+      "name": "stir",
+      "amount": "1 cup",
+      "notes": "sirloin strips"
+    },
+    {
+      "name": "fry",
+      "amount": "1 tablespoon",
+      "notes": "vegetable oil"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": ""
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large skillet over medium-high heat.",
+    "Add the sirloin strips and cook until browned, about 3-4 minutes.",
+    "Remove the sirloin from the skillet and set aside.",
+    "Add the sliced onion and minced garlic to the skillet and cook until softened, about 2-3 minutes.",
+    "Add the bell peppers and cook for an additional 2 minutes.",
+    "Add the cooked sirloin back into the skillet and stir in the rice noodles.",
+    "Season with salt and pepper to taste.",
+    "Serve hot and enjoy!",
+    "Cook the rice noodles according to package instructions and set aside.",
+    "Slice the onion and bell peppers into thin strips."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "german",
+    "stir-fry",
+    "quick-cooking"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 35,
+    "carbs": 35,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-garlic-vietnamese-stir-fry--german",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-21T22:35:55.432Z"
+}
