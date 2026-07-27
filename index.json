@@ -3857,16 +3857,15 @@
   },
   {
     "slug": "aromatic-australian-chicken-thigh-casserole",
-    "title": "Aromatic Australian Chicken Thigh Casserole",
+    "title": "Australian Chicken Casserole",
     "tags": [
-      "australian-cuisine",
-      "comfort-food",
-      "high-protein",
-      "one-pan",
-      "weeknight"
+      "australian",
+      "casserole",
+      "chicken",
+      "dinner"
     ],
-    "cuisine": "Australian",
-    "totalTimeMin": 70,
+    "cuisine": "australian",
+    "totalTimeMin": 50,
     "shard": "a"
   },
   {
