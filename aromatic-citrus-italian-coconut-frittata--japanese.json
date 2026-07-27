@@ -1,0 +1,82 @@
+{
+  "slug": "aromatic-citrus-italian-coconut-frittata--japanese",
+  "title": "Japanese Coconut Frittata",
+  "description": "A unique Japanese-inspired twist on the classic Italian frittata, featuring coconut milk and Japanese flavors.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "coconut milk",
+      "amount": "1 can (14 fl oz)"
+    },
+    {
+      "name": "frittata",
+      "amount": "1",
+      "notes": "Italian-style eggs"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tsp",
+      "notes": "Ground ginger"
+    },
+    {
+      "name": "citrus",
+      "amount": "1 tsp",
+      "notes": "Chopped green onions"
+    },
+    {
+      "name": "italian",
+      "amount": "1 tsp",
+      "notes": "Chopped fresh basil"
+    },
+    {
+      "name": "sushi rice vinegar",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1/4 tsp"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 400°F (200°C).",
+    "2. Whisk together coconut milk, eggs, aromatic, citrus, italian, salt, and black pepper.",
+    "3. Heat a 9-inch (23 cm) oven-safe skillet over medium heat.",
+    "4. Add a small amount of oil to the skillet and swirl to coat.",
+    "5. Pour the egg mixture into the skillet and cook for 2-3 minutes.",
+    "6. Transfer the skillet to the preheated oven and bake for 15-20 minutes, or until the edges are golden brown and the center is set.",
+    "7. Remove the skillet from the oven and let it cool for 5 minutes.",
+    "8. Use a spatula to loosen the edges of the frittata from the skillet.",
+    "9. Slide the frittata onto a serving plate and garnish with additional citrus, if desired.",
+    "10. Slice the frittata into wedges and serve."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "coconut",
+    "frittata",
+    "japanese",
+    "breakfast"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 22,
+    "carbs": 20,
+    "fat": 18
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-citrus-italian-coconut-frittata--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T07:27:20.861Z"
+}
