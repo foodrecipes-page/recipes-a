@@ -11749,12 +11749,12 @@
   },
   {
     "slug": "aromatic-snappy-malaysian-blackberry-skillet--japanese",
-    "title": "Pan-Seared Blackberry Pork Chops",
+    "title": "Japanese Blackberry Teriyaki Skillet",
     "tags": [
       "japanese",
       "blackberry",
-      "pork",
-      "grill"
+      "skillet",
+      "teriyaki"
     ],
     "cuisine": "japanese",
     "totalTimeMin": 25,
@@ -12124,6 +12124,18 @@
     ],
     "cuisine": "mexican",
     "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-garlic-vietnamese-stir-fry--german",
+    "title": "German-Style Stir Fry with Garlic",
+    "tags": [
+      "german",
+      "stir-fry",
+      "quick-cooking"
+    ],
+    "cuisine": "german",
+    "totalTimeMin": 20,
     "shard": "a"
   }
 ]
