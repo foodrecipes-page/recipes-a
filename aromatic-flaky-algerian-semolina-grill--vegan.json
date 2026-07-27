@@ -1,0 +1,69 @@
+{
+  "slug": "aromatic-flaky-algerian-semolina-grill--vegan",
+  "title": "Vegan Semolina Cakes with Grilled Fruits",
+  "description": "A sweet and crunchy vegan dessert made with semolina and grilled fruits.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "semolina",
+      "amount": "1 cup"
+    },
+    {
+      "name": "algerian",
+      "amount": "1/2 cup",
+      "notes": "almond flour"
+    },
+    {
+      "name": "flaky",
+      "amount": "1/4 cup",
+      "notes": "coconut flakes"
+    },
+    {
+      "name": "aromatic",
+      "amount": "1 tsp",
+      "notes": "cinnamon"
+    },
+    {
+      "name": "grill",
+      "amount": "1 cup",
+      "notes": "grilled pineapple"
+    }
+  ],
+  "instructions": [
+    "Preheat the oven to 375°F (190°C).",
+    "In a bowl, mix together semolina, algerian, and flaky until well combined.",
+    "Add aromatic and mix well.",
+    "Gradually add 1 cup of water to form a dough.",
+    "Knead the dough for 5 minutes.",
+    "Divide the dough into 6 equal pieces.",
+    "Shape each piece into a ball and flatten slightly.",
+    "Heat a non-stick pan over medium heat.",
+    "Cook the cakes for 3-4 minutes on each side or until golden brown.",
+    "Serve warm with grilled fruits."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "vegan",
+    "dessert",
+    "semolina",
+    "grilled"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 4,
+    "carbs": 35,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-flaky-algerian-semolina-grill--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:29:50.087Z"
+}
