@@ -12187,5 +12187,18 @@
     "cuisine": null,
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "amorous-mustard-uruguayan-lamb-terrine--keto",
+    "title": "Uruguayan Lamb Kebabs",
+    "tags": [
+      "lamb",
+      "keto",
+      "grill",
+      "uruguayan"
+    ],
+    "cuisine": "Uruguayan",
+    "totalTimeMin": 31,
+    "shard": "a"
   }
 ]
