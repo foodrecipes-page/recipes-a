@@ -1,0 +1,97 @@
+{
+  "slug": "adventurous-umami-irish-dishes-bake--french",
+  "title": "Baked Irish Shepherd's Pie",
+  "description": "A classic French-inspired Irish dish with ground lamb and vegetables topped with a rich umami-infused crust. Perfect for adventurous eaters looking for a hearty, comforting meal.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "ground lamb",
+      "amount": "1 pound",
+      "notes": "grass-fed preferred"
+    },
+    {
+      "name": "onion",
+      "amount": "1 medium",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "carrots",
+      "amount": "2 medium",
+      "notes": "peeled and chopped"
+    },
+    {
+      "name": "peas",
+      "amount": "1 cup",
+      "notes": "fresh or frozen"
+    },
+    {
+      "name": "all-purpose flour",
+      "amount": "2 tablespoons",
+      "notes": "for thickening"
+    },
+    {
+      "name": "butter",
+      "amount": "2 tablespoons",
+      "notes": "unsalted"
+    },
+    {
+      "name": "milk",
+      "amount": "1 cup",
+      "notes": "whole or 2%"
+    },
+    {
+      "name": "cheddar cheese",
+      "amount": "1 cup",
+      "notes": "shredded"
+    },
+    {
+      "name": "bread crumbs",
+      "amount": "1 cup",
+      "notes": "whole wheat or white"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "In a large skillet, cook the ground lamb over medium-high heat until browned, breaking it up into small pieces as it cooks.",
+    "Add the chopped onion, minced garlic, peeled and chopped carrots, and frozen peas to the skillet. Cook until the vegetables are tender.",
+    "Stir in the all-purpose flour to thicken the mixture. Cook for 1-2 minutes.",
+    "Gradually add the unsalted butter and whole milk to the skillet, whisking constantly. Bring the mixture to a simmer.",
+    "Reduce heat to low and let the mixture simmer for 5-7 minutes, stirring occasionally.",
+    "Stir in the shredded cheddar cheese until melted and well combined.",
+    "Transfer the lamb and vegetable mixture to a 9x13 inch baking dish.",
+    "In a separate bowl, mix together the bread crumbs and a pinch of salt.",
+    "Sprinkle the bread crumb mixture evenly over the top of the lamb and vegetable mixture.",
+    "Bake the shepherd's pie in the preheated oven for 25-30 minutes, or until the crust is golden brown and the filling is hot and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 25,
+  "totalTimeMin": 45,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "irish",
+    "shepherds-pie",
+    "baked",
+    "lamb"
+  ],
+  "nutrition": {
+    "calories": 550,
+    "protein": 35,
+    "carbs": 40,
+    "fat": 35
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-umami-irish-dishes-bake--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T00:57:19.926Z"
+}
