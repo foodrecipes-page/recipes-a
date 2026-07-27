@@ -1,0 +1,90 @@
+{
+  "slug": "aromatic-australian-chicken-thigh-casserole",
+  "title": "Australian Chicken Casserole",
+  "description": "A hearty and flavorful casserole dish originating from Australia, featuring tender chicken, aromatic spices, and a satisfying casserole.",
+  "cuisine": "australian",
+  "diet": [
+    "meat",
+    "gluten"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken thigh",
+      "amount": "4",
+      "notes": "bone-in"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2",
+      "notes": "aromatic spices"
+    },
+    {
+      "name": "casserole",
+      "amount": "1",
+      "notes": "casserole dish"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp",
+      "notes": "for cooking"
+    },
+    {
+      "name": "onion",
+      "amount": "1",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "2 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "paprika",
+      "amount": "1 tsp",
+      "notes": "dried"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    },
+    {
+      "name": "pepper",
+      "amount": "to taste",
+      "notes": "for seasoning"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 375°F (190°C).",
+    "Season the chicken thighs with salt and pepper.",
+    "Heat olive oil in a large skillet over medium-high heat. Sear the chicken until browned, then set aside.",
+    "In the same skillet, cook the chopped onion and minced garlic until softened.",
+    "Add the paprika and cook for 1 minute, stirring constantly.",
+    "Transfer the chicken to the casserole dish, then pour the onion and garlic mixture over the top.",
+    "Cover the dish with aluminum foil and bake for 25 minutes.",
+    "Remove the foil and continue baking for an additional 10-15 minutes, or until the chicken is cooked through.",
+    "Let the casserole rest for 10 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 35,
+  "totalTimeMin": 50,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "australian",
+    "casserole",
+    "chicken",
+    "dinner"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 40,
+    "carbs": 10,
+    "fat": 24
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-australian-chicken-thigh-casserole",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T05:01:42.689Z"
+}
