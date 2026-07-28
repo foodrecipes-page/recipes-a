@@ -1,0 +1,61 @@
+{
+  "slug": "aromatic-crisp-croatian-pork-skewers--vegan",
+  "title": "Croatian-Style Vegan Skewers",
+  "description": "A delicious and healthy vegan skewer recipe inspired by the flavors of Croatia. Perfect for a quick and easy meal.",
+  "cuisine": null,
+  "diet": [
+    "vegan"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Croatian",
+      "amount": "2 cups",
+      "notes": "Mushrooms and bell peppers, sliced"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 cloves",
+      "notes": "Garlic, minced"
+    },
+    {
+      "name": "crisp",
+      "amount": "1 cup",
+      "notes": "Onion, sliced"
+    },
+    {
+      "name": "skewers",
+      "amount": "10-12",
+      "notes": "Soy-based skewers"
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together garlic, onion, and a pinch of salt.",
+    "Add the sliced mushrooms and bell peppers to the bowl, tossing to coat.",
+    "Thread the marinated vegetables onto the skewers.",
+    "Brush the skewers with a little oil and season with salt and pepper.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the vegetables are tender.",
+    "Serve hot, garnished with fresh parsley or dill."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 5,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-crisp-croatian-pork-skewers--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T16:51:00.711Z"
+}
