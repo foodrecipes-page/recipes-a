@@ -1,0 +1,64 @@
+{
+  "slug": "air-fried-starch-delight--french",
+  "title": "French Air Puffs",
+  "description": "A French dessert recipe using air, fried, starch, and delight ingredients. Crunchy outside, airy inside.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian",
+    "dairy-free"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "Air",
+      "amount": "2 cups",
+      "notes": "Fresh, clean air"
+    },
+    {
+      "name": "Delight",
+      "amount": "1 cup",
+      "notes": "Assorted sweet delights"
+    },
+    {
+      "name": "Starch",
+      "amount": "1 cup",
+      "notes": "Cornstarch"
+    },
+    {
+      "name": "Fried",
+      "amount": "1/4 cup",
+      "notes": "Used in making the Delight component"
+    }
+  ],
+  "instructions": [
+    "1. Preheat oven to 375°F (190°C).",
+    "2. In a bowl, mix 1 cup starch and 1 cup delight.",
+    "3. Add 2 cups air to the bowl and mix until combined.",
+    "4. Add 1/4 cup fried and mix well.",
+    "5. Place mixture on a baking sheet lined with parchment paper.",
+    "6. Bake for 15-20 minutes or until golden brown.",
+    "7. Remove from oven and let cool completely.",
+    "8. Serve as French Air Puffs."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 20,
+  "totalTimeMin": 30,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "french",
+    "dessert",
+    "airy",
+    "sweet"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 0.5
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-starch-delight--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:49:08.937Z"
+}
