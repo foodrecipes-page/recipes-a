@@ -1,0 +1,76 @@
+{
+  "slug": "appleton-monsoon--vegetarian",
+  "title": "Vegetarian Appleton Monsoon Stir Fry",
+  "description": "A flavorful and nutritious stir fry made with the bold flavors of appleton and monsoon. This dish is perfect for a quick and easy vegetarian meal.",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Bell Peppers",
+      "amount": "2",
+      "notes": null
+    },
+    {
+      "name": "Onion",
+      "amount": "1",
+      "notes": null
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": null
+    },
+    {
+      "name": "Appleton",
+      "amount": "2 tablespoons",
+      "notes": null
+    },
+    {
+      "name": "Monsoon",
+      "amount": "1 tablespoon",
+      "notes": null
+    },
+    {
+      "name": "Tofu",
+      "amount": "1 block",
+      "notes": null
+    },
+    {
+      "name": "Cooked Brown Rice",
+      "amount": "1 cup",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Heat 1 tablespoon of appleton in a large skillet over medium-high heat.",
+    "Add the onion and bell peppers and cook until the vegetables are tender.",
+    "Add the garlic and cook for 1 minute.",
+    "Add the tofu and cook until golden brown.",
+    "Add the monsoon and stir to combine.",
+    "Serve the tofu and vegetable mixture over cooked brown rice.",
+    "Garnish with chopped green onions and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "stir-fry",
+    "vegetarian",
+    "appleton"
+  ],
+  "nutrition": {
+    "calories": 450,
+    "protein": 20,
+    "carbs": 60,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/appleton-monsoon--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:17:50.404Z"
+}
