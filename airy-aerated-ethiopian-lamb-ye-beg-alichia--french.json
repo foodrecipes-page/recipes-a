@@ -1,0 +1,79 @@
+{
+  "slug": "airy-aerated-ethiopian-lamb-ye-beg-alichia--french",
+  "title": "French-Style Lamb Tagine",
+  "description": "A hearty and flavorful lamb stew inspired by French cuisine, featuring the unique taste of alichia.",
+  "cuisine": "french",
+  "diet": [
+    "omnivore"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "lamb",
+      "amount": "1 kg"
+    },
+    {
+      "name": "alichia",
+      "amount": "2 cups"
+    },
+    {
+      "name": "onion",
+      "amount": "2",
+      "notes": "chopped"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves",
+      "notes": "minced"
+    },
+    {
+      "name": "tomato paste",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "beef broth",
+      "amount": "2 cups"
+    },
+    {
+      "name": "olive oil",
+      "amount": "2 tbsp"
+    },
+    {
+      "name": "salt",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "black pepper",
+      "amount": "1 tsp"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large Dutch oven over medium-high heat.",
+    "Sear lamb until browned, then set aside.",
+    "Add onion and garlic to the pot, sauté until softened.",
+    "Add alichia, tomato paste, broth, salt, and pepper.",
+    "Return lamb to the pot, cover, and simmer for 1.5 hours.",
+    "Stir occasionally and adjust seasoning as needed.",
+    "Serve hot, garnished with fresh parsley if desired."
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 90,
+  "totalTimeMin": 110,
+  "servings": 6,
+  "difficulty": "medium",
+  "tags": [
+    "lamb",
+    "stew",
+    "french"
+  ],
+  "nutrition": {
+    "calories": 540,
+    "protein": 43,
+    "carbs": 26,
+    "fat": 34
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/airy-aerated-ethiopian-lamb-ye-beg-alichia--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T12:23:59.514Z"
+}
