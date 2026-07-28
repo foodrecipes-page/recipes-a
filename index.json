@@ -12099,15 +12099,14 @@
   },
   {
     "slug": "aromatic-pillowy-uruguayan-rice-bake--vegan",
-    "title": "Uru Vegan Bake",
+    "title": "Uruguayan-Style Rice Bowl",
     "tags": [
       "vegan",
-      "snack",
-      "comfort-food",
-      "uruguayan"
+      "uruguayan",
+      "rice-bowl"
     ],
     "cuisine": "Uruguayan",
-    "totalTimeMin": 35,
+    "totalTimeMin": 70,
     "shard": "a"
   },
   {
@@ -12350,6 +12349,20 @@
     ],
     "cuisine": "french",
     "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-syrian-sweet-red-pepper-stew--indian",
+    "title": "Spicy Syrian Stew",
+    "tags": [
+      "indian",
+      "stew",
+      "vegetarian",
+      "spicy",
+      "aromatic"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
     "shard": "a"
   }
 ]
