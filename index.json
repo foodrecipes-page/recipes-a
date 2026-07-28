@@ -12249,5 +12249,18 @@
     "cuisine": "french",
     "totalTimeMin": 110,
     "shard": "a"
+  },
+  {
+    "slug": "air-fried-starch-delight--french",
+    "title": "French Air Puffs",
+    "tags": [
+      "french",
+      "dessert",
+      "airy",
+      "sweet"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 30,
+    "shard": "a"
   }
 ]
