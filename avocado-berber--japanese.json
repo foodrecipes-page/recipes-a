@@ -1,0 +1,84 @@
+{
+  "slug": "avocado-berber--japanese",
+  "title": "Japanese Berber Stir Fry with Avocado",
+  "description": "A flavorful and healthy Japanese-inspired stir fry made with berber and avocado.",
+  "cuisine": "japanese",
+  "diet": [
+    "vegetarian",
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Berber",
+      "amount": "1 cup",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Avocado",
+      "amount": "1 medium",
+      "notes": "Cut into bite-sized pieces"
+    },
+    {
+      "name": "Sesame oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Ginger",
+      "amount": "1 inch",
+      "notes": "Grated"
+    },
+    {
+      "name": "Soy sauce",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": ""
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": ""
+    },
+    {
+      "name": "Pepper",
+      "amount": "to taste",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Heat sesame oil in a large skillet or wok over medium-high heat.",
+    "Add ginger and stir-fry for 1 minute.",
+    "Add berber and stir-fry for 3-4 minutes, or until tender.",
+    "Add avocado and stir-fry for an additional 2 minutes.",
+    "In a small bowl, whisk together soy sauce and sesame seeds.",
+    "Pour soy sauce mixture over berber and avocado, and stir-fry for 1 minute.",
+    "Season with salt and pepper to taste.",
+    "Serve hot, garnished with additional sesame seeds if desired."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 10,
+  "totalTimeMin": 20,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "vegetarian",
+    "gluten-free"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 10,
+    "carbs": 40,
+    "fat": 20
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/avocado-berber--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T14:30:19.034Z"
+}
