@@ -1,0 +1,73 @@
+{
+  "slug": "aromatic-amazing-peruvian-chicken-skewers--mexican",
+  "title": "Chicken Fajita Skewers",
+  "description": "A delicious Mexican dish featuring marinated chicken and vegetables grilled to perfection on skewers.",
+  "cuisine": "mexican",
+  "diet": [
+    "gluten-free",
+    "vegetarian"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "chicken",
+      "amount": "1 pound boneless, skinless chicken breast",
+      "notes": "cut into 1-inch pieces"
+    },
+    {
+      "name": "aromatic",
+      "amount": "2 cloves garlic, minced",
+      "notes": ""
+    },
+    {
+      "name": "amazing",
+      "amount": "1 tablespoon olive oil",
+      "notes": ""
+    },
+    {
+      "name": "peruvian",
+      "amount": "1 teaspoon Peruvian aji amarillo pepper paste",
+      "notes": ""
+    },
+    {
+      "name": "chicken",
+      "amount": "1 large onion, cut into 1-inch pieces",
+      "notes": ""
+    },
+    {
+      "name": "chicken",
+      "amount": "2 large bell peppers (any color), cut into 1-inch pieces",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "In a large bowl, whisk together aji amarillo pepper paste, olive oil, and minced garlic.",
+    "Add the chicken and vegetables to the marinade, and toss to coat.",
+    "Cover the bowl with plastic wrap, and refrigerate for at least 30 minutes or up to 2 hours.",
+    "Preheat grill to medium-high heat.",
+    "Thread the marinated chicken and vegetables onto skewers.",
+    "Grill the skewers for 10-12 minutes, turning occasionally, until the chicken is cooked through and the vegetables are tender.",
+    "Serve the fajita skewers hot, garnished with fresh cilantro and lime wedges."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 12,
+  "totalTimeMin": 27,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "mexican",
+    "chicken",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 30,
+    "carbs": 10,
+    "fat": 15
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-amazing-peruvian-chicken-skewers--mexican",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:12:48.067Z"
+}
