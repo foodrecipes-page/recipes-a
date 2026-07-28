@@ -12287,5 +12287,30 @@
     "cuisine": "japanese",
     "totalTimeMin": 20,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-crisp-croatian-pork-skewers--vegan",
+    "title": "Croatian-Style Vegan Skewers",
+    "tags": [
+      "vegan",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-egyptian-oysters-bake--vegan",
+    "title": "Vegan Egyptian Stew",
+    "tags": [
+      "vegan",
+      "egyptian",
+      "stew",
+      "rice"
+    ],
+    "cuisine": "Egyptian",
+    "totalTimeMin": 35,
+    "shard": "a"
   }
 ]
