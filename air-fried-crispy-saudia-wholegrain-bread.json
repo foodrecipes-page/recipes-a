@@ -1,0 +1,51 @@
+{
+  "slug": "air-fried-crispy-saudia-wholegrain-bread",
+  "title": "Saudi Fried Bread",
+  "description": "A simple and delicious Saudi-inspired fried bread recipe, perfect for a quick snack or breakfast.",
+  "cuisine": "Saudi",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Wholegrain bread",
+      "amount": "1 loaf",
+      "notes": ""
+    },
+    {
+      "name": "Oil",
+      "amount": "1/4 cup",
+      "notes": "Any neutral oil with a high smoke point"
+    }
+  ],
+  "instructions": [
+    "1. Cut the bread into 1-inch thick slices.",
+    "2. Heat a non-stick pan or skillet over medium heat.",
+    "3. Add a small amount of oil to the pan and swirl it around.",
+    "4. Place 2-3 slices of bread in the pan and cook for 2-3 minutes on each side, or until golden brown.",
+    "5. Repeat with the remaining bread slices.",
+    "6. Serve the fried bread hot, garnished with a sprinkle of salt if desired."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "fried",
+    "bread",
+    "saudi",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 20,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-saudia-wholegrain-bread",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T18:36:32.300Z"
+}
