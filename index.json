@@ -12262,5 +12262,30 @@
     "cuisine": "french",
     "totalTimeMin": 30,
     "shard": "a"
+  },
+  {
+    "slug": "appleton-monsoon--vegetarian",
+    "title": "Vegetarian Appleton Monsoon Stir Fry",
+    "tags": [
+      "stir-fry",
+      "vegetarian",
+      "appleton"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "avocado-berber--japanese",
+    "title": "Japanese Berber Stir Fry with Avocado",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "vegetarian",
+      "gluten-free"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 20,
+    "shard": "a"
   }
 ]
