@@ -1,66 +1,66 @@
 {
   "slug": "aromatic-pillowy-uruguayan-rice-bake--vegan",
-  "title": "Uru Vegan Bake",
-  "description": "A hearty Uruguayan-inspired vegan bake filled with aromatic spices and pillowy rice. Perfect for a comforting snack or light lunch.",
+  "title": "Uruguayan-Style Rice Bowl",
+  "description": "A flavorful, plant-based twist on a classic Uruguayan dish. Perfect for a satisfying vegan meal.",
   "cuisine": "Uruguayan",
   "diet": [
     "vegan"
   ],
-  "meal": "snack",
+  "meal": "lunch",
   "ingredients": [
     {
-      "name": "uruguayan",
+      "name": "aromatic rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "pillowy bread",
+      "amount": "2 slices",
+      "notes": "for serving"
+    },
+    {
+      "name": "uruguayan chimichurri",
+      "amount": "1/4 cup",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "roasted vegetables",
       "amount": "1 cup",
-      "notes": "Uruguayan flatbread or focaccia"
+      "notes": "such as bell peppers, zucchini, and onions"
     },
     {
-      "name": "aromatic",
-      "amount": "1 tsp",
-      "notes": "dried oregano or thyme"
-    },
-    {
-      "name": "pillowy",
-      "amount": "1 cup",
-      "notes": "cooked rice"
-    },
-    {
-      "name": "rice",
-      "amount": "1/2 cup",
-      "notes": "uncooked, for extra texture"
-    },
-    {
-      "name": "bake",
-      "amount": "1/2 cup",
-      "notes": "unsweetened bake mix or oat flour"
+      "name": "baked sweet potatoes",
+      "amount": "2 medium",
+      "notes": "baked at 400°F (200°C) for 45 minutes"
     }
   ],
   "instructions": [
-    "Preheat oven to 375°F (190°C).",
-    "Cut the Uruguayan flatbread into bite-sized pieces.",
-    "In a large bowl, mix together cooked rice, uncooked rice, unsweetened bake mix or oat flour, and dried oregano or thyme.",
-    "Add the baked pieces to the bowl and stir until well combined.",
-    "Transfer the mixture to a baking dish and bake for 20-25 minutes, or until lightly toasted.",
-    "Serve warm and enjoy!"
+    "Preheat oven to 400°F (200°C).",
+    "Wash and chop the sweet potatoes into 1-inch cubes. Toss with a tablespoon of oil and roast for 45 minutes.",
+    "While the sweet potatoes are roasting, heat a tablespoon of oil in a large skillet over medium heat.",
+    "Add the roasted vegetables to the skillet and cook for 5 minutes.",
+    "Add the aromatic rice to the skillet and stir to combine. Cook for an additional 2-3 minutes.",
+    "Warm the pillowy bread slices by baking them in the oven for 2-3 minutes.",
+    "Assemble the Uruguayan-Style Rice Bowl by placing a scoop of the rice mixture on each plate, topping with roasted sweet potatoes, and drizzling with uruguayan chimichurri.",
+    "Serve immediately, garnished with additional chimichurri if desired."
   ],
-  "prepTimeMin": 15,
-  "cookTimeMin": 20,
-  "totalTimeMin": 35,
+  "prepTimeMin": 20,
+  "cookTimeMin": 50,
+  "totalTimeMin": 70,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
     "vegan",
-    "snack",
-    "comfort-food",
-    "uruguayan"
+    "uruguayan",
+    "rice-bowl"
   ],
   "nutrition": {
-    "calories": 250,
-    "protein": 5,
-    "carbs": 40,
-    "fat": 10
+    "calories": 420,
+    "protein": 10,
+    "carbs": 60,
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-pillowy-uruguayan-rice-bake--vegan",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T20:33:30.450Z"
+  "createdAt": "2026-07-22T20:59:14.515Z"
 }
