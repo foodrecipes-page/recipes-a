@@ -1,0 +1,86 @@
+{
+  "slug": "aromatic-egyptian-oysters-bake--vegan",
+  "title": "Vegan Egyptian Stew",
+  "description": "A flavorful and aromatic stew made with a variety of spices and vegetables, served over a bed of rice.",
+  "cuisine": "Egyptian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "onion",
+      "amount": "2 medium"
+    },
+    {
+      "name": "garlic",
+      "amount": "3 cloves"
+    },
+    {
+      "name": "aromatic rice",
+      "amount": "1 cup"
+    },
+    {
+      "name": "chickpeas",
+      "amount": "1 can (15 oz)"
+    },
+    {
+      "name": "canned tomatoes",
+      "amount": "1 can (14.5 oz)"
+    },
+    {
+      "name": "curry powder",
+      "amount": "2 tsp"
+    },
+    {
+      "name": "cumin",
+      "amount": "1 tsp"
+    },
+    {
+      "name": "paprika",
+      "amount": "1/2 tsp"
+    },
+    {
+      "name": "salt",
+      "amount": "to taste"
+    },
+    {
+      "name": "black pepper",
+      "amount": "to taste"
+    },
+    {
+      "name": "fresh parsley",
+      "amount": "chopped (for garnish)"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a large pot over medium heat.",
+    "Add onion and garlic and sauté until softened.",
+    "Add chickpeas, tomatoes, curry powder, cumin, paprika, salt, and pepper.",
+    "Stir well to combine.",
+    "Add aromatic rice and stir to combine.",
+    "Bring to a boil, then reduce heat to low and simmer, covered, for 20 minutes.",
+    "Fluff with a fork and serve hot, garnished with parsley."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "vegan",
+    "egyptian",
+    "stew",
+    "rice"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 70,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-egyptian-oysters-bake--vegan",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T17:34:59.003Z"
+}
