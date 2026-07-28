@@ -1,0 +1,103 @@
+{
+  "slug": "avocado-berber--indian",
+  "title": "Berber and Avocado Curry",
+  "description": "A flavorful Indian-inspired curry made with berber and avocado, served with a side of steamed basmati rice.",
+  "cuisine": "indian",
+  "diet": [
+    "vegan"
+  ],
+  "meal": "lunch",
+  "ingredients": [
+    {
+      "name": "Avocado",
+      "amount": "2 medium",
+      "notes": "Diced"
+    },
+    {
+      "name": "Berber",
+      "amount": "1 cup",
+      "notes": "Fresh"
+    },
+    {
+      "name": "Coconut oil",
+      "amount": "2 tbsp",
+      "notes": "For sautéing"
+    },
+    {
+      "name": "Onion",
+      "amount": "1 medium",
+      "notes": "Chopped"
+    },
+    {
+      "name": "Garlic",
+      "amount": "3 cloves",
+      "notes": "Minced"
+    },
+    {
+      "name": "Ginger",
+      "amount": "1-inch piece",
+      "notes": "Grated"
+    },
+    {
+      "name": "Cumin powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Turmeric powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Coriander powder",
+      "amount": "1 tsp",
+      "notes": "Ground"
+    },
+    {
+      "name": "Salt",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Black pepper",
+      "amount": "to taste",
+      "notes": null
+    },
+    {
+      "name": "Fresh cilantro",
+      "amount": "chopped",
+      "notes": "For garnish"
+    }
+  ],
+  "instructions": [
+    "Heat oil in a pan over medium heat.",
+    "Add onion, garlic, and ginger. Cook until onion is translucent.",
+    "Add cumin powder, turmeric powder, coriander powder, salt, and black pepper. Cook for 1 minute.",
+    "Add berber and cook until it starts to soften.",
+    "Add diced avocado and stir well.",
+    "Reduce heat to low and simmer for 10 minutes.",
+    "Garnish with chopped cilantro and serve with steamed basmati rice.",
+    "Adjust seasoning as needed."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 20,
+  "totalTimeMin": 35,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "vegan",
+    "curry",
+    "plant-based"
+  ],
+  "nutrition": {
+    "calories": 420,
+    "protein": 8,
+    "carbs": 60,
+    "fat": 25
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/avocado-berber--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:14:46.485Z"
+}
