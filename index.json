@@ -12312,5 +12312,44 @@
     "cuisine": "Egyptian",
     "totalTimeMin": 35,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-amazing-peruvian-chicken-skewers--mexican",
+    "title": "Chicken Fajita Skewers",
+    "tags": [
+      "mexican",
+      "chicken",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": "mexican",
+    "totalTimeMin": 27,
+    "shard": "a"
+  },
+  {
+    "slug": "avocado-berber--indian",
+    "title": "Berber and Avocado Curry",
+    "tags": [
+      "indian",
+      "vegan",
+      "curry",
+      "plant-based"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "air-fried-crispy-saudia-wholegrain-bread--french",
+    "title": "French Crispy Fried Bread",
+    "tags": [
+      "french",
+      "crispy",
+      "fried",
+      "snack"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 15,
+    "shard": "a"
   }
 ]
