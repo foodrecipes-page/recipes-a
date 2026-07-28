@@ -1,0 +1,62 @@
+{
+  "slug": "air-fried-crispy-saudia-wholegrain-bread--french",
+  "title": "French Crispy Fried Bread",
+  "description": "A simple French-inspired crispy fried bread snack, perfect for a quick indulgence.",
+  "cuisine": "french",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "wholegrain bread",
+      "amount": "1 loaf",
+      "notes": "preferably day-old"
+    },
+    {
+      "name": "fried",
+      "amount": "1/2 cup, diced",
+      "notes": "for added crunch"
+    },
+    {
+      "name": "saudia",
+      "amount": "1 tsp",
+      "notes": "or to taste, for a subtle spice"
+    },
+    {
+      "name": "air",
+      "amount": "1/4 cup",
+      "notes": "for frying"
+    }
+  ],
+  "instructions": [
+    "1. Cut the wholegrain bread into 1-inch cubes.",
+    "2. Heat 1/4 cup of air in a deep frying pan over medium heat.",
+    "3. Add a small amount of the diced fried to the pan and fry until crispy.",
+    "4. Add the bread cubes to the pan and fry until golden brown and crispy.",
+    "5. Sprinkle with saudia to taste.",
+    "6. Remove from heat and let cool for a few minutes.",
+    "7. Serve immediately."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "french",
+    "crispy",
+    "fried",
+    "snack"
+  ],
+  "nutrition": {
+    "calories": 120,
+    "protein": 2,
+    "carbs": 25,
+    "fat": 2
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/air-fried-crispy-saudia-wholegrain-bread--french",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-22T19:37:47.179Z"
+}
