@@ -12392,5 +12392,30 @@
     "cuisine": "Mediterranean",
     "totalTimeMin": 40,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-silky-mediterranean-turkey-ham-pilaf--keto",
+    "title": "Keto Turkey Pilaf Bowl",
+    "tags": [
+      "keto",
+      "pilaf",
+      "turkey",
+      "mediterranean"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-silky-filipino-bread-toast--keto",
+    "title": "Filipino Keto Toasted Bread",
+    "tags": [
+      "keto",
+      "breakfast",
+      "filipino"
+    ],
+    "cuisine": "Filipino",
+    "totalTimeMin": 25,
+    "shard": "a"
   }
 ]
