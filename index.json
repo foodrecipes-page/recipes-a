@@ -12086,15 +12086,15 @@
   },
   {
     "slug": "aromatic-brazilian-chicken-skewers--italian",
-    "title": "Brazilian Chicken Skewers with Italian Twist",
+    "title": "Italian Chicken Skewers",
     "tags": [
       "italian",
       "chicken",
       "skewers",
-      "summer"
+      "grilled"
     ],
     "cuisine": "italian",
-    "totalTimeMin": 31,
+    "totalTimeMin": 33,
     "shard": "a"
   },
   {
@@ -12416,6 +12416,19 @@
     ],
     "cuisine": "Filipino",
     "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "almond-bliss-sweet-treat--vegetarian",
+    "title": "Blissful Almond Treat",
+    "tags": [
+      "almond",
+      "bliss",
+      "snack",
+      "vegetarian"
+    ],
+    "cuisine": null,
+    "totalTimeMin": 15,
     "shard": "a"
   }
 ]
