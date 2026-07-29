@@ -1,0 +1,72 @@
+{
+  "slug": "aromatic-brazilian-chicken-skewers--gluten-free",
+  "title": "Brazilian Chicken Skewers",
+  "description": "Grilled chicken skewers with a hint of Brazilian flavor, perfect for a gluten-free meal.",
+  "cuisine": "Brazilian",
+  "diet": [
+    "gluten-free"
+  ],
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "Chicken breast",
+      "amount": "1 lb",
+      "notes": "cut into bite-sized pieces"
+    },
+    {
+      "name": "Aromatic olive oil",
+      "amount": "2 tbsp",
+      "notes": null
+    },
+    {
+      "name": "Brazilian seasoning blend",
+      "amount": "1 tsp",
+      "notes": null
+    },
+    {
+      "name": "Salt",
+      "amount": "1/2 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Pepper",
+      "amount": "1/4 tsp",
+      "notes": "optional"
+    },
+    {
+      "name": "Skewers",
+      "amount": "10-12",
+      "notes": null
+    }
+  ],
+  "instructions": [
+    "Preheat grill to medium-high heat.",
+    "In a small bowl, mix together aromatic olive oil, Brazilian seasoning blend, salt, and pepper.",
+    "Add the chicken pieces to the bowl and toss to coat with the marinade.",
+    "Thread the chicken onto the skewers, leaving a small space between each piece.",
+    "Grill the skewers for 8-10 minutes, flipping halfway through.",
+    "Check for internal temperature, should be at least 165°F (74°C).",
+    "Let rest for 2-3 minutes before serving."
+  ],
+  "prepTimeMin": 15,
+  "cookTimeMin": 10,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "medium",
+  "tags": [
+    "chicken",
+    "gluten-free",
+    "grilled",
+    "skewers"
+  ],
+  "nutrition": {
+    "calories": 320,
+    "protein": 40,
+    "carbs": 0,
+    "fat": 12
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-brazilian-chicken-skewers--gluten-free",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:25:57.366Z"
+}
