@@ -1,78 +1,81 @@
 {
   "slug": "aromatic-brazilian-chicken-skewers--italian",
-  "title": "Brazilian Chicken Skewers with Italian Twist",
-  "description": "A fusion of Italian flavors with the bold taste of Brazil, these skewers are perfect for a summer evening. Marinate chicken in a mix of herbs and spices and grill to perfection.",
+  "title": "Italian Chicken Skewers",
+  "description": "A flavorful and colorful Italian-inspired dish made with marinated chicken breast, bell peppers, onions, and aromatic spices, grilled to perfection on skewers.",
   "cuisine": "italian",
-  "diet": [
-    "gluten-free"
-  ],
+  "diet": null,
   "meal": "dinner",
   "ingredients": [
     {
-      "name": "Chicken breast",
-      "amount": "1 1/2 pounds",
-      "notes": "cut into 1-inch pieces"
+      "name": "chicken breast",
+      "amount": "1 pound",
+      "notes": ""
     },
     {
-      "name": "Aromatic skewers",
-      "amount": "4-5",
-      "notes": "for grilling"
+      "name": "aromatic",
+      "amount": "2 tablespoons olive oil",
+      "notes": ""
     },
     {
-      "name": "Brazilian seasoning",
-      "amount": "2 tablespoons",
-      "notes": "store-bought or homemade"
+      "name": "brazilian",
+      "amount": "2-3 cloves garlic, minced",
+      "notes": ""
     },
     {
-      "name": "Olive oil",
-      "amount": "2 tablespoons",
-      "notes": "for brushing skewers"
+      "name": "skewers",
+      "amount": "10-12 wooden skewers",
+      "notes": ""
     },
     {
-      "name": "Garlic",
-      "amount": "2 cloves",
-      "notes": "minced"
+      "name": "bell peppers",
+      "amount": "2 large, sliced",
+      "notes": ""
     },
     {
-      "name": "Fresh parsley",
-      "amount": "1/4 cup",
-      "notes": "chopped"
+      "name": "onions",
+      "amount": "1 large, sliced",
+      "notes": ""
     },
     {
-      "name": "Salt and pepper",
-      "amount": "",
+      "name": "salt",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "pepper",
+      "amount": "1/2 teaspoon",
       "notes": ""
     }
   ],
   "instructions": [
-    "Preheat grill to medium-high heat (400°F/200°C).",
-    "In a large bowl, whisk together Brazilian seasoning, olive oil, garlic, salt, and pepper.",
-    "Add chicken to the marinade and mix well to coat.",
-    "Thread chicken onto skewers, leaving a little space between each piece.",
-    "Brush skewers with olive oil and season with salt and pepper.",
-    "Grill skewers for 8-10 minutes per side, or until chicken is cooked through.",
-    "Transfer skewers to a plate and sprinkle with parsley.",
-    "Serve immediately and enjoy!"
+    "Preheat grill to medium-high heat.",
+    "In a large bowl, whisk together olive oil, garlic, salt, and pepper to make the marinade.",
+    "Add the sliced chicken to the marinade and mix well to coat.",
+    "Thread the chicken, bell peppers, and onions onto the skewers, leaving a little space between each piece.",
+    "Brush the grill with olive oil to prevent sticking.",
+    "Grill the skewers for 8-10 minutes per side, or until the chicken is cooked through and the vegetables are tender.",
+    "Let the skewers rest for a few minutes before serving.",
+    "Serve hot and enjoy!"
   ],
   "prepTimeMin": 15,
-  "cookTimeMin": 16,
-  "totalTimeMin": 31,
+  "cookTimeMin": 18,
+  "totalTimeMin": 33,
   "servings": 4,
-  "difficulty": "easy",
+  "difficulty": "medium",
   "tags": [
     "italian",
     "chicken",
     "skewers",
-    "summer"
+    "grilled"
   ],
   "nutrition": {
-    "calories": 360,
+    "calories": 320,
     "protein": 35,
     "carbs": 10,
-    "fat": 20
+    "fat": 15
   },
   "source": "foodrecipes.page",
   "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-brazilian-chicken-skewers--italian",
   "providerUsed": "groq",
-  "createdAt": "2026-07-21T18:05:47.198Z"
+  "createdAt": "2026-07-23T03:09:26.683Z"
 }
