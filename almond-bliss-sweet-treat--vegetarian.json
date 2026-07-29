@@ -1,0 +1,59 @@
+{
+  "slug": "almond-bliss-sweet-treat--vegetarian",
+  "title": "Blissful Almond Treat",
+  "description": "A sweet and crunchy vegetarian treat made with almonds and a hint of bliss",
+  "cuisine": null,
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "snack",
+  "ingredients": [
+    {
+      "name": "Almond",
+      "amount": "1 cup",
+      "notes": "sliced"
+    },
+    {
+      "name": "Bliss",
+      "amount": "2 tablespoons",
+      "notes": "honey-like syrup"
+    },
+    {
+      "name": "Sweet Treat",
+      "amount": "1 cup",
+      "notes": "dark chocolate chips"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (180°C).",
+    "Line a baking sheet with parchment paper.",
+    "Spread the sliced almonds on the baking sheet.",
+    "Bake for 10 minutes, or until lightly toasted.",
+    "In a small saucepan, heat the bliss over low heat.",
+    "Add the sweet treat (dark chocolate chips) to the saucepan and stir until melted.",
+    "Remove the almonds from the oven and let cool slightly.",
+    "Drizzle the bliss-chocolate mixture over the almonds.",
+    "Allow to cool and harden before serving."
+  ],
+  "prepTimeMin": 5,
+  "cookTimeMin": 10,
+  "totalTimeMin": 15,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "almond",
+    "bliss",
+    "snack",
+    "vegetarian"
+  ],
+  "nutrition": {
+    "calories": 160,
+    "protein": 4,
+    "carbs": 20,
+    "fat": 8
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/almond-bliss-sweet-treat--vegetarian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T03:27:36.582Z"
+}
