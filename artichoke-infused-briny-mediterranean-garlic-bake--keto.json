@@ -1,0 +1,71 @@
+{
+  "slug": "artichoke-infused-briny-mediterranean-garlic-bake--keto",
+  "title": "Baked Mediterranean Artichoke",
+  "description": "A keto-friendly side dish featuring roasted artichoke with a hint of Mediterranean flavors.",
+  "cuisine": "Mediterranean",
+  "diet": [
+    "keto"
+  ],
+  "meal": "side dish",
+  "ingredients": [
+    {
+      "name": "Artichoke",
+      "amount": "1 large",
+      "notes": ""
+    },
+    {
+      "name": "Infused olive oil",
+      "amount": "2 tablespoons",
+      "notes": ""
+    },
+    {
+      "name": "Garlic",
+      "amount": "2 cloves",
+      "notes": ""
+    },
+    {
+      "name": "Mediterranean seasoning",
+      "amount": "1 teaspoon",
+      "notes": ""
+    },
+    {
+      "name": "Briny feta cheese (low carb)",
+      "amount": "1/4 cup",
+      "notes": ""
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 425°F (220°C).",
+    "Rinse the artichoke and pat dry.",
+    "Cut the top off the artichoke and remove the tough outer leaves.",
+    "In a bowl, mix together olive oil, garlic, and Mediterranean seasoning.",
+    "Brush the mixture onto the artichoke, making sure to get some under the leaves.",
+    "Place the artichoke on a baking sheet and bake for 25-30 minutes, or until tender.",
+    "Remove from oven and top with crumbled feta cheese.",
+    "Return to oven and bake for an additional 2-3 minutes, or until cheese is melted and bubbly.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 30,
+  "totalTimeMin": 40,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "low-carb",
+    "mediterranean",
+    "artichoke",
+    "garlic",
+    "feta"
+  ],
+  "nutrition": {
+    "calories": 220,
+    "protein": 6,
+    "carbs": 5,
+    "fat": 19
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/artichoke-infused-briny-mediterranean-garlic-bake--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T00:53:34.642Z"
+}
