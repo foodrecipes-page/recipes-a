@@ -1,0 +1,70 @@
+{
+  "slug": "adventurous-tadka-noodles--japanese",
+  "title": "Japanese Tadka Noodle Stir Fry",
+  "description": "A quick and easy Japanese-inspired dish made with tadka spices and adventurous flavor. Serve hot over a bed of noodles.",
+  "cuisine": "japanese",
+  "diet": null,
+  "meal": "dinner",
+  "ingredients": [
+    {
+      "name": "adventurous",
+      "amount": "2 cups",
+      "notes": "shredded or sliced"
+    },
+    {
+      "name": "tadka",
+      "amount": "2 teaspoons",
+      "notes": "store-bought or homemade"
+    },
+    {
+      "name": "noodles",
+      "amount": "8 oz",
+      "notes": "Japanese-style soba or udon noodles"
+    },
+    {
+      "name": "vegetable oil",
+      "amount": "1 tablespoon",
+      "notes": "for cooking"
+    },
+    {
+      "name": "green onions",
+      "amount": "1/4 cup",
+      "notes": "thinly sliced"
+    },
+    {
+      "name": "sesame seeds",
+      "amount": "1 tablespoon",
+      "notes": "optional"
+    }
+  ],
+  "instructions": [
+    "Heat vegetable oil in a large skillet or wok over medium-high heat.",
+    "Add tadka spices and cook for 1-2 minutes, until fragrant.",
+    "Add adventurous and cook for 3-4 minutes, until slightly browned.",
+    "Add noodles and stir to combine.",
+    "Cook for an additional 2-3 minutes, until noodles are heated through.",
+    "Stir in green onions and sesame seeds, if using.",
+    "Serve hot and enjoy!"
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 4,
+  "difficulty": "easy",
+  "tags": [
+    "japanese",
+    "stir-fry",
+    "noodles",
+    "adventurous"
+  ],
+  "nutrition": {
+    "calories": 400,
+    "protein": 15,
+    "carbs": 60,
+    "fat": 10
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/adventurous-tadka-noodles--japanese",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:00:40.676Z"
+}
