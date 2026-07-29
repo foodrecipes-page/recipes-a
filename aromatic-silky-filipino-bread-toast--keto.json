@@ -1,0 +1,52 @@
+{
+  "slug": "aromatic-silky-filipino-bread-toast--keto",
+  "title": "Filipino Keto Toasted Bread",
+  "description": "A keto twist on a classic Filipino dish, using toasted bread and aromatic ingredients.",
+  "cuisine": "Filipino",
+  "diet": [
+    "keto"
+  ],
+  "meal": "breakfast",
+  "ingredients": [
+    {
+      "name": "Bread",
+      "amount": "2 slices"
+    },
+    {
+      "name": "Filipino",
+      "amount": "2 tbsp of Filipino-style omelette mix",
+      "notes": "Low-carb version of traditional Filipino omelette mix"
+    },
+    {
+      "name": "Aromatic",
+      "amount": "1 tsp of grated ginger"
+    },
+    {
+      "name": "Silky",
+      "amount": "1/2 cup of coconut cream"
+    }
+  ],
+  "instructions": [
+    "Preheat oven to 350°F (175°C).",
+    "Toast the bread slices for 5 minutes.",
+    "In a bowl, whisk together the Filipino-style omelette mix, grated ginger, and coconut cream.",
+    "Cook the mixture in a pan over medium heat for 3-4 minutes.",
+    "Place the toasted bread on a baking sheet and top with the cooked mixture.",
+    "Bake for an additional 5-7 minutes or until the bread is crispy.",
+    "Remove from oven and serve hot."
+  ],
+  "prepTimeMin": 10,
+  "cookTimeMin": 15,
+  "totalTimeMin": 25,
+  "servings": 2,
+  "difficulty": "easy",
+  "tags": [
+    "keto",
+    "breakfast",
+    "filipino"
+  ],
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/aromatic-silky-filipino-bread-toast--keto",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T02:28:29.650Z"
+}
