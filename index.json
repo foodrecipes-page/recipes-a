@@ -5280,19 +5280,16 @@
   },
   {
     "slug": "aromatic-moroccan-chicken-khlea",
-    "title": "Aromatic Moroccan Chicken Khlea",
+    "title": "Chicken Tagine with Khlea and Aromatics",
     "tags": [
-      "casserole",
-      "chicken",
-      "dinner",
-      "meat",
       "moroccan",
-      "one-pan",
-      "pescetarian",
-      "spicy"
+      "chicken",
+      "tagine",
+      "slow-cooked",
+      "flavorful"
     ],
     "cuisine": "Moroccan",
-    "totalTimeMin": 60,
+    "totalTimeMin": 80,
     "shard": "a"
   },
   {
@@ -12429,6 +12426,45 @@
     ],
     "cuisine": null,
     "totalTimeMin": 15,
+    "shard": "a"
+  },
+  {
+    "slug": "adventurous-tadka-noodles--japanese",
+    "title": "Japanese Tadka Noodle Stir Fry",
+    "tags": [
+      "japanese",
+      "stir-fry",
+      "noodles",
+      "adventurous"
+    ],
+    "cuisine": "japanese",
+    "totalTimeMin": 25,
+    "shard": "a"
+  },
+  {
+    "slug": "amazing-herbal-moroccan-kiwifruit-chebakia--indian",
+    "title": "Moroccan Kiwifruit Chebakia",
+    "tags": [
+      "indian",
+      "mexican",
+      "kiwifruit",
+      "dessert"
+    ],
+    "cuisine": "indian",
+    "totalTimeMin": 30,
+    "shard": "a"
+  },
+  {
+    "slug": "aromatic-brazilian-chicken-skewers--gluten-free",
+    "title": "Brazilian Chicken Skewers",
+    "tags": [
+      "chicken",
+      "gluten-free",
+      "grilled",
+      "skewers"
+    ],
+    "cuisine": "Brazilian",
+    "totalTimeMin": 25,
     "shard": "a"
   }
 ]
