@@ -12364,5 +12364,33 @@
     "cuisine": "indian",
     "totalTimeMin": 30,
     "shard": "a"
+  },
+  {
+    "slug": "aromatic-peppery-french-sesame-bouillabaisse--french",
+    "title": "French Bouillabaisse",
+    "tags": [
+      "fish-stew",
+      "seafood",
+      "marseille",
+      "french-cuisine"
+    ],
+    "cuisine": "french",
+    "totalTimeMin": 35,
+    "shard": "a"
+  },
+  {
+    "slug": "artichoke-infused-briny-mediterranean-garlic-bake--keto",
+    "title": "Baked Mediterranean Artichoke",
+    "tags": [
+      "keto",
+      "low-carb",
+      "mediterranean",
+      "artichoke",
+      "garlic",
+      "feta"
+    ],
+    "cuisine": "Mediterranean",
+    "totalTimeMin": 40,
+    "shard": "a"
   }
 ]
