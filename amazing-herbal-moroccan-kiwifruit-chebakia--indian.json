@@ -1,0 +1,79 @@
+{
+  "slug": "amazing-herbal-moroccan-kiwifruit-chebakia--indian",
+  "title": "Moroccan Kiwifruit Chebakia",
+  "description": "A sweet and tangy twist on traditional Indian chebakia, incorporating the flavors of Morocco and the sweetness of kiwifruit.",
+  "cuisine": "indian",
+  "diet": [
+    "vegetarian"
+  ],
+  "meal": "dessert",
+  "ingredients": [
+    {
+      "name": "all-purpose flour",
+      "amount": "2 cups"
+    },
+    {
+      "name": "semolina flour",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "kiwifruit jam",
+      "amount": "1 cup"
+    },
+    {
+      "name": "kiwifruit",
+      "amount": "2",
+      "notes": "diced"
+    },
+    {
+      "name": "coconut sugar",
+      "amount": "1/2 cup"
+    },
+    {
+      "name": "ghee or vegetable oil",
+      "amount": "2 tablespoons"
+    },
+    {
+      "name": "cardamom powder",
+      "amount": "1/4 teaspoon"
+    },
+    {
+      "name": "rose water",
+      "amount": "1 tablespoon"
+    }
+  ],
+  "instructions": [
+    "In a large mixing bowl, combine all-purpose flour, semolina flour, coconut sugar, and cardamom powder.",
+    "Gradually add in the ghee or vegetable oil and mix until the dough comes together.",
+    "Knead the dough for 10 minutes until it becomes smooth and pliable.",
+    "Divide the dough into 8 equal pieces and shape each piece into a ball.",
+    "Roll out each ball into a thin sheet, about 3-4 inches in diameter.",
+    "Heat a non-stick skillet or griddle over medium heat.",
+    "Cook the chebakia for 30-40 seconds on each side, until they are golden brown.",
+    "Dust the chebakia with powdered sugar.",
+    "Drizzle the kiwifruit jam over the chebakia.",
+    "Garnish with diced kiwifruit and rose water.",
+    "Serve warm and enjoy!"
+  ],
+  "prepTimeMin": 20,
+  "cookTimeMin": 10,
+  "totalTimeMin": 30,
+  "servings": 8,
+  "difficulty": "medium",
+  "tags": [
+    "indian",
+    "mexican",
+    "kiwifruit",
+    "dessert"
+  ],
+  "nutrition": {
+    "calories": 200,
+    "protein": 2,
+    "carbs": 40,
+    "fat": 6
+  },
+  "source": "foodrecipes.page",
+  "canonicalUrl": "https://foodrecipes.page/recipe/amazing-herbal-moroccan-kiwifruit-chebakia--indian",
+  "providerUsed": "groq",
+  "createdAt": "2026-07-23T04:09:58.086Z"
+}
